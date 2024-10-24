@@ -1,0 +1,273 @@
+{
+    "serviceName": "Arquivo.pt - the Portuguese web-archive",
+    "linkToService": "https://arquivo.pt",
+    "next_page": "https://arquivo.pt/textsearch?q=Jo%C3%A3o+M%C3%A1rio&from=20170101000000&to=20171231235959&fields=title%2Csnippet%2CoriginalURL%2Ctimestamp&offset=50",
+    "estimated_nr_results": 7127763,
+    "request_parameters": {
+        "offset": 0,
+        "dedupValue": 2,
+        "from": "20170101000000",
+        "to": "20171231235959",
+        "fields": [
+            "title",
+            "snippet",
+            "originalURL",
+            "timestamp"
+        ],
+        "dedupField": "site",
+        "q": "Jo\u00e3o M\u00e1rio",
+        "maxItems": 50
+    },
+    "response_items": [
+        {
+            "title": "AMADEO \u2013 M\u00c1RIO C\u00c1UDIO",
+            "originalURL": "http://marioclaudioamadeu.blogs.sapo.pt/",
+            "snippet": "AMADEO &#8211; <em>M&Aacute;RIO</em> C&Aacute;UDIO Amadeo, de <em>M&aacute;rio</em> Cl&aacute;udio. Leya BIS &#8211; livros de bolso &nbsp; &nbsp; 15 Jan 09 AMADEO Amadeo <em>M&aacute;rio</em> Cl&aacute;udio Amadeo relata o percurso do pintor Amadeo de Souza-Cardoso, entre as terras de<span class=\"ellipsis\"> ... </span> Pr&eacute;mio de Romance e Novela da Associa&ccedil;&atilde;o Portuguesa de Escritores. P.V.P. 5.95&#8364; &nbsp; LINKS A Agenda de <em>M&aacute;rio</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "AMADEO \u2013 M\u00c1RIO C\u00c1UDIO",
+            "originalURL": "http://marioclaudioamadeu.blogs.sapo.pt/",
+            "snippet": "AMADEO &#8211; <em>M&Aacute;RIO</em> C&Aacute;UDIO Amadeo, de <em>M&aacute;rio</em> Cl&aacute;udio. Leya BIS &#8211; livros de bolso &nbsp; &nbsp; 15 Jan 09 AMADEO Amadeo <em>M&aacute;rio</em> Cl&aacute;udio Amadeo relata o percurso do pintor Amadeo de Souza-Cardoso, entre as terras de<span class=\"ellipsis\"> ... </span> Pr&eacute;mio de Romance e Novela da Associa&ccedil;&atilde;o Portuguesa de Escritores. P.V.P. 5.95&#8364; &nbsp; LINKS A Agenda de <em>M&aacute;rio</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "A CONFISS\u00c3O DE L\u00daCIO \u2013 M\u00c1RIO DE S\u00c1-CARNEIRO",
+            "originalURL": "http://aconfissaodelucio.blogs.sapo.pt/",
+            "snippet": "A CONFISS&Atilde;O DE L&Uacute;CIO &#8211; <em>M&Aacute;RIO</em> DE S&Aacute;-CARNEIRO A Confiss&atilde;o de L&uacute;cio, de <em>M&aacute;rio</em> de S&aacute;-Carneiro. Leya BIS &#8211; livros de bolso &nbsp; &nbsp; 15 Jan 09 A CONFISS&Atilde;O DE L&Uacute;CIO A Confiss&atilde;o de L&uacute;cio <em>M&aacute;rio</em> de S&aacute;-Carneiro De<span class=\"ellipsis\"> ... </span> | | favorito <em>M&Aacute;RIO</em> DE S&Aacute;-CARNEIRO <em>M&aacute;rio</em> de S&aacute;-Carneiro (1890-1916) nasceu em Lisboa a 19 de Maio de<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "A INAUDITA GUERRA DA AVENIDA GAGO COUTINHO \u2013 M\u00c1RIO DE CARVALHO",
+            "originalURL": "http://avgagocoutinho.blogs.sapo.pt/",
+            "snippet": "A INAUDITA GUERRA DA AVENIDA GAGO COUTINHO &#8211; <em>M&Aacute;RIO</em> DE CARVALHO A Inaudita Guerra da Avenida Gago Coutinho, <em>M&aacute;rio</em> de Carvalho. Leya BIS &#8211; livros de bolso &nbsp; &nbsp; 08 Mai 09 A INAUDITA GUERRA DA AVENIDA GAGO COUTINHO A inaudita guerra da Avenida Gago Coutinho <em>M&aacute;rio</em> de Carvalho Os automobilistas que nessa<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "A CONFISS\u00c3O DE L\u00daCIO \u2013 M\u00c1RIO DE S\u00c1-CARNEIRO",
+            "originalURL": "http://aconfissaodelucio.blogs.sapo.pt/",
+            "snippet": "A CONFISS&Atilde;O DE L&Uacute;CIO &#8211; <em>M&Aacute;RIO</em> DE S&Aacute;-CARNEIRO A Confiss&atilde;o de L&uacute;cio, de <em>M&aacute;rio</em> de S&aacute;-Carneiro. Leya BIS &#8211; livros de bolso &nbsp; &nbsp; 15 Jan 09 A CONFISS&Atilde;O DE L&Uacute;CIO A Confiss&atilde;o de L&uacute;cio <em>M&aacute;rio</em> de S&aacute;-Carneiro De<span class=\"ellipsis\"> ... </span> | | favorito <em>M&Aacute;RIO</em> DE S&Aacute;-CARNEIRO <em>M&aacute;rio</em> de S&aacute;-Carneiro (1890-1916) nasceu em Lisboa a 19 de Maio de<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "A VOZ DOS DEUSES \u2013 JO\u00c3O AGUIAR",
+            "originalURL": "http://a-voz-dos-deuses.blogs.sapo.pt/",
+            "snippet": "A VOZ DOS DEUSES &#8211; <em>JO&Atilde;O</em> AGUIAR A Voz dos Deuses, de <em>Jo&atilde;o</em> Aguiar. Leya BIS &#8211; livros de bolso &nbsp; &nbsp; 19 Ago 11 A VOZ DOS DEUSES A Voz dos Deuses <em>Jo&atilde;o</em> Aguiar &nbsp; Uma leitura apaixonante que nos d&aacute; a conhecer<span class=\"ellipsis\"> ... </span>:14 link do post | comentar | | favorito <em>JO&Atilde;O</em> AGUIAR <em>Jo&atilde;o</em> Aguiar (1943-2010). Licenciado em Jornalismo<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "A INAUDITA GUERRA DA AVENIDA GAGO COUTINHO \u2013 M\u00c1RIO DE CARVALHO",
+            "originalURL": "http://avgagocoutinho.blogs.sapo.pt/",
+            "snippet": "A INAUDITA GUERRA DA AVENIDA GAGO COUTINHO &#8211; <em>M&Aacute;RIO</em> DE CARVALHO A Inaudita Guerra da Avenida Gago Coutinho, <em>M&aacute;rio</em> de Carvalho. Leya BIS &#8211; livros de bolso &nbsp; &nbsp; 08 Mai 09 A INAUDITA GUERRA DA AVENIDA GAGO COUTINHO A inaudita guerra da Avenida Gago Coutinho <em>M&aacute;rio</em> de Carvalho Os automobilistas que nessa<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "DH CII - Universidade do Minho - M\u00e1rio Jo\u00e3o Ferreira Monte",
+            "originalURL": "http://www.dh-cii.eu/pt/investigadores/45-mario-joao-ferreira-monte",
+            "snippet": "DH CII - Universidade do Minho - <em>M&aacute;rio</em> <em>Jo&atilde;o</em> Ferreira Monte English Universidade do Minho Direitos<span class=\"ellipsis\"> ... </span> Search Investigadores Integrados Investigadores Colaboradores <em>M&aacute;rio</em> <em>Jo&atilde;o</em> Ferreira Monte Prof. Associado, com agrega&ccedil;&atilde;o monte@direito.uminho.pt 253601850 &nbsp; &nbsp; &nbsp; Sobre &nbsp; <em>M&aacute;rio</em> Monte &eacute; atualmente Diretor do<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "DH CII - Universidade do Minho - M\u00e1rio Jo\u00e3o Ferreira Monte",
+            "originalURL": "http://www.dh-cii.eu/pt/investigadores/investigadores-integrados/45-mario-joao-ferreira-monte",
+            "snippet": "DH CII - Universidade do Minho - <em>M&aacute;rio</em> <em>Jo&atilde;o</em> Ferreira Monte English Universidade do Minho Direitos<span class=\"ellipsis\"> ... </span> Search Investigadores Integrados Investigadores Colaboradores <em>M&aacute;rio</em> <em>Jo&atilde;o</em> Ferreira Monte Prof. Associado, com agrega&ccedil;&atilde;o monte@direito.uminho.pt 253601850 &nbsp; &nbsp; &nbsp; Sobre &nbsp; <em>M&aacute;rio</em> Monte &eacute; atualmente Diretor do<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "AS AVENTURAS DE JO\u00c3O SEM MEDO \u2013 JOS\u00c9 GOMES FERREIRA",
+            "originalURL": "http://aventurasdejoaosemmedo.blogs.sapo.pt/",
+            "snippet": "AS AVENTURAS DE <em>JO&Atilde;O</em> SEM MEDO &#8211; JOS&Eacute; GOMES FERREIRA As Aventuras de <em>Jo&atilde;o</em> Sem Medo, de Jos&eacute; Gomes Ferreira. Leya BIS &#8211; livros de bolso &nbsp; &nbsp; 15 Jan 09 AS AVENTURAS DE <em>JO&Atilde;O</em> SEM MEDO As Aventuras de <em>Jo&atilde;o</em><span class=\"ellipsis\"> ... </span> Sociedade Portuguesa de Escritores. Na &aacute;rea da fic&ccedil;&atilde;o escreveu O Mundo Desabitado (1960), Aventuras de <em>Jo&atilde;o</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "AS VISITAS DO DR VALDEZ \u2013 JO\u00c3O PAULO BORGES COELHO",
+            "originalURL": "http://as-visitas-do-dr-valdez.blogs.sapo.pt/",
+            "snippet": "AS VISITAS DO DR VALDEZ &#8211; <em>JO&Atilde;O</em> PAULO BORGES COELHO As Visitas do Dr Valdez, de <em>Jo&atilde;o</em> Paulo Borges Coelho. Leya BIS &#8211; livros de bolso &nbsp; &nbsp; 12 Mar 10 AS VISITAS DO DR VALDEZ As Visitas do Dr Valdez <em>Jo&atilde;o</em><span class=\"ellipsis\"> ... </span> | | favorito <em>JO&Atilde;O</em> PAULO BORGES COELHO &nbsp; <em>Jo&atilde;o</em> Paulo Borges Coelho nasceu no Porto, em 1955, mas<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "GENTE FELIZ COM L\u00c1GRIMAS \u2013 JO\u00c3O DE MELO",
+            "originalURL": "http://gente-feliz-com-lagrimas.blogs.sapo.pt/",
+            "snippet": "GENTE FELIZ COM L&Aacute;GRIMAS &#8211; <em>JO&Atilde;O</em> DE MELO Gente Feliz com L&aacute;grimas, de <em>Jo&atilde;o</em> de Melo. Leya BIS &#8211; livros de bolso &nbsp; &nbsp; 09 Set 10 GENTE FELIZ COM L&Aacute;GRIMAS Gente Feliz com L&aacute;grimas <em>Jo&atilde;o</em> de Melo &nbsp; Romance de<span class=\"ellipsis\"> ... </span>,50&#8364; publicado por LeYa &agrave;s 15:00 link do post | comentar | | favorito <em>JO&Atilde;O</em> DE MELO <em>Jo&atilde;o</em> de Melo<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "It\u00e1lia: Jo\u00e3o M\u00e1rio assiste em vit\u00f3ria sofrida do Inter de Mil\u00e3o | Futebol 365",
+            "originalURL": "http://www.futebol365.pt/artigo/178275-italia-joao-mario-assiste-em-vitoria-sofrida-do-inter-de-milao/?utm_source=aeiou&utm_medium=feed&utm_campaign=destaque_aeiou",
+            "snippet": "It&aacute;lia: <em>Jo&atilde;o</em> <em>M&aacute;rio</em> assiste em vit&oacute;ria sofrida do Inter de Mil&atilde;o | Futebol 365 Caro visitante<span class=\"ellipsis\"> ... </span> Campe&otilde;es Liga Europa JohnnyBet Home &raquo; Not&iacute;cias &raquo; Internacional It&aacute;lia: <em>Jo&atilde;o</em> <em>M&aacute;rio</em> assiste em vit&oacute;ria<span class=\"ellipsis\"> ... </span> Inter Genoa <em>Jo&atilde;o</em> <em>M&aacute;rio</em> 6&ordf; jornada O m&eacute;dio internacional portugu&ecirc;s <em>Jo&atilde;o</em> <em>M&aacute;rio</em> entrou nos &uacute;ltimos<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o M\u00e1rio conta o que disse a Renato Sanches sobre o Milan | Maisfutebol.iol.pt",
+            "originalURL": "http://www.maisfutebol.iol.pt/amp/made-in/selecao/joao-mario-conta-o-que-disse-a-renato-sanches-sobre-o-milan",
+            "snippet": "<em>Jo&atilde;o</em> <em>M&aacute;rio</em> conta o que disse a Renato Sanches sobre o Milan | Maisfutebol.iol.pt <em>Jo&atilde;o</em> <em>M&aacute;rio</em> conta o<span class=\"ellipsis\"> ... </span> Confedera&ccedil;&otilde;es e o peso da camisola 10 <em>Jo&atilde;o</em> <em>M&aacute;rio</em> diz que falou com Renato Sanches e disse ao<span class=\"ellipsis\"> ... </span> <em>Jo&atilde;o</em> <em>M&aacute;rio</em>, que fala sobre a conversa que teve com Renato Sanches: &laquo;Fal&aacute;mos depois do jogo de quinta<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "It\u00e1lia: Jo\u00e3o M\u00e1rio n\u00e3o saiu do banco na derrota do Inter frente ao G\u00e9nova | Futebol 365",
+            "originalURL": "http://www.futebol365.pt/artigo/169806-italia-joao-mario-nao-saiu-do-banco-na-derrota-do-inter-frente-ao-genova/?utm_source=aeiou&utm_medium=feed&utm_campaign=destaque_aeiou",
+            "snippet": "It&aacute;lia: <em>Jo&atilde;o</em> <em>M&aacute;rio</em> n&atilde;o saiu do banco na derrota do Inter frente ao G&eacute;nova | Futebol 365 Caro<span class=\"ellipsis\"> ... </span> Liga Campe&otilde;es Liga Europa JohnnyBet Home &raquo; Not&iacute;cias &raquo; Internacional It&aacute;lia: <em>Jo&atilde;o</em> <em>M&aacute;rio</em> n&atilde;o saiu do<span class=\"ellipsis\"> ... </span> Ficha do jogo Inter Genoa Miguel Veloso Goran Pandev <em>Jo&atilde;o</em> <em>M&aacute;rio</em> Stefano Pioli Paulo Sousa 35<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Inter: Spalletti foi apresentado e j\u00e1 falou de Jo\u00e3o M\u00e1rio | Maisfutebol.iol.pt - T\u00e9cnico n\u00e3o quer cu",
+            "originalURL": "http://www.maisfutebol.iol.pt/made-in/internacional/inter-spalletti-foi-apresentado-e-ja-falou-de-joao-mario",
+            "snippet": "Inter: Spalletti foi apresentado e j&aacute; falou de <em>Jo&atilde;o</em> <em>M&aacute;rio</em> | Maisfutebol.iol.pt - T&eacute;cnico n&atilde;o quer<span class=\"ellipsis\"> ... </span> e 52min Inter: Spalletti foi apresentado e j&aacute; falou de <em>Jo&atilde;o</em> <em>M&aacute;rio</em> T&eacute;cnico n&atilde;o quer cumprimentos de<span class=\"ellipsis\"> ... </span> questionado sobre o papel que <em>Jo&atilde;o</em> <em>M&aacute;rio</em> pode ter na equipa. &laquo;&Eacute; um jogador ofensivo, que tem a voca&ccedil;&atilde;o de<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "A VOZ DOS DEUSES \u2013 JO\u00c3O AGUIAR",
+            "originalURL": "http://a-voz-dos-deuses.blogs.sapo.pt/",
+            "snippet": "A VOZ DOS DEUSES &#8211; <em>JO&Atilde;O</em> AGUIAR A Voz dos Deuses, de <em>Jo&atilde;o</em> Aguiar. Leya BIS &#8211; livros de bolso &nbsp; &nbsp; 19 Ago 11 A VOZ DOS DEUSES A Voz dos Deuses <em>Jo&atilde;o</em> Aguiar &nbsp; Uma leitura apaixonante que nos d&aacute; a conhecer<span class=\"ellipsis\"> ... </span>:14 link do post | comentar | | favorito <em>JO&Atilde;O</em> AGUIAR <em>Jo&atilde;o</em> Aguiar (1943-2010). Licenciado em Jornalismo<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "AS AVENTURAS DE JO\u00c3O SEM MEDO \u2013 JOS\u00c9 GOMES FERREIRA",
+            "originalURL": "http://aventurasdejoaosemmedo.blogs.sapo.pt/",
+            "snippet": "AS AVENTURAS DE <em>JO&Atilde;O</em> SEM MEDO &#8211; JOS&Eacute; GOMES FERREIRA As Aventuras de <em>Jo&atilde;o</em> Sem Medo, de Jos&eacute; Gomes Ferreira. Leya BIS &#8211; livros de bolso &nbsp; &nbsp; 15 Jan 09 AS AVENTURAS DE <em>JO&Atilde;O</em> SEM MEDO As Aventuras de <em>Jo&atilde;o</em><span class=\"ellipsis\"> ... </span> Sociedade Portuguesa de Escritores. Na &aacute;rea da fic&ccedil;&atilde;o escreveu O Mundo Desabitado (1960), Aventuras de <em>Jo&atilde;o</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "AS VISITAS DO DR VALDEZ \u2013 JO\u00c3O PAULO BORGES COELHO",
+            "originalURL": "http://as-visitas-do-dr-valdez.blogs.sapo.pt/",
+            "snippet": "AS VISITAS DO DR VALDEZ &#8211; <em>JO&Atilde;O</em> PAULO BORGES COELHO As Visitas do Dr Valdez, de <em>Jo&atilde;o</em> Paulo Borges Coelho. Leya BIS &#8211; livros de bolso &nbsp; &nbsp; 12 Mar 10 AS VISITAS DO DR VALDEZ As Visitas do Dr Valdez <em>Jo&atilde;o</em><span class=\"ellipsis\"> ... </span> | | favorito <em>JO&Atilde;O</em> PAULO BORGES COELHO &nbsp; <em>Jo&atilde;o</em> Paulo Borges Coelho nasceu no Porto, em 1955, mas<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Funda\u00e7\u00e3o M\u00e1rio Soares | Index",
+            "originalURL": "http://www.fmsoares.pt/",
+            "snippet": "Funda&ccedil;&atilde;o <em>M&aacute;rio</em> Soares | Index <em>M&aacute;rio</em> Soares A Funda&ccedil;&atilde;o Arquivo &amp; Biblioteca Casa-Museu Cultura da<span class=\"ellipsis\"> ... </span> Grande-Colar da Ordem de Timor-Leste <em>M&aacute;rio</em> Soares condecorado pelo Presidente da Rep&uacute;blica Democr&aacute;tica<span class=\"ellipsis\"> ... </span> de 2016, que foi entregue a seu filho, <em>Jo&atilde;o</em> Soares. Agradecimento Na impossibilidade de agradecer<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "IN\u00caS DE PORTUGAL \u2013 JO\u00c3O AGUIAR",
+            "originalURL": "http://inesdeportugal.blogs.sapo.pt/",
+            "snippet": "IN&Ecirc;S DE PORTUGAL &#8211; <em>JO&Atilde;O</em> AGUIAR In&ecirc;s de Portugal, de <em>Jo&atilde;o</em> Aguiar. Leya BIS &#8211; livros de bolso &nbsp; &nbsp; 16 Set 08 IN&Ecirc;S DE PORTUGAL I n&ecirc;s de Portugal <em>Jo&atilde;o</em> Aguiar Castelo de Santar&eacute;m, num dia do ano de Cristo<span class=\"ellipsis\"> ... </span> <em>Jo&atilde;o</em> Afonso Tello esperam com sombria ansiedade a chegada de dois prisioneiros, &Aacute;lvaro Gon&ccedil;alves e<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Funda\u00e7\u00e3o M\u00e1rio Soares | Index",
+            "originalURL": "http://www.fundacao-mario-soares.pt/",
+            "snippet": ".&quot; Soares-Ditadura e Revolu&ccedil;&atilde;o, Maria <em>Jo&atilde;o</em> Avillez, 1996, p&aacute;g. 27 Textos de <em>M&aacute;rio</em> Soares 659 Dois<span class=\"ellipsis\"> ... </span>Funda&ccedil;&atilde;o <em>M&aacute;rio</em> Soares | Index <em>M&aacute;rio</em> Soares A Funda&ccedil;&atilde;o Arquivo &amp; Biblioteca Casa-Museu Cultura da Paz Iniciativas 1924 - 2017 1924 - 2017 at&eacute; 20 de dezembro de 2017 Pr&eacute;mio FUNDA&Ccedil;&Atilde;O <em>M&Aacute;RIO</em> SOARES<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "GENTE FELIZ COM L\u00c1GRIMAS \u2013 JO\u00c3O DE MELO",
+            "originalURL": "http://gente-feliz-com-lagrimas.blogs.sapo.pt/",
+            "snippet": "GENTE FELIZ COM L&Aacute;GRIMAS &#8211; <em>JO&Atilde;O</em> DE MELO Gente Feliz com L&aacute;grimas, de <em>Jo&atilde;o</em> de Melo. Leya BIS &#8211; livros de bolso &nbsp; &nbsp; 09 Set 10 GENTE FELIZ COM L&Aacute;GRIMAS Gente Feliz com L&aacute;grimas <em>Jo&atilde;o</em> de Melo &nbsp; Romance de<span class=\"ellipsis\"> ... </span>,50&#8364; publicado por LeYa &agrave;s 15:00 link do post | comentar | | favorito <em>JO&Atilde;O</em> DE MELO <em>Jo&atilde;o</em> de Melo<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Funda\u00e7\u00e3o M\u00e1rio Soares | Index",
+            "originalURL": "http://www.fmsoares.pt/",
+            "snippet": ".&quot; Soares-Ditadura e Revolu&ccedil;&atilde;o, Maria <em>Jo&atilde;o</em> Avillez, 1996, p&aacute;g. 27 Textos de <em>M&aacute;rio</em> Soares 659 Dois<span class=\"ellipsis\"> ... </span> <em>M&aacute;rio</em> Soares Aqu&aacute;rio de Papel: aguarelas de Hein Semke Cultura e Tradi&ccedil;&atilde;o em Timor-Leste <em>Jo&atilde;o</em> Lopes<span class=\"ellipsis\"> ... </span>Funda&ccedil;&atilde;o <em>M&aacute;rio</em> Soares | Index <em>M&aacute;rio</em> Soares A Funda&ccedil;&atilde;o Arquivo &amp; Biblioteca Casa-Museu Cultura da<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Funda\u00e7\u00e3o M\u00e1rio Soares | Index",
+            "originalURL": "http://www.fundacao-mario-soares.pt/",
+            "snippet": "Funda&ccedil;&atilde;o <em>M&aacute;rio</em> Soares | Index <em>M&aacute;rio</em> Soares A Funda&ccedil;&atilde;o Arquivo &amp; Biblioteca Casa-Museu Cultura da<span class=\"ellipsis\"> ... </span> Grande-Colar da Ordem de Timor-Leste <em>M&aacute;rio</em> Soares condecorado pelo Presidente da Rep&uacute;blica Democr&aacute;tica<span class=\"ellipsis\"> ... </span> de 2016, que foi entregue a seu filho, <em>Jo&atilde;o</em> Soares. Agradecimento Na impossibilidade de agradecer<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "jo\u00e3o tordo",
+            "originalURL": "http://joaotordo.blogs.sapo.pt/",
+            "snippet": "<em>jo&atilde;o</em> tordo Saltar para: Posts [1] , Pesquisa e Arquivos [2] <em>jo&atilde;o</em> tordo In&iacute;cio Biografia Bibliografia Imprensa Livraria Agenda <em>Jo&atilde;o</em> Tordo em Mo&ccedil;ambique por <em>Jo&atilde;o</em> Tordo, em 03.10.17 &nbsp; &nbsp; Programa da<span class=\"ellipsis\"> ... </span>, Paulo Lins e Andrea Del Fuego Modera&ccedil;&atilde;o: David Bamo &nbsp;18h00 &#8211; Conversa a partir das obras de <em>Jo&atilde;o</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "M\u00e1rio Soares \u2013 Wikip\u00e9dia, a enciclop\u00e9dia livre",
+            "originalURL": "https://pt.wikipedia.org/wiki/M%C3%A1rio_Soares",
+            "snippet": " fevereiro de 1949 com Maria Barroso [ 44 ] , <em>M&aacute;rio</em> Soares foi pai de <em>Jo&atilde;o</em> Barroso Soares e de Isabel<span class=\"ellipsis\"> ... </span>) &#8226; Jos&eacute; Medeiros Ferreira &#8226; <em>M&aacute;rio</em> Soares (2.&ordf; vez) &#8226; V&iacute;tor de S&aacute; Machado &#8226; Carlos Corr&ecirc;a Gago &#8226; <em>Jo&atilde;o</em><span class=\"ellipsis\"> ... </span> &#9658; Reynaldo dos Santos &#9658; <em>Jo&atilde;o</em> Gaspar Sim&otilde;es &#9658; <em>M&aacute;rio</em> Soares &#9658; Edgar Morin 3 ( Manuel Botelho de<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "M\u00e1rio Soares \u2013 Wikip\u00e9dia, a enciclop\u00e9dia livre",
+            "originalURL": "https://pt.wikipedia.org/wiki/M%C3%A1rio_Soares",
+            "snippet": " &#9658; Egas Moniz &#9658; Reinaldo dos Santos &#9658; <em>Jo&atilde;o</em> Gaspar Sim&otilde;es &#9658; <em>M&aacute;rio</em> Soares 3 ( Manuel Botelho de Oliveira<span class=\"ellipsis\"> ... </span><em>M&aacute;rio</em> Soares &#8211; Wikip&eacute;dia, a enciclop&eacute;dia livre <em>M&aacute;rio</em> Soares Origem: Wikip&eacute;dia, a enciclop&eacute;dia livre. Ir para: navega&ccedil;&atilde;o , pesquisa <em>M&aacute;rio</em> Soares GColTE &#8226; GColL &#8226; GCC 17 .&ordm; Presidente de Portugal<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "IN\u00caS DE PORTUGAL \u2013 JO\u00c3O AGUIAR",
+            "originalURL": "http://inesdeportugal.blogs.sapo.pt/",
+            "snippet": "IN&Ecirc;S DE PORTUGAL &#8211; <em>JO&Atilde;O</em> AGUIAR In&ecirc;s de Portugal, de <em>Jo&atilde;o</em> Aguiar. Leya BIS &#8211; livros de bolso &nbsp; &nbsp; 16 Set 08 IN&Ecirc;S DE PORTUGAL I n&ecirc;s de Portugal <em>Jo&atilde;o</em> Aguiar Castelo de Santar&eacute;m, num dia do ano de Cristo<span class=\"ellipsis\"> ... </span> <em>Jo&atilde;o</em> Afonso Tello esperam com sombria ansiedade a chegada de dois prisioneiros, &Aacute;lvaro Gon&ccedil;alves e<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "\u00cdndice geral de autores",
+            "originalURL": "http://natura.di.uminho.pt/%7Ejj/musica/indice_autores.html",
+            "snippet": " Almeida Joaquim de Almeida <em>M&aacute;rio</em> Alves Jorge Amado <em>Jo&atilde;o</em> Ant&oacute;nio Amaral A. Amargo Eug&eacute;nio de Andrade<span class=\"ellipsis\"> ... </span> Constante Pereira <em>Jo&atilde;o</em> Magalh&atilde;es Pereira <em>M&aacute;rio</em> Moniz Pereira Paulo Pereira Pedro Pereira Fernando<span class=\"ellipsis\"> ... </span>) ; - Pedro Abrunhosa (voz) ; - Edgar Caramelo (metais) ; - <em>M&aacute;rio</em> Barreiros (guitarra) ; - <em>Jo&atilde;o</em> Andr&eacute;<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Bem-vindo ao Teatro Nacional S\u00e3o Jo\u00e3o",
+            "originalURL": "http://www.tnsj.pt/home/index.php",
+            "snippet": "Bem-vindo ao Teatro Nacional S&atilde;o <em>Jo&atilde;o</em> N&uacute;mero verde: 800 108 675 Programa&ccedil;&atilde;o Institui&ccedil;&atilde;o Miss&atilde;o<span class=\"ellipsis\"> ... </span>); <em>Jo&atilde;o</em> Monteiro, Maria Quintelas, Pedro Frias (atores) produ&ccedil;&atilde;o TNSJ estreia 5Jan2017 Teatro Carlos<span class=\"ellipsis\"> ... </span> desenho de luz e v&iacute;deo Hugo Valter Moutinho produ&ccedil;&atilde;o executiva <em>M&aacute;rio</em> Moutinho, Adelaide Os&oacute;rio cantores<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "jo\u00e3o tordo",
+            "originalURL": "http://joaotordo.blogs.sapo.pt/",
+            "snippet": "<em>jo&atilde;o</em> tordo Saltar para: Posts [1] , Pesquisa e Arquivos [2] <em>jo&atilde;o</em> tordo In&iacute;cio Biografia Bibliografia Imprensa Livraria Agenda Sexta, dia 7 Julho, Livraria Arquivo (Leiria) por <em>Jo&atilde;o</em> Tordo, em 04.07.17<span class=\"ellipsis\"> ... </span> post favorito Capa alem&atilde; de &quot;Biografia Involunt&aacute;ria dos Amantes&quot; por <em>Jo&atilde;o</em> Tordo, em 23.06.17 nas<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Urban Sketchers Portugal: M\u00e1rio Linhares",
+            "originalURL": "http://urbansketchers-portugal.blogspot.pt/search/label/M%C3%A1rio%20Linhares",
+            "snippet": "Urban Sketchers Portugal: <em>M&aacute;rio</em> Linhares Menu superior In&iacute;cio Sobre os USkP Quem somos Manifesto<span class=\"ellipsis\"> ... </span>. Mostrar mensagens com a etiqueta <em>M&aacute;rio</em> Linhares . Mostrar todas as mensagens Mostrar mensagens com a etiqueta <em>M&aacute;rio</em> Linhares . Mostrar todas as mensagens domingo, 10 de dezembro de 2017 Comunidade Ema&uacute;s Na<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Urban Sketchers Portugal: M\u00e1rio Linhares",
+            "originalURL": "http://urbansketchers-portugal.blogspot.pt/search/label/M%C3%A1rio%20Linhares",
+            "snippet": "Urban Sketchers Portugal: <em>M&aacute;rio</em> Linhares Menu superior In&iacute;cio Sobre os USkP Quem somos Manifesto<span class=\"ellipsis\"> ... </span>. Mostrar mensagens com a etiqueta <em>M&aacute;rio</em> Linhares . Mostrar todas as mensagens Mostrar mensagens com a etiqueta <em>M&aacute;rio</em> Linhares . Mostrar todas as mensagens s&aacute;bado, 17 de junho de 2017 Corto Maltese em S&atilde;o<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "\u00cdndice geral de autores",
+            "originalURL": "http://natura.di.uminho.pt/~jj/musica/indice_autores.html",
+            "snippet": " Almeida Joaquim de Almeida <em>M&aacute;rio</em> Alves Jorge Amado <em>Jo&atilde;o</em> Ant&oacute;nio Amaral A. Amargo Eug&eacute;nio de Andrade<span class=\"ellipsis\"> ... </span> Constante Pereira <em>Jo&atilde;o</em> Magalh&atilde;es Pereira <em>M&aacute;rio</em> Moniz Pereira Paulo Pereira Pedro Pereira Fernando<span class=\"ellipsis\"> ... </span>) ; - Pedro Abrunhosa (voz) ; - Edgar Caramelo (metais) ; - <em>M&aacute;rio</em> Barreiros (guitarra) ; - <em>Jo&atilde;o</em> Andr&eacute;<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jos\u00e9 M\u00e1rio Branco",
+            "originalURL": "http://jmariobranco.blogspot.pt/",
+            "snippet": "Jos&eacute; <em>M&aacute;rio</em> Branco Jos&eacute; <em>M&aacute;rio</em> Branco quinta-feira, 27 de agosto de 2015 Apreens&atilde;o do disco &#8220;MARGEM<span class=\"ellipsis\"> ... </span> de Jos&eacute; <em>M&aacute;rio</em> Branco; e tr&ecirc;s exemplares do disco intitulado &#8220;LENINE ET LES CHANSONS&#8221;, os quais<span class=\"ellipsis\"> ... </span>/02/auto-de-busca-e-apreensao.html Publicada por <em>M&aacute;rio</em> Lima &agrave;(s) 20:35 Sem coment&aacute;rios: Enviar a<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "A Biblioteca da Jo\u00e3o",
+            "originalURL": "http://abibliotecadajoao.blogspot.pt/",
+            "snippet": " Gouveia (1) Maria <em>Jo&atilde;o</em> Lopo de Carvalho (1) <em>M&aacute;rio</em> Zambujal (1) Marjane Satrapi (1) Mark Twain (1) Marta<span class=\"ellipsis\"> ... </span>A Biblioteca da <em>Jo&atilde;o</em> P&aacute;ginas P&aacute;gina inicial Li em 2017 Li em 2016 Li em 2015 Li em 2014 Li em 2013<span class=\"ellipsis\"> ... </span> Maria <em>Jo&atilde;o</em> &agrave;(s) s&aacute;bado, dezembro 02, 2017 Sem coment&aacute;rios: Enviar a mensagem por e-mail D&ecirc; a sua<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Maria Jo\u00e3o & M\u00e1rio Laginha - Beatriz - YouTube",
+            "originalURL": "https://www.youtube.com/embed/KAggWL7WuGo",
+            "snippet": "Maria <em>Jo&atilde;o</em> &amp; <em>M&aacute;rio</em> Laginha - Beatriz - YouTube Ocorreu um erro. Experimente ver este v&iacute;deo em www.youtube.com ou ative o JavaScript se estiver desativado no seu navegador.<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Joao Campos - XLDB",
+            "originalURL": "http://xldb.di.fc.ul.pt/wiki/Joao_Campos",
+            "snippet": " <em>M&aacute;rio</em> J. Silva , <em>Jo&atilde;o</em> P. Campos , Nuno Maria , Pedro Gaspar , GestInf - Um Reposit&oacute;rio de Meta<span class=\"ellipsis\"> ... </span>, 2002. Document | Presentation | BibTeX source Daniel Gomes , <em>Jo&atilde;o</em> P. Campos , <em>M&aacute;rio</em> J. Silva , Versus<span class=\"ellipsis\"> ... </span> | Presentation | BibTeX source <em>Jo&atilde;o</em> P. Campos , <em>M&aacute;rio</em> J. Silva , Versus: A Model for a Web Repository.CRC'01<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Pra\u00e7a da Rep\u00fablica",
+            "originalURL": "http://www.pracadarepublicaembeja.net/",
+            "snippet": " rapidamente o bar, sob pena de <em>Jo&atilde;o</em> Ara&uacute;jo , Fernanda Caimoto e mesmo <em>M&aacute;rio</em> Sim&otilde;es, lhe esgotarem os<span class=\"ellipsis\"> ... </span> 2017 &#8211; Bar Aberto! Publicado por <em>Jo&atilde;o</em> Espinho As pe&ccedil;as para o pr&oacute;ximo acto eleitoral come&ccedil;am a disp&ocirc;r<span class=\"ellipsis\"> ... </span> seus tempos, para ganhar tempo, coisa que costuma fazer com mestria. Desta vez tem um problema: <em>Jo&atilde;o</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Portal DeG\u00f3is - Plataforma Nacional de Ci\u00eancia e Tecnologia",
+            "originalURL": "http://www.degois.pt/visualizador/curriculum.jsp?key=1578562003666407",
+            "snippet": " indicators Curriculum Vitae <em>Jo&atilde;o</em> Carlos Martins Azevedo Data da &uacute;ltima atualiza&ccedil;&atilde;o &raquo;Last update : 21/07/2016 <em>Jo&atilde;o</em> Carlos Martins Azevedo. Concluiu Forestry - Texas A&amp;M University System em 2003. &Eacute;<span class=\"ellipsis\"> ... </span> (Personal data) Nome completo Full name <em>Jo&atilde;o</em> Carlos Martins Azevedo Nome em cita&ccedil;&otilde;es bibliogr&aacute;ficas Quoting<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "A Biblioteca da Jo\u00e3o",
+            "originalURL": "http://abibliotecadajoao.blogspot.pt/",
+            "snippet": ") Margarida Rebelo Pinto (1) Maria <em>Jo&atilde;o</em> Fialho Gouveia (1) Maria <em>Jo&atilde;o</em> Lopo de Carvalho (1) <em>M&aacute;rio</em> Zambujal<span class=\"ellipsis\"> ... </span>A Biblioteca da <em>Jo&atilde;o</em> P&aacute;ginas P&aacute;gina inicial Li em 2017 Li em 2016 Li em 2015 Li em 2014 Li em 2013<span class=\"ellipsis\"> ... </span> Publicada por Maria <em>Jo&atilde;o</em> &agrave;(s) quarta-feira, julho 26, 2017 Sem coment&aacute;rios: Enviar a mensagem por e-mail D&ecirc;<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o T\u00e1vora",
+            "originalURL": "http://joaotavora.blogs.sapo.pt/",
+            "snippet": "<em>Jo&atilde;o</em> T&aacute;vora Saltar para: Posts [1] , Pesquisa e Arquivos [2] <em>Jo&atilde;o</em> T&aacute;vora In&iacute;cio Arquivo Tags RSS<span class=\"ellipsis\"> ... </span> muito especial para mim.&nbsp; Autoria e outros dados (tags, etc) Tags: livros por <em>Jo&atilde;o</em> T&aacute;vora &agrave;s 17:07 link<span class=\"ellipsis\"> ... </span> na esparrela de tentarem descodificar os seus textos. Autoria e outros dados (tags, etc) por <em>Jo&atilde;o</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "MARIA JO\u00c3O MARQUES: M\u00e1rio Soares da disc\u00f3rdia - 15/01/2017 - Opini\u00e3o - Folha de S.Paulo",
+            "originalURL": "http://www1.folha.uol.com.br/opiniao/2017/01/1849858-mario-soares-da-discordia.shtml",
+            "snippet": "MARIA <em>JO&Atilde;O</em> MARQUES: <em>M&aacute;rio</em> Soares da disc&oacute;rdia - 15/01/2017 - Opini&atilde;o - Folha de S.Paulo Saltar para<span class=\"ellipsis\"> ... </span> Canal Pe&ccedil;a &Uacute;nica Sem Legenda Colunas Contardo Calligaris Gregorio Duvivier Fernanda Torres <em>Jo&atilde;o</em><span class=\"ellipsis\"> ... </span> Contardo Calligaris Drauzio Varella Entretempos Fernanda Torres Gregorio Duvivier <em>Jo&atilde;o</em> Pereira Coutinho<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Sobre o autor | Bibliotec\u00e1rio de Babel",
+            "originalURL": "http://bibliotecariodebabel.com/sobre-o-autor/",
+            "snippet": " editoras. Por Jos&eacute; <em>M&aacute;rio</em> Silva. Entrada Sobre este blogue Sobre o autor Cr&iacute;tica liter&aacute;ria Receba por<span class=\"ellipsis\"> ... </span> Opini&atilde;o: &#8216;Efeito Borboleta e Outras Hist&oacute;rias&#8217; de Jos&eacute; <em>M&aacute;rio</em> Silva &#8211; Sara Farinha em Sobre o autor<span class=\"ellipsis\"> ... </span> coment&aacute;rios. WordPress.org Sobre o autor Jos&eacute; <em>M&aacute;rio</em> Silva nasceu a 2 de Mar&ccedil;o de 1972, em Paris (Fran&ccedil;a<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Agrupamento de Escolas Dr. M\u00e1rio Sacramento, Aveiro",
+            "originalURL": "http://www.aems.edu.pt/",
+            "snippet": "Agrupamento de Escolas Dr. <em>M&aacute;rio</em> Sacramento, Aveiro Ir para o conte&uacute;do principal Entrar Portugu&ecirc;s<span class=\"ellipsis\"> ... </span> Agrupamento de Escolas Dr. <em>M&aacute;rio</em> Sacramento Corta-Mato do Agrupamento - 13 de Dezembro de 2017, 9h30, EB 23<span class=\"ellipsis\"> ... </span> Agrupamento de Escolas Dr. <em>M&aacute;rio</em> Sacramento, Aveiro Email:&nbsp; escolas@aems.edu.pt Morada (sede): Av. 25 de<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o T\u00e1vora",
+            "originalURL": "http://joaotavora.blogs.sapo.pt/",
+            "snippet": "<em>Jo&atilde;o</em> T&aacute;vora Saltar para: Posts [1] , Pesquisa e Arquivos [2] <em>Jo&atilde;o</em> T&aacute;vora In&iacute;cio Arquivo Tags RSS<span class=\"ellipsis\"> ... </span> passar aqui? Autoria e outros dados (tags, etc) por <em>Jo&atilde;o</em> T&aacute;vora &agrave;s 18:02 link do post comentar<span class=\"ellipsis\"> ... </span> leviandade?&nbsp; Autoria e outros dados (tags, etc) por <em>Jo&atilde;o</em> T&aacute;vora &agrave;s 19:14 link do post comentar ver<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o D Ferreira - XLDB",
+            "originalURL": "http://xldb.di.fc.ul.pt/wiki/Joao_Ferreira",
+            "snippet": " Document | BibTeX source <em>Jo&atilde;o</em> D. Ferreira , Catia Pesquita , Francisco M. Couto , <em>M&aacute;rio</em> J. Silva<span class=\"ellipsis\"> ... </span> source Catia Pesquita, <em>Jo&atilde;o</em> D. Ferreira, Francisco M. Couto, <em>M&aacute;rio</em> J. Silva , Semi-Automated<span class=\"ellipsis\"> ... </span>. 2012 Document | BibTeX source <em>Jo&atilde;o</em> D. Ferreira , Catia Pesquita , Francisco Couto , <em>M&aacute;rio</em> J. Silva<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "M\u00e9rtola: \u201cAmplexo\u201d a M\u00e1rio Elias",
+            "originalURL": "http://mertola-concelho.blogspot.pt/2014/01/amplexo-mario-elias.html",
+            "snippet": " Prazeres e Morais Maria <em>Jo&atilde;o</em> <em>M&aacute;rio</em> Martins <em>M&aacute;rio</em> Nuno Roxo Resistente Rui Est&ecirc;v&atilde;o Alexandre Santiago<span class=\"ellipsis\"> ... </span>M&eacute;rtola: &#8220;Amplexo&#8221; a <em>M&aacute;rio</em> Elias M&eacute;rtola Lugar de informa&ccedil;&atilde;o, debate e opini&atilde;o livre e responsavel<span class=\"ellipsis\"> ... </span> &#8220;Amplexo&#8221; a <em>M&aacute;rio</em> Elias De 1 a 9 de fevereiro a Casa das Artes recebe a exposi&ccedil;&atilde;o &#8220;Amplexo&#8221; a <em>M&aacute;rio</em> Elias<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "M\u00e1rio Cordeiro: \u201cN\u00e3o devemos ser escravos dos nossos filhos\u201d \u2013 Observador",
+            "originalURL": "http://observador.pt/2014/09/10/mario-cordeiro-nao-devemos-ser-escravos-dos-nossos-filhos/",
+            "snippet": "<em>M&aacute;rio</em> Cordeiro: &#8220;N&atilde;o devemos ser escravos dos nossos filhos&#8221; &#8211; Observador Combined Shape comments<span class=\"ellipsis\"> ... </span> Explicadores Especiais Pais e Filhos <em>M&aacute;rio</em> Cordeiro: &#8220;N&atilde;o devemos ser escravos dos nossos filhos&#8221; 10/9/2014<span class=\"ellipsis\"> ... </span> sobre Educa&ccedil;&atilde;o Ensino b&aacute;sico Fam&iacute;lia Lifestyle Pais e Filhos <em>M&aacute;rio</em> Cordeiro foi pai e av&ocirc; cinco vezes<span class=\"ellipsis\"> ... </span>"
+        }
+    ]
+}

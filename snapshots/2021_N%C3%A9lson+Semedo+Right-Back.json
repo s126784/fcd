@@ -1,0 +1,57 @@
+{
+    "serviceName": "Arquivo.pt - the Portuguese web-archive",
+    "linkToService": "https://arquivo.pt",
+    "estimated_nr_results": 11,
+    "request_parameters": {
+        "offset": 0,
+        "dedupValue": 2,
+        "from": "20210101000000",
+        "to": "20211231235959",
+        "fields": [
+            "title",
+            "snippet",
+            "originalURL",
+            "timestamp"
+        ],
+        "dedupField": "site",
+        "q": "N\u00e9lson Semedo",
+        "maxItems": 50
+    },
+    "response_items": [
+        {
+            "title": "N\u00e9lson Semedo admite que hoje \u2033teria feito o mesmo que Marega\u2033 - TSF",
+            "originalURL": "https://www.tsf.pt/desporto/nelson-semedo-admite-que-hoje-teria-feito-o-mesmo-que-marega-11832203.html",
+            "snippet": "<em>N&eacute;lson</em> <em>Semedo</em> admite que hoje &#8243;teria feito o mesmo que Marega&#8243; - TSF Saltar para conte&uacute;do da p&aacute;gina<span class=\"ellipsis\"> ... </span> Direto Em Direto Pesquisar Fechar In&iacute;cio Racismo no futebol <em>N&eacute;lson</em> <em>Semedo</em> admite que hoje &quot;teria feito<span class=\"ellipsis\"> ... </span> internacional portugu&ecirc;s <em>N&eacute;lson</em> <em>Semedo</em> &copy;&nbsp;Alejandro Garcia/EPA Por Lusa 17&nbsp;Fevereiro,&nbsp;2020&nbsp;&#8226;&nbsp;21:46<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "N\u00e9lson Semedo admite que hoje \u2033teria feito o mesmo que Marega\u2033 - TSF",
+            "originalURL": "https://www.tsf.pt/desporto/amp/nelson-semedo-admite-que-hoje-teria-feito-o-mesmo-que-marega-11832203.html",
+            "snippet": "<em>N&eacute;lson</em> <em>Semedo</em> admite que hoje &#8243;teria feito o mesmo que Marega&#8243; - TSF &Uacute;ltimas Portugal Pol&iacute;tica<span class=\"ellipsis\"> ... </span> Parcerias Sons da Hist&oacute;ria Tr&acirc;nsito Menu In&iacute;cio Racismo no futebol <em>N&eacute;lson</em> <em>Semedo</em> admite que hoje<span class=\"ellipsis\"> ... </span> portugu&ecirc;s <em>N&eacute;lson</em> <em>Semedo</em> confessou, em declara&ccedil;&otilde;es ao jornal P&uacute;blico, que, &quot;hoje, teria feito o mesmo que<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Portugal squad for League of Nations - The Portugal News",
+            "originalURL": "https://www.theportugalnews.com/news/portugal-squad-for-league-of-nations/55508",
+            "snippet": " FC) &amp; Rui Silva (Granada CF); Defence - Jo&atilde;o Cancelo (Manchester City), <em>N&eacute;lson</em> <em>Semedo</em> (Barcelona<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "O onze de Portugal para o jogo com Fran\u00e7a - Desporto - Jornal de Neg\u00f3cios",
+            "originalURL": "http://www.sabado.pt/empresas/desporto/detalhe/o-onze-de-portugal-para-o-jogo-com-franca",
+            "snippet": " Fernando Santos aposta no seguinte onze inicial. Portugal : Rui Patr&iacute;cio; <em>N&eacute;lson</em> <em>Semedo</em>, R&uacute;ben Dias, Pepe<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "O onze de Portugal para o jogo com Fran\u00e7a - Desporto - Jornal de Neg\u00f3cios",
+            "originalURL": "http://www.sabado.pt/empresas/desporto/detalhe/o-onze-de-portugal-para-o-jogo-com-franca?act=0&est=Aberto",
+            "snippet": " Fernando Santos aposta no seguinte onze inicial. Portugal : Rui Patr&iacute;cio; <em>N&eacute;lson</em> <em>Semedo</em>, R&uacute;ben Dias, Pepe<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Barcelona perde fora com Levante e tem lideran\u00e7a em perigo - R\u00e1dio Calheta",
+            "originalURL": "http://www.radiocalheta.pt/barcelona-perde-fora-com-levante-e-tem-lideranca-em-perigo",
+            "snippet": " sobre o internacional portugu&ecirc;s <em>N&eacute;lson</em> <em>Semedo</em>. Por&eacute;m, ap&oacute;s o descanso, o Levante inverteu a<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Edi\u00e7\u00e3o Impressa do LusoJornal",
+            "originalURL": "https://lusojornal.com/edicao-impressa/",
+            "snippet": "Edi&ccedil;&atilde;o Impressa do LusoJornal O LusoJornal Contactos Pol&iacute;tica de Privacidade Pesquisar Ligar/Aderir<span class=\"ellipsis\"> ... </span>"
+        }
+    ]
+}

@@ -1,0 +1,273 @@
+{
+    "serviceName": "Arquivo.pt - the Portuguese web-archive",
+    "linkToService": "https://arquivo.pt",
+    "next_page": "https://arquivo.pt/textsearch?q=Bruno+Fernandes&from=20210101000000&to=20211231235959&fields=title%2Csnippet%2CoriginalURL%2Ctimestamp&offset=50",
+    "estimated_nr_results": 3806,
+    "request_parameters": {
+        "offset": 0,
+        "dedupValue": 2,
+        "from": "20210101000000",
+        "to": "20211231235959",
+        "fields": [
+            "title",
+            "snippet",
+            "originalURL",
+            "timestamp"
+        ],
+        "dedupField": "site",
+        "q": "Bruno Fernandes",
+        "maxItems": 50
+    },
+    "response_items": [
+        {
+            "title": "Solskjaer: \"\u00c0s vezes o Bruno Fernandes faz-me arrancar cabelos\"",
+            "originalURL": "https://desporto.sapo.pt/amp/futebol/premier-league/artigos/solskjaer-as-vezes-o-bruno-fernandes-faz-me-arrancar-cabelos",
+            "snippet": "Solskjaer: &quot;&Agrave;s vezes o <em>Bruno</em> <em>Fernandes</em> faz-me arrancar cabelos&quot; &#10005; In&iacute;cio Nacional Internacional Modalidades Em direto V&iacute;deos Especiais Reportagens eSports &#9776; Solskjaer: &quot;&Agrave;s vezes o <em>Bruno</em> <em>Fernandes</em> faz<span class=\"ellipsis\"> ... </span> sublinha a import&acirc;ncia dos restantes colegas para o sucesso individual de <em>Bruno</em> <em>Fernandes</em>. &quot;Queres<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "\"Os n\u00fameros de Bruno Fernandes s\u00e3o rid\u00edculos. Ele \u00e9 melhor do que eu\"",
+            "originalURL": "https://desporto.sapo.pt/amp/futebol/premier-league/artigos/os-numeros-de-bruno-fernandes-sao-ridiculos-ele-e-melhor-do-que-eu",
+            "snippet": "&quot;Os n&uacute;meros de <em>Bruno</em> <em>Fernandes</em> s&atilde;o rid&iacute;culos. Ele &eacute; melhor do que eu&quot; &#10005; In&iacute;cio Nacional Internacional Modalidades Em direto V&iacute;deos Especiais Reportagens eSports &#9776; &quot;Os n&uacute;meros de <em>Bruno</em> <em>Fernandes</em> s&atilde;o<span class=\"ellipsis\"> ... </span> e atual comentador desportivo na BT Sport, voltou a elogiar <em>Bruno</em> <em>Fernandes</em>,&nbsp;sublinhando o valor<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Bruno Fernandes bisa, Ronaldo ajuda Juventus a apurar-se. Veja os golos - TSF",
+            "originalURL": "https://www.tsf.pt/desporto/amp/bruno-fernandes-bisa-ronaldo-ajuda-juventus-a-apurar-se-para-os-oitavos-de-final-13071982.html",
+            "snippet": "<em>Bruno</em> <em>Fernandes</em> bisa, Ronaldo ajuda Juventus a apurar-se. Veja os golos - TSF &Uacute;ltimas Portugal<span class=\"ellipsis\"> ... </span> Lifestyle Parcerias Sons da Hist&oacute;ria Tr&acirc;nsito Menu In&iacute;cio Liga dos Campe&otilde;es <em>Bruno</em> <em>Fernandes</em> bisa<span class=\"ellipsis\"> ... </span> triunfos nos respetivos jogos da quarta jornada, na qual <em>Bruno</em> <em>Fernandes</em> assinou um 'bis'. Na<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Man. United X Leeds United - Man. United, Golo, Bruno Fernandes, 20m, 3-0",
+            "originalURL": "https://observador.vsports.pt/embd/62778/m/7745/obsrv/015dbe3c833dbdd9eeee7ecb5b9f643a?autostart=false",
+            "snippet": "Man. United X Leeds United - Man. United, Golo, <em>Bruno</em> <em>Fernandes</em>, 20m, 3-0 LOADING 0:53<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Man. United X Leeds United - Man. United, Golo, Bruno Fernandes (g.p.), 70m, 6-1",
+            "originalURL": "https://observador.vsports.pt/embd/62791/m/7745/obsrv/f8ec06aa882757247d3eb09a16cdf37f?autostart=false",
+            "snippet": "Man. United X Leeds United - Man. United, Golo, <em>Bruno</em> <em>Fernandes</em> (g.p.), 70m, 6-1 LOADING 0:37<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "\"Como \u00e9 que o Bicho Mexe?\": diretos de Bruno Nogueira no Instagram regressam no dia de Natal",
+            "originalURL": "https://mag.sapo.pt/amp/showbiz/artigos/como-e-que-o-bicho-mexe-diretos-de-bruno-nogueira-no-instagram-regressam-no-dia-de-natal",
+            "snippet": " participa&ccedil;&atilde;o de figuras como Cristiano Ronaldo, <em>Bruno</em> <em>Fernandes</em>, N&eacute;lson &Eacute;vora ou Salvador Sobral. A &uacute;ltima<span class=\"ellipsis\"> ... </span>&quot;Como &eacute; que o Bicho Mexe?&quot;: diretos de <em>Bruno</em> Nogueira no Instagram regressam no dia de Natal &#10005; In&iacute;cio Cinema TV Showbiz Quizzes Passatempos &#9776; &quot;Como &eacute; que o Bicho Mexe?&quot;: diretos de <em>Bruno</em> Nogueira no<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "\"Como \u00e9 que o Bicho Mexe?\": diretos de Bruno Nogueira no Instagram regressam no dia de Natal - Showb",
+            "originalURL": "https://mag.sapo.pt/showbiz/artigos/como-e-que-o-bicho-mexe-diretos-de-bruno-nogueira-no-instagram-regressam-no-dia-de-natal",
+            "snippet": " procura de luzes de Natal e com a participa&ccedil;&atilde;o de figuras como Cristiano Ronaldo, <em>Bruno</em> <em>Fernandes</em><span class=\"ellipsis\"> ... </span>&quot;Como &eacute; que o Bicho Mexe?&quot;: diretos de <em>Bruno</em> Nogueira no Instagram regressam no dia de Natal<span class=\"ellipsis\"> ... </span>?&quot;: diretos de <em>Bruno</em> Nogueira no Instagram regressam no dia de Natal SAPO Mag 21 dez 2020 16:40<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Um golo, uma assist\u00eancia, apenas um ponto: Bruno voltou a ter uma exibi\u00e7\u00e3o de tirar o chap\u00e9u mas def",
+            "originalURL": "https://observador.pt/2020/12/26/um-golo-uma-assistencia-apenas-um-ponto-bruno-voltou-a-ter-uma-exibicao-de-tirar-o-chapeu-mas-defesa-estragou-a-magia/amp/",
+            "snippet": " ter uma exibi&ccedil;&atilde;o de tirar o chap&eacute;u mas defesa estragou-lhe a magia <em>Bruno</em> <em>Fernandes</em> abriu o Boxing Day<span class=\"ellipsis\"> ... </span>. show more Figura do costume? <em>Bruno</em> <em>Fernandes</em>. &Eacute; certo que McTominay teve o seu momento de gl&oacute;ria na<span class=\"ellipsis\"> ... </span> considero insubstitu&iacute;veis. O <em>Bruno</em> <em>Fernandes</em> &eacute; um deles, n&atilde;o podem jogar sem ele. &Eacute; uma pe&ccedil;a fundamental<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Do gola\u00e7o de Cancelo aos remates de Jota e F\u00e9lix. Portugal goleia Cro\u00e1cia na Liga das Na\u00e7\u00f5es - TSF",
+            "originalURL": "https://www.tsf.pt/desporto/amp/diogo-jota-e-anthony-lopes-titulares-no-portugal-croacia-12677722.html",
+            "snippet": " Portugal national team player <em>Bruno</em> <em>Fernandes</em> (R) in action against Croatia national team player Lovren (L<span class=\"ellipsis\"> ... </span> bola. Nos minutos iniciais, Danilo e <em>Bruno</em> <em>Fernandes</em> ensaiaram a meia dist&acirc;ncia com remates perigosos<span class=\"ellipsis\"> ... </span> da equipa nacional entendiam-se muito bem. Bernardo Silva, <em>Bruno</em> <em>Fernandes</em> e Jo&atilde;o F&eacute;lix fartaram-se<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "E do nada, Cavani rematou e o Man. United bateu o Everton. Mas o golo n\u00e3o deu s\u00f3 a vit\u00f3ria \u2014 evitou ",
+            "originalURL": "https://observador.pt/2020/12/23/e-do-nada-cavani-rematou-e-o-man-united-bateu-o-everton-mas-o-golo-nao-deu-so-a-vitoria-evitou-o-prolongamento/",
+            "snippet": " temporada. Talvez por isso, foi exatamente <em>Bruno</em> <em>Fernandes</em> o escolhido pelo Manchester United para dar uma<span class=\"ellipsis\"> ... </span> aqui e por fazer parte deste grande clube&#8221;, acrescentou <em>Bruno</em> <em>Fernandes</em>. Ora esta quarta-feira, e<span class=\"ellipsis\"> ... </span> nada para contar (0-2). Valeu o remate de Cavani, que evitou o prolongamento. Mariana <em>Fernandes</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Cada minuto cuenta... - The Portugal News",
+            "originalURL": "https://www.theportugalnews.com/es/noticias/2020-12-23/cada-minuto-cuenta/57355",
+            "snippet": " <em>Bruno</em> <em>Fernandes</em> , compa&ntilde;ero de Maguire en el Manchester United, es cuarto, justo detr&aacute;s del argentino<span class=\"ellipsis\"> ... </span> partidos, 401 m&aacute;s que R&uacute;ben Dias (4.344), seguido de Messi, con 4.293, y <em>Bruno</em> <em>Fernandes</em>, con 4.164. El<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Latest Premier League Football Team News & Features",
+            "originalURL": "https://www.premierleague.com/news/",
+            "snippet": " striker has seven goals on the road and leads a best Fantasy XI captained by <em>Bruno</em> <em>Fernandes</em> FPL Show Ep<span class=\"ellipsis\"> ... </span> Captains: Rely on <em>Fernandes</em> Fantasy Premier League Man Utd star has racked up 35 points over the last three Gameweeks Read every word from <em>Bruno</em>'s extended interview External Link FPL Show Ep 17: Captain<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Vis\u00e3o | F\u00e1bio Silva entra para o 'top 10' das transfer\u00eancias mais caras em Portugal",
+            "originalURL": "https://visao.sapo.pt/atualidade/desporto/2020-09-05-fabio-silva-entra-para-o-top-10-das-transferencias-mais-caras-em-portugal/",
+            "snippet": " Jo&atilde;o F&eacute;lix, <em>Bruno</em> <em>Fernandes</em>, &Eacute;der Milit&atilde;o e James Rodr&iacute;guez, sendo que o ex-avan&ccedil;ado do Benfica<span class=\"ellipsis\"> ... </span> segundo posto &eacute; ocupado pelo m&eacute;dio <em>Bruno</em> <em>Fernandes</em>, por quem o Manchester United desembolsou 55 ME em<span class=\"ellipsis\"> ... </span> origem Clube destino Pa&iacute;s Ano Valor Jo&atilde;o F&eacute;lix Benfica Atl&eacute;tico de Madrid Espanha 2019 120 ME <em>Bruno</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "R\u00e1dio Regi\u00e3o de Basto - Fl\u00e1vio Gomes destaca-se no CN de Trial 4x4",
+            "originalURL": "https://www.radioregiaodebasto.com/index.php/desporto/746-flavio-gomes-destaca-se-no-cn-de-trial-4x4.html",
+            "snippet": " voltas; 3.&ordm; JMF (<em>Bruno</em> <em>Fernandes</em> e Jos&eacute; Santos) &#8211; 5 voltas; CNTrial 4x4 Super Proto : 1.&ordm; Team Serr&atilde;o (Alexandre Lemos e <em>Bruno</em> Cameir&atilde;o) &#8211; 9 voltas; 2.&ordm; Team CarJaime/Troqouro (Jo&atilde;o Pinto e Filipe<span class=\"ellipsis\"> ... </span> voltas; CNTrial 4x4 Classe 2 : 1.&ordm; LandRover Teles (<em>Bruno</em> Teles e Ant&oacute;nio Fonseca) &#8211; 7 voltas; 2<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "SAPO Desporto - SAPO",
+            "originalURL": "https://www.sapo.pt/parceiro/sapo-desporto?pagina=-1",
+            "snippet": "' do futebol fizeram melhor que <em>Bruno</em> <em>Fernandes</em> em 2020 Cristiano Ronaldo termina 2020 com 44 golos e 7<span class=\"ellipsis\"> ... </span> substituir o <em>Bruno</em> Lage na equipa principal&quot; Sobre Jesus, Renato Paiva pediu paci&ecirc;ncia aos adeptos do<span class=\"ellipsis\"> ... </span> <em>Bruno</em> Rodrigues renova at&eacute; 2025 com o Sporting de Braga Jovem defesa central de 19 anos, chegou a<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Edi\u00e7\u00e3o Impressa do LusoJornal",
+            "originalURL": "https://lusojornal.com/edicao-impressa/",
+            "snippet": " <em>Bruno</em> Duarte <em>Bruno</em> <em>Fernandes</em> <em>Bruno</em> Goncalves <em>Bruno</em> Joos de ter Beerst <em>Bruno</em> Lage <em>Bruno</em> Le Maire <em>Bruno</em><span class=\"ellipsis\"> ... </span> Cristina Luz Ana Cristina Silva Ana <em>Fernandes</em> Ana Filomena Rocha Ana Gandum Ana Gomes Ana Guanabara<span class=\"ellipsis\"> ... </span> Maria Clark Peres Ana Maria de Almeida Ana Maria <em>Fernandes</em> Ana Maria Gomes Ana Maria Gon&ccedil;alves Ana<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Ciclistas da equipa poveira na sele\u00e7\u00e3o",
+            "originalURL": "https://radioondaviva.com/noticias/1444-ciclistas-da-equipa-poveira-na-selecao",
+            "snippet": ". Alguns conseguiram mesmo lugares no top-10 na prova realizada em &Aacute;gueda: em iniciados, <em>Bruno</em> <em>Fernandes</em> foi sexto e Gon&ccedil;alo <em>Fernandes</em> foi s&eacute;timo; em infantis, Lucas Lopes foi nono; em juvenis, Diogo Barros<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Portugal squad for League of Nations - The Portugal News",
+            "originalURL": "https://www.theportugalnews.com/news/portugal-squad-for-league-of-nations/55508",
+            "snippet": "), R&uacute;ben Neves (Wolverhampton Wanderers FC), Andr&eacute; Gomes (Everton FC), <em>Bruno</em> <em>Fernandes</em> (Manchester United<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "VIP.pt | Bonita por fora e perfeita por dentro",
+            "originalURL": "https://www.vip.pt/?referrer=HeaderIMPALA",
+            "snippet": " ver todos Tatiana Oliveira e <em>Bruno</em> <em>Fernandes</em> O &laquo;sim&raquo; mais emotivo. Veja as fotos do casamento<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Croatia Portugal Resultados ao vivo",
+            "originalURL": "https://www.sofascore.com/pt/amp/croatia-portugal/eUbspUb",
+            "snippet": " Fora: <em>Bruno</em> <em>Fernandes</em> 46' HT 1 - 0 29' 1 - 0 Mateo Kova&#269;i&#263; 22' Marko Rog Pode haver alguma demora<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Destak.pt | Ta\u00e7a da Liga: Um jogo para ser resolvido no miolo",
+            "originalURL": "http://www.destak.pt/artigo/325526-um-jogo-para-ser-resolvido-no-miolo",
+            "snippet": " William, adiantando um pouco <em>Bruno</em> <em>Fernandes</em>. J&aacute; S&eacute;rgio Concei&ccedil;&atilde;o dever&aacute; socorrer-se de S&eacute;rgio<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "O onze de Portugal para o jogo com Fran\u00e7a - Desporto - Jornal de Neg\u00f3cios",
+            "originalURL": "http://www.sabado.pt/empresas/desporto/detalhe/o-onze-de-portugal-para-o-jogo-com-franca",
+            "snippet": " e Guerreiro; Danilo, <em>Bruno</em> <em>Fernandes</em> e William; Jo&atilde;o F&eacute;lix, Bernardo Silva e Cristiano Ronaldo<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "11pm Man Utd transfer news LIVE: Tommy Docherty tributes, Cavani BANNED, Grealish admired, Sancho bi",
+            "originalURL": "https://www.the-sun.com/sport/premier-league/1977658/man-utd-transfer-news-live-docherty-cavani-ban-sancho-grealish/",
+            "snippet": " to develop following the arrivals of <em>Bruno</em> <em>Fernandes</em>, Donny van de Beek, Alex Telles and Edinson<span class=\"ellipsis\"> ... </span>. Credit: News Group Newspapers Ltd Giacomo Pisa 31st Dec 2020, 08:22 <em>BRUNO</em>'S AMBITION <em>Bruno</em> <em>Fernandes</em><span class=\"ellipsis\"> ... </span> <em>Fernandes</em> to Manchester United fans, as well as his brilliant performances on the pitch. Speaking on his<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "11pm Man Utd transfer news LIVE: Tommy Docherty tributes, Cavani BANNED, Grealish admired, Sancho bi",
+            "originalURL": "https://www.thesun.ie/sport/football/6289494/man-utd-transfer-news-live-docherty-cavani-ban-sancho-grealish/",
+            "snippet": " closer to those objectives as the squad continues to develop following the arrivals of <em>Bruno</em> <em>Fernandes</em><span class=\"ellipsis\"> ... </span> 2020, 13:22 <em>BRUNO</em>'S AMBITION <em>Bruno</em> <em>Fernandes</em> only has one thing on his mind, winning trophies. It's that kind of attitude that has endeared <em>Fernandes</em> to Manchester United fans, as well as his<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "11pm Man Utd transfer news LIVE: Tommy Docherty tributes, Cavani BANNED, Grealish admired, Sancho bi",
+            "originalURL": "https://www.thesun.co.uk/sport/football/13490412/man-utd-transfer-news-live-docherty-cavani-ban-sancho-grealish/",
+            "snippet": " Pisa 31st Dec 2020, 13:22 <em>BRUNO</em>'S AMBITION <em>Bruno</em> <em>Fernandes</em> only has one thing on his mind, winning<span class=\"ellipsis\"> ... </span> getting closer to those objectives as the squad continues to develop following the arrivals of <em>Bruno</em> <em>Fernandes</em>, Donny van de Beek, Alex Telles and Edinson Cavani. &quot;Our ongoing investment reflects the<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Not\u00edcias | Di\u00e1rio de Tr\u00e1s-os-Montes",
+            "originalURL": "https://www.diariodetrasosmontes.com/local/37?page=1",
+            "snippet": ", &nbsp;empresa dedicada ao desenvolvimento t&eacute;cnico&nbsp; individual de jogadores de futebol, tais como <em>Bruno</em> <em>Fernandes</em> (Man Utd), James Rodrigues&nbsp;(Everton), entre muitos outros ir&aacute; organizar em parceria com&nbsp;AF<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Desporto - SAPO",
+            "originalURL": "https://www.sapo.pt/noticias/desporto?utm_source=amp&utm_campaign=amp&utm_medium=web&utm_content=/noticias/desporto/presidente-da-liga-aponta-regresso-do-publico_5fedf7fe6def8e5d02b102bf",
+            "snippet": " 'monstros' do futebol fizeram melhor que <em>Bruno</em> <em>Fernandes</em> em 2020 Cristiano Ronaldo termina 2020 com 44<span class=\"ellipsis\"> ... </span>:14 Atr&aacute;s de R&uacute;ben Dias, <em>Bruno</em> <em>Fernandes</em> brinca: &quot;Tenho de falar com Solskjaer&quot; M&eacute;dio do Manchester<span class=\"ellipsis\"> ... </span> Desporto &middot; Desporto &middot; 31 dez 2020 12:42 <em>Bruno</em> <em>Fernandes</em>, a press&atilde;o dos media e o exemplo de Ronaldo e Messi<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Vis\u00e3o | Liga das Na\u00e7\u00f5es: Cristiano Ronaldo de regresso ao 'onze' de Portugal na Su\u00e9cia",
+            "originalURL": "https://visao.sapo.pt/atualidade/desporto/2020-09-08-liga-das-nacoes-cristiano-ronaldo-de-regresso-ao-onze-de-portugal-na-suecia/",
+            "snippet": ") e <em>Bruno</em> <em>Fernandes</em> (26), enquanto Bernardo Silva far&aacute; a liga&ccedil;&atilde;o com a dupla ofensiva, composta por<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "",
+            "originalURL": "http://www.destak.pt/docs/5829/dtk-3496.pdf",
+            "snippet": " jogador: <em>Bruno</em>  \n<em>Fernandes</em>. Tudo o resto n&atilde;o deve-\nria vestir a camisola verde e branca! \n \nTOM&Aacute;Z<span class=\"ellipsis\"> ... </span> de Campo, em Sintra \n&copy; <em>BRUNO</em> SIM&Atilde;O\nLISBOA\nCIDADES 23.01.2020\nQUINTA-FEIRA \nwww.destak.pt\n02\nPUB<span class=\"ellipsis\"> ... </span>\nOs guitarristas e irm&atilde;os Andr&eacute; e \n<em>Bruno</em> Santos apresentam no pr&oacute;ximo \ns&aacute;bado, dia 25 de janeiro, no<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "",
+            "originalURL": "https://player.fm/podcasts/Champions-League",
+            "snippet": " back for the Paddock Podcast looking at <em>Bruno</em> <em>Fernandes</em>' impact on Man United, as well as Man City's<span class=\"ellipsis\"> ... </span> Paddock 1 131: Is <em>Bruno</em> One Of Man United's Best Ever? | The Paddock Podcast 53:27 Play Pause 17h<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "",
+            "originalURL": "https://player.fm/podcasts/BBC-Radio-5-Lives",
+            "snippet": " back <em>Bruno</em> <em>Fernandes</em> to his fpl team, the team ask if Rashford is also another asset for fantasy<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Festa da Juventude em S. Torcato - Noticias",
+            "originalURL": "http://www.radiofundacao.net/noticias_geral.php?a=13&id=975",
+            "snippet": " 31 de Julho, 2020 Festas da Cidade e Gualterianas 31 de Julho, 2020 Eduardo <em>Fernandes</em> recandidata-se<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Festa da Juventude - S.Torcato - Noticias",
+            "originalURL": "http://www.radiofundacao.net/noticias_geral.php?a=13&id=2586",
+            "snippet": " de Julho, 2020 Festas da Cidade e Gualterianas 31 de Julho, 2020 Eduardo <em>Fernandes</em> recandidata-se &agrave;<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Paulo Fernandes - Autores - Jornal de Neg\u00f3cios",
+            "originalURL": "http://www.sabado.pt/opiniao/autores/detalhe/paulo-fernandes?act=0&est=Aberto",
+            "snippet": "Paulo <em>Fernandes</em> - Autores - Jornal de Neg&oacute;cios Login Search Assine o Neg&oacute;cios e aceda sem limites<span class=\"ellipsis\"> ... </span> 7.627 casos e 76 mortes por covid-19 Opini&atilde;o por Paulo <em>Fernandes</em>: Um olhar sobre o investimento em a&ccedil;&otilde;es Autores Paulo <em>Fernandes</em> Artigos de opini&atilde;o deste autor Not&iacute;cias deste autor Paulo <em>Fernandes</em>: Um<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "R\u00e1dio Regi\u00e3o de Basto - Selec\u00e7\u00e3o de Sub-19 estagia em Lousada",
+            "originalURL": "https://www.radioregiaodebasto.com/index.php/desporto/620-seleccao-de-sub-19-estagia-em-lousada.html",
+            "snippet": "; V&iacute;tor Antunes; Sporting: <em>Bruno</em> Wilson; Ivanildo <em>Fernandes</em>; Jo&atilde;o Serrano; Postiga; Stojkovic; V<span class=\"ellipsis\"> ... </span> <em>Fernandes</em>; Jo&atilde;o Lima; Renato Sanches; Rom&aacute;rio; FC Porto: Andorinha; Clever; Diogo Verdasca; Macedo<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jogador de Montemor-o-Novo divide lideran\u00e7a da Fase Final do Campeonato Nacional Absoluto de Xadrez ",
+            "originalURL": "https://odigital.sapo.pt/jogador-de-montemor-o-novo-divide-lideranca-da-fase-final-do-campeonato-nacional-absoluto-de-xadrez/",
+            "snippet": ", S&eacute;rgio Rocha e <em>Bruno</em> Martins, 4,5 pontos; 4.&ordm; Ant&oacute;nio <em>Fernandes</em>, 4; 5.&ordm; Jos&eacute; Francisco Veiga, 3,5<span class=\"ellipsis\"> ... </span> sobre quem ser&aacute; o campe&atilde;o. O novo mestre FIDE <em>Bruno</em> Martins (A.XAT Montemor-o-Novo) seguia isolado na<span class=\"ellipsis\"> ... </span>, todos com 4,5 pontos, seguidos de perto pelo grande mestre Ant&oacute;nio <em>Fernandes</em> (AX Portugal<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Premier League Football News, Fixtures, Scores & Results",
+            "originalURL": "https://www.premierleague.com/",
+            "snippet": " <em>Fernandes</em> Read every word from <em>Bruno</em>'s extended interview External Link FPL Show Ep 17: Captain<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "\"Big Brother\": entrevista a pais de J\u00e9ssica F. vai dar que falar - Holofote",
+            "originalURL": "https://holofote.sapo.pt/televisao/2020-12-18-big-brother-entrevista-a-pais-de-jessica-f-vai-dar-que-falar/",
+            "snippet": " pode ter um fim tr&aacute;gico &#8220;, afirma o pai de J&eacute;ssica <em>Fernandes</em> , no teaser da entrevista que ir&aacute; para o<span class=\"ellipsis\"> ... </span> conversa: &#8220; Prepare-se para assistir a uma reportagem especial com os pais de J&eacute;ssica <em>Fernandes</em>. O<span class=\"ellipsis\"> ... </span> estar em cima da mesa&#8221; . Relacionados &#8220;Big Brother&#8221; &#8211; Jessica <em>Fernandes</em> viveu hist&oacute;ria de paix&atilde;o e<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "C\u00e3es envenenados em Gaula queixas na PSP - R\u00e1dio Calheta",
+            "originalURL": "http://www.radiocalheta.pt/caes-envenenados-em-gaula-queixas-na-psp",
+            "snippet": " uma consequente investiga&ccedil;&atilde;o do Minist&eacute;rio P&uacute;blico. C&aacute;tia <em>Fernandes</em>, moradora no local, perdeu mesmo<span class=\"ellipsis\"> ... </span> consequente investiga&ccedil;&atilde;o do Minist&eacute;rio P&uacute;blico. C&aacute;tia <em>Fernandes</em>, moradora no local, perdeu mesmo dois dos seus<span class=\"ellipsis\"> ... </span> de quarta-feira, o pior voltou a acontecer, quando C&aacute;tia <em>Fernandes</em> encontrou outro dos seus c&atilde;es j&aacute;<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jogador do A.Xat Montemor-o-Novo joga esta semana a fase final do Campeonato Nacional Absoluto de Xa",
+            "originalURL": "https://odigital.sapo.pt/jogador-do-a-xat-montemor-o-novo-joga-esta-semana-a-fase-final-do-campeonato-nacional-absoluto-de-xadrez/",
+            "snippet": " concorr&ecirc;ncia, a come&ccedil;ar pelo jogador mais titulado de Portugal, o grande mestre Ant&oacute;nio <em>Fernandes</em><span class=\"ellipsis\"> ... </span> completa-se com Andr&eacute; Fidalgo (MN, Estrelas S. Jo&atilde;o Brito, 2268), <em>Bruno</em> Martins (A.Xat Montemor-o-Novo<span class=\"ellipsis\"> ... </span> &#8220;chess24&#8221; efetua a transmiss&atilde;o das partidas. Eis os jogos da primeira ronda: Ant&oacute;nio <em>Fernandes</em>-S&eacute;rgio<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "APAVT: Alta fiscalidade complica organiza\u00e7\u00e3o de eventos - R\u00e1dio Calheta",
+            "originalURL": "http://www.radiocalheta.pt/apavt-alta-fiscalidade-complica-organizacao-de-eventos",
+            "snippet": " para o investidor, ao contr&aacute;rio de Espanha que pratica &#8216;taxa zero&#8217;. Jo&atilde;o <em>Fernandes</em>,... Novembro 15<span class=\"ellipsis\"> ... </span> investidor, ao contr&aacute;rio de Espanha que pratica &#8216;taxa zero&#8217;. Jo&atilde;o <em>Fernandes</em>, presidente da Regi&atilde;o de<span class=\"ellipsis\"> ... </span> dessa desvantagem&#8221;. Pela Madeira, foi <em>Bruno</em> Freitas, administrador do Grupo Savoy, a deixar nota da sua<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Ministra do Trabalho, Solidariedade e Seguran\u00e7a Social - XXII Governo - Rep\u00fablica Portuguesa",
+            "originalURL": "https://www.portugal.gov.pt/pt/gc22/governo/nomeacoes/trabalho-solidariedade-e-seguranca-social.aspx",
+            "snippet": " (1) 3 689,64 &#8364; 2 195,32 &#8364; 26/10/2019 Despacho Adjunto <em>Bruno</em> S&eacute;rgio Alves Sim&otilde;es 3 689,64 &#8364; 2 195,32<span class=\"ellipsis\"> ... </span> Catarina Martins Rocha <em>Fernandes</em> Hasse Ferreira (1) 3 689,64 &#8364; 2 195,32 &#8364; 13/11/2019 Despacho T&eacute;cnica<span class=\"ellipsis\"> ... </span> Jo&atilde;o Serra <em>Fernandes</em> Marrazes 2 364,04 &#8364; 1 553,54 &#8364; 13/11/2019 Despacho Secret&aacute;ria Pessoal Maria Jo&atilde;o<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "GAZETA DO INTERIOR",
+            "originalURL": "http://www.gazetadointerior.pt/noticias.aspx?ide=23408",
+            "snippet": " <em>Fernandes</em> convidada para congresso A ensa&iacute;sta e cr&iacute;tica de arte participa numa mesa redonda e<span class=\"ellipsis\"> ... </span> Louren&ccedil;o 20/06/2018 0 In&ecirc;s Monteiro e <em>Bruno</em> Paix&atilde;o vencem na terra de Pedro &Aacute;lvares Cabral Nem o<span class=\"ellipsis\"> ... </span> Maria Jo&atilde;o <em>Fernandes</em> convidada para congresso 20/06 Lu&iacute;s Correia procura solu&ccedil;&otilde;es para S&atilde;o Vicente<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Assembleia Municipal de Abrantes de seis horas com 23 pontos aprovados | Jornal de Abrantes",
+            "originalURL": "https://www.jornaldeabrantes.pt/politica/assembleia-municipal-de-abrantes-de-seis-horas-com-23-aprovados-em-atualizacao",
+            "snippet": " Dias esse &eacute; um assunto em &#8220;stand by&#8221;. Jo&atilde;o <em>Fernandes</em>, da bancada social-democrata, questionou<span class=\"ellipsis\"> ... </span> deste n&uacute;cleo do Tribunal que est&aacute; em Leiria, embora n&atilde;o tenha adiantado quais. <em>Bruno</em> Tom&aacute;s<span class=\"ellipsis\"> ... </span> <em>Fernandes</em>, do PSD, perguntou o que &eacute; que a C&acirc;mara estava a fazer perante estes &#8220;avistamentos&#8221; e o<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Associa\u00e7\u00e3o Empresarial de Cambra e Arouca com novos \u00d3rg\u00e3os Sociais para o quadri\u00e9nio 2021-2024 | inf",
+            "originalURL": "https://informedia.sapo.pt/diarias.asp?item=1121",
+            "snippet": ": Geofam&iacute;lia Feliz, Lda &#150; Dora Fernanda <em>Fernandes</em> Vice Presidente: Gabinete de Contabilidade de A. Martins, Lda<span class=\"ellipsis\"> ... </span> <em>Fernandes</em> Soares Rodrigues Dire&ccedil;&atilde;o Presidente: Chatron, Lda &#150; Carlos Manuel <em>Fernandes</em> Brand&atilde;o Vice<span class=\"ellipsis\"> ... </span> Santos Duarte Farcimar - Solu&ccedil;&otilde;es em Pr&eacute; Fabricados de Bet&atilde;o, Sa &#150; Lu&iacute;s <em>Bruno</em> Pinho Teixeira Fontes<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Ricardo Luz \u00e9 o cozinheiro do ano",
+            "originalURL": "https://ocio.dn.pt/sucesso/ricardo-luz-e-o-cozinheiro-do-ano/24026/amp/",
+            "snippet": " Resort&#8221; e &#8220;Vila Vita Parc&#8221;. Texto de Filipe Gil <em>Bruno</em> Ribeiro, de 33 anos, subchefe da 1300 Taberna<span class=\"ellipsis\"> ... </span> em segundo e terceiro lugar, respetivamente. Estiveram tamb&eacute;m em competi&ccedil;&atilde;o Ant&oacute;nio Pedro <em>Fernandes</em><span class=\"ellipsis\"> ... </span> do Hotel Vale d&#8217;Oliveiras Quinta Resort &amp; Spa. <em>Bruno</em> Ribeiro, subchefe da 1300 Taberna, em Lisboa<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Ricardo Luz \u00e9 o cozinheiro do ano",
+            "originalURL": "https://ocio.dn.pt/sucesso/ricardo-luz-e-o-cozinheiro-do-ano/24026/",
+            "snippet": "&#8221;. Texto de Filipe Gil <em>Bruno</em> Ribeiro, de 33 anos, subchefe da 1300 Taberna, em Lisboa, e Jo&atilde;o Pedro<span class=\"ellipsis\"> ... </span> lugar, respetivamente. Estiveram tamb&eacute;m em competi&ccedil;&atilde;o Ant&oacute;nio Pedro <em>Fernandes</em>, de 27 anos e do Porto<span class=\"ellipsis\"> ... </span> Quinta Resort &amp; Spa. <em>Bruno</em> Ribeiro, subchefe da 1300 Taberna, em Lisboa, ficou em segundo lugar no<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "aterraehredonda, Autor em A TERRA \u00c9 REDONDA",
+            "originalURL": "https://aterraeredonda.com.br/author/aterraehredonda/",
+            "snippet": " Bernie Sanders Boaventura de Sousa Santos Branko Milanovi&#263; Bruna Pastro Zagatto Bruna Triana <em>Bruno</em> Beaklini <em>Bruno</em> Hendler <em>Bruno</em> Lima Rocha <em>Bruno</em> Machado Caio Bugiato Caio Navarro de Toledo Caio<span class=\"ellipsis\"> ... </span> Ottonicar Fl&aacute;vio R. Kothe Flo Menezes Flora S&uuml;ssekind Florestan <em>Fernandes</em> Francisco Afonso Pereira Torres<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Home - A TERRA \u00c9 REDONDA",
+            "originalURL": "https://aterraeredonda.com.br/",
+            "snippet": " Florestan <em>Fernandes</em>: ci&ecirc;ncia e pol&iacute;tica Por LINCOLN SECCO: O hiato do soci&oacute;logo socialista entre a<span class=\"ellipsis\"> ... </span> Bernie Sanders Boaventura de Sousa Santos Branko Milanovi&#263; Bruna Pastro Zagatto Bruna Triana <em>Bruno</em> Beaklini <em>Bruno</em> Hendler <em>Bruno</em> Lima Rocha <em>Bruno</em> Machado Caio Bugiato Caio Navarro de Toledo Caio<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Ministra da Sa\u00fade - XXII Governo - Rep\u00fablica Portuguesa",
+            "originalURL": "https://www.portugal.gov.pt/pt/gc22/governo/nomeacoes/saude.aspx",
+            "snippet": " Adjunto Rog&eacute;rio Alexandre Branco <em>Fernandes</em> Costa (1) 3 689,64 &#8364; 2 195,32 &#8364; 17/09/2020 Despacho Adjunto Jo&atilde;o Pedro Mendon&ccedil;a Vieira (5) 3 689,64 &#8364; 2 195,32 &#8364; 13/10/2020 Despacho T&eacute;cnico Especialista <em>Bruno</em><span class=\"ellipsis\"> ... </span> Rendimento l&iacute;quido Data de nomea&ccedil;&atilde;o Publica&ccedil;&atilde;o em DRE Chefe de Gabinete Maria Teresa <em>Fernandes</em> de Jesus<span class=\"ellipsis\"> ... </span>"
+        }
+    ]
+}

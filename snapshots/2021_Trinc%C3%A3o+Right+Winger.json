@@ -1,0 +1,92 @@
+{
+    "serviceName": "Arquivo.pt - the Portuguese web-archive",
+    "linkToService": "https://arquivo.pt",
+    "estimated_nr_results": 24,
+    "request_parameters": {
+        "offset": 0,
+        "dedupValue": 2,
+        "from": "20210101000000",
+        "to": "20211231235959",
+        "fields": [
+            "title",
+            "snippet",
+            "originalURL",
+            "timestamp"
+        ],
+        "dedupField": "site",
+        "q": "Trinc\u00e3o",
+        "maxItems": 50
+    },
+    "response_items": [
+        {
+            "title": "Ant\u00f3nio Salvador diz que S\u00e1 Pinto quis dispensar Trinc\u00e3o em janeiro - TSF",
+            "originalURL": "https://www.tsf.pt/desporto/amp/antonio-salvador-diz-que-sa-pinto-quis-dispensar-trincao-em-janeiro-12735112.html",
+            "snippet": "Ant&oacute;nio Salvador diz que S&aacute; Pinto quis dispensar <em>Trinc&atilde;o</em> em janeiro - TSF &Uacute;ltimas Portugal Pol&iacute;tica<span class=\"ellipsis\"> ... </span> dispensar <em>Trinc&atilde;o</em> em janeiro O internacional portugu&ecirc;s foi vendido ao Barcelona por 30 milh&otilde;es de<span class=\"ellipsis\"> ... </span> treinador Ricardo S&aacute; Pinto queria dispensar o futebolista internacional portugu&ecirc;s <em>Trinc&atilde;o</em>, agora no FC<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Santos gives debut Portugal call-ups to Francisco Trinc\u00e3o and Rui Silva - The Portugal News",
+            "originalURL": "https://www.theportugalnews.com/news/santos-gives-debut-portugal-call-ups-to-francisco-trincao-and-rui-silva/55466",
+            "snippet": "Santos gives debut Portugal call-ups to Francisco <em>Trinc&atilde;o</em> and Rui Silva - The Portugal News Fri, 01<span class=\"ellipsis\"> ... </span> Newsletter Contacts Santos gives debut Portugal call-ups to Francisco <em>Trinc&atilde;o</em> and Rui Silva in Sport &middot; 25-08<span class=\"ellipsis\"> ... </span> Santos has announced a 25-man squad, handing debut call-ups to Barcelona forward Francisco <em>Trinc&atilde;o</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Fernando Santos chama Ronaldo e aposta em surpresas como Domingos Duarte, S\u00e9rgio Oliveira e Trinc\u00e3o",
+            "originalURL": "https://observador.pt/2020/08/24/fernando-santos-chama-ronaldo-e-aposta-em-surpresas-como-domingos-duarte-sergio-oliveira-e-trincao/embed/",
+            "snippet": "Fernando Santos chama Ronaldo e aposta em surpresas como Domingos Duarte, S&eacute;rgio Oliveira e <em>Trinc&atilde;o</em> Domingos Duarte, Oliveira e <em>Trinc&atilde;o</em> na Sele&ccedil;&atilde;o 24 Ago 2020 , por Bruno Roseiro<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Horta fez o que a cabe\u00e7a dos outros n\u00e3o conseguiu. Ta\u00e7a da Liga \u00e9 do SC Braga - TSF",
+            "originalURL": "https://www.tsf.pt/desporto/amp/direto-sc-braga-fc-porto-taca-da-liga-11748470.html",
+            "snippet": " Wallace, tal como j&aacute; tinha entrado <em>Trinc&atilde;o</em> para o lugar de Galeno. D&iacute;az aparecia ainda mais solto. Ora<span class=\"ellipsis\"> ... </span> Viana, Wallace, Jo&atilde;o Novais, Wilson Eduardo, Rui Fonte e <em>Trinc&atilde;o</em>. Suplentes do FC Porto: Marches&iacute;n<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Fact Check. \u201cGrande maioria dos jogadores\u201d da Sele\u00e7\u00e3o Nacional \u00e9 \u201cformada no Benfica\u201d, como garante ",
+            "originalURL": "https://observador.pt/factchecks/fact-check-grande-maioria-dos-jogadores-da-selecao-nacional-e-formada-no-benfica-como-garante-vieira/",
+            "snippet": ", S&eacute;rgio Oliveira e <em>Trinc&atilde;o</em> Os restantes clubes nacionais ficaram todos muito distantes desta<span class=\"ellipsis\"> ... </span>: Andr&eacute; Silva, R&uacute;ben Neves e S&eacute;rgio Oliveira), Sp. Brag a (<em>Trinc&atilde;o</em> jogou 92 minutos) ou Boavista<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Portugal squad for League of Nations - The Portugal News",
+            "originalURL": "https://www.theportugalnews.com/news/portugal-squad-for-league-of-nations/55508",
+            "snippet": " (Eintracht Frankfurt), Cristiano Ronaldo (Juventus FC), <em>Trinc&atilde;o</em> (FC Barcelona), Gon&ccedil;alo Guedes (Valencia<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Croatia Portugal Resultados ao vivo",
+            "originalURL": "https://www.sofascore.com/pt/amp/croatia-portugal/eUbspUb",
+            "snippet": " Cristiano Ronaldo 54' R&uacute;ben Dias Assist&ecirc;ncia: R&uacute;ben Semedo 1 - 1 52' 51' Marko Rog Francisco <em>Trinc&atilde;o</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Vis\u00e3o | Atl\u00e9tico Madrid agrava crise do FC Barcelona e iguala Real Sociedad na frente",
+            "originalURL": "https://visao.sapo.pt/atualidade/mundo/2020-11-21-atletico-madrid-agrava-crise-do-fc-barcelona-e-iguala-real-sociedad-na-frente/",
+            "snippet": " Francisco <em>Trinc&atilde;o</em>, no FC Barcelona, ter sido lan&ccedil;ado pelo t&eacute;cnico Ronald Koeman (ex-Benfica). A<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Vis\u00e3o | Messi marca frente ao Levante e salva FC Barcelona de nvo empate comprometedor",
+            "originalURL": "https://visao.sapo.pt/atualidade/mundo/2020-12-13-messi-marca-frente-ao-levante-e-salva-fc-barcelona-de-nvo-empate-comprometedor/",
+            "snippet": " portugu&ecirc;s Ruben Vezo. O internacional portugu&ecirc;s Francisco <em>Trinc&atilde;o</em> iniciou o jogo no &#8216;banco&#8217; do FC Barcelona<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "StartUp Magazine - SAPO",
+            "originalURL": "https://www.sapo.pt/parceiro/startup-magazine?pagina=4",
+            "snippet": " Hug-a-Group est&aacute; a celebrar a data oferecendo 150 subscri&ccedil;&otilde;es mensais no primeiro m&ecirc;s. Pedro <em>Trinc&atilde;o</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Un any infaust | Oriol Tortajada | BARCELONA | Bar\u00e7a | L'Esportiu de Catalunya",
+            "originalURL": "https://www.lesportiudecatalunya.cat/futbol/article/1901331-un-any-infaust.html",
+            "snippet": " arribat Pedri, Dest, <em>Trinc&atilde;o</em> i Pjanic, i han sortit de l&#8217;ou joves com Ronald Araujo i &Ograve;scar Mingueza<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "",
+            "originalURL": "http://www.destak.pt/docs/5835/dtk-3502.pdf",
+            "snippet": " foi derrotado por \nNat Young e o peruano Alonso \nCorrea bateu Frederico Morais. \nMERCADO \n<em>Trinc&atilde;o</em><span class=\"ellipsis\"> ... </span> trans-\nfer&ecirc;ncia de Francisco <em>Trinc&atilde;o</em>, de \n20 anos, extremo-direito arsena-\nlista. Ser&aacute; um contrato<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "",
+            "originalURL": "http://www.destak.pt/docs/5836/dtk-3503.pdf",
+            "snippet": " \nwww.destak.pt\n05\nPUB\nPUB\nREDA&Ccedil;&Atilde;O \nredacao@destak.pt\nU\nm golo de <em>Trinc&atilde;o</em>, esta se-\nmana transferido<span class=\"ellipsis\"> ... </span> mesmo palco, \npor 2-1, na meia-final da Ta&ccedil;a da Liga. \nO jovem <em>Trinc&atilde;o</em>, esta semana \ntransferido para o<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "",
+            "originalURL": "https://player.fm/en/featured/la-liga",
+            "snippet": " hope for <em>Trinc&atilde;o</em>? Will Xavi actually stay in Qatar until 2022? What shoul&#8230; &nbsp; L La Liga Lowdown 1<span class=\"ellipsis\"> ... </span>"
+        }
+    ]
+}

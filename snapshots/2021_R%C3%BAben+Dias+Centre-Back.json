@@ -1,0 +1,217 @@
+{
+    "serviceName": "Arquivo.pt - the Portuguese web-archive",
+    "linkToService": "https://arquivo.pt",
+    "estimated_nr_results": 326,
+    "request_parameters": {
+        "offset": 0,
+        "dedupValue": 2,
+        "from": "20210101000000",
+        "to": "20211231235959",
+        "fields": [
+            "title",
+            "snippet",
+            "originalURL",
+            "timestamp"
+        ],
+        "dedupField": "site",
+        "q": "R\u00faben Dias",
+        "maxItems": 50
+    },
+    "response_items": [
+        {
+            "title": "Portimonense X SL Benfica - SL Benfica, Jogada, R\u00faben Dias, 100m",
+            "originalURL": "https://observador.vsports.pt/embd/58416/m/567764/obsrv/db74c705a6fe9d266175bda3b399a602?autostart=false",
+            "snippet": "Portimonense X SL Benfica - SL Benfica, Jogada, <em>R&uacute;ben</em> <em>Dias</em>, 100m LOADING 0:10<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "SL Benfica X Portimonense - SL Benfica, Golo, R\u00faben Dias, 47m, 2-0",
+            "originalURL": "https://observador.vsports.pt/embd/54718/m/567611/obsrv/ec277e4db1f18cb488f4792f54e0410d?autostart=false",
+            "snippet": "SL Benfica X Portimonense - SL Benfica, Golo, <em>R&uacute;ben</em> <em>Dias</em>, 47m, 2-0 LOADING 0:56<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Croatia Portugal Resultados ao vivo",
+            "originalURL": "https://www.sofascore.com/pt/amp/croatia-portugal/eUbspUb",
+            "snippet": " mais &#8250; Portugal Iniciou &agrave;s 19:45 GMT Acabou 8.2 M. Kova&#269;i&#263; SofaScore ratings &#8250; 8.7 R. <em>Dias</em> FT 2 - 3 90' Toma Ba&#353;i&#263; Fora: Mateo Kova&#269;i&#263; <em>R&uacute;ben</em> <em>Dias</em> 2 - 3 90' 3' de acr&eacute;scimo 84' Mislav Or&#353;i&#263; Fora: Nikola<span class=\"ellipsis\"> ... </span> Cristiano Ronaldo 54' <em>R&uacute;ben</em> <em>Dias</em> Assist&ecirc;ncia: <em>R&uacute;ben</em> Semedo 1 - 1 52' 51' Marko Rog Francisco Trinc&atilde;o<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "FC Porto empata com City e est\u00e1 apurado para os 'oitavos' da Liga dos Campe\u00f5es - Desporto - Jornal d",
+            "originalURL": "http://www.sabado.pt/empresas/desporto/detalhe/fc-porto-empata-com-city-e-esta-apurado-para-os-oitavos-da-liga-dos-campeoes?act=0&est=Aberto&act=0&est=Aberto",
+            "snippet": " aos oitavos de final pela 12.&ordf; vez na sua hist&oacute;ria, perante um Manchester City, com <em>R&uacute;ben</em> <em>Dias</em>, Jo&atilde;o<span class=\"ellipsis\"> ... </span> Manchester City, com <em>R&uacute;ben</em> <em>Dias</em>, Jo&atilde;o Cancelo e Bernardo Silva a titulares, que chegou a Portugal j&aacute;<span class=\"ellipsis\"> ... </span> Jo&atilde;o Cancelo, <em>R&uacute;ben</em> <em>Dias</em> e Bernardo Silva nas escolhas iniciais. &Agrave; insist&ecirc;ncia ofensiva da forma&ccedil;&atilde;o de<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Fact Check. \u201cGrande maioria dos jogadores\u201d da Sele\u00e7\u00e3o Nacional \u00e9 \u201cformada no Benfica\u201d, como garante ",
+            "originalURL": "https://observador.pt/factchecks/fact-check-grande-maioria-dos-jogadores-da-selecao-nacional-e-formada-no-benfica-como-garante-vieira/",
+            "snippet": " selecionador que fizeram a sua forma&ccedil;&atilde;o no Benfica: Jo&atilde;o Cancelo (361 minutos), <em>R&uacute;ben</em> <em>Dias</em> (405<span class=\"ellipsis\"> ... </span> para a Liga das Na&ccedil;&otilde;es , menos o &uacute;ltimo. <em>R&uacute;ben</em> Semedo, William Carvalho, Rafa e Podence de regresso<span class=\"ellipsis\"> ... </span> Podence (15), <em>R&uacute;ben</em> Semedo (90), Cristiano Ronaldo (243), Jos&eacute; Fonte e Domingos Duarte (ambos sem<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Cada minuto cuenta... - The Portugal News",
+            "originalURL": "https://www.theportugalnews.com/es/noticias/2020-12-23/cada-minuto-cuenta/57355",
+            "snippet": "-2020 01:00:00 &middot; 0 Comments El defensa portugu&eacute;s <em>R&uacute;ben</em> <em>Dias</em>, del Manchester City, es el segundo<span class=\"ellipsis\"> ... </span> partidos, 401 m&aacute;s que <em>R&uacute;ben</em> <em>Dias</em> (4.344), seguido de Messi, con 4.293, y Bruno Fernandes, con 4.164. El<span class=\"ellipsis\"> ... </span> F&uacute;tbol (CIES) , <em>Dias</em> se encuentra en segundo lugar y Harry Maguire en el primero. El centrocampista<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Chaque minute compte... - The Portugal News",
+            "originalURL": "https://www.theportugalnews.com/fr/nouvelles/2020-12-23/chaque-minute-compte/57355",
+            "snippet": " portugais <em>R&uacute;ben</em> <em>Dias</em>, de Manchester City, est le deuxi&egrave;me footballeur au monde &agrave; avoir jou&eacute; le plus grand nombre de minutes en 2020. Selon un tableau publi&eacute; par l' Observatoire du football (CIES) , <em>Dias</em><span class=\"ellipsis\"> ... </span>, soit 401 de plus que <em>R&uacute;ben</em> <em>Dias</em> (4 344), suivi de Messi, avec 4 293, et de Bruno Fernandes, avec 4<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Solskjaer: \"\u00c0s vezes o Bruno Fernandes faz-me arrancar cabelos\" - Premier League - SAPO Desporto",
+            "originalURL": "https://desporto.sapo.pt/futebol/premier-league/artigos/solskjaer-as-vezes-o-bruno-fernandes-faz-me-arrancar-cabelos",
+            "snippet": " Cavani Sportinforma &middot; Premier League &middot; 31 dez 2020 13:14 Atr&aacute;s de <em>R&uacute;ben</em> <em>Dias</em>, Bruno Fernandes brinca<span class=\"ellipsis\"> ... </span> United j&aacute; pensa em renovar com Cavani Sportinforma &middot; Premier League &middot; 31 dez 2020 13:14 Atr&aacute;s de <em>R&uacute;ben</em> <em>Dias</em>, Bruno Fernandes brinca: &quot;Tenho de falar com Solskjaer&quot; Treinador do Manchester United sublinha<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Everton-Manchester City adiado devido a novos casos positivos de Covid-19 na equipa de Pep Guardiola",
+            "originalURL": "https://observador.pt/2020/12/28/everton-manchester-city-adiado-devido-a-novos-casos-positivos-de-covid-19-na-equipa-de-pep-guardiola/amp/",
+            "snippet": " novos casos de Covid-19 na equipa de Cancelo, <em>R&uacute;ben</em> <em>Dias</em> e Bernardo. Identidade dos infetados n&atilde;o &eacute;<span class=\"ellipsis\"> ... </span> <em>R&uacute;ben</em> <em>Dias</em>. Manchester City e Everton tinham encontro marcado para Goodison Park nesta segunda-feira<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Premier League - TSF",
+            "originalURL": "https://www.tsf.pt/tag/premier-league.html",
+            "snippet": " Os citizens golearam o Burnley por 6-0. O internacional portugu&ecirc;s <em>R&uacute;ben</em> <em>Dias</em> foi titular. Adeptos<span class=\"ellipsis\"> ... </span> Cancelo e <em>R&uacute;ben</em> <em>Dias</em>. Bruno Fernandes bisa e assiste Cavani no regresso do Manchester United aos<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "J\u00e1 h\u00e1 onzes para o cl\u00e1ssico Benfica-FC Porto! - R\u00e1dio Calheta",
+            "originalURL": "http://www.radiocalheta.pt/ja-ha-onzes-para-o-classico-benfica-fc-porto",
+            "snippet": " alinhar com Vlachodimos; Nuno Tavares, <em>R&uacute;ben</em> <em>Dias</em>, Ferro... Agosto 24, 2019&nbsp;-&nbsp;18:15 Facebook<span class=\"ellipsis\"> ... </span> com Vlachodimos; Nuno Tavares, <em>R&uacute;ben</em> <em>Dias</em>, Ferro e Grimaldo; Pizzi, Florentino, Samaris e Rafa; Raul<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Benfica arrasa Famalic\u00e3o na estreia do campeonato - TSF",
+            "originalURL": "https://www.tsf.pt/desporto/amp/ai-esta-a-i-liga-benfica-com-muitas-novidades-em-famalicao-12737944.html",
+            "snippet": ", Walterson, del Campo. Onze do Benfica: Vlachodimos; Andr&eacute; Almeida, <em>R&uacute;ben</em> <em>Dias</em>, Vertonghen e Grimaldo<span class=\"ellipsis\"> ... </span>; Gustavo Assun&ccedil;&atilde;o, Guga e Jorge Pereira; <em>R&uacute;ben</em> Lameiras, Fernando e Toni Mart&iacute;nez. Suplentes do<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Vis\u00e3o | Anthony Lopes na baliza de Portugal frente \u00e0 Cro\u00e1cia na Liga das Na\u00e7\u00f5es",
+            "originalURL": "https://visao.sapo.pt/atualidade/desporto/2020-09-05-anthony-lopes-na-baliza-de-portugal-frente-a-croacia-na-liga-das-nacoes/",
+            "snippet": ", que volta a formar dupla de centrais com <em>R&uacute;ben</em> <em>Dias</em> (no Luxemburgo jogou Jos&eacute; Fonte), Jo&atilde;o Moutinho<span class=\"ellipsis\"> ... </span> Jo&atilde;o Cancelo e Raphael Guerreiro nas laterais, com Pepe e <em>R&uacute;ben</em> <em>Dias</em> no eixo. Danilo Pereira ser&aacute; o<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Solskjaer: \"\u00c0s vezes o Bruno Fernandes faz-me arrancar cabelos\"",
+            "originalURL": "https://desporto.sapo.pt/amp/futebol/premier-league/artigos/solskjaer-as-vezes-o-bruno-fernandes-faz-me-arrancar-cabelos",
+            "snippet": " renovar com Cavani Futebol &#8226; 31 dez 2020 13:14 Atr&aacute;s de <em>R&uacute;ben</em> <em>Dias</em>, Bruno Fernandes brinca: &quot;Tenho de<span class=\"ellipsis\"> ... </span> 2020 15:31 O que guarda 2021? Estes s&atilde;o os eventos desportivos que os pr&oacute;ximos 365 <em>dias</em> v&atilde;o trazer<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "O onze de Portugal para o jogo com Fran\u00e7a - Desporto - Jornal de Neg\u00f3cios",
+            "originalURL": "http://www.sabado.pt/empresas/desporto/detalhe/o-onze-de-portugal-para-o-jogo-com-franca",
+            "snippet": " Fernando Santos aposta no seguinte onze inicial. Portugal : Rui Patr&iacute;cio; N&eacute;lson Semedo, <em>R&uacute;ben</em> <em>Dias</em>, Pepe<span class=\"ellipsis\"> ... </span> estar&aacute; relacionado com &quot;al&iacute;vio de medidas&quot; no Natal e devem subir nos pr&oacute;ximos <em>dias</em> As not&iacute;cias mais<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Vis\u00e3o | NOVOS LIVROS PARA VOAREM DA ESTANTE",
+            "originalURL": "https://visao.sapo.pt/visaojunior/2020-12-03-novos-livros-para-voarem-da-estante-2/",
+            "snippet": " Ricardo Henriques (texto), Madalena Matoso e <em>R&uacute;ben</em> <em>Dias</em> (ilustra&ccedil;&atilde;o), Imprensa Nacional &#8211; Casa da Moeda<span class=\"ellipsis\"> ... </span> profil&aacute;ticas, o confinamento e o recolher obrigat&oacute;rio passaram a fazer parte dos nossos <em>dias</em>, e ler tornou-se<span class=\"ellipsis\"> ... </span> viagem hist&oacute;rica &#8211; da inven&ccedil;&atilde;o da escrita at&eacute; aos nossos <em>dias</em>. E com o livro vem um escantilh&atilde;o em<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "FC Porto empata com o Manchester City a 'zero' no Drag\u00e3o e passa aos oitavos da Liga dos Campe\u00f5es",
+            "originalURL": "http://portocanal.sapo.pt/noticia/245522/",
+            "snippet": " hist&oacute;ria, perante um Manchester City, com <em>R&uacute;ben</em> <em>Dias</em>, Jo&atilde;o Cancelo e Bernardo Silva a titulares<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "FC Porto empata com o Manchester City a 'zero' no Drag\u00e3o e passa aos oitavos da Liga dos Campe\u00f5es",
+            "originalURL": "http://portocanal.sapo.pt:443/noticia/245522",
+            "snippet": " hist&oacute;ria, perante um Manchester City, com <em>R&uacute;ben</em> <em>Dias</em>, Jo&atilde;o Cancelo e Bernardo Silva a titulares<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Desporto - SAPO",
+            "originalURL": "https://www.sapo.pt/noticias/desporto?utm_source=amp&utm_campaign=amp&utm_medium=web&utm_content=/noticias/desporto/presidente-da-liga-aponta-regresso-do-publico_5fedf7fe6def8e5d02b102bf",
+            "snippet": ":14 Atr&aacute;s de <em>R&uacute;ben</em> <em>Dias</em>, Bruno Fernandes brinca: &quot;Tenho de falar com Solskjaer&quot; M&eacute;dio do Manchester United foi o quarto jogador com mais minutos disputados em todo o mundo em 2020, atr&aacute;s de <em>R&uacute;ben</em> <em>Dias</em><span class=\"ellipsis\"> ... </span> 2020 15:04 A poucos <em>dias</em> de receber o Braga, <em>R&uacute;ben</em> Amorim recebe duas boas not&iacute;cias Nuno Mendes e<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Desporto - SAPO",
+            "originalURL": "https://www.sapo.pt/noticias/desporto?utm_source=amp&utm_campaign=amp&utm_medium=web&utm_content=/noticias/desporto/video-ama-supercross-dylan-ferrandis-voltou_5fecb9d3027a205cfd279bee",
+            "snippet": ":14 Atr&aacute;s de <em>R&uacute;ben</em> <em>Dias</em>, Bruno Fernandes brinca: &quot;Tenho de falar com Solskjaer&quot; M&eacute;dio do Manchester United foi o quarto jogador com mais minutos disputados em todo o mundo em 2020, atr&aacute;s de <em>R&uacute;ben</em> <em>Dias</em><span class=\"ellipsis\"> ... </span> 2020 15:04 A poucos <em>dias</em> de receber o Braga, <em>R&uacute;ben</em> Amorim recebe duas boas not&iacute;cias Nuno Mendes e<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "untitled",
+            "originalURL": "http://www.destak.pt/docs/5676/dtk-3411.pdf",
+            "snippet": " \n<em>R&uacute;ben</em> <em>Dias</em> \nRaphael Guerreiro \n<em>R&uacute;ben</em> Neves \n William Carvalho \nBruno Fernandes &#8249; \nRafa Silva, 56<span class=\"ellipsis\"> ... </span> e mant&eacute;m como comu-\nnidade. A partir de amanh&atilde;, Gaia \nser&aacute; palco de um programa de 11 \n<em>dias</em> que<span class=\"ellipsis\"> ... </span> p&uacute;blicos. \nOs 11 <em>dias</em> ser&atilde;o inteiramente im-\nperd&iacute;veis, mas n&atilde;o posso deixar  \nde destacar a presen&ccedil;a de<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "",
+            "originalURL": "http://www.destak.pt/docs/5855/dtk-3520.pdf",
+            "snippet": " fa-\nlha defensiva terminou com o auto-\ngolo de <em>R&uacute;ben</em> <em>Dias</em> (12&#8217;). O central \ncompensou e fez o 2-1<span class=\"ellipsis\"> ... </span> epidemia do novo coro-\nnav&iacute;rus entrou num &#8220;ponto decisivo&#8221;, \nsublinhando que &#8220;nos &uacute;ltimos dois \n<em>dias</em><span class=\"ellipsis\"> ... </span> \n&#8216;alta&#8217; desde que <em>R&uacute;ben</em> Amorim assu-\nmiu o comando t&eacute;cnico &#8211; minhotos so-\nmaram desde ent&atilde;o sete<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Edi\u00e7\u00e3o Impressa do LusoJornal",
+            "originalURL": "https://lusojornal.com/edicao-impressa/",
+            "snippet": " dos <em>Dias</em> A das letras A demain A Herdade A la rencontre de la langue portugaise A maior flor do mundo<span class=\"ellipsis\"> ... </span> Borges Antoine de Saint Exup&eacute;ry Antoine <em>Dias</em> Antoine Griezmann Antoine Launay Antoine L&eacute;autey Antoine<span class=\"ellipsis\"> ... </span> Daniela Campos Daniela Costa Daniela <em>Dias</em> Daniela Reis Danilo Danilo Barbosa Danilo Pereira Danilson<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Abrantes: Pr\u00e9mios de M\u00e9rito premeiam cinco alunos | Jornal de Abrantes",
+            "originalURL": "https://www.jornaldeabrantes.pt/educacao/abrantes-premios-de-merito-premeiam-cinco-alunos",
+            "snippet": " Magalh&atilde;es Silva Esteves &#8211; Escola Dr. Solano de Abreu (ensino secund&aacute;rio); <em>R&uacute;ben</em> Alexandre <em>Dias</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Joana regressa ao \"Big Brother\" enquanto infiltrada e n\u00e3o vai sozinha - Big Brother - MAGG",
+            "originalURL": "https://magg.sapo.pt/televisao/big-brother/artigos/joana-regressa-big-brother-infiltrada",
+            "snippet": " livros signos Joana regressa ao &quot;Big Brother&quot; enquanto infiltrada e n&atilde;o vai sozinha <em>R&uacute;ben</em> Henriques<span class=\"ellipsis\"> ... </span> Joana regressam ao &quot;Big Brother&quot; como infiltradas por <em>R&uacute;ben</em> Henriques MAGG &middot; Big Brother &middot; 3 out<span class=\"ellipsis\"> ... </span> <em>R&uacute;ben</em> Henriques Joana regressa ao &quot;Big Brother&quot; enquanto infiltrada e n&atilde;o vai sozinha A ex-concorrente<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Pipoca Mais Doce sobre Renato e J\u00e9ssica: \"A vida dele c\u00e1 fora vai ser um Inferno\" - Big Brother - MA",
+            "originalURL": "https://magg.sapo.pt/televisao/big-brother/artigos/pipoca-renato-jessica-vida-inferno",
+            "snippet": " Inferno&quot; <em>R&uacute;ben</em> Henriques MAGG 16 dez 2020 11:35 Big Brother tvi big brother ana garcia martins a pipoca<span class=\"ellipsis\"> ... </span> <em>R&uacute;ben</em> Henriques MAGG &middot; Big Brother &middot; 14 out 2020 13:04 A Pipoca Mais Doce comenta rela&ccedil;&atilde;o de J&eacute;ssica e Renato: &quot;A rapariga est&aacute; com uma coceira vis&iacute;vel&quot; por <em>R&uacute;ben</em> Henriques Pipoca Mais Doce sobre Renato<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Entrevistas | R\u00e1dio Brigantia",
+            "originalURL": "https://www.brigantia.pt/programas/entrevistas?page=3",
+            "snippet": " Serra (baixo), <em>R&uacute;ben</em> Santos (acorde&atilde;o) formam a Yvette Band. A banda brigantina esteve na brigantia e<span class=\"ellipsis\"> ... </span> Relato de um enfermeiro sobre os <em>dias</em> na linha da frente de combate &agrave; pandemia Tr&ecirc;s concelhos do distrito em risco extremo de cont&aacute;gio Covid-19: 65 novos casos e 102 recuperados nos &uacute;ltimos dois <em>dias</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "R\u00e1dio Voz da Plan\u00edcie - 104.5FM - Beja - Not\u00edcias",
+            "originalURL": "http://www.vozdaplanicie.pt/noticias?q=agricultura&page=10",
+            "snippet": "-2020. 04/04/2018 Actualidade <em>R&uacute;ben</em> Bai&atilde;o fecha o cartaz de espet&aacute;culos dos &#8220;Sabores do Borrego&#8221; Castro<span class=\"ellipsis\"> ... </span> da regi&atilde;o. No cartaz de espet&aacute;culos o destaque deste s&aacute;bado vai para o espet&aacute;culo de <em>R&uacute;ben</em> Bai&atilde;o<span class=\"ellipsis\"> ... </span>, por um per&iacute;odo de 30 <em>dias</em>, avan&ccedil;a a autarquia na nota de imprensa enviada &agrave; nossa reda&ccedil;&atilde;o. 09/03<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Reportagem Final ao U. Montemor 2-0 Monte Trigo | 18 out. 2020 | R\u00e1dio Nova Antena",
+            "originalURL": "https://radionovaantena.com/2020/10/19/reportagem-final-ao-u-montemor-2-0-monte-trigo-18-out-2020/",
+            "snippet": " do Uni&atilde;o, <em>R&uacute;ben</em> Varela, disse que a equipa teve bastantes dificuldades mas foi conseguido o mais<span class=\"ellipsis\"> ... </span> <em>dias</em> dif&iacute;ceis dedique-se &agrave; cozinha 22/03/2020 Foto Reportagens Foto Reportagem Not&iacute;cias Orla<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Antevis\u00e3o Grupo Uni\u00e3o Sport \u2013 Estrela Escouralense por Cipriano Madeira | 22 nov. 2020 | R\u00e1dio Nova ",
+            "originalURL": "https://radionovaantena.com/2020/11/21/antevisao-grupo-uniao-sport-estrela-escouralense-por-cipriano-madeira-22-nov-2020/",
+            "snippet": " Leonardo foi expulso na partida com Redondense, e <em>R&uacute;ben</em> Varela saiu lesionado, isso preocupa<span class=\"ellipsis\"> ... </span> amantes da tauromaquia 07/06/2020 V&iacute;deos Em <em>dias</em> dif&iacute;ceis dedique-se &agrave; cozinha 22/03/2020 Foto Reportagens<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "B\u00e1rbara Norton De Matos - Atriz mostra foto sensual e acorda a internet em topless | Nova Gente",
+            "originalURL": "https://www.novagente.pt/barbara-norton-de-matos-atriz-mostra-foto-sensual-e-acorda-internet-em-topless",
+            "snippet": " anos na sua p&aacute;gina do Instagram que, segundo o registo fotogr&aacute;fico, encontra-se a passar uns <em>dias</em> de<span class=\"ellipsis\"> ... </span> Educa&ccedil;&atilde;o Visual e Tecnol&oacute;gica, natural do Porto, que vai para outra localidade dar aulas e conhece <em>R&uacute;ben</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "'Nulo' ao intervalo no Mar\u00edtimo-Las Palmas - R\u00e1dio Calheta",
+            "originalURL": "http://www.radiocalheta.pt/nulo-ao-intervalo-no-maritimo-las-palmas",
+            "snippet": ": Charles; Nanu, Zainadine, Kerkez, <em>R&uacute;ben</em> Ferreira; Fabr&iacute;cio, Vukovic, Edgar Costa, Correa, Erivaldo<span class=\"ellipsis\"> ... </span> &quot;Smartphone, Smartdrive&quot; detetou 863 condutores... Fevereiro 18, 2020 Entre os <em>dias</em> 11 e 17 de fevereiro, a<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Ministro da Administra\u00e7\u00e3o Interna - XXII Governo - Rep\u00fablica Portuguesa",
+            "originalURL": "https://www.portugal.gov.pt/pt/gc22/governo/nomeacoes/administracao-interna.aspx",
+            "snippet": " 195,32 &#8364; 26/10/2019 Despacho T&eacute;cnica Especialista Ilda Sofia Pereira <em>Dias</em> Fino 3 689,64 &#8364; 2 195,32<span class=\"ellipsis\"> ... </span> Especialista Joni <em>R&uacute;ben</em> Ramos Francisco 3 689,64 &#8364; 2 195,32 &#8364; 21/11/2019 Despacho T&eacute;cnica Especialista<span class=\"ellipsis\"> ... </span> 689,64 &#8364; 2 195,32 &#8364; 26/10/2019 Despacho Secret&aacute;ria Pessoal T&acirc;nia Patr&iacute;cia Faria Gon&ccedil;alves <em>Dias</em> 2<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "ARQUIVO CULTURA \u2014 DEZEMBRO 2016, R\u00e1dio Cova da Beira",
+            "originalURL": "http://www.rcb-radiocovadabeira.pt/pt/arquivo.php?ano=2016&mes=12&c=2",
+            "snippet": " Ant&oacute;nio <em>Dias</em> Rocha, o projeto passa por diferenciar a oferta informativa do espa&ccedil;o relativamente a<span class=\"ellipsis\"> ... </span> Cultura &quot;F&Ocirc;LEGO&quot; O MAIS PREMIADO O trabalho de <em>R&uacute;ben</em> Sevivas &quot;F&ocirc;lego&quot; esteve em destaque no<span class=\"ellipsis\"> ... </span>, a exposi&ccedil;&atilde;o de obras art&iacute;sticas produzidas em madeira que surgem pelas m&atilde;os de Alfredo <em>Dias</em>. Um<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "ARQUIVO CULTURA \u2014 SETEMBRO 2015, R\u00e1dio Cova da Beira",
+            "originalURL": "http://www.rcb-radiocovadabeira.pt/pt/arquivo.php?ano=2015&mes=9&c=2",
+            "snippet": " de atrair mais visitantes comentar Cultura NOVO LIVRO DE MARIA DO CARMO VAZ Chama-se &#147;<em>R&uacute;ben</em> e a<span class=\"ellipsis\"> ... </span> iniciativa vai decorrer entre os <em>dias</em> 25 e 27 de Setembro. comentar Cultura &quot;CAPICUA&quot; EM CASTELO BRANCO O<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Hotel Borges Chiado, Lisboa \u2013 Pre\u00e7os 2021 atualizados",
+            "originalURL": "https://www.booking.com/hotel/pt/borges.pt-pt.html",
+            "snippet": " Halal. A recep&ccedil;&atilde;o do hotel Borges est&aacute; aberta 24 horas por dia, 7 <em>dias</em> por semana, assim como o centro<span class=\"ellipsis\"> ... </span> dentro de alguns <em>dias</em> Fa&ccedil;a uma pergunta Obrigado! Ir&aacute; receber um e-mail assim que o alojamento<span class=\"ellipsis\"> ... </span>. Estamos ansiosos por t&ecirc;-lo aqui. <em>R&uacute;ben</em> Barata &Uacute;til Pouco &uacute;til Voc&ecirc; achou esta resposta &uacute;til Voc&ecirc;<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Atividade deputado",
+            "originalURL": "https://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=6977&lg=XIV",
+            "snippet": " Data do debate T&iacute;tulo De congratula&ccedil;&atilde;o pelos resultados desportivos do ciclista <em>R&uacute;ben</em> Almeida<span class=\"ellipsis\"> ... </span> Brilhante <em>Dias</em> (Secret&aacute;rio de Estado da Internacionaliza&ccedil;&atilde;o) , Teresa Ribeiro (Secret&aacute;ria de Estado dos<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Atividade deputado",
+            "originalURL": "https://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=6977",
+            "snippet": " Data do debate T&iacute;tulo De congratula&ccedil;&atilde;o pelos resultados desportivos do ciclista <em>R&uacute;ben</em> Almeida<span class=\"ellipsis\"> ... </span> Brilhante <em>Dias</em> (Secret&aacute;rio de Estado da Internacionaliza&ccedil;&atilde;o) , Teresa Ribeiro (Secret&aacute;ria de Estado dos<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Ex-aluno da UMinho cria primeira rede de aluguer de malas de viagem - Noticias",
+            "originalURL": "http://www.radiofundacao.net/noticias_geral.php?a=13&id=2442",
+            "snippet": " tr&ecirc;s <em>dias</em> em Guimar&atilde;es 30 de Dezembro, 2020 SE acompanha plano de vacina&ccedil;&atilde;o em Guimar&atilde;es 30 de<span class=\"ellipsis\"> ... </span> &#147;Juntos Somos HSOG&#148; 22 de Dezembro, 2020 Covid-19: Guimar&atilde;es com 504 novos casos em 8 <em>dias</em> 22 de Dezembro<span class=\"ellipsis\"> ... </span>, 2020 Covid-19: 782 casos em quatro <em>dias</em> 04 de Novembro, 2020 Feira e Mercado de Guimar&atilde;es mant&ecirc;m-se<span class=\"ellipsis\"> ... </span>"
+        }
+    ]
+}

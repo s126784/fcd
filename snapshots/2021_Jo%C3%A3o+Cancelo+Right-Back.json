@@ -1,0 +1,107 @@
+{
+    "serviceName": "Arquivo.pt - the Portuguese web-archive",
+    "linkToService": "https://arquivo.pt",
+    "estimated_nr_results": 42,
+    "request_parameters": {
+        "offset": 0,
+        "dedupValue": 2,
+        "from": "20210101000000",
+        "to": "20211231235959",
+        "fields": [
+            "title",
+            "snippet",
+            "originalURL",
+            "timestamp"
+        ],
+        "dedupField": "site",
+        "q": "Jo\u00e3o Cancelo",
+        "maxItems": 50
+    },
+    "response_items": [
+        {
+            "title": "105 toques, 78 passes, tr\u00eas dribles, presen\u00e7a nos dois golos: Cancelo, o lateral que parece ala, vol",
+            "originalURL": "https://observador.pt/2020/12/26/105-toques-78-passes-tres-dribles-presenca-nos-dois-golos-cancelo-o-lateral-que-parece-ala-volta-a-ser-mvp-na-vitoria-do-city/",
+            "snippet": ": <em>Jo&atilde;o</em> <em>Cancelo</em> voltou a ser o elemento em maior evid&ecirc;ncia num City em crescendo que ganhou em Manchester ao Newcastle (2-0). Bruno Roseiro Texto 26 Dez 2020, 22:01 469 i &#9650; <em>Jo&atilde;o</em> <em>Cancelo</em> ocupou a<span class=\"ellipsis\"> ... </span> esta semana Manchester City FC via Getty Ima &#9650; <em>Jo&atilde;o</em> <em>Cancelo</em> ocupou a lateral direita devido &agrave; aus&ecirc;ncia<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "105 toques, 78 passes, tr\u00eas dribles, presen\u00e7a nos dois golos: Cancelo, o lateral que parece ala, vol",
+            "originalURL": "https://observador.pt/2020/12/26/105-toques-78-passes-tres-dribles-presenca-nos-dois-golos-cancelo-o-lateral-que-parece-ala-volta-a-ser-mvp-na-vitoria-do-city/amp/",
+            "snippet": " esquerda, agora foi &agrave; direita, teve a influ&ecirc;ncia de sempre: <em>Jo&atilde;o</em> <em>Cancelo</em> voltou a ser o elemento em maior<span class=\"ellipsis\"> ... </span> <em>Jo&atilde;o</em> <em>Cancelo</em> ocupou a lateral direita devido &agrave; aus&ecirc;ncia de Kyle Walker, que testou positivo &agrave; Covid-19<span class=\"ellipsis\"> ... </span> de <em>Jo&atilde;o</em> <em>Cancelo</em> no Manchester City n&atilde;o foi propriamente f&aacute;cil. Os jogos n&atilde;o eram muitos, as<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Do gola\u00e7o de Cancelo aos remates de Jota e F\u00e9lix. Portugal goleia Cro\u00e1cia na Liga das Na\u00e7\u00f5es - TSF",
+            "originalURL": "https://www.tsf.pt/desporto/amp/diogo-jota-e-anthony-lopes-titulares-no-portugal-croacia-12677722.html",
+            "snippet": " gola&ccedil;o de <em>Cancelo</em> aos remates de Jota e F&eacute;lix. Portugal goleia Cro&aacute;cia na Liga das Na&ccedil;&otilde;es <em>Jo&atilde;o</em> <em>Cancelo</em><span class=\"ellipsis\"> ... </span>&ordf; jornada do Grupo A3 da Liga das Na&ccedil;&otilde;es. Festa de Diogo Jota Pepe , <em>Jo&atilde;o</em> <em>Cancelo</em> (Ivan Del Val/Global<span class=\"ellipsis\"> ... </span>&ordf; jornada do Grupo A3 da Liga das Na&ccedil;&otilde;es. Golo de <em>Jo&atilde;o</em> <em>Cancelo</em> (Ivan Del Val/Global Imagens)| &nbsp;foto<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Do gola\u00e7o de Cancelo aos remates de Jota e F\u00e9lix. Portugal goleia Cro\u00e1cia na Liga das Na\u00e7\u00f5es - TSF",
+            "originalURL": "https://www.tsf.pt/desporto/diogo-jota-e-anthony-lopes-titulares-no-portugal-croacia-12677722.html",
+            "snippet": " <em>Cancelo</em> aos remates de Jota e F&eacute;lix. Portugal goleia Cro&aacute;cia na Liga das Na&ccedil;&otilde;es <em>Jo&atilde;o</em> <em>Cancelo</em> abriu o<span class=\"ellipsis\"> ... </span> direito, <em>Jo&atilde;o</em> <em>Cancelo</em> fez a diagonal e, junto &agrave; meia-lua, aplica um remate de p&eacute; esquerdo que s&oacute; parou<span class=\"ellipsis\"> ... </span> Su&eacute;cia. Onze de Portugal: Anthony Lopes; <em>Jo&atilde;o</em> <em>Cancelo</em>, R&uacute;ben Dias, Pepe e Raphael Guerreiro; Danilo<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "FC Porto empata com City e est\u00e1 apurado para os 'oitavos' da Liga dos Campe\u00f5es - Desporto - Jornal d",
+            "originalURL": "http://www.sabado.pt/empresas/desporto/detalhe/fc-porto-empata-com-city-e-esta-apurado-para-os-oitavos-da-liga-dos-campeoes?act=0&est=Aberto&act=0&est=Aberto",
+            "snippet": " Manchester City, com R&uacute;ben Dias, <em>Jo&atilde;o</em> <em>Cancelo</em> e Bernardo Silva a titulares, que chegou a Portugal j&aacute;<span class=\"ellipsis\"> ... </span> <em>Jo&atilde;o</em> <em>Cancelo</em>, R&uacute;ben Dias e Bernardo Silva nas escolhas iniciais. &Agrave; insist&ecirc;ncia ofensiva da forma&ccedil;&atilde;o de<span class=\"ellipsis\"> ... </span> aos oitavos de final pela 12.&ordf; vez na sua hist&oacute;ria, perante um Manchester City, com R&uacute;ben Dias, <em>Jo&atilde;o</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Official Manchester City",
+            "originalURL": "https://pt.mancity.com/",
+            "snippet": " Clube Masculino <em>Jo&atilde;o</em> <em>Cancelo</em>: a amea&ccedil;a pela direita Features Ederson: Best of 2020 Features Ederson<span class=\"ellipsis\"> ... </span> CITY+ Features Pep Guardiola: 700 jogos como treinador Features <em>Jo&atilde;o</em> <em>Cancelo</em>: a amea&ccedil;a pela direita<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Vis\u00e3o | Anthony Lopes na baliza de Portugal frente \u00e0 Cro\u00e1cia na Liga das Na\u00e7\u00f5es",
+            "originalURL": "https://visao.sapo.pt/atualidade/desporto/2020-09-05-anthony-lopes-na-baliza-de-portugal-frente-a-croacia-na-liga-das-nacoes/",
+            "snippet": " jogo, s&atilde;o tamb&eacute;m novidades <em>Jo&atilde;o</em> <em>Cancelo</em>, que rende Ricardo Pereira no lado direito da defesa, Pepe, que volta a formar dupla de centrais com R&uacute;ben Dias (no Luxemburgo jogou Jos&eacute; Fonte), <em>Jo&atilde;o</em> Moutinho<span class=\"ellipsis\"> ... </span> <em>Jo&atilde;o</em> <em>Cancelo</em> e Raphael Guerreiro nas laterais, com Pepe e R&uacute;ben Dias no eixo. Danilo Pereira ser&aacute; o<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "JM-Madeira - R\u00e1dio Calheta",
+            "originalURL": "http://www.radiocalheta.pt/noticias/jm?page=2154",
+            "snippet": "... Ronaldo e <em>Cancelo</em> titulares no primeiro onze do Sarri Julho 22, 2019 Cristiano Ronaldo e <em>Jo&atilde;o</em> <em>Cancelo</em><span class=\"ellipsis\"> ... </span> Eug&eacute;nio Perregil aprovado... Janeiro 10, 2020 Pe. <em>Jo&atilde;o</em> Carlos Homem de Gouveia &eacute; o novo Arcipreste<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Noticias - R\u00e1dio Calheta",
+            "originalURL": "http://www.radiocalheta.pt/noticias?page=2159",
+            "snippet": ", hoje, que sejam criados consensos regionais para os dossiers... JM-Madeira Ronaldo e <em>Cancelo</em> titulares no primeiro onze do Sarri Julho 22, 2019 Cristiano Ronaldo e <em>Jo&atilde;o</em> <em>Cancelo</em> fazem parte do<span class=\"ellipsis\"> ... </span> Eug&eacute;nio Perregil aprovado... Janeiro 10, 2020 Pe. <em>Jo&atilde;o</em> Carlos Homem de Gouveia &eacute; o novo Arcipreste<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Portugal squad for League of Nations - The Portugal News",
+            "originalURL": "https://www.theportugalnews.com/news/portugal-squad-for-league-of-nations/55508",
+            "snippet": " FC) &amp; Rui Silva (Granada CF); Defence - <em>Jo&atilde;o</em> <em>Cancelo</em> (Manchester City), N&eacute;lson Semedo (Barcelona<span class=\"ellipsis\"> ... </span> FC), Bernardo Silva (Manchester City FC), Renato Sanches (LOSC Lille), <em>Jo&atilde;o</em> Moutinho (Wolverhampton<span class=\"ellipsis\"> ... </span> CF) &amp; <em>Jo&atilde;o</em> F&eacute;lix (Atl&eacute;tico Madrid). Share this article &nbsp; Subscribe to our newsletter Out every<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Croatia Portugal Resultados ao vivo",
+            "originalURL": "https://www.sofascore.com/pt/amp/croatia-portugal/eUbspUb",
+            "snippet": " Vla&#353;i&#263; S&eacute;rgio Oliveira Fora: Danilo Pereira 77' Paulinho Fora: Diogo Jota 77' <em>Jo&atilde;o</em> <em>Cancelo</em> Fora: M&aacute;rio Rui 71' Bernardo Silva Fora: <em>Jo&atilde;o</em> F&eacute;lix 71' 65' 2 - 2 Mateo Kova&#269;i&#263; Assist&ecirc;ncia: Nikola Vla&#353;i&#263; 64' Josip Brekalo Fora: Mario Pa&#353;ali&#263; <em>Jo&atilde;o</em> F&eacute;lix Assist&ecirc;ncia: Diogo Jota 1 - 2 60' 57' Ivan Peri&#353;i&#263;<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "FC Porto empata com o Manchester City a 'zero' no Drag\u00e3o e passa aos oitavos da Liga dos Campe\u00f5es",
+            "originalURL": "http://portocanal.sapo.pt/noticia/245522/",
+            "snippet": " hist&oacute;ria, perante um Manchester City, com R&uacute;ben Dias, <em>Jo&atilde;o</em> <em>Cancelo</em> e Bernardo Silva a titulares<span class=\"ellipsis\"> ... </span> 13-12-2020 Filhos &amp; Cadilhos Cartas M&aacute;gicas 13-12-2020 N'Agenda Teatro Nacional de S. <em>Jo&atilde;o</em> -... 11-12<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "FC Porto empata com o Manchester City a 'zero' no Drag\u00e3o e passa aos oitavos da Liga dos Campe\u00f5es",
+            "originalURL": "http://portocanal.sapo.pt:443/noticia/245522",
+            "snippet": " hist&oacute;ria, perante um Manchester City, com R&uacute;ben Dias, <em>Jo&atilde;o</em> <em>Cancelo</em> e Bernardo Silva a titulares<span class=\"ellipsis\"> ... </span> 13-12-2020 Filhos &amp; Cadilhos Cartas M&aacute;gicas 13-12-2020 N'Agenda Teatro Nacional de S. <em>Jo&atilde;o</em> -... 11-12<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Vis\u00e3o | Liga das Na\u00e7\u00f5es: Cristiano Ronaldo de regresso ao 'onze' de Portugal na Su\u00e9cia",
+            "originalURL": "https://visao.sapo.pt/atualidade/desporto/2020-09-08-liga-das-nacoes-cristiano-ronaldo-de-regresso-ao-onze-de-portugal-na-suecia/",
+            "snippet": " <em>Jo&atilde;o</em> <em>Cancelo</em> na direita, Rapha&euml;l Guerreiro na esquerda e Pepe e R&uacute;ben Dias no centro. No meio-campo, Danilo ser&aacute; a unidade mais recuada, jogando atr&aacute;s dos aniversariantes <em>Jo&atilde;o</em> Moutinho (completa 34 anos<span class=\"ellipsis\"> ... </span> <em>Jo&atilde;o</em> F&eacute;lix e Ronaldo. Enquanto Portugal goleou a Cro&aacute;cia (4-1) na estreia da Liga das Na&ccedil;&otilde;es, os<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "untitled",
+            "originalURL": "http://www.destak.pt/docs/5676/dtk-3411.pdf",
+            "snippet": " Nacional atacava sempre pela \ndireita, atrav&eacute;s das combina&ccedil;&otilde;es de \n<em>Jo&atilde;o</em> <em>Cancelo</em>, Bernardo Silva e Bru<span class=\"ellipsis\"> ... </span> os servi&ccedil;os m&iacute;nimos\nEURO 2020  QUALIFICA&Ccedil;&Atilde;O\nPORTUGALLITU&Acirc;NIA\nRui Patr&iacute;cio \n<em>Jo&atilde;o</em> <em>Cancelo</em> \nJos&eacute; Fonte<span class=\"ellipsis\"> ... </span> efetiva&#8221;.\nDiretiva para \nprote&ccedil;&atilde;o das \nv&iacute;timas atrasada\nOrganiza&ccedil;&atilde;o liderada por <em>Jo&atilde;o</em> L&aacute;zaro \nvai<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "",
+            "originalURL": "http://www.destak.pt/docs/5853/dtk-3519.pdf",
+            "snippet": " City, clube ingl&ecirc;s \ndos futebolistas portugueses \nBernardo Silva e <em>Jo&atilde;o</em> <em>Cancelo</em>, \nrecorreu da<span class=\"ellipsis\"> ... </span> \nOPINI&Atilde;O\n<em>JO&Atilde;O</em> PAULO SARAIVA \nVice-Presidente  \nda C&acirc;mara de Lisboa\nPUB\nGoverno acusado \nde ina&ccedil;&atilde;o no<span class=\"ellipsis\"> ... </span> \n15 m&eacute;dicos para fazer medicina geral \na jovens. O vice-presidente da FNAM, \n<em>Jo&atilde;o</em> Proen&ccedil;a, foi ontem<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "R\u00e1dio Regi\u00e3o de Basto - Fafe - Agenda Cultural de Novembro",
+            "originalURL": "https://www.radioregiaodebasto.com/index.php/cultura/784-fafe-agenda-cultural-de-novembro.html",
+            "snippet": " GNA) e Jantar de anivers&aacute;rio (Casa do <em>Cancelo</em>, &agrave;s 20h00) Promo&ccedil;&atilde;o: Grupo Nun'&Aacute;lvares Dia 10 | Letras<span class=\"ellipsis\"> ... </span> as Gentes de Monte Longo (Fafe)&quot;, de Manuel Ribeiro <em>Jo&atilde;o</em> Apresenta&ccedil;&atilde;o de Daniel Bastos Audit&oacute;rio da<span class=\"ellipsis\"> ... </span>"
+        }
+    ]
+}

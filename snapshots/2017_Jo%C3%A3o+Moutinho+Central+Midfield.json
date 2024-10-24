@@ -1,0 +1,273 @@
+{
+    "serviceName": "Arquivo.pt - the Portuguese web-archive",
+    "linkToService": "https://arquivo.pt",
+    "next_page": "https://arquivo.pt/textsearch?q=Jo%C3%A3o+Moutinho&from=20170101000000&to=20171231235959&fields=title%2Csnippet%2CoriginalURL%2Ctimestamp&offset=50",
+    "estimated_nr_results": 938952,
+    "request_parameters": {
+        "offset": 0,
+        "dedupValue": 2,
+        "from": "20170101000000",
+        "to": "20171231235959",
+        "fields": [
+            "title",
+            "snippet",
+            "originalURL",
+            "timestamp"
+        ],
+        "dedupField": "site",
+        "q": "Jo\u00e3o Moutinho",
+        "maxItems": 50
+    },
+    "response_items": [
+        {
+            "title": "Jo\u00e3o Moutinho",
+            "originalURL": "http://joao-moutinho.blogs.sapo.pt/",
+            "snippet": "<em>Jo&atilde;o</em> <em>Moutinho</em> <em>Jo&atilde;o</em> <em>Moutinho</em> Ter&ccedil;a-feira, 17 de Abril de 2007 Puto Maravilha (Sporting) UM puto que<span class=\"ellipsis\"> ... </span> post | comentar | ver coment&aacute;rios (8) | favorito | <em>Jo&atilde;o</em> <em>Moutinho</em><span class=\"ellipsis\"> ... </span> , curiorisidade , desporto , destaques , eu , futebol , futebolistas , interessante , <em>jo&atilde;o</em> <em>moutinho</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o Moutinho",
+            "originalURL": "http://algarveprimeiro.com/d/joao-moutinho/226-37",
+            "snippet": "<em>Jo&atilde;o</em> <em>Moutinho</em> IN&Iacute;CIO | Ficha T&eacute;cnica | Estatuto Editorial | CONTACTOS siga-nos | seja f&atilde; PUB<span class=\"ellipsis\"> ... </span> www.gmail.com gmail sign in <em>Jo&atilde;o</em> <em>Moutinho</em> Tweet 20-08-2013 - 22:23 <em>Jo&atilde;o</em> Filipe Iria Santos <em>Moutinho</em><span class=\"ellipsis\"> ... </span> percurso que o torna num emblema do futebol nacional, <em>Jo&atilde;o</em> <em>Moutinho</em> &eacute; mais uma refer&ecirc;ncia algarvia que<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o Moutinho",
+            "originalURL": "http://m.algarveprimeiro.com/d/joao-moutinho/226-37",
+            "snippet": "<em>Jo&atilde;o</em> <em>Moutinho</em> menu In&Atilde;&shy;cio people Sociedade directions_bike Desporto credit_card Economia<span class=\"ellipsis\"> ... </span>&copy;cnica Estatuto Editorial Contactos <em>Jo&atilde;o</em> <em>Moutinho</em> 20-08-2013 - Portim&Atilde;&pound;o <em>Jo&atilde;o</em> Filipe Iria Santos <em>Moutinho</em><span class=\"ellipsis\"> ... </span> percurso que o torna num emblema do futebol nacional, <em>Jo&atilde;o</em> <em>Moutinho</em> &eacute; mais uma refer&ecirc;ncia algarvia<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o Moutinho - P\u00daBLICO",
+            "originalURL": "https://www.publico.pt/joao-moutinho",
+            "snippet": "<em>Jo&atilde;o</em> <em>Moutinho</em> - P&Uacute;BLICO Saltar para a navega&ccedil;&atilde;o principal Saltar para o conte&uacute;do &times; Este site<span class=\"ellipsis\"> ... </span> Ci&ecirc;ncia Desporto Desporto Tecnologia Tecnologia Opini&atilde;o Opini&atilde;o Mais Mais <em>Jo&atilde;o</em> <em>Moutinho</em> Todos os<span class=\"ellipsis\"> ... </span> franc&ecirc;s <em>Jo&atilde;o</em> <em>Moutinho</em> diz que Portugal tem que vencer a S&eacute;rvia Por Lusa 25/03/2015 Defesa Pepe com treino<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o Moutinho - DN",
+            "originalURL": "http://www.dn.pt/tag/joao-moutinho.html",
+            "snippet": "<em>Jo&atilde;o</em> <em>Moutinho</em> - DN Domingo 12 de mar&ccedil;o de 2017 00:50 Fundado em 29 de dezembro de 1864 Menu &Uacute;ltimas<span class=\"ellipsis\"> ... </span> DN Conhe&ccedil;a a nossa app m&oacute;vel App Store Google Play <em>Jo&atilde;o</em> <em>Moutinho</em> Siga-nos Siga-nos no Facebook Siga<span class=\"ellipsis\"> ... </span> JUNHO 2016 Euro 2016 Raphael Guerreiro Andr&eacute; Gomes <em>Jo&atilde;o</em> <em>Moutinho</em> <em>Jo&atilde;o</em> <em>Moutinho</em> j&aacute; trabalha com os<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o Moutinho - DN",
+            "originalURL": "http://www.dn.pt/tag/joao-moutinho.html",
+            "snippet": "<em>Jo&atilde;o</em> <em>Moutinho</em> - DN S&aacute;bado 14 de janeiro de 2017 06:36 Fundado em 29 de dezembro de 1864 Menu<span class=\"ellipsis\"> ... </span> Assinar o DN Conhe&ccedil;a a nossa app m&oacute;vel App Store Google Play <em>Jo&atilde;o</em> <em>Moutinho</em> Siga-nos Siga-nos no Facebook<span class=\"ellipsis\"> ... </span> enchente nas bancadas 27 JUNHO 2016 Euro 2016 <em>Jo&atilde;o</em> <em>Moutinho</em> Marcoussis treino Andr&eacute; Gomes e Raphael<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Coisas... e tal: Biografia de hoje... Jo\u00e3o Moutinho",
+            "originalURL": "http://coisasetal98.blogspot.pt/2012/07/biografia-de-hoje-joao-moutinho.html",
+            "snippet": "Coisas... e tal: Biografia de hoje... <em>Jo&atilde;o</em> <em>Moutinho</em> Coisas... e tal s&aacute;bado, 21 de julho de 2012 Biografia de hoje... <em>Jo&atilde;o</em> <em>Moutinho</em> &nbsp;A biografia de hoje e para come&ccedil;ar esta rubrica em grande o meu jogador favorito <em>Jo&atilde;o</em> <em>Moutinho</em>. <em>Jo&atilde;o</em> Filipe Iria Santos <em>Moutinho</em> (Portim&atilde;o, 8 de setembro de 1986) &eacute; um<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "TVMais | Fotogaleria: Jo\u00e3o Moutinho batiza a filha",
+            "originalURL": "http://tvmais.sapo.pt/celebridades/2011-06-14-fotogaleria-joao-moutinho-batiza-a-filha3",
+            "snippet": "TVMais | Fotogaleria: <em>Jo&atilde;o</em> <em>Moutinho</em> batiza a filha tvmais em parceria com a Activa Menu Home<span class=\"ellipsis\"> ... </span> Linkedin Pinterest Link: Famosos Fotogaleria: <em>Jo&atilde;o</em> <em>Moutinho</em> batiza a filha M&eacute;dio do F.C.Porto juntou<span class=\"ellipsis\"> ... </span> tvmais Fotos: Rui Minderico/A-Gosto 14 de Junho de 2011 <em>Jo&atilde;o</em> <em>Moutinho</em> escolheu o feriado do Dia de<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Gigante italiano faz mira a Jo\u00e3o Moutinho",
+            "originalURL": "http://www.ojogo.pt/internacional/portugueses/noticias/interior/amp/gigante-italiano-faz-mira-a-joao-moutinho-5599949.html",
+            "snippet": "Gigante italiano faz mira a <em>Jo&atilde;o</em> <em>Moutinho</em> FUTEBOL MODALIDADES OPINI&Atilde;O CLASSIFICA&Ccedil;&Otilde;ES DIRETOS &Aacute;rea J<span class=\"ellipsis\"> ... </span> In&iacute;cio MODALIDADES In&iacute;cio Internacional Portugueses Gigante italiano faz mira a <em>Jo&atilde;o</em> <em>Moutinho</em> &nbsp;foto&nbsp;EPA/SEBASTIEN NOGIER M&eacute;dio do M&oacute;naco est&aacute; na lista de prioridades do Roma. Aos 30 anos, <em>Jo&atilde;o</em> <em>Moutinho</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o Moutinho: O FC Porto marcou nas oportunidades que criou",
+            "originalURL": "http://brazil.shafaqna.com/PT/BR/3840636",
+            "snippet": "&#65279; <em>Jo&atilde;o</em> <em>Moutinho</em>: O FC Porto marcou nas oportunidades que criou &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; English &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Brazil Brazil News Wednesday 27 September 2017 Contact US &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Archive ojogo 22 hours ago <em>Jo&atilde;o</em> <em>Moutinho</em>: O FC<span class=\"ellipsis\"> ... </span> passageiros nos A&ccedil;ores mant&eacute;m crescimento - ojogo Hashtags: &nbsp;&nbsp; <em>Jo&atilde;o</em> &nbsp;|&nbsp; <em>Moutinho</em> &nbsp;|&nbsp; Porto &nbsp;|&nbsp; marcou<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Fran\u00e7a: Jo\u00e3o Moutinho assiste na vit\u00f3ria do M\u00f3naco | Maisfutebol.iol.pt",
+            "originalURL": "http://www.maisfutebol.iol.pt/internacional/made-in/franca-joao-moutinho-assiste-na-vitoria-do-monaco",
+            "snippet": "Fran&ccedil;a: <em>Jo&atilde;o</em> <em>Moutinho</em> assiste na vit&oacute;ria do M&oacute;naco | Maisfutebol.iol.pt MENU MAISFUTEBOL Facebook<span class=\"ellipsis\"> ... </span> Internacional Hoje &agrave;s 17:50 Fran&ccedil;a: <em>Jo&atilde;o</em> <em>Moutinho</em> assiste na vit&oacute;ria do M&oacute;naco Triunfo por duas bolas a<span class=\"ellipsis\"> ... </span> Leonardo Jardim chegou &agrave; vit&oacute;ria na segunda parte e teve a contribui&ccedil;&atilde;o de <em>Jo&atilde;o</em> <em>Moutinho</em> no desatar do<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Sele\u00e7\u00e3o: Jo\u00e3o Moutinho ainda ausente | Maisfutebol.iol.pt - M\u00e9dio n\u00e3o integra sess\u00e3o desta ter\u00e7a-fei",
+            "originalURL": "http://www.maisfutebol.iol.pt/seleccao/selecao-joao-moutinho-portugal-israel-azerbaijao/1430893-1194.html",
+            "snippet": "Sele&ccedil;&atilde;o: <em>Jo&atilde;o</em> <em>Moutinho</em> ainda ausente | Maisfutebol.iol.pt - M&eacute;dio n&atilde;o integra sess&atilde;o desta ter&ccedil;a<span class=\"ellipsis\"> ... </span> fant&aacute;stica Sele&ccedil;&atilde;o 19 mar 2013, 11:05 Sele&ccedil;&atilde;o: <em>Jo&atilde;o</em> <em>Moutinho</em> ainda ausente M&eacute;dio n&atilde;o integra sess&atilde;o desta<span class=\"ellipsis\"> ... </span> Redac&ccedil;&atilde;o <em>Jo&atilde;o</em> <em>Moutinho</em> continua ausente dos treinos da sele&ccedil;&atilde;o. O m&eacute;dio do FC Porto n&atilde;o participa na<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jemerson explica alcunhas de Bernardo Silva e Jo\u00e3o Moutinho - Fran\u00e7a - Jornal Record",
+            "originalURL": "http://www.record.pt/internacional/paises/franca/detalhe/jemerson-explica-alcunhas-de-bernardo-silva-e-joao-moutinho.html",
+            "snippet": "Jemerson explica alcunhas de Bernardo Silva e <em>Jo&atilde;o</em> <em>Moutinho</em> - Fran&ccedil;a - Jornal Record Sexta-feira<span class=\"ellipsis\"> ... </span> explica alcunhas de Bernardo Silva e <em>Jo&atilde;o</em> <em>Moutinho</em> Defesa brasileiro aceitou desafio do 'L'&Eacute;quipe<span class=\"ellipsis\"> ... </span> aos companheiros de equipa. <em>Jo&atilde;o</em> <em>Moutinho</em> e Bernardo Silva n&atilde;o escaparam &agrave; aprecia&ccedil;&atilde;o do defesa<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Mercado: Roma pisca o olho a Jo\u00e3o Moutinho | Futebol 365",
+            "originalURL": "http://www.futebol365.pt/artigo/163157-mercado-roma-pisca-o-olho-a-joao-moutinho/?utm_source=aeiou&utm_medium=feed&utm_campaign=destaque_aeiou",
+            "snippet": "Mercado: Roma pisca o olho a <em>Jo&atilde;o</em> <em>Moutinho</em> | Futebol 365 Caro visitante, Repar&aacute;mos que tem um Ad<span class=\"ellipsis\"> ... </span> Home &raquo; Not&iacute;cias &raquo; Internacional Mercado: Roma pisca o olho a <em>Jo&atilde;o</em> <em>Moutinho</em> por Rog&eacute;rio Dias, publicado a 11-01-2017 &agrave;s 12:06 Serie A Roma Monaco <em>Jo&atilde;o</em> <em>Moutinho</em> Leonardo Jardim Luciano Spalletti Mercado de<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "V\u00cdDEO Jo\u00e3o Moutinho levantou o est\u00e1dio com este gola\u00e7o",
+            "originalURL": "http://www.ojogo.pt/internacional/portugueses/noticias/interior/moutinho-levantou-o-estadio-com-este-golaco-pleno-de-intencao-5718982.html",
+            "snippet": "V&Iacute;DEO <em>Jo&atilde;o</em> <em>Moutinho</em> levantou o est&aacute;dio com este gola&ccedil;o Destaques I Liga II Liga Camp. Portugal (1<span class=\"ellipsis\"> ... </span> Portugueses V&Iacute;DEO <em>Jo&atilde;o</em> <em>Moutinho</em> levantou o est&aacute;dio com este gola&ccedil;o V&Iacute;DEO <em>Jo&atilde;o</em> <em>Moutinho</em> levantou o est&aacute;dio<span class=\"ellipsis\"> ... </span> s&oacute; mais um gordo no mundo&quot; Portugueses V&Iacute;DEO <em>Jo&atilde;o</em> <em>Moutinho</em> levantou o est&aacute;dio com este gola&ccedil;o<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o Moutinho deixa elogios ao FC Porto - Liga dos Campe\u00f5es - Jornal Record",
+            "originalURL": "http://www.record.pt/internacional/competicoes-de-clubes/liga-dos-campeoes/detalhe/joao-moutinho-deixa-elogios-ao-fc-porto.html",
+            "snippet": "<em>Jo&atilde;o</em> <em>Moutinho</em> deixa elogios ao FC Porto - Liga dos Campe&otilde;es - Jornal Record Sexta-feira, 26 de<span class=\"ellipsis\"> ... </span> dos Campe&otilde;es 0 0 13h39 <em>Jo&atilde;o</em> <em>Moutinho</em> deixa elogios ao FC Porto Monaco vai defrontar os drag&otilde;es na Liga dos Campe&otilde;es Foto: V&iacute;tor Chi <em>Jo&atilde;o</em> <em>Moutinho</em> deixou elogios ao FC&nbsp;Porto, equipa onde j&aacute; alinhou e<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Not\u00edcias ao Minuto - O que Neymar fez a Jo\u00e3o Moutinho\u2026 n\u00e3o se faz",
+            "originalURL": "https://www.noticiasaominuto.com/n/906938/?&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer&utm_content=desporto",
+            "snippet": "Not&iacute;cias ao Minuto - O que Neymar fez a <em>Jo&atilde;o</em> <em>Moutinho</em>&#8230; n&atilde;o se faz 15&ordm; &Uacute;ltima Hora Pa&iacute;s CGTP H&aacute; 2<span class=\"ellipsis\"> ... </span>&quot; O que Neymar fez a <em>Jo&atilde;o</em> <em>Moutinho</em>&#8230; n&atilde;o se faz &copy; D.R. O que Neymar fez a <em>Jo&atilde;o</em> <em>Moutinho</em>&#8230; n&atilde;o se faz &copy; D.R. Partilhe este v&iacute;deo O que Neymar fez a <em>Jo&atilde;o</em> <em>Moutinho</em>&#8230; n&atilde;o se faz Drible acabou com o<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Revista de Imprensa \u00bb A vis\u00e3o sobre Bernardo Silva, Jo\u00e3o Moutinho, Lemar, Martial \u2013 Zero Zero",
+            "originalURL": "http://revistadeimprensa.com/desporto/a-visao-sobre-bernardo-silva-joao-moutinho-lemar-martial-zero-zero/",
+            "snippet": "Revista de Imprensa &raquo; A vis&atilde;o sobre Bernardo Silva, <em>Jo&atilde;o</em> <em>Moutinho</em>, Lemar, Martial &#8211; Zero Zero<span class=\"ellipsis\"> ... </span> Revista Activa Revista Vidas A vis&atilde;o sobre Bernardo Silva, <em>Jo&atilde;o</em> <em>Moutinho</em>, Lemar, Martial &#8211; Zero Zero<span class=\"ellipsis\"> ... </span> adepto portugu&ecirc;s. Leia o resto da not&iacute;cia aqui: A vis&atilde;o sobre Bernardo Silva, <em>Jo&atilde;o</em> <em>Moutinho</em>, Lemar<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Tribuna Expresso | Jo\u00e3o Moutinho: \u201cAqui em Fran\u00e7a, as pessoas t\u00eam a mania de questionar muito quem v",
+            "originalURL": "http://tribunaexpresso.pt/multimedia/2017-05-26-Joao-Moutinho-Aqui-em-Franca-as-pessoas-tem-a-mania-de-questionar-muito-quem-vem-de-fora",
+            "snippet": "Tribuna Expresso | <em>Jo&atilde;o</em> <em>Moutinho</em>: &#8220;Aqui em Fran&ccedil;a, as pessoas t&ecirc;m a mania de questionar muito quem<span class=\"ellipsis\"> ... </span> Menu Multim&eacute;dia <em>Jo&atilde;o</em> <em>Moutinho</em>: &#8220;Aqui em Fran&ccedil;a, as pessoas t&ecirc;m a mania de questionar muito quem vem de fora&#8221; Entrevista SIC <em>Jo&atilde;o</em> <em>Moutinho</em> &eacute; um dos 24 jogadores convocados por Fernando Santos para a<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Apresenta\u00e7\u00e3o Projecto - Cross Platform",
+            "originalURL": "http://moutinho.blogs.ua.sapo.pt/909.html",
+            "snippet": " 00:26 ahha, ta altamente <em>Jo&atilde;o</em> <em>Moutinho</em>! Ups, Tiago <em>Moutinho</em>! :DD Good work! responder a coment&aacute;rio<span class=\"ellipsis\"> ... </span> por tiago-<em>moutinho</em> &agrave;s 20:16 link do post | comentar | adicionar aos favoritos | 3 coment&aacute;rios: De<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Bem-vindo ao Teatro Nacional S\u00e3o Jo\u00e3o",
+            "originalURL": "http://www.tnsj.pt/home/index.php",
+            "snippet": "Bem-vindo ao Teatro Nacional S&atilde;o <em>Jo&atilde;o</em> N&uacute;mero verde: 800 108 675 Programa&ccedil;&atilde;o Institui&ccedil;&atilde;o Miss&atilde;o<span class=\"ellipsis\"> ... </span> desenho de luz Wilma <em>Moutinho</em> desenho de som Nelson Carvalho movimento Victor Hugo Pontes interpreta&ccedil;&atilde;o<span class=\"ellipsis\"> ... </span>); <em>Jo&atilde;o</em> Monteiro, Maria Quintelas, Pedro Frias (atores) produ&ccedil;&atilde;o TNSJ estreia 5Jan2017 Teatro Carlos<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "poetaporkedeusker",
+            "originalURL": "http://poetaporkedeusker.blogs.sapo.pt/",
+            "snippet": " desfolho malmequeres Agora, &eacute; o ... Ler artigo tags: eu , glosas , <em>jo&atilde;o</em> <em>moutinho</em> publicado por<span class=\"ellipsis\"> ... </span>... . EXPLICAR-VOS TUDO, N&Atilde;O SA... . GLOSANDO MARIA DA ENCARNA... . GLOSANDO <em>JO&Atilde;O</em> <em>MOUTINHO</em> . GLOSANDO A POETISA<span class=\"ellipsis\"> ... </span>poetaporkedeusker &nbsp; .UM BLOG SOBRE SONETO CL&Aacute;SSICO Da autoria de Maria <em>Jo&atilde;o</em> Brito de Sousa, s&oacute;cia n<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Projecto Vercial",
+            "originalURL": "http://alfarrabio.di.uminho.pt/vercial/moutinho.htm",
+            "snippet": "Projecto Vercial Jos&eacute; Viale <em>Moutinho</em> Jos&eacute; Viale <em>Moutinho</em> nasceu no Funchal no dia 12/6/1945<span class=\"ellipsis\"> ... </span> desenhos de Fernando Lanhas. Lisboa: Caminho, 1989; As Portas Entreabertas (1975/85). Pref&aacute;cio de <em>Jo&atilde;o</em><span class=\"ellipsis\"> ... </span> , org. Eug&eacute;nio de Andrade. Porto: O Oiro do Dia , 1983. 3&ordf; ed; Contos &#150; Com desenhos de <em>Jo&atilde;o</em> Abel Manta<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "(IM)PARCIAL: BYE BYE MOUTINHO, SEGUE O TEU CAMINHO",
+            "originalURL": "http://im-parcial.blogspot.pt/2010/07/bye-bye-moutinho-segue-o-teu-caminho.html",
+            "snippet": " condi&ccedil;&otilde;es para continuar a ser capit&atilde;o. <em>Jo&atilde;o</em> <em>Moutinho</em> passou a n&atilde;o contar com o Sporting, e o Sporting n&atilde;o contava com <em>Jo&atilde;o</em> <em>Moutinho</em>. - A certa altura tent&aacute;mos encontrar uma solu&ccedil;&atilde;o no mercado e o <em>Jo&atilde;o</em> foi<span class=\"ellipsis\"> ... </span> &uacute;ltima vez que falarei sobre o <em>Jo&atilde;o</em> <em>Moutinho</em>. . - Se o clube fosse meu, talvez admitisse deix&aacute;-lo<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "(IM)PARCIAL: MIGUEL SOUSA TAVARES E A TRANSFER\u00caNCIA DE MOUTINHO",
+            "originalURL": "http://im-parcial.blogspot.pt/2010/07/miguel-sousa-tavares-e-transferencia-de.html",
+            "snippet": " Coelho? Eu n&atilde;o sei, mas sei isto: o <em>Jo&atilde;o</em> <em>moutinho</em> est&aacute; em regress&atilde;o h&aacute; dois ou tr&ecirc;s anos, &eacute; um<span class=\"ellipsis\"> ... </span> bateu a cl&aacute;usula de rescis&atilde;o de <em>Jo&atilde;o</em> <em>Moutinho</em>: 22,5 milh&otilde;es. - O Sporting livrou-se de um problema sem<span class=\"ellipsis\"> ... </span>(IM)PARCIAL: MIGUEL SOUSA TAVARES E A TRANSFER&Ecirc;NCIA DE <em>MOUTINHO</em> (IM)PARCIAL A verdade d&oacute;i... quarta<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "M\u00f3naco empata com golo de \u201cPr\u00edncipe\u201d Moutinho - Futebol Portugal",
+            "originalURL": "http://futebolportugal.com/monaco-empata-com-golo-de-principe-moutinho/",
+            "snippet": " durou pouco tempo pois, o empate do M&oacute;naco n&atilde;o tardou. O m&eacute;dio portugu&ecirc;s <em>Jo&atilde;o</em> <em>Moutinho</em> &#8211; titular<span class=\"ellipsis\"> ... </span>M&oacute;naco empata com golo de &#8220;Pr&iacute;ncipe&#8221; <em>Moutinho</em> - Futebol Portugal In&iacute;cio Comunidade Futebol<span class=\"ellipsis\"> ... </span> &#8220;Pr&iacute;ncipe&#8221; <em>Moutinho</em> Destaques Internacional M&oacute;naco empata com golo de &#8220;Pr&iacute;ncipe&#8221; <em>Moutinho</em> M&oacute;naco<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Euro2016: Moutinho est\u00e1 recuperado e quer fazer hist\u00f3ria | R\u00e1dio Horizonte A\u00e7ores",
+            "originalURL": "http://horizonteacores.com/desporto/artigo/121",
+            "snippet": "Euro2016: <em>Moutinho</em> est&aacute; recuperado e quer fazer hist&oacute;ria | R&aacute;dio Horizonte A&ccedil;ores Not&iacute;cias Desporto Multim&eacute;dia Contactos &nbsp; Emiss&atilde;o On Line Euro2016: <em>Moutinho</em> est&aacute; recuperado e quer fazer hist&oacute;ria 2016-05-24 10:33:00 | R&aacute;dio Horizonte A&ccedil;ores <em>Jo&atilde;o</em> <em>Moutinho</em> afirmou hoje que Portugal quer fazer<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Revista de Imprensa \u00bb Filho de Jos\u00e9 Moutinho brilha no futebol universit\u00e1rio dos EUA \u2013 Vogue",
+            "originalURL": "http://revistadeimprensa.com/social/filho-de-jose-moutinho-brilha-no-futebol-universitario-dos-eua-vogue/",
+            "snippet": " do feed: RSS 2.0 . Comente! <em>Jo&atilde;o</em> <em>Moutinho</em>, filho do militar Jos&eacute; <em>Moutinho</em>, joga na equipa de futebol<span class=\"ellipsis\"> ... </span>Revista de Imprensa &raquo; Filho de Jos&eacute; <em>Moutinho</em> brilha no futebol universit&aacute;rio dos EUA &#8211; Vogue<span class=\"ellipsis\"> ... </span> Revista Bit PC Guia Tek Sapo Filho de Jos&eacute; <em>Moutinho</em> brilha no futebol universit&aacute;rio dos EUA &#8211; Vogue<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Moutinho garante: \u00abCom Leonardo Jardim todos os jogadores evoluem\u00bb | Futebol 365",
+            "originalURL": "http://www.futebol365.pt/artigo/175552-moutinho-garante-com-leonardo-jardim-todos-os-jogadores-evoluem/?utm_source=aeiou&utm_medium=feed&utm_campaign=destaque_aeiou",
+            "snippet": " todos os jogadores evoluem&raquo; por Rog&eacute;rio Dias, publicado a 10-08-2017 &agrave;s 18:08 Monaco <em>Jo&atilde;o</em> <em>Moutinho</em> Leonardo Jardim <em>Jo&atilde;o</em> <em>Moutinho</em>, internacional portugu&ecirc;s, come&ccedil;ou da melhor forma a nova &eacute;poca, tendo<span class=\"ellipsis\"> ... </span> o m&eacute;dio portugu&ecirc;s <em>Jo&atilde;o</em> <em>Moutinho</em>. A pr&oacute;xima partida do Monaco na Ligue 1 &eacute; diante do Dijon, onde o<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Not\u00edcias ao Minuto - N\u00e3o h\u00e1 Mbapp\u00e9, h\u00e1 Jemerson: Gola\u00e7o a cruzamento de Moutinho",
+            "originalURL": "https://www.noticiasaominuto.com/desporto/847322/nao-ha-mbappe-ha-jemerson-golaco-a-cruzamento-de-moutinho",
+            "snippet": " 25 minutos, ap&oacute;s canto marcado por <em>Jo&atilde;o</em> <em>Moutinho</em>, desferiu um pontap&eacute; de bicicleta que n&atilde;o deu<span class=\"ellipsis\"> ... </span>Not&iacute;cias ao Minuto - N&atilde;o h&aacute; Mbapp&eacute;, h&aacute; Jemerson: Gola&ccedil;o a cruzamento de <em>Moutinho</em> 16&ordm; &Uacute;ltima Hora<span class=\"ellipsis\"> ... </span>: Transfer&ecirc;ncias e principais rumores de mercado N&atilde;o h&aacute; Mbapp&eacute;, h&aacute; Jemerson: Gola&ccedil;o a cruzamento de <em>Moutinho</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Pepe, Eliseu, C\u00e9dric e Moutinho s\u00e3o as novidades nos convocados de Fernando Santos :: Jornal da Regi",
+            "originalURL": "http://www.jornaldaregiao.pt/products/pepe-eliseu-cedric-e-moutinho-sao-as-novidades-nos-convocados-de-fernando-santos/",
+            "snippet": " Santos Os defesas Pepe, Eliseu e C&eacute;dric e o m&eacute;dio <em>Jo&atilde;o</em> <em>Moutinho</em> s&atilde;o as novidades na convocat&oacute;ria da<span class=\"ellipsis\"> ... </span> Gomes (FC Barcelona/Esp) e <em>Jo&atilde;o</em> <em>Moutinho</em> (M&oacute;naco/Fra). &nbsp; - Avan&ccedil;ados: Bernardo Silva (M&oacute;naco/Fra<span class=\"ellipsis\"> ... </span>Pepe, Eliseu, C&eacute;dric e <em>Moutinho</em> s&atilde;o as novidades nos convocados de Fernando Santos :: Jornal da<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Pepe, Eliseu, C\u00e9dric e Moutinho s\u00e3o as novidades nos convocados de Fernando Santos :: Jornal da Regi",
+            "originalURL": "http://www.jornaldaregiao.pt/products/pepe-eliseu-cedric-e-moutinho-sao-as-novidades-nos-convocados-de-fernando-santos/",
+            "snippet": " Santos Os defesas Pepe, Eliseu e C&eacute;dric e o m&eacute;dio <em>Jo&atilde;o</em> <em>Moutinho</em> s&atilde;o as novidades na convocat&oacute;ria da<span class=\"ellipsis\"> ... </span> Gomes (FC Barcelona/Esp) e <em>Jo&atilde;o</em> <em>Moutinho</em> (M&oacute;naco/Fra). &nbsp; - Avan&ccedil;ados: Bernardo Silva (M&oacute;naco/Fra<span class=\"ellipsis\"> ... </span>Pepe, Eliseu, C&eacute;dric e <em>Moutinho</em> s&atilde;o as novidades nos convocados de Fernando Santos :: Jornal da<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Pepe, Eliseu, C\u00e9dric e Moutinho s\u00e3o as novidades nos convocados de Fernando Santos :: Jornal da Regi",
+            "originalURL": "http://jregiao-online.webnode.pt/products/pepe-eliseu-cedric-e-moutinho-sao-as-novidades-nos-convocados-de-fernando-santos/",
+            "snippet": " Santos Os defesas Pepe, Eliseu e C&eacute;dric e o m&eacute;dio <em>Jo&atilde;o</em> <em>Moutinho</em> s&atilde;o as novidades na convocat&oacute;ria da<span class=\"ellipsis\"> ... </span> Gomes (FC Barcelona/Esp) e <em>Jo&atilde;o</em> <em>Moutinho</em> (M&oacute;naco/Fra). &nbsp; - Avan&ccedil;ados: Bernardo Silva (M&oacute;naco/Fra<span class=\"ellipsis\"> ... </span>Pepe, Eliseu, C&eacute;dric e <em>Moutinho</em> s&atilde;o as novidades nos convocados de Fernando Santos :: Jornal da<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Pepe, Eliseu, C\u00e9dric e Moutinho s\u00e3o as novidades nos convocados de Fernando Santos :: Jornal da Regi",
+            "originalURL": "http://jregiao-online.webnode.pt/products/pepe-eliseu-cedric-e-moutinho-sao-as-novidades-nos-convocados-de-fernando-santos/",
+            "snippet": " Santos Os defesas Pepe, Eliseu e C&eacute;dric e o m&eacute;dio <em>Jo&atilde;o</em> <em>Moutinho</em> s&atilde;o as novidades na convocat&oacute;ria da<span class=\"ellipsis\"> ... </span> Gomes (FC Barcelona/Esp) e <em>Jo&atilde;o</em> <em>Moutinho</em> (M&oacute;naco/Fra). &nbsp; - Avan&ccedil;ados: Bernardo Silva (M&oacute;naco/Fra<span class=\"ellipsis\"> ... </span>Pepe, Eliseu, C&eacute;dric e <em>Moutinho</em> s&atilde;o as novidades nos convocados de Fernando Santos :: Jornal da<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "M\u00f3naco vence Bord\u00e9us por 2-0 com assist\u00eancia de Moutinho - Futebol Internacional - Desporto - RTP No",
+            "originalURL": "http://www.rtp.pt/noticias/futebol-internacional/monaco-vence-bordeus-por-2-0-com-assistencia-de-moutinho_d1036958",
+            "snippet": " | Futebol Internacional Legenda da Imagem | Reuters <em>Jo&atilde;o</em> <em>Moutinho</em> ajudou hoje &agrave; vit&oacute;ria do M&oacute;naco, ao<span class=\"ellipsis\"> ... </span> portugu&ecirc;s <em>Jo&atilde;o</em> <em>Moutinho</em> a assistir, de cabe&ccedil;a, o senegal&ecirc;s Keita Bald&eacute; para o primeiro golo, aos 57<span class=\"ellipsis\"> ... </span>M&oacute;naco vence Bord&eacute;us por 2-0 com assist&ecirc;ncia de <em>Moutinho</em> - Futebol Internacional - Desporto - RTP<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Pepe, Eliseu, C\u00e9dric e Moutinho s\u00e3o as novidades nos convocados de Fernando Santos :: Jornal da Regi",
+            "originalURL": "http://m.jregiao-online.webnode.pt/products/pepe-eliseu-cedric-e-moutinho-sao-as-novidades-nos-convocados-de-fernando-santos/",
+            "snippet": " Santos Os defesas Pepe, Eliseu e C&eacute;dric e o m&eacute;dio <em>Jo&atilde;o</em> <em>Moutinho</em> s&atilde;o as novidades na convocat&oacute;ria da<span class=\"ellipsis\"> ... </span> Gomes (FC Barcelona/Esp) e <em>Jo&atilde;o</em> <em>Moutinho</em> (M&oacute;naco/Fra). &nbsp; - Avan&ccedil;ados: Bernardo Silva (M&oacute;naco/Fra<span class=\"ellipsis\"> ... </span>Pepe, Eliseu, C&eacute;dric e <em>Moutinho</em> s&atilde;o as novidades nos convocados de Fernando Santos :: Jornal da<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Pepe, Eliseu, C\u00e9dric e Moutinho s\u00e3o as novidades nos convocados de Fernando Santos :: Jornal da Regi",
+            "originalURL": "http://m.jregiao-online.webnode.pt/products/pepe-eliseu-cedric-e-moutinho-sao-as-novidades-nos-convocados-de-fernando-santos/",
+            "snippet": " Santos Os defesas Pepe, Eliseu e C&eacute;dric e o m&eacute;dio <em>Jo&atilde;o</em> <em>Moutinho</em> s&atilde;o as novidades na convocat&oacute;ria da<span class=\"ellipsis\"> ... </span> Gomes (FC Barcelona/Esp) e <em>Jo&atilde;o</em> <em>Moutinho</em> (M&oacute;naco/Fra). &nbsp; - Avan&ccedil;ados: Bernardo Silva (M&oacute;naco/Fra<span class=\"ellipsis\"> ... </span>Pepe, Eliseu, C&eacute;dric e <em>Moutinho</em> s&atilde;o as novidades nos convocados de Fernando Santos :: Jornal da<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Estrelas do FCP: Jo\u00e3o Pinto",
+            "originalURL": "http://estrelas-do-fcp.blogspot.pt/2008/03/joo-pinto.html",
+            "snippet": " Sandro Casemiro Danilo Jackson Mart&iacute;nez James Rodr&iacute;guez <em>Jo&atilde;o</em> <em>Moutinho</em> Mangala Otamendi . Treinadores<span class=\"ellipsis\"> ... </span>Estrelas do FCP: <em>Jo&atilde;o</em> Pinto 9 de mar&ccedil;o de 2008 <em>Jo&atilde;o</em> Pinto <em>Jo&atilde;o</em> Domingos da Silva Pinto nasceu no<span class=\"ellipsis\"> ... </span> temporada a Ta&ccedil;a Associa&ccedil;&atilde;o de Futebol do Porto. Em 1982/83 j&aacute; com Pedroto a treinador, <em>Jo&atilde;o</em> Pinto<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Estrelas do FCP: Jo\u00e3o Pinto",
+            "originalURL": "http://estrelas-do-fcp.blogspot.pt/2008/03/joo-pinto.html",
+            "snippet": " Rodr&iacute;guez <em>Jo&atilde;o</em> <em>Moutinho</em> Mangala Otamendi . Treinadores Adolph Cassaigne Akos Teszler Alexandre Cal Andr&eacute;<span class=\"ellipsis\"> ... </span>Estrelas do FCP: <em>Jo&atilde;o</em> Pinto 9 de mar&ccedil;o de 2008 <em>Jo&atilde;o</em> Pinto <em>Jo&atilde;o</em> Domingos da Silva Pinto nasceu no<span class=\"ellipsis\"> ... </span> temporada a Ta&ccedil;a Associa&ccedil;&atilde;o de Futebol do Porto. Em 1982/83 j&aacute; com Pedroto a treinador, <em>Jo&atilde;o</em> Pinto<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Vis\u00e3o de Mercado: FC Porto com 100 por cento do passe de Moutinho (Drag\u00f5es com a venda e compra ao f",
+            "originalURL": "http://visaodemercado.blogspot.pt/2013/01/fc-porto-com-100-por-cento-do-passe-de.html",
+            "snippet": " de euros &agrave; Mamers B.V. Mais tarde readquiriram 22,5% do passe de <em>Jo&atilde;o</em> <em>Moutinho</em>, por quatro milh&otilde;es<span class=\"ellipsis\"> ... </span>Vis&atilde;o de Mercado: FC Porto com 100 por cento do passe de <em>Moutinho</em> (Drag&otilde;es com a venda e compra ao<span class=\"ellipsis\"> ... </span> Porto com 100 por cento do passe de <em>Moutinho</em> (Drag&otilde;es com a venda e compra ao fundo ficaram com um<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Vis\u00e3o de Mercado: FC Porto com 100 por cento do passe de Moutinho (Drag\u00f5es com a venda e compra ao f",
+            "originalURL": "http://visaodemercado.blogspot.pt/2013/01/fc-porto-com-100-por-cento-do-passe-de.html",
+            "snippet": " de euros &agrave; Mamers B.V. Mais tarde readquiriram 22,5% do passe de <em>Jo&atilde;o</em> <em>Moutinho</em>, por quatro milh&otilde;es<span class=\"ellipsis\"> ... </span>Vis&atilde;o de Mercado: FC Porto com 100 por cento do passe de <em>Moutinho</em> (Drag&otilde;es com a venda e compra ao<span class=\"ellipsis\"> ... </span> Porto com 100 por cento do passe de <em>Moutinho</em> (Drag&otilde;es com a venda e compra ao fundo ficaram com um<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Reflex\u00e3o Portista: \"Pode ser o Jo\u00e3o...\"",
+            "originalURL": "http://www.reflexaoportista.pt/2009/03/pode-ser-o-joao.html",
+            "snippet": " final do jogo. Pois bem, quer o treinador, quer os jogadores Polga, <em>Jo&atilde;o</em> <em>Moutinho</em>, Pedro Silva e<span class=\"ellipsis\"> ... </span>) <em>Jo&atilde;o</em> Marcelino (2) <em>Jo&atilde;o</em> <em>Moutinho</em> (48) <em>Jo&atilde;o</em> Paulo (1) <em>Jo&atilde;o</em> Pinheiro (2) <em>Jo&atilde;o</em> Pinto (7) <em>Jo&atilde;o</em> Querido<span class=\"ellipsis\"> ... </span>Reflex&atilde;o Portista: &quot;Pode ser o <em>Jo&atilde;o</em>...&quot; domingo, 1 de mar&ccedil;o de 2009 &quot;Pode ser o <em>Jo&atilde;o</em>...&quot; Para quem<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Bem-vindo ao Teatro Nacional S\u00e3o Jo\u00e3o",
+            "originalURL": "http://www.tnsj.pt/home/espetaculo.php?intShowID=423",
+            "snippet": ") <em>Jo&atilde;o</em> <em>Moutinho</em> (viola) dire&ccedil;&atilde;o musical Miguel Amaral dire&ccedil;&atilde;o c&eacute;nica Nuno Carinhas produ&ccedil;&atilde;o TNSJ dur<span class=\"ellipsis\"> ... </span>Bem-vindo ao Teatro Nacional S&atilde;o <em>Jo&atilde;o</em> N&uacute;mero verde: 800 108 675 Programa&ccedil;&atilde;o Institui&ccedil;&atilde;o Miss&atilde;o Hist&oacute;ria Uni&atilde;o dos Teatros da Europa 5 Sentidos - Rede de Programa&ccedil;&atilde;o Cultural TNSJ TeCA MSBV Ficha<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Gordo, vai \u00e0 baliza!: O Tio Bruno (Obrigado Jo\u00e3o!)",
+            "originalURL": "http://gordovaiabaliza.blogspot.pt/2013/03/o-tio-bruno-obrigado-joao.html",
+            "snippet": " Jesualdo Ferreira <em>Jo&atilde;o</em> Cancelo <em>Jo&atilde;o</em> Capela <em>Jo&atilde;o</em> Gobern <em>Jo&atilde;o</em> Loureiro <em>Jo&atilde;o</em> <em>Moutinho</em> <em>Jo&atilde;o</em> Pereira Joey<span class=\"ellipsis\"> ... </span>Gordo, vai &agrave; baliza!: O Tio Bruno (Obrigado <em>Jo&atilde;o</em>!) skip to main | skip to sidebar 24 mar&ccedil;o 2013 O Tio Bruno (Obrigado <em>Jo&atilde;o</em>!) O GIF que prova que ningu&eacute;m goza com ele. Chutado para canto por B. &agrave;(s<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o Capela goleia por 11x0 | O Tribunal do Drag\u00e3o",
+            "originalURL": "http://otribunaldodragao.blogspot.pt/2016/02/joao-capela-goleia-por-11x0.html",
+            "snippet": " (33) <em>Jo&atilde;o</em> <em>Moutinho</em> (1) Jogadores emprestados (22) Joris Kayembe (2) Jos&eacute; &Aacute;ngel (5) Jos&eacute; Campa&ntilde;a (4<span class=\"ellipsis\"> ... </span><em>Jo&atilde;o</em> Capela goleia por 11x0 | O Tribunal do Drag&atilde;o skip to main | skip to sidebar Pages P&aacute;gina inicial Agenda FC Porto Porto Canal O Tribunal do Drag&atilde;o quarta-feira, 24 de fevereiro de 2016 <em>Jo&atilde;o</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Gordo, vai \u00e0 baliza!: O Tio Bruno (Obrigado Jo\u00e3o!)",
+            "originalURL": "http://gordovaiabaliza.blogspot.pt/2013/03/o-tio-bruno-obrigado-joao.html",
+            "snippet": " Gobern <em>Jo&atilde;o</em> Loureiro <em>Jo&atilde;o</em> <em>Moutinho</em> <em>Jo&atilde;o</em> Pereira Joey Barton Jogadores Jogos Ol&iacute;mpicos Jonas Jonathan<span class=\"ellipsis\"> ... </span>Gordo, vai &agrave; baliza!: O Tio Bruno (Obrigado <em>Jo&atilde;o</em>!) skip to main | skip to sidebar 24 mar&ccedil;o 2013 O Tio Bruno (Obrigado <em>Jo&atilde;o</em>!) O GIF que prova que ningu&eacute;m goza com ele. Chutado para canto por B. &agrave;(s<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o Capela goleia por 11x0 | O Tribunal do Drag\u00e3o",
+            "originalURL": "http://otribunaldodragao.blogspot.pt/2016/02/joao-capela-goleia-por-11x0.html",
+            "snippet": " Rodrigues (2) Jackson Mart&iacute;nez (33) <em>Jo&atilde;o</em> <em>Moutinho</em> (1) Jogadores emprestados (22) Joris Kayembe (2) Jos&eacute;<span class=\"ellipsis\"> ... </span><em>Jo&atilde;o</em> Capela goleia por 11x0 | O Tribunal do Drag&atilde;o skip to main | skip to sidebar Pages P&aacute;gina inicial Agenda FC Porto Porto Canal O Tribunal do Drag&atilde;o quarta-feira, 24 de fevereiro de 2016 <em>Jo&atilde;o</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "O Artista do Dia: Futebol Portugu\u00eas: Um apelo a Jo\u00e3o Gabriel",
+            "originalURL": "http://oartistadodia.blogspot.pt/2015/12/um-apelo-joao-gabriel.html",
+            "snippet": " Capela <em>Jo&atilde;o</em> Gobern <em>Jo&atilde;o</em> M&aacute;rio <em>Jo&atilde;o</em> <em>Moutinho</em> <em>Jo&atilde;o</em> Palhinha <em>Jo&atilde;o</em> Pereira <em>Jo&atilde;o</em> Pinheiro <em>Jo&atilde;o</em> Querido<span class=\"ellipsis\"> ... </span>O Artista do Dia: Futebol Portugu&ecirc;s: Um apelo a <em>Jo&atilde;o</em> Gabriel ter&ccedil;a-feira, 15 de dezembro de 2015 Um apelo a <em>Jo&atilde;o</em> Gabriel Por favor compre uma televis&atilde;o no formato 16:9 para que Pedro Guerra possa<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Nova Gente | Semanario de actualidades",
+            "originalURL": "http://www.novagente.pt/pesquisa/etiquetas/julia-pinheiro-116/etiquetas/joao-moutinho-2697",
+            "snippet": " Pinheiro (-) Remove <em>Jo&atilde;o</em> <em>Moutinho</em> filter <em>Jo&atilde;o</em> <em>Moutinho</em> Procurar Nacional Veja os melhores momentos de<span class=\"ellipsis\"> ... </span> &uacute;ltimos finalistas do &uacute;ltimo programa da primeira edi&ccedil;&atilde;o foram escolhidos. Etiquetas (-) Remove <em>Jo&atilde;o</em> <em>Moutinho</em> filter <em>Jo&atilde;o</em> <em>Moutinho</em> (-) Remove J&uacute;lia Pinheiro filter J&uacute;lia Pinheiro Jos&eacute; Castelo Branco (1<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "O Artista do Dia: Futebol Portugu\u00eas: Um apelo a Jo\u00e3o Gabriel",
+            "originalURL": "http://oartistadodia.blogspot.pt/2015/12/um-apelo-joao-gabriel.html",
+            "snippet": " Capela <em>Jo&atilde;o</em> Gobern <em>Jo&atilde;o</em> M&aacute;rio <em>Jo&atilde;o</em> <em>Moutinho</em> <em>Jo&atilde;o</em> Palhinha <em>Jo&atilde;o</em> Pereira <em>Jo&atilde;o</em> Pinheiro <em>Jo&atilde;o</em> Querido<span class=\"ellipsis\"> ... </span>O Artista do Dia: Futebol Portugu&ecirc;s: Um apelo a <em>Jo&atilde;o</em> Gabriel ter&ccedil;a-feira, 15 de dezembro de 2015 Um apelo a <em>Jo&atilde;o</em> Gabriel Por favor compre uma televis&atilde;o no formato 16:9 para que Pedro Guerra possa<span class=\"ellipsis\"> ... </span>"
+        }
+    ]
+}

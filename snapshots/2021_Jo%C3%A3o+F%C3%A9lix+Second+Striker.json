@@ -1,0 +1,273 @@
+{
+    "serviceName": "Arquivo.pt - the Portuguese web-archive",
+    "linkToService": "https://arquivo.pt",
+    "next_page": "https://arquivo.pt/textsearch?q=Jo%C3%A3o+F%C3%A9lix&from=20210101000000&to=20211231235959&fields=title%2Csnippet%2CoriginalURL%2Ctimestamp&offset=50",
+    "estimated_nr_results": 214,
+    "request_parameters": {
+        "offset": 0,
+        "dedupValue": 2,
+        "from": "20210101000000",
+        "to": "20211231235959",
+        "fields": [
+            "title",
+            "snippet",
+            "originalURL",
+            "timestamp"
+        ],
+        "dedupField": "site",
+        "q": "Jo\u00e3o F\u00e9lix",
+        "maxItems": 50
+    },
+    "response_items": [
+        {
+            "title": "Jo\u00e3o F\u00e9lix atrasa recupera\u00e7\u00e3o de les\u00e3o devido a faringoamigdalite - R\u00e1dio Calheta",
+            "originalURL": "http://www.radiocalheta.pt/joao-felix-atrasa-recuperacao-de-lesao-devido-a-faringoamigdalite",
+            "snippet": "<em>Jo&atilde;o</em> <em>F&eacute;lix</em> atrasa recupera&ccedil;&atilde;o de les&atilde;o devido a faringoamigdalite - R&aacute;dio Calheta E. Editorial<span class=\"ellipsis\"> ... </span> Password? Home Not&iacute;cias JM-Madeira <em>Jo&atilde;o</em> <em>F&eacute;lix</em> atrasa recupera&ccedil;&atilde;o de les&atilde;o devido a faringoamigdalite JM-Madeira <em>Jo&atilde;o</em> <em>F&eacute;lix</em> atrasa recupera&ccedil;&atilde;o de les&atilde;o devido a faringoamigdalite O futebolista portugu&ecirc;s<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o F\u00e9lix ficou em terceiro na vota\u00e7\u00e3o do Trof\u00e9u Kopa - R\u00e1dio Calheta",
+            "originalURL": "http://www.radiocalheta.pt/joao-felix-ficou-em-terceiro-na-votacao-do-trofeu-kopa",
+            "snippet": "<em>Jo&atilde;o</em> <em>F&eacute;lix</em> ficou em terceiro na vota&ccedil;&atilde;o do Trof&eacute;u Kopa - R&aacute;dio Calheta E. Editorial Emiss&atilde;o Online<span class=\"ellipsis\"> ... </span> Not&iacute;cias JM-Madeira <em>Jo&atilde;o</em> <em>F&eacute;lix</em> ficou em terceiro na vota&ccedil;&atilde;o do Trof&eacute;u Kopa JM-Madeira <em>Jo&atilde;o</em> <em>F&eacute;lix</em><span class=\"ellipsis\"> ... </span> votado no Trof&eacute;u Kopa. <em>Jo&atilde;o</em> <em>F&eacute;lix</em> ficou em terceiro. Dezembro 2, 2019&nbsp;-&nbsp;19:55 Facebook Twitter Depois<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Noruegu\u00eas Erling Haaland sucede a Jo\u00e3o F\u00e9lix e vence o Golden Boy",
+            "originalURL": "http://portocanal.sapo.pt:443/noticia/244328",
+            "snippet": "Noruegu&ecirc;s Erling Haaland sucede a <em>Jo&atilde;o</em> <em>F&eacute;lix</em> e vence o Golden Boy IN&Iacute;CIO NOT&Iacute;CIAS PROGRAMAS V&Iacute;DEOS<span class=\"ellipsis\"> ... </span> &nbsp; Noruegu&ecirc;s Erling Haaland sucede a <em>Jo&atilde;o</em> <em>F&eacute;lix</em> e vence o Golden Boy 21-11-2020 12:58 | Desporto Porto<span class=\"ellipsis\"> ... </span> principais na Europa, sucedendo ao portugu&ecirc;s <em>Jo&atilde;o</em> <em>F&eacute;lix</em>. No pr&eacute;mio, atribu&iacute;do pelo jornal italiano<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Noruegu\u00eas Erling Haaland sucede a Jo\u00e3o F\u00e9lix e vence o Golden Boy",
+            "originalURL": "http://portocanal.sapo.pt/noticia/244328/",
+            "snippet": "Noruegu&ecirc;s Erling Haaland sucede a <em>Jo&atilde;o</em> <em>F&eacute;lix</em> e vence o Golden Boy IN&Iacute;CIO NOT&Iacute;CIAS PROGRAMAS V&Iacute;DEOS<span class=\"ellipsis\"> ... </span> &nbsp; Noruegu&ecirc;s Erling Haaland sucede a <em>Jo&atilde;o</em> <em>F&eacute;lix</em> e vence o Golden Boy 21-11-2020 12:58 | Desporto Porto<span class=\"ellipsis\"> ... </span> principais na Europa, sucedendo ao portugu&ecirc;s <em>Jo&atilde;o</em> <em>F&eacute;lix</em>. No pr&eacute;mio, atribu&iacute;do pelo jornal italiano<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Um Atl\u00e9tico muy Hermoso que venceu a Real Sociedad e j\u00e1 \u00e9 l\u00edder isolado (mesmo sem Jo\u00e3o F\u00e9lix)",
+            "originalURL": "https://observador.pt/2020/12/22/um-atletico-muy-hermoso-que-venceu-a-real-sociedad-e-ja-e-lider-isolado-mesmo-sem-joao-felix/amp/",
+            "snippet": "Um Atl&eacute;tico muy Hermoso que venceu a Real Sociedad e j&aacute; &eacute; l&iacute;der isolado (mesmo sem <em>Jo&atilde;o</em> <em>F&eacute;lix</em><span class=\"ellipsis\"> ... </span> Futebol Um Atl&eacute;tico muy Hermoso que venceu a Real Sociedad e j&aacute; &eacute; l&iacute;der isolado (mesmo sem <em>Jo&atilde;o</em> <em>F&eacute;lix</em><span class=\"ellipsis\"> ... </span> rea&ccedil;&atilde;o intempestiva de <em>Jo&atilde;o</em> <em>F&eacute;lix</em> quando foi substitu&iacute;do. E os &uacute;ltimos dias trouxeram um pux&atilde;o de<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Um Atl\u00e9tico muy Hermoso que venceu a Real Sociedad e j\u00e1 \u00e9 l\u00edder isolado (mesmo sem Jo\u00e3o F\u00e9lix) \u2013 Obs",
+            "originalURL": "https://observador.pt/2020/12/22/um-atletico-muy-hermoso-que-venceu-a-real-sociedad-e-ja-e-lider-isolado-mesmo-sem-joao-felix/",
+            "snippet": "Um Atl&eacute;tico muy Hermoso que venceu a Real Sociedad e j&aacute; &eacute; l&iacute;der isolado (mesmo sem <em>Jo&atilde;o</em> <em>F&eacute;lix</em><span class=\"ellipsis\"> ... </span> l&iacute;der isolado (mesmo sem <em>Jo&atilde;o</em>&nbsp;<em>F&eacute;lix</em>) <em>F&eacute;lix</em> n&atilde;o jogou devido a uma faringoamigdalite mas o Atl<span class=\"ellipsis\"> ... </span> &#8212; principalmente no que toca &agrave; rea&ccedil;&atilde;o intempestiva de <em>Jo&atilde;o</em> <em>F&eacute;lix</em> quando foi substitu&iacute;do. E os &uacute;ltimos dias<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Do gola\u00e7o de Cancelo aos remates de Jota e F\u00e9lix. Portugal goleia Cro\u00e1cia na Liga das Na\u00e7\u00f5es - TSF",
+            "originalURL": "https://www.tsf.pt/desporto/amp/diogo-jota-e-anthony-lopes-titulares-no-portugal-croacia-12677722.html",
+            "snippet": " gola&ccedil;o de Cancelo aos remates de Jota e <em>F&eacute;lix</em>. Portugal goleia Cro&aacute;cia na Liga das Na&ccedil;&otilde;es <em>Jo&atilde;o</em> Cancelo abriu o marcador com gola&ccedil;o antes do intervalo. Diogo Jota e <em>Jo&atilde;o</em> <em>F&eacute;lix</em> e Andr&eacute; Silva marcaram na<span class=\"ellipsis\"> ... </span>, Cancelo abriu o marcador com um gola&ccedil;o antes do intervalo. Na segunda parte, Diogo Jota, <em>Jo&atilde;o</em> <em>F&eacute;lix</em> e<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Do gola\u00e7o de Cancelo aos remates de Jota e F\u00e9lix. Portugal goleia Cro\u00e1cia na Liga das Na\u00e7\u00f5es - TSF",
+            "originalURL": "https://www.tsf.pt/desporto/diogo-jota-e-anthony-lopes-titulares-no-portugal-croacia-12677722.html",
+            "snippet": " Cancelo aos remates de Jota e <em>F&eacute;lix</em>. Portugal goleia Cro&aacute;cia na Liga das Na&ccedil;&otilde;es <em>Jo&atilde;o</em> Cancelo abriu o marcador com gola&ccedil;o antes do intervalo. Diogo Jota e <em>Jo&atilde;o</em> <em>F&eacute;lix</em> e Andr&eacute; Silva marcaram na segunda<span class=\"ellipsis\"> ... </span> Jota, <em>Jo&atilde;o</em> <em>F&eacute;lix</em> e Andr&eacute; Silva aumentaram a vantagem, fixando o resultado final. Em 2020 o mundo<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "R\u00e1dio Condest\u00e1vel - SERT\u00c3/EN2 \u2013 Caminhos que ligam e que unem \u2013 \u201cUma estrada de cultura\u201d",
+            "originalURL": "https://www.radiocondestavel.pt/radio/index.php/noticias/33775-serta-en2-caminhos-que-ligam-e-que-unem-uma-estrada-de-cultura",
+            "snippet": " estrada tem que ser de quem goste dela&#8221; O ultramaratonista <em>Jo&atilde;o</em> Paulo <em>F&eacute;lix</em> j&aacute; fez o percurso duas<span class=\"ellipsis\"> ... </span> redescobriram um sem n&uacute;mero de ofertas tur&iacute;sticas valiosas. <em>Jo&atilde;o</em> Paulo <em>F&eacute;lix</em> considera esta estrada um<span class=\"ellipsis\"> ... </span>. H&aacute; ainda outro encontro, o que teve com <em>Jo&atilde;o</em> <em>F&eacute;lix</em>. &#8220;Foi para mim uma alegria muito grande e<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Croatia Portugal Resultados ao vivo",
+            "originalURL": "https://www.sofascore.com/pt/amp/croatia-portugal/eUbspUb",
+            "snippet": " Vla&#353;i&#263; S&eacute;rgio Oliveira Fora: Danilo Pereira 77' Paulinho Fora: Diogo Jota 77' <em>Jo&atilde;o</em> Cancelo Fora: M&aacute;rio Rui 71' Bernardo Silva Fora: <em>Jo&atilde;o</em> <em>F&eacute;lix</em> 71' 65' 2 - 2 Mateo Kova&#269;i&#263; Assist&ecirc;ncia: Nikola Vla&#353;i&#263; 64' Josip Brekalo Fora: Mario Pa&#353;ali&#263; <em>Jo&atilde;o</em> <em>F&eacute;lix</em> Assist&ecirc;ncia: Diogo Jota 1 - 2 60' 57' Ivan Peri&#353;i&#263;<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Vis\u00e3o | Anthony Lopes na baliza de Portugal frente \u00e0 Cro\u00e1cia na Liga das Na\u00e7\u00f5es",
+            "originalURL": "https://visao.sapo.pt/atualidade/desporto/2020-09-05-anthony-lopes-na-baliza-de-portugal-frente-a-croacia-na-liga-das-nacoes/",
+            "snippet": " regressa ao meio campo, em substitui&ccedil;&atilde;o de Pizzi, enquanto no ataque jogam Diogo Jota e <em>Jo&atilde;o</em> <em>F&eacute;lix</em><span class=\"ellipsis\"> ... </span> reservado a <em>Jo&atilde;o</em> <em>F&eacute;lix</em> (20 anos), Diogo Jota (23) e Bernardo Silva (26). O jogo inaugural do Grupo 3<span class=\"ellipsis\"> ... </span> jogo, s&atilde;o tamb&eacute;m novidades <em>Jo&atilde;o</em> Cancelo, que rende Ricardo Pereira no lado direito da defesa, Pepe<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Vis\u00e3o | F\u00e1bio Silva entra para o 'top 10' das transfer\u00eancias mais caras em Portugal",
+            "originalURL": "https://visao.sapo.pt/atualidade/desporto/2020-09-05-fabio-silva-entra-para-o-top-10-das-transferencias-mais-caras-em-portugal/",
+            "snippet": " <em>Jo&atilde;o</em> <em>F&eacute;lix</em>, Bruno Fernandes, &Eacute;der Milit&atilde;o e James Rodr&iacute;guez, sendo que o ex-avan&ccedil;ado do Benfica<span class=\"ellipsis\"> ... </span> origem Clube destino Pa&iacute;s Ano Valor <em>Jo&atilde;o</em> <em>F&eacute;lix</em> Benfica Atl&eacute;tico de Madrid Espanha 2019 120 ME Bruno<span class=\"ellipsis\"> ... </span> restrito &#8216;clube&#8217;, com o an&uacute;ncio da transfer&ecirc;ncia de <em>Jo&atilde;o</em> M&aacute;rio para o Inter Mil&atilde;o. O brasileiro Ederson, o<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Portugal squad for League of Nations - The Portugal News",
+            "originalURL": "https://www.theportugalnews.com/news/portugal-squad-for-league-of-nations/55508",
+            "snippet": " CF) &amp; <em>Jo&atilde;o</em> <em>F&eacute;lix</em> (Atl&eacute;tico Madrid). Share this article &nbsp; Subscribe to our newsletter Out every<span class=\"ellipsis\"> ... </span> FC) &amp; Rui Silva (Granada CF); Defence - <em>Jo&atilde;o</em> Cancelo (Manchester City), N&eacute;lson Semedo (Barcelona<span class=\"ellipsis\"> ... </span> FC), Bernardo Silva (Manchester City FC), Renato Sanches (LOSC Lille), <em>Jo&atilde;o</em> Moutinho (Wolverhampton<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Real Madrid empata 1-1 em casa do Elche e isola Atl\u00e9tico de Madrid",
+            "originalURL": "https://www.sapo.pt/amp/noticias/desporto/real-madrid-empata-1-1-em-casa-do-elche-e_5fed03265232595cf07ff918",
+            "snippet": " jogo que marcou o regresso de <em>Jo&atilde;o</em> <em>F&eacute;lix</em> ao onze, ap&oacute;s doen&ccedil;a, com o avan&ccedil;ado luso a sair, aos 71<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "O onze de Portugal para o jogo com Fran\u00e7a - Desporto - Jornal de Neg\u00f3cios",
+            "originalURL": "http://www.sabado.pt/empresas/desporto/detalhe/o-onze-de-portugal-para-o-jogo-com-franca",
+            "snippet": " e Guerreiro; Danilo, Bruno Fernandes e William; <em>Jo&atilde;o</em> <em>F&eacute;lix</em>, Bernardo Silva e Cristiano Ronaldo<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "O onze de Portugal para o jogo com Fran\u00e7a - Desporto - Jornal de Neg\u00f3cios",
+            "originalURL": "http://www.sabado.pt/empresas/desporto/detalhe/o-onze-de-portugal-para-o-jogo-com-franca?act=0&est=Aberto",
+            "snippet": " e Guerreiro; Danilo, Bruno Fernandes e William; <em>Jo&atilde;o</em> <em>F&eacute;lix</em>, Bernardo Silva e Cristiano Ronaldo<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Edi\u00e7\u00e3o Impressa do LusoJornal",
+            "originalURL": "https://lusojornal.com/edicao-impressa/",
+            "snippet": " Legislativas: <em>Jo&atilde;o</em> Rodrigues (PURP) diz que em Portugal h&aacute; muito dinheiro, mas est&aacute; mal distribu&iacute;do 30 Setembro<span class=\"ellipsis\"> ... </span> Adeptos Ad&eacute;rito Moreira Adil Rami Admar Lopes Admittatur et imprimatur Adolphe-<em>F&eacute;lix</em> Cals Adrian<span class=\"ellipsis\"> ... </span> Albuquerque Moniz Ant&oacute;nio de Carvalho Antonio de Morais Cardoso Ant&oacute;nio Domingues Ant&oacute;nio <em>F&eacute;lix</em> da Costa<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Entrevistas SAPO24 - SAPO 24",
+            "originalURL": "https://24.sapo.pt/tag/entrevistas-sapo24",
+            "snippet": " os sapatos a&nbsp;cal&ccedil;ar&nbsp;(ou as chuteiras) &#8212; <em>Jo&atilde;o</em> <em>F&eacute;lix</em> est&aacute; em linha para ser a pr&oacute;xima grande marca<span class=\"ellipsis\"> ... </span> de regresso ao Hospital de S&atilde;o <em>Jo&atilde;o</em> Est&aacute; h&aacute; muitos anos na pol&iacute;tica e em maio do ano passado foi<span class=\"ellipsis\"> ... </span> Hospital de S&atilde;o <em>Jo&atilde;o</em> que regressou quando o surto de COVID-19 tomou propor&ccedil;&otilde;es dram&aacute;ticas. por<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Paulo Rasc\u00e3o - SAPO 24",
+            "originalURL": "https://24.sapo.pt/autor/paulo-rascao?pagina=2",
+            "snippet": " uma receita de P&aacute;scoa, sabendo que do outro lado estaria eu, <em>Jo&atilde;o</em> Dinis, a tentar reproduzir a tarefa ao mesmo tempo. Foram duas as conclus&otilde;es que retirei desta experi&ecirc;ncia: a primeira &eacute; que, por <em>Jo&atilde;o</em><span class=\"ellipsis\"> ... </span> Cardoso. Isso n&atilde;o &eacute; censura? &quot;A&nbsp;com&eacute;dia &eacute; tudo menos uma torrente direta d por In&ecirc;s F. Alves <em>Jo&atilde;o</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Real Madrid empata 1-1 em casa do Elche e isola Atl\u00e9tico de Madrid - Desporto - SAPO",
+            "originalURL": "https://www.sapo.pt/noticias/desporto/real-madrid-empata-1-1-em-casa-do-elche-e_5fed03265232595cf07ff918",
+            "snippet": " e acabaram muito inquietos um jogo que marcou o regresso de <em>Jo&atilde;o</em> <em>F&eacute;lix</em> ao onze, ap&oacute;s doen&ccedil;a, com o<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "DTK - 3403 : Plano DTK Porto : 1 : P01 ",
+            "originalURL": "http://www.destak.pt/docs/5652/dtk-3403-porto.pdf",
+            "snippet": " \ncom o potencial de <em>Jo&atilde;o</em> <em>F&eacute;lix</em> \noptar pelo clube espanhol, mas \na chegada do portugu&ecirc;s n&atilde;o \napaga a<span class=\"ellipsis\"> ... </span> para as fam&iacute;lias.\nPasse Fam&iacute;lia\nOPINI&Atilde;O\n<em>JO&Atilde;O</em> PAULO SARAIVA \nVice-Presidente \nda C&acirc;mara de Lisboa<span class=\"ellipsis\"> ... </span> aconselha portugueses a \nabastecerem o carro antes da greve\nCAMIONISTAS\n<em>JO&Atilde;O</em> MONIZ \njmoniz@destak.pt<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "",
+            "originalURL": "http://www.destak.pt/docs/5843/dtk-3509.pdf",
+            "snippet": " mi-\nlh&otilde;es de euros, a que muito ajudou a \ntransfer&ecirc;ncia de <em>Jo&atilde;o</em> <em>F&eacute;lix</em> para o Atl&eacute;-\ntico Madrid, por<span class=\"ellipsis\"> ... </span> 3-2 no fi-\nnal dos descontos da partida. \nO conjunto treinado por <em>Jo&atilde;o</em> Pe-\ndro Sousa surge com os<span class=\"ellipsis\"> ... </span> Portugal. Benfica e FC Porto favoritos \nTA&Ccedil;A DE PORTUGAL\nTransfer&ecirc;ncia de <em>F&eacute;lix</em> para o Atl&eacute;tico \nMadrid<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Ministro de Estado, da Economia e da Transi\u00e7\u00e3o Digital - XXII Governo - Rep\u00fablica Portuguesa",
+            "originalURL": "https://www.portugal.gov.pt/pt/gc22/governo/nomeacoes/economia-e-transicao-digital.aspx",
+            "snippet": " Adjunto <em>Jo&atilde;o</em> Francisco <em>F&eacute;lix</em> da Costa Leit&atilde;o 3 689,64 &#8364; 2 195,32 &#8364; 01/12/2019 Despacho Adjunto<span class=\"ellipsis\"> ... </span> T&eacute;cnico Especialista <em>Jo&atilde;o</em> Guilherme Martins Borges S&agrave;&aacute;gua 3 689,64 &#8364; 2 195,32 &#8364; 26/10/2020 Despacho<span class=\"ellipsis\"> ... </span> Paulo S&eacute;rgio Gomes Tomaz 4 772,52 &#8364; 2 696,09 &#8364; 14/11/2019 Despacho Adjunto <em>Jo&atilde;o</em> Lu&iacute;s Andrade Serra<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Marques Mendes: \u201cJo\u00e3o Le\u00e3o esteve bem na estreia como ministro das Finan\u00e7as\u201d \u2013 O Jornal Econ\u00f3mico",
+            "originalURL": "https://jornaleconomico.sapo.pt/noticias/marques-mendes-joao-leao-esteve-bem-na-estreia-como-ministro-das-financas-603444",
+            "snippet": "Marques Mendes: &#8220;<em>Jo&atilde;o</em> Le&atilde;o esteve bem na estreia como ministro das Finan&ccedil;as&#8221; &#8211; O Jornal Econ&oacute;mico<span class=\"ellipsis\"> ... </span> otimismo na ponta da agulha <em>Jo&atilde;o</em> Marcelino 20/21: Perce&ccedil;&atilde;o e realidade V&iacute;tor Norinha O que esperar para 2021 <em>Jo&atilde;o</em> Gon&ccedil;alves Pereira, Deputado e Vereador do CDS-PP na CML Brexit, um parto dif&iacute;cil Sec&ccedil;&otilde;es<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "\u200e45 Graus: #99(b) Desid\u00e9rio Murcho - Populismo, elites, polariza\u00e7\u00e3o e redes sociais on Apple Podcast",
+            "originalURL": "https://podcasts.apple.com/us/podcast/99-b-desid%C3%A9rio-murcho-populismo-elites-polariza%C3%A7%C3%A3o/id1292782109?i=1000501811655",
+            "snippet": ", Duarte, Tom&aacute;s <em>F&eacute;lix</em>, Vasco Lima, Joao Pinto, Francisco Vasconcelos, <em>Jo&atilde;o</em> Moreira, isosamep, Telmo<span class=\"ellipsis\"> ... </span> <em>F&eacute;lix</em>, Vasco Lima, Joao Pinto, Francisco Vasconcelos, <em>Jo&atilde;o</em> Moreira, isosamep, Telmo, Jos&eacute; Oliveira<span class=\"ellipsis\"> ... </span> mecenas do podcast: Paulo Peralta, <em>Jo&atilde;o</em> Baltazar, Tiago Leite, Carlos Martins, Joana Faria Alves, Galar&oacute;<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Governo: Composi\u00e7\u00e3o do XXII Governo Constitucional | Jornal de Abrantes",
+            "originalURL": "https://www.jornaldeabrantes.pt/politica/governo-composicao-do-xxii-governo-constitucional",
+            "snippet": " Estado Adjunto e das Finan&ccedil;as - Ricardo Mourinho <em>F&eacute;lix</em> Secret&aacute;rio de Estado do Or&ccedil;amento - <em>Jo&atilde;o</em> Le&atilde;o<span class=\"ellipsis\"> ... </span> Siza Vieira Secret&aacute;rio de Estado Adjunto e da Economia - <em>Jo&atilde;o</em> Neves Secret&aacute;ria de Estado do Turismo - Rita Marques Secret&aacute;rio de Estado do Com&eacute;rcio, Servi&ccedil;os e Defesa do Consumidor - <em>Jo&atilde;o</em> Torres<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "\u200e45 Graus: #99(a) Desid\u00e9rio Murcho - \u201cTodos dev\u00edamos saber mais de L\u00f3gica para pensarmos melhor\u201d on ",
+            "originalURL": "https://podcasts.apple.com/us/podcast/99-desid%C3%A9rio-murcho-todos-dev%C3%ADamos-saber-mais-l%C3%B3gica/id1292782109?i=1000501113466",
+            "snippet": ", Miguel Palhas, Duarte, Tom&aacute;s <em>F&eacute;lix</em>, Vasco Lima, Joao Pinto, Francisco Vasconcelos, <em>Jo&atilde;o</em> Moreir Listen<span class=\"ellipsis\"> ... </span> mundo Porque n&atilde;o h&aacute; uma l&oacute;gica universal? Thomas Kuhn &nbsp; Obrigado aos mecenas do podcast: <em>Jo&atilde;o</em><span class=\"ellipsis\"> ... </span> Ana, Francisco Hermenegildo, M&aacute;rio Louren&ccedil;o, <em>Jo&atilde;o</em> Ribeiro, Miguel Vassalo Abilio Silva, Joao Saro<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Fran\u00e7a e Turquia abrem conflitos em v\u00e1rias frentes \u2013 O Jornal Econ\u00f3mico",
+            "originalURL": "https://jornaleconomico.sapo.pt/noticias/franca-e-turquia-abrem-conflitos-em-varias-frentes-638484",
+            "snippet": " <em>Jo&atilde;o</em> Marcelino 20/21: Perce&ccedil;&atilde;o e realidade V&iacute;tor Norinha O que esperar para 2021 <em>Jo&atilde;o</em> Gon&ccedil;alves<span class=\"ellipsis\"> ... </span> Estado, incluindo Ricardo Mourinho <em>F&eacute;lix</em> e Jamila Madeira, tamb&eacute;m deixaram de pertencer ao Governo. Premium Qual vai ser a inje&ccedil;&atilde;o de apoio na TAP? <em>Jo&atilde;o</em> Palma Ferreira 31 Dez O maior esfor&ccedil;o que o pa&iacute;s<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Ministro do Mar - XXII Governo - Rep\u00fablica Portuguesa",
+            "originalURL": "https://www.portugal.gov.pt/pt/gc22/governo/nomeacoes/mar.aspx",
+            "snippet": " Pessoal <em>Jo&atilde;o</em> Manuel Rocha Neto 2 364,04 &#8364; 1 553,54 &#8364; 01/11/2019 Despacho Secret&aacute;ria Pessoal Maria<span class=\"ellipsis\"> ... </span>-administrativo Maria Am&eacute;lia Martins Mota <em>F&eacute;lix</em> 1 747,92 &#8364; 1 247,19 &#8364; 26/10/2019 Despacho Apoio t&eacute;cnico<span class=\"ellipsis\"> ... </span>/2020 Despacho Adjunto <em>Jo&atilde;o</em> Manuel de Sousa Santos Reis 3 689,64 &#8364; 2 195,32 &#8364; 17/09/2020 Despacho<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Joias - F Luxury",
+            "originalURL": "https://www.fluxurymagazine.com/joias/",
+            "snippet": " Outubro 14, 2020 MJB Vibes &#8211; As novas pe&ccedil;as coloridas e vibrantes de Maria <em>Jo&atilde;o</em> Bahia Setembro 29<span class=\"ellipsis\"> ... </span>&#8217;Amore da Bvlgari Maio 4, 2020 Maria <em>Jo&atilde;o</em> Bahia para um dia da m&atilde;e com assinatura d&#8217;ouro Abril 27<span class=\"ellipsis\"> ... </span> da M&atilde;e Abril 19, 2019 O crocodilo de Mar&iacute;a <em>F&eacute;lix</em> Mar&ccedil;o 26, 2019 Sunlight Escape II da Piaget<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Rodrigo Soares e Rui Santos s\u00e3o os novos bonit\u00f5es do bairro - Holofote",
+            "originalURL": "https://holofote.sapo.pt/televisao/2020-12-19-rodrigo-soares-e-rui-santos-sao-os-novos-bonitoes-do-bairro/",
+            "snippet": " <em>F&eacute;lix</em> da Costa), que estar&aacute; a sofrer por amor e encontrar&aacute; nele um escape. Relacionados Tens&atilde;o em &#8220;Amar<span class=\"ellipsis\"> ... </span> de Pa&ccedil;o de Arcos para o hor&aacute;rio da virada! Televis&atilde;o <em>Jo&atilde;o</em> Bai&atilde;o e Diana Chaves j&aacute; t&ecirc;m data para<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Minis vencem na estreia do andebol feminino poveiro",
+            "originalURL": "https://radioondaviva.com/noticias/480-minis-vencem-na-estreia-do-andebol-feminino-poveiro",
+            "snippet": " Regionais Publicado em segunda-feira, 16 dezembro 2013 15:23 Escrito por <em>Jo&atilde;o</em> Ricardo O P&oacute;voa Andebol<span class=\"ellipsis\"> ... </span> equipa feminina federada no concelho e venceu o primeiro jogo por 22x9 frente ao S&atilde;o <em>F&eacute;lix</em> da<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Namibe prepara 20 mil hectares de terra para produzir 144 mil toneladas - Jornal Economia & Finan\u00e7as",
+            "originalURL": "http://jornaldeeconomia.sapo.ao/infraestrutura/namibe-prepara-20-mil-hectares-de-terra-para-produzir-144-mil-toneladas",
+            "snippet": " 144 mil toneladas 15 Novembro 2019 Autor: <em>Jo&atilde;o</em> Upale no Namibe Tweetar Diminuir tamanho do texto<span class=\"ellipsis\"> ... </span> Faustino <em>F&eacute;lix</em>, revelou que a aposta para a presente campanha &eacute; trabalhar &#8220;afincadamente&#8221; a terra e<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Mais de 100 motos antigas concentram-se em Navais",
+            "originalURL": "https://radioondaviva.com/noticias/2394-mais-de-100-motos-antigas-concentram-se-em-navais",
+            "snippet": " Publicado em s&aacute;bado, 09 agosto 2014 08:06 Escrito por <em>Jo&atilde;o</em> Ricardo O Centro Desportivo e Cultural de<span class=\"ellipsis\"> ... </span> do Almada e o Monte de S. <em>F&eacute;lix</em>. &Agrave; tarde, ap&oacute;s o almo&ccedil;o, h&aacute; uma prova de per&iacute;cia com car&aacute;ter<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Vinhos naturais em Lisboa: o que s\u00e3o e onde os beber",
+            "originalURL": "https://www.timeout.pt/lisboa/pt/restaurantes/o-que-sao-e-onde-beber-vinhos-naturais-em-lisboa",
+            "snippet": " produtos locais e de &eacute;poca, agora com a m&atilde;o do chef <em>Jo&atilde;o</em> Bai&atilde;o. Ler mais Arlindo Camacho Prado<span class=\"ellipsis\"> ... </span> paredes em pedra branca, sem pl&aacute;sticos e com &aacute;gua filtrada.&nbsp; Ler mais Fotografia: In&ecirc;s <em>F&eacute;lix</em> Ladidadi<span class=\"ellipsis\"> ... </span> Publicidade In&ecirc;s <em>F&eacute;lix</em> Kaya Coisas para fazer S&atilde;o Sebasti&atilde;o N&atilde;o estranhe esta recomenda&ccedil;&atilde;o no meio de<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Vinhos naturais em Lisboa: o que s\u00e3o e onde os beber",
+            "originalURL": "https://www.timeout.pt/606/pt_PT/pages/111809?site_id=pt-lisbon",
+            "snippet": " produtos locais e de &eacute;poca, agora com a m&atilde;o do chef <em>Jo&atilde;o</em> Bai&atilde;o. Ler mais Arlindo Camacho Prado<span class=\"ellipsis\"> ... </span> paredes em pedra branca, sem pl&aacute;sticos e com &aacute;gua filtrada.&nbsp; Ler mais Fotografia: In&ecirc;s <em>F&eacute;lix</em> Ladidadi<span class=\"ellipsis\"> ... </span> Publicidade In&ecirc;s <em>F&eacute;lix</em> Kaya Coisas para fazer S&atilde;o Sebasti&atilde;o N&atilde;o estranhe esta recomenda&ccedil;&atilde;o no meio de<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Aut\u00e1rquicas 2017 - R\u00e1dio Campan\u00e1rio",
+            "originalURL": "https://www.radiocampanario.com/autarquicas-2017?start=70",
+            "snippet": " preside. Mariana&#8230; Aut&aacute;rquicas 2017- Alandroal: Entrevista com o candidato do PS, <em>Jo&atilde;o</em> Grilo (c/v&iacute;deo) 28 Ago. 2017 Autarquicas 2017 <em>Jo&atilde;o</em> Grilo &eacute; o candidato, cabe&ccedil;a de lista, do Partido Socialista &agrave;s<span class=\"ellipsis\"> ... </span> Campan&aacute;rio, os projetos, ideias e propostas que a sua candidatura tem para o Concelho Alandroalense. <em>Jo&atilde;o</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Veja resultados do 1\u00ba turno das Elei\u00e7\u00f5es 2020 nas 223 cidades da Para\u00edba | Para\u00edba | G1",
+            "originalURL": "https://g1.globo.com/pb/paraiba/noticia/2020/11/17/veja-resultados-do-1o-turno-das-eleicoes-2020-nas-223-cidades-da-paraiba.ghtml",
+            "snippet": " Em <em>Jo&atilde;o</em> Pessoa, pleito vai para o 2&ordm; turno. J&aacute; em Princesa Isabel, Cachoeira dos &Iacute;ndios e Gado Bravo<span class=\"ellipsis\"> ... </span> Vota&ccedil;&atilde;o no 1&ordm; turno das elei&ccedil;&otilde;es 2020 em <em>Jo&atilde;o</em> Pessoa &#8212; Foto: S&iacute;lvia Torres/TV Cabo Branco Vota&ccedil;&atilde;o no 1&ordm; turno das elei&ccedil;&otilde;es 2020 em <em>Jo&atilde;o</em> Pessoa &#8212; Foto: S&iacute;lvia Torres/TV Cabo Branco O G1 Para&iacute;ba publicou<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Conhe\u00e7a todos os prefeitos eleitos no Piau\u00ed em 2020 | PI | G1",
+            "originalURL": "https://g1.globo.com/pi/noticia/2020/11/16/conheca-todos-os-prefeitos-eleitos-no-piaui-em-2020.ghtml",
+            "snippet": " Jerumenha <em>Jo&atilde;o</em> Costa Joaquim Pires Joca Marques Jos&eacute; de Freitas Juazeiro do Piau&iacute; J&uacute;lio Borges Jurema<span class=\"ellipsis\"> ... </span> Milagres Santo In&aacute;cio do Piau&iacute; S&atilde;o Braz do Piau&iacute; S&atilde;o <em>F&eacute;lix</em> do Piau&iacute; S&atilde;o Francisco de Assis do Piau&iacute; S&atilde;o Francisco do Piau&iacute; S&atilde;o Gon&ccedil;alo do Gurgu&eacute;ia S&atilde;o Gon&ccedil;alo do Piau&iacute; S&atilde;o <em>Jo&atilde;o</em> da Canabrava S&atilde;o <em>Jo&atilde;o</em> da<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "VitorGaspar - Tretas.org",
+            "originalURL": "https://www.tretas.org/VitorGaspar",
+            "snippet": " , Medina Carreira , Bag&atilde;o <em>F&eacute;lix</em> e Manuela Ferreira Leite , todos economistas, comentaram o a tomada de<span class=\"ellipsis\"> ... </span>: 2013.07.09 Fonte: Expresso Autor: Anabela Nat&aacute;rio, Isabel Vicente E <em>Jo&atilde;o</em> F. Palma-Ferreira V&iacute;tor Gaspar<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "",
+            "originalURL": "https://app.parlamento.pt:80/webutils/docs/doc.pdf?path=6148523063446f764c324679595842774f6a63334e7a637664326c756157357059326c6864476c3259584d7657456c574c33526c6548527663793977634777324f433159535659755a47396a65413d3d&fich=ppl68-XIV.docx&Inline=true",
+            "snippet": " Tejo \nABRANTES Carvalhal \nABRANTES Aldeia do Mato e Souto \nABRANTES Abrantes (S&atilde;o Vicente e S&atilde;o <em>Jo&atilde;o</em><span class=\"ellipsis\"> ... </span> S&atilde;o <em>Jo&atilde;o</em> de Loure e Frossos \nALBUFEIRA Paderne \nALBUFEIRA Ferreiras \nALBUFEIRA Guia \nALBUFEIRA<span class=\"ellipsis\"> ... </span>\nALJUSTREL S&atilde;o <em>Jo&atilde;o</em> de Negrilhos \nALJUSTREL Ervidel \nALJUSTREL Messejana \nALJUSTREL Aljustrel e Rio de<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Atividade deputado",
+            "originalURL": "https://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=210&lg=IX",
+            "snippet": " Ministro da Seguran&ccedil;a Social e do Trabalho (Ant&oacute;nio Bag&atilde;o <em>F&eacute;lix</em>) Data da reuni&atilde;o 2004-05-19 Legislatura<span class=\"ellipsis\"> ... </span> pelo falecimento do antigo Deputado e Vice-Presidente Dr. <em>Jo&atilde;o</em> Amaral Tipo Voto N&uacute;mero 25 Legislatura<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Atividade deputado",
+            "originalURL": "https://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=2234&lg=XI",
+            "snippet": " Contactos English Fran&ccedil;ais Vers&atilde;o &aacute;udio Search Conte&uacute;do da P&aacute;gina Atividade de Deputado - <em>Jo&atilde;o</em> Oliveira XI &nbsp;Legislatura <em>Jo&atilde;o</em> Oliveira (PCP) Iniciativas apresentadas Tipo Aprecia&ccedil;&atilde;o Parlamentar N&uacute;mero 90<span class=\"ellipsis\"> ... </span>-18 T&iacute;tulo Voto de Pesar pelo falecimento do Jornalista e Escritor <em>Jo&atilde;o</em> Aguiar Tipo Voto N&uacute;mero 43<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Reda\u00e7\u00e3o - R\u00e1dio Campan\u00e1rio",
+            "originalURL": "https://www.radiocampanario.com/detalhes/autor/44-redacao?start=48",
+            "snippet": " Andrelino da Concei&ccedil;&atilde;o <em>F&eacute;lix</em>, Carlos Manuel Contas Calado, Manuel Ant&oacute;nio Silveira Realinho e <em>Jo&atilde;o</em> Manuel<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Capa I S\u00e9rie",
+            "originalURL": "https://app.parlamento.pt:80/webutils/docs/doc.pdf?path=6148523063446f764c324679626d56304c334e706447567a4c31684a566b786c5a79394551564a4a4c305242556b6c42636e463161585a764c7a457577716f6c4d6a42545a584e7a77364e764a5449775447566e61584e7359585270646d4576524546534c556b744d4459794c6e426b5a673d3d&fich=DAR-I-062.pdf&Inline=true",
+            "snippet": " Silva (PEV), \n<em>Jo&atilde;o</em> Dias (PCP), Andr&eacute; Silva (PAN), Ricardo Vicente (BE), \nMaria Germana Rocha (PSD<span class=\"ellipsis\"> ... </span> Joacine Katar Moreira (N insc.), <em>Jo&atilde;o</em> Cotrim de \nFigueiredo (IL), Fernando Ruas (PSD), Pedro Delgado<span class=\"ellipsis\"> ... </span> Abreu (PSD), <em>Jo&atilde;o</em> Cotrim de Figueiredo (IL), Joana Lima \n(PS), Cec&iacute;lia Meireles (CDS-PP), <em>Jo&atilde;o</em> Dias<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Miguel Portela - Academia.edu",
+            "originalURL": "https://independent.academia.edu/Miguel%C3%82ngeloPorteladaSilvaCaetano",
+            "snippet": "Miguel Portela - Academia.edu Skip to main content Academia.edu no longer supports Internet<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "UtilidadePublica - Tretas.org",
+            "originalURL": "https://www.tretas.org/UtilidadePublica",
+            "snippet": " Noz - Associa&ccedil;&atilde;o Nogueirense de Cultura e Desporto 2010-Presente XVIII Governo Constitucional <em>Jo&atilde;o</em><span class=\"ellipsis\"> ... </span> XVIII Governo Constitucional <em>Jo&atilde;o</em> Tiago Silveira PS Declarado: Despacho 9356/2010 de 2010-05-04<span class=\"ellipsis\"> ... </span> Comercial e Industrial do Concelho de Esposende 2010-Presente XVIII Governo Constitucional <em>Jo&atilde;o</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Di\u00e1spora Lusa Brasil - Di\u00e1spora Lusa",
+            "originalURL": "http://www.diasporalusa.pt/travels/diaspora-lusa-brasil/?mode=list",
+            "snippet": " (BA), S&atilde;o Lu&iacute;s (MA), S&atilde;o Paulo (SP) e Vit&oacute;ria (ES). Est&atilde;o em situa&ccedil;&atilde;o satisfat&oacute;ria as capitais <em>Jo&atilde;o</em><span class=\"ellipsis\"> ... </span> de Medicina da Bahia, cuja cria&ccedil;&atilde;o pelo Pr&iacute;ncipe Regente D. <em>Jo&atilde;o</em> (futuro D. <em>Jo&atilde;o</em> VI), no local do<span class=\"ellipsis\"> ... </span> Cachoeira, S&atilde;o <em>F&eacute;lix</em> ou Santo Amaro da Purifica&ccedil;&atilde;o (no Rec&ocirc;ncavo baiano), ou ainda Caravelas, na costa<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Di\u00e1spora Lusa Brasil - Di\u00e1spora Lusa",
+            "originalURL": "http://www.diasporalusa.pt/travels/diaspora-lusa-brasil/",
+            "snippet": " (BA), S&atilde;o Lu&iacute;s (MA), S&atilde;o Paulo (SP) e Vit&oacute;ria (ES). Est&atilde;o em situa&ccedil;&atilde;o satisfat&oacute;ria as capitais <em>Jo&atilde;o</em><span class=\"ellipsis\"> ... </span> de Medicina da Bahia, cuja cria&ccedil;&atilde;o pelo Pr&iacute;ncipe Regente D. <em>Jo&atilde;o</em> (futuro D. <em>Jo&atilde;o</em> VI), no local do<span class=\"ellipsis\"> ... </span> Cachoeira, S&atilde;o <em>F&eacute;lix</em> ou Santo Amaro da Purifica&ccedil;&atilde;o (no Rec&ocirc;ncavo baiano), ou ainda Caravelas, na costa<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "BVG: Campanha de angaria\u00e7\u00e3o de s\u00f3cios - Noticias",
+            "originalURL": "http://www.radiofundacao.net/noticias_geral.php?a=13&id=2788",
+            "snippet": " Catarina Marques mandat&aacute;ria de <em>Jo&atilde;o</em> Ferreira em Guimar&atilde;es 28 de Dezembro, 2020 Guimar&atilde;es vai ter um Centro<span class=\"ellipsis\"> ... </span> resposta &agrave; pandemia na academia minhota 06 de Novembro, 2020 <em>Jo&atilde;o</em> Ferreira em Guimar&atilde;es 06 de Novembro<span class=\"ellipsis\"> ... </span> casos de infe&ccedil;&atilde;o 25 de Agosto, 2020 Tr&acirc;nsito condicionado na Avenida D. <em>Jo&atilde;o</em> IV 24 de Agosto, 2020<span class=\"ellipsis\"> ... </span>"
+        }
+    ]
+}

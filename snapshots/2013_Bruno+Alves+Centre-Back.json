@@ -1,0 +1,273 @@
+{
+    "serviceName": "Arquivo.pt - the Portuguese web-archive",
+    "linkToService": "https://arquivo.pt",
+    "next_page": "https://arquivo.pt/textsearch?q=Bruno+Alves&from=20130101000000&to=20131231235959&fields=title%2Csnippet%2CoriginalURL%2Ctimestamp&offset=50",
+    "estimated_nr_results": 1056970,
+    "request_parameters": {
+        "offset": 0,
+        "dedupValue": 2,
+        "from": "20130101000000",
+        "to": "20131231235959",
+        "fields": [
+            "title",
+            "snippet",
+            "originalURL",
+            "timestamp"
+        ],
+        "dedupField": "site",
+        "q": "Bruno Alves",
+        "maxItems": 50
+    },
+    "response_items": [
+        {
+            "title": "SAPO Campus Blogs - bruno-alves",
+            "originalURL": "http://blogs.ua.sapo.pt/userinfo.bml?name=bruno-alves",
+            "snippet": "SAPO Campus Blogs - <em>bruno</em>-<em>alves</em> SAPO Campus Blogs UA <em>bruno</em>-<em>alves</em> home explorar &uacute;ltimos posts &uacute;lt. coment&aacute;rios tags &Uacute;lt. Posts Os &uacute;ltimos posts do utilizador <em>bruno</em>-<em>alves</em> Este utlizador n&atilde;o tem posts recentes. Coment&aacute;rios Os &uacute;ltimos coment&aacute;rios do utilizador <em>bruno</em>-<em>alves</em> Este utlizador n&atilde;o tem<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": ":: LADY'S PLACE ::",
+            "originalURL": "http://www.ladysplace.pt/vernoticia/id/73",
+            "snippet": " &nbsp; &nbsp; NOT&Iacute;CIAS &amp; CURIOSIDADES / J&aacute; na pr&oacute;xima 3&ordf;f Prof. <em>Bruno</em> <em>Alves</em> &nbsp; &nbsp; &nbsp; J&aacute; na pr&oacute;xima 3&ordf;f Prof. <em>Bruno</em> <em>Alves</em> 28-09-2013 Dia 1 de Outubro vamos ter a presen&ccedil;a do Prof. <em>Bruno</em> <em>Alves</em> para uma aula de Total<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Bruno Alves | SAPO Campus",
+            "originalURL": "http://bruno-alves.campus.ua.sapo.pt/",
+            "snippet": "<em>Bruno</em> <em>Alves</em> | SAPO Campus Para utilizar o My UA, deve activar o Javascript no seu browser. A carregar o ambiente... <em>Bruno</em> <em>Alves</em> Prev Actividade de <em>Bruno</em> <em>Alves</em> Sobre <em>Bruno</em> <em>Alves</em> Liga&ccedil;&otilde;es de <em>Bruno</em> <em>Alves</em> Next Geral Fundo SAPO Campus Op&ccedil;&otilde;es do Ambiente Escolher Imagem Notifica&ccedil;&otilde;es Receber notifica&ccedil;&otilde;es<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "BES - Bruno Alves",
+            "originalURL": "http://www.briefing.pt/canais-brief/canal-mundial-2010/9603-bes-bruno-alves.pdf",
+            "snippet": "BES - <em>Bruno</em> <em>Alves</em>\n 31 Maio 2010\n              \n 1 / 1\n<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "BES - Bruno Alves",
+            "originalURL": "http://www.briefing.pt/canais-brief/canal-mundial-2010/9603-bes-bruno-alves.html",
+            "snippet": "BES - <em>Bruno</em> <em>Alves</em> In&iacute;cio Marketing Publicidade Media Comunica&ccedil;&atilde;o Opini&atilde;o Entrevistas Criatividade V&iacute;deos ViralBrief Contactos O agregador do marketing Canais Brief Canal Mundial 2010 BES - <em>Bruno</em> <em>Alves</em> BES - <em>Bruno</em> <em>Alves</em> 31 Maio 2010 Tweet &lt; Anterior &nbsp; Seguinte &gt; Assinar a edi&ccedil;&atilde;o impressa &#8250;&#8250;&#8250; (toda a<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jornal dos Desportos - Lyon interessado em Bruno Alves",
+            "originalURL": "http://jornaldosdesportos.sapo.ao/28/0/lyon_interessado_em_bruno_alves",
+            "snippet": "Jornal dos Desportos - Lyon interessado em <em>Bruno</em> <em>Alves</em> Requires a newer version of Adobe Flash<span class=\"ellipsis\"> ... </span> <em>Bruno</em> <em>Alves</em> 19 de Maio, 2010 Tamanho da letra Enviar Imprimir Enviar artigo por E-Mail Nome do<span class=\"ellipsis\"> ... </span> Porto Fotografia: reuters Determinado em assegurar a aquisi&ccedil;&atilde;o do passe de <em>Bruno</em> <em>Alves</em> para a<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jornal dos Desportos - Lyon interessado em Bruno Alves",
+            "originalURL": "http://jornaldosdesportos.sapo.ao/28/0/lyon_interessado_em_bruno_alves",
+            "snippet": "Jornal dos Desportos - Lyon interessado em <em>Bruno</em> <em>Alves</em> Jornal dos Desportos Quinta, 03 de Outubro<span class=\"ellipsis\"> ... </span> In&Atilde;&shy;cio Reportagens Reportagens Lyon interessado em <em>Bruno</em> <em>Alves</em> 19 de Maio, 2010 Tamanho da letra<span class=\"ellipsis\"> ... </span> assegurar a aquisi&ccedil;&atilde;o do passe de <em>Bruno</em> <em>Alves</em> para a temporada 2010/2011, o Lyon est&aacute;, de acordo com<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Arsenal sacudiu a tristeza \u00e0s custas de Bruno Alves e Raul Meireles - P\u00daBLICO",
+            "originalURL": "http://www.publico.pt/desporto/noticia/arsenal-sacudiu-a-tristeza-as-custas-de-bruno-alves--e-raul-meireles-1603650",
+            "snippet": "Arsenal sacudiu a tristeza &agrave;s custas de <em>Bruno</em> <em>Alves</em> e Raul Meireles - P&Uacute;BLICO Saltar para a<span class=\"ellipsis\"> ... </span> tristeza &agrave;s custas de <em>Bruno</em> <em>Alves</em> e Raul Meireles Por Tiago Pimentel 21/08/2013 - 22:00 Gunners<span class=\"ellipsis\"> ... </span> dos Campe&otilde;es. Os portugueses <em>Bruno</em> <em>Alves</em> e Raul Meireles jogaram de in&iacute;cio na equipa turca, que tamb&eacute;m<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Arsenal sacudiu a tristeza \u00e0s custas de Bruno Alves e Raul Meireles - P\u00daBLICO",
+            "originalURL": "http://www.publico.pt/desporto/noticia/arsenal-sacudiu-a-tristeza-as-custas-de-bruno-alves--e-raul-meireles-1603650",
+            "snippet": "Arsenal sacudiu a tristeza &agrave;s custas de <em>Bruno</em> <em>Alves</em> e Raul Meireles - P&Uacute;BLICO Saltar para a<span class=\"ellipsis\"> ... </span> tristeza &agrave;s custas de <em>Bruno</em> <em>Alves</em> e Raul Meireles Por Tiago Pimentel 21/08/2013 - 22:00 Gunners<span class=\"ellipsis\"> ... </span> dos Campe&otilde;es. Os portugueses <em>Bruno</em> <em>Alves</em> e Raul Meireles jogaram de in&iacute;cio na equipa turca, que tamb&eacute;m<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Mundial: Bruno Alves adianta Portugal frente ao Azerbaij\u00e3o | Desporto : Futebol : Nacional | Di\u00e1rio ",
+            "originalURL": "http://diariodigital.sapo.pt/news.asp?section_id=125&id_news=623554",
+            "snippet": "Mundial: <em>Bruno</em> <em>Alves</em> adianta Portugal frente ao Azerbaij&atilde;o | Desporto : Futebol : Nacional | Di&aacute;rio<span class=\"ellipsis\"> ... </span> | Internacional | Modalidades | Motores Nacional 26-03-2013&nbsp;&agrave;s&nbsp;18:27 Mundial: <em>Bruno</em> <em>Alves</em> adianta Portugal frente ao Azerbaij&atilde;o Aos 63 minutos, numa cobran&ccedil;a de um canto pela direita por Jo&atilde;o Moutinho, <em>Bruno</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Mundial: Bruno Alves adianta Portugal frente ao Azerbaij\u00e3o | Desporto : Futebol : Nacional | Di\u00e1rio ",
+            "originalURL": "http://diariodigital.sapo.pt/news.asp?section_id=125&id_news=623554",
+            "snippet": "Mundial: <em>Bruno</em> <em>Alves</em> adianta Portugal frente ao Azerbaij&atilde;o | Desporto : Futebol : Nacional | Di&aacute;rio<span class=\"ellipsis\"> ... </span> | Nacional | Internacional | Modalidades | Motores Nacional 26-03-2013&nbsp;&agrave;s&nbsp;18:27 Mundial: <em>Bruno</em> <em>Alves</em><span class=\"ellipsis\"> ... </span> Moutinho, <em>Bruno</em> <em>Alves</em> inaugurou a contagem no marcador na partida frente ao Azerbaij&atilde;o, em jogo a<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "O Insurgente",
+            "originalURL": "http://oinsurgente.org/",
+            "snippet": " | Deixar uma resposta O&nbsp;Professor Posted on Novembro 1, 2013 by <em>Bruno</em> <em>Alves</em> 2 ( Artigo meu publicado<span class=\"ellipsis\"> ... </span> Amaral Andr&eacute; Azevedo <em>Alves</em> <em>Bruno</em> <em>Alves</em> <em>Bruno</em> Garschagen <em>Bruno</em> Gon&ccedil;alves BZ Carlos Guimar&atilde;es Pinto<span class=\"ellipsis\"> ... </span> Azevedo <em>Alves</em> 37 Mais um excelente artigo de um dos poucos exemplos de lucidez na comunica&ccedil;&atilde;o social em<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "J\u00e9ssica",
+            "originalURL": "http://jessialves.blogs.sapo.pt/",
+            "snippet": " 2013 . Janeiro 2013 . Dezembro 2012 . Novembro 2012 . tags . animais . bella thorne . <em>bruno</em> mars<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Carlos Alves",
+            "originalURL": "http://www.math.ist.utl.pt/~calves/",
+            "snippet": "Carlos <em>Alves</em> Carlos <em>Alves</em>, Rafaela &amp; Ana Leonor Carlos J. S. <em>Alves</em> Professor Associado (c/agrega&ccedil;&atilde;o<span class=\"ellipsis\"> ... </span>, PORTUGAL carlos . <em>alves</em> math . ist . utl . pt Main research areas: Applied Mathematics, Numerical Analysis<span class=\"ellipsis\"> ... </span> in ISI, Zentralblatt or MathSciNet [32] C. J. S. <em>Alves</em>: On the choice of source points in the<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Bruno Torres ponto net - Textos infreq\u00fcentes sobre a web",
+            "originalURL": "http://brunotorres.net/",
+            "snippet": " Acesso Digital Alex Castro &Eacute;lcio Ferreira Blogue do J&acirc;nio <em>Bruno</em> <em>Alves</em> Carreira solo Ciro Feitosa<span class=\"ellipsis\"> ... </span><em>Bruno</em> Torres ponto net - Textos infreq&uuml;entes sobre a web <em>Bruno</em> Torres ponto net Textos infreq&uuml;entes<span class=\"ellipsis\"> ... </span> | <em>Bruno</em> Torres - <em>bruno</em> em brunotorres ponto net Assinar | WP | Hospedado por Dreamhost | Privacidade<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "iBlog",
+            "originalURL": "http://www1.ionline.pt/iblogs/41-113694-o-merito-bruno-carvalho",
+            "snippet": " Oliveira tinha sa&iacute;do? &Eacute; certo que Cardozo falha pen&aacute;ltis, Mossor&oacute; passes e <em>Bruno</em> <em>Alves</em> cortes. Mas os<span class=\"ellipsis\"> ... </span> liga&ccedil;&otilde;es que n&atilde;o acabam. O m&eacute;rito de <em>Bruno</em> de Carvalho Publicado em 28 de Mar&ccedil;o de 2011 1 coment&aacute;rio<span class=\"ellipsis\"> ... </span> Facebook mySpace Delicious Reddit StumbleUpon Twitter Enviar Fechar Artigo: O m&eacute;rito de <em>Bruno</em> de<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Herculano, a \u201cPropriedade Liter\u00e1ria\u201d e a Doutrina do C\u00f3digo Civil de Seabra: Reflex\u00f5es Sobre a Quest",
+            "originalURL": "http://www.causaliberal.net/home/artigos/luis-aguiar-santos/herculano-a-propriedade-literaria-e-a-doutrina-do-codigo-civil-de-seabra-reflexoes-sobre-a-questao-da-propriedade-intelectual-por-luis-aguiar-santos",
+            "snippet": " Caminho da Servid&atilde;o, por Thiago Magalh&atilde;es O Fardo da Liberdade, por <em>Bruno</em> <em>Alves</em> O Liberalismo Agrilhoado: A &laquo;amalgama&ccedil;&atilde;o&raquo; de Palmela e a oposi&ccedil;&atilde;o radical (1834-1835), por <em>Bruno</em> <em>Alves</em> Og Leme e o<span class=\"ellipsis\"> ... </span> Andr&eacute; Azevedo <em>Alves</em> 2004 Index of Economic Freedom: Alguns Dados e Notas Sobre a Classifica&ccedil;&atilde;o de<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "eristoff_league",
+            "originalURL": "http://eristoff_league.blogs.sapo.pt/",
+            "snippet": ", Evaldo, <em>Bruno</em> <em>Alves</em>; Rodriguez, Izmailov, Flavio Meireles, Carlos Martins, Romagnoli; Hulk e William<span class=\"ellipsis\"> ... </span> Domingo, 16 de Novembro de 2008 One of a Kind #6 Julio Cesar; Sapunaro, Evaldo, <em>Bruno</em> <em>Alves</em>; Rodriguez<span class=\"ellipsis\"> ... </span>) | favorito S&aacute;bado, 1 de Novembro de 2008 One of a Kind #5 Julio Cesar; Sapunaro, Evaldo, <em>Bruno</em> <em>Alves</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "C.C.S. - C\u00edrculo Cultural Scalabitano - VETO Sinopses",
+            "originalURL": "http://www.circuloculturalscalabitano.pt/veto_sinopses.html",
+            "snippet": " Gargat&eacute;, Ant&oacute;nio J&uacute;lio e <em>Bruno</em> <em>Alves</em> Produ&ccedil;&atilde;o: C&iacute;rculo Cultural Scalabitano Dura&ccedil;&atilde;o do espect&aacute;culo<span class=\"ellipsis\"> ... </span> Coreografia: V&iacute;tor Murta Luminotecnia/Sonoplastia: H&eacute;lder Santos Figurinos: Ana Gargat&eacute;, <em>Bruno</em> <em>Alves</em><span class=\"ellipsis\"> ... </span>, Nuno Salvador, Sandra Pinheiro Elenco: Ana Gargat&eacute;, <em>Bruno</em> <em>Alves</em>, Susana <em>Alves</em> Produ&ccedil;&atilde;o: C&iacute;rculo<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Euro 2012",
+            "originalURL": "http://desporto.publico.pt/Euro2012/noticia/portugal-perde-24-meiafinal-nos-penaltis-1552336",
+            "snippet": " contou com a ajuda dos postes, voltou a ver a sorte devolvida ao remetente. <em>Bruno</em> <em>Alves</em> foi<span class=\"ellipsis\"> ... </span> seguidos, com uma finaliza&ccedil;&atilde;o &#8220;&agrave; Panenka&#8221; de Sergio Ramos. A fasquia estava muito elevada. <em>Bruno</em> <em>Alves</em><span class=\"ellipsis\"> ... </span>, Nani 2-3, Sergio Ramos 2-3, <em>Bruno</em> <em>Alves</em> (remate &agrave; trave) 2-4, Cesc F&agrave;bregas Portugal Rui Patr&iacute;cio<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "",
+            "originalURL": "http://agvaf.edu.pt/feijo/eb23/turmasehorarios/turmas_5_ano.pdf",
+            "snippet": " Beatriz Vilas Boas Faria X 10 Queijada \n3 <em>Bruno</em> <em>Alves</em> Vieira X 9 Anais \n4 <em>Bruno</em> Gon&ccedil;alves Correia X 10<span class=\"ellipsis\"> ... </span> \n5 Beatriz Soares Coelho X 9 Facha \n6 <em>Bruno</em> Miguel Vieira Barroqueiro Gon&ccedil;alves X 10 Beiral do Lima<span class=\"ellipsis\"> ... </span> Lopes Cruz X 10 Ribeira \n12 Gon&ccedil;alo Silva Gomes <em>Alves</em> Ferreira X 9 Lavradas \n13 Guilherme Fernandes<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Projecto de disserta\u00e7\u00e3o e Semin\u00e1rio: avalia\u00e7\u00e3o ap\u00f3s \u00e9poca de recurso - Investiga\u00e7\u00e3o MCMM",
+            "originalURL": "http://investigacao-mcmm.blogs.ua.sapo.pt/17662.html",
+            "snippet": " Geitoso Andreia Bastos <em>Bruno</em> <em>Alves</em> <em>Bruno</em> Caseiro Carla Manuel Carlos Nobre C&aacute;tia Resende C&aacute;tia<span class=\"ellipsis\"> ... </span> Ana Margarida Pinho Ana Sofia Ramos Ant&oacute;nio Loureiro B&aacute;rbara Cleto Beatriz Dehesa <em>Bruno</em> Almeida Carla<span class=\"ellipsis\"> ... </span> Neves Ana Pinho Andreia Gon&ccedil;alves Andreia Oliveira <em>Bruno</em> Monteiro <em>Bruno</em> Teles Catarina Manteigueiro<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "NETPIGEONS.COM :: Columbofilia na Internet",
+            "originalURL": "http://www.netpigeons.com/lofts.php",
+            "snippet": " visita site <em>bruno</em> <em>alves</em> PET Antonio Cesar da Silva Atualidades, Humor, Curiosidades, Alguns Links<span class=\"ellipsis\"> ... </span> Criar site gr&aacute;tis forum gestor de pedigrees anunciar contactos Luis <em>Alves</em> Columbofilo na Sui&ccedil;a membro<span class=\"ellipsis\"> ... </span> visitas <em>Bruno</em> Andre R. Leitao Almeida A grande paixao pelo pombo correio! hugo martinez rama Germano<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "DMA report",
+            "originalURL": "http://dmareport.blogspot.pt/",
+            "snippet": ") Benfica (2) Benguela (2) bomba de ar (1) Bono Vox (1) brasil (1) <em>Bruno</em> <em>Alves</em> (1) burrice pegada (1<span class=\"ellipsis\"> ... </span>) Bono Vox (1) brasil (1) <em>Bruno</em> <em>Alves</em> (1) burrice pegada (1) campe&atilde;o (2) canada (1) canad&aacute; (1<span class=\"ellipsis\"> ... </span> Fict&iacute;cias Lista C Mariana <em>Alves</em>' Cloud xapati Biblos Foi Voc&ecirc; que Pediu um Bom T&iacute;tulo? A Agenda-Montra de<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "abola.pt",
+            "originalURL": "http://www.abola.pt/nnh/ver.aspx?id=373199",
+            "snippet": " Sele&ccedil;&atilde;o&raquo; &#8211; <em>Bruno</em> <em>Alves</em> Por Reda&ccedil;&atilde;o A-&nbsp; A&nbsp; A+&nbsp; O defesa <em>Bruno</em> <em>Alves</em> reconheceu que a campanha para o<span class=\"ellipsis\"> ... </span> pontos suficientes para garantir a qualifica&ccedil;&atilde;o&raquo;, afirmou <em>Bruno</em> <em>Alves</em>, em entrevista &agrave; RTP. O colega<span class=\"ellipsis\"> ... </span> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; COMENT&Aacute;RIOS ESCREVER COMENT&Aacute;RIO VER TODOS OS 4 COMENT&Aacute;RIOS marciocr7 28-12-2012 - 23:36 <em>bruno</em> essa<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Estar\u00e1 o PS \u00e0 procura de elei\u00e7\u00f5es antecipadas? | O Insurgente",
+            "originalURL": "http://oinsurgente.org/2008/12/07/estara-o-ps-a-procura-de-eleicoes-antecipadas/",
+            "snippet": " &#8594; Estar&aacute; o PS &agrave; procura de elei&ccedil;&otilde;es&nbsp;antecipadas? Posted on Dezembro 7, 2008 by <em>Bruno</em> <em>Alves</em> Hoje em dia, a<span class=\"ellipsis\"> ... </span> , Portugal , Semana Pol&iacute;tica por <em>Bruno</em> <em>Alves</em> . Liga&ccedil;&atilde;o permanente . 4 pensamentos em &#8220; Estar&aacute; o PS &agrave;<span class=\"ellipsis\"> ... </span> desenvolvimento que ainda t&ecirc;m muitas limita&ccedil;&otilde;es. <em>Bruno</em> <em>Alves</em> em Dezembro 8, 2008 &agrave;s 10:18 disse: &#8220;Em<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Juventude Lis afastada da Ta\u00e7a das Ta\u00e7as de andebol feminino - Visao.pt",
+            "originalURL": "http://visao.sapo.pt/juventude-lis-afastada-da-taca-das-tacas-de-andebol-feminino=f752013",
+            "snippet": " t&eacute;nis de mesa &#8226; Sereno rende o lesionado <em>Bruno</em> <em>Alves</em> na sele&ccedil;&atilde;o portuguesa de futebol &#8226; FC Porto vence em Arouca e &eacute; l&iacute;der da I Liga &#8226; Sereno rende o lesionado <em>Bruno</em> <em>Alves</em> na sele&ccedil;&atilde;o portuguesa de<span class=\"ellipsis\"> ... </span> rende o lesionado <em>Bruno</em> <em>Alves</em> na sele&ccedil;&atilde;o portuguesa de futebol 20:08 FC Porto vence em Arouca e &eacute;<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "O Indesment\u00edvel \u00bb Defeso",
+            "originalURL": "http://www.oindesmentivel.com/tag/defeso/feed",
+            "snippet": "-domingos-esta-terca-feira-vai-apresentar-jogador-chamado-tercas-feiras-domingo/feed 0 <em>Bruno</em> <em>Alves</em><span class=\"ellipsis\"> ... </span>/<em>bruno</em>-<em>alves</em>-chumba-nos-testes-medicos-devido-a-um-pelo-encravado http://www.oindesmentivel.com/seccoes/desporto/<em>bruno</em>-<em>alves</em>-chumba-nos-testes-medicos-devido-a-um-pelo-encravado#comments Fri, 26 Jun 2009<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Correio da Manh\u00e3",
+            "originalURL": "http://www.cmjornal.xl.pt/Imprimir.aspx?channelid=00000181-0000-0000-0000-000000000181&contentid=6bf119ac-3f6c-44f7-81d2-6c65ba3dadff",
+            "snippet": " F&eacute;rias Craques t&ecirc;m aulas de surf na praia Pepe e <em>Bruno</em> <em>Alves</em> aprendem a navegar as ondas. CM conta tudo De f&eacute;rias em Portugal, a aproveitarem a pausa de Natal dos campeonatos, os jogadores <em>Bruno</em> <em>Alves</em>, do<span class=\"ellipsis\"> ... </span> &aacute;gua, na praia localizada a poucos quil&oacute;metros da casa onde <em>Bruno</em> <em>Alves</em> vive com a mulher, Rute, e<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": ".: GestiFute :.",
+            "originalURL": "http://www.gestifute.com/gestifute/index.php",
+            "snippet": " Anderson Andr&eacute; Gomes Andr&eacute; Santos Beb&eacute; <em>Bruno</em> <em>Alves</em> <em>Bruno</em> Gama C&iacute;cero Cristiano Ronaldo Cust&oacute;dio Danny De<span class=\"ellipsis\"> ... </span> Mariza 2013-09-06 Hist&oacute;rico <em>Bruno</em> <em>Alves</em> colocou a equipa portuguesa em vantagem, mas a Irlanda virou o<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "O Indesment\u00edvel \u00bb Jo\u00e3o Moutinho",
+            "originalURL": "http://www.oindesmentivel.com/tag/joao-moutinho/feed",
+            "snippet": ", uma inspira&ccedil;&atilde;o para <em>Bruno</em> <em>Alves</em> http://www.oindesmentivel.com/seccoes/desporto/mortal-kombat-%e2%80%93-para-alguns-um-mero-jogo-uma-inspiracao-para-<em>bruno</em>-<em>alves</em> http://www.oindesmentivel.com/seccoes/desporto/mortal-kombat-%e2%80%93-para-alguns-um-mero-jogo-uma-inspiracao-para-<em>bruno</em>-<em>alves</em>#comments Tue<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Gordo, vai \u00e0 baliza!: Falcao",
+            "originalURL": "http://gordovaiabaliza.blogspot.pt/2012/10/falcao.html",
+            "snippet": " Dortmund Braga Bruma <em>Bruno</em> <em>Alves</em> <em>Bruno</em> Carvalho <em>Bruno</em> C&eacute;sar <em>Bruno</em> de Carvalho buffon Bwin Cabelo do<span class=\"ellipsis\"> ... </span> C&eacute;sar Brito C&eacute;sar Peixoto Dani <em>Alves</em> Daniel Wass De Gea Debate Defeso Defini&ccedil;&otilde;es de Rid&iacute;culo<span class=\"ellipsis\"> ... </span>-finais Melgarejo Melhores do ano Mercado Merkel Mesquita <em>Alves</em> Messi Metro Michael Schumacher Michel<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Sporting - Not\u00edcias TSF",
+            "originalURL": "http://www.tsf.pt/PaginaInicial/tag.aspx?tag=Sporting",
+            "snippet": " &nbsp;&nbsp;&nbsp; Automobilismo &nbsp;&nbsp;&nbsp; Paulo Bento &nbsp;&nbsp;&nbsp; Benfica - Sporting &nbsp;&nbsp;&nbsp; Rafael Nadal &nbsp;&nbsp;&nbsp; <em>Bruno</em> <em>Alves</em><span class=\"ellipsis\"> ... </span> agarrado, mas tive a felicidade de tocar a bola&raquo; <em>Bruno</em> de Carvalho: &laquo;N&atilde;o &eacute; normal errar s&oacute; para um lado<span class=\"ellipsis\"> ... </span>. Luis&atilde;o: &laquo;Sofri penalti, fui agarrado, mas tive a felicidade de tocar a bola&raquo; <em>Bruno</em> de Carvalho: &laquo;N&atilde;o<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Desporto : Futebol : Nacional. As \u00faltimas not\u00edcias, an\u00e1lises e coment\u00e1rios | Di\u00e1rio Digital",
+            "originalURL": "http://www.diariodigital.sapo.pt/desporto_section.asp?section_id=125",
+            "snippet": " em jogo de dez contra dez 06-09-2013 <em>Bruno</em> <em>Alves</em> coloca Portugal em vantagem em Belfast 10-06-2013<span class=\"ellipsis\"> ... </span>&raquo; 26-03-2013 Mundial: Hugo Almeida dilata vantagem no Azerbaij&atilde;o 26-03-2013 Mundial: <em>Bruno</em> <em>Alves</em><span class=\"ellipsis\"> ... </span> a Portugal 22-03-2013 <em>Bruno</em> <em>Alves</em> adianta Portugal em Israel aos dois minutos 26-02-2013 Equipas do<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Manchester United empata com FC Porto",
+            "originalURL": "http://opais.sapo.mz/index.php/desporto/74-desporto/401--manchester-united-empata-com-fc-porto.html",
+            "snippet": ", e apenas um erro de &#8220;outro mundo&#8221; de <em>Bruno</em> <em>Alves</em> permitiu a igualdade a Rooney, aos 15. Muito<span class=\"ellipsis\"> ... </span>, <em>Bruno</em> <em>Alves</em>, Cissokho, deixando Fernando, Raul Meireles e Lucho Gonzalez, no meio-campo, logo atr&aacute;s de<span class=\"ellipsis\"> ... </span> cabeceamento forte e superiormente defendido por Helton. No minuto seguinte, <em>Bruno</em> <em>Alves</em> falhou de<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "",
+            "originalURL": "http://www.npk.com.pt/register/documentos/SORTEIO_OPEN_NPK_2012.pdf",
+            "snippet": "-\n<em>Bruno</em> <em>Alves</em>\nEKFP\n133-\nFrancisco Oliveira\nCKGP\n690-\nHenrique Cardoso\nBFC\n749-\nBye270-\nBye0-\nRenato<span class=\"ellipsis\"> ... </span>Carolina Lopes\nIC\n453-\nSara Castanheira\nAMICALE\n123-\nAndreia <em>Alves</em>\nCKMAIA\n757-\nIn&ecirc;s Almeida\nCNKD<span class=\"ellipsis\"> ... </span>\n505-\nGabriela Miranda\nCKA\n483-\nMaria Barreira\nKCAT\n596-\nErica Moreira\nEKSD\n146-\nBye0-\nTatiana <em>Alves</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "abola.pt",
+            "originalURL": "http://www.abola.pt/nnh/ver.aspx?id=420682",
+            "snippet": " Patr&iacute;cio (Sporting). Defesas - Jo&atilde;o Pereira (Val&ecirc;ncia), F&aacute;bio Coentr&atilde;o (Real Madrid), <em>Bruno</em> <em>Alves</em><span class=\"ellipsis\"> ... </span> Desporto Actualiza&ccedil;&otilde;es a cada 5 minutos. abola.pt - &Uacute;ltimas Outros Mundos Paulo Machado e <em>Bruno</em> Gama<span class=\"ellipsis\"> ... </span> Paulo Machado (Olympiakos) e <em>Bruno</em> Gama (Deportivo). Portugal ir&aacute; defrontar a Holanda dia 14 de agosto<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Pesquisa de Jogadores internacionais",
+            "originalURL": "http://selecoesportuguesas.fpf.pt/pt-pt/pesquisajogadores.aspx",
+            "snippet": " FENERBAHCE SK RAUL MEIRELES 70 JO&Atilde;O PINTO Defesa / 2 Futebol 1 1961 FC PORTO JO&Atilde;O PINTO 68 <em>BRUNO</em> <em>ALVES</em> Defesa / 2 Futebol 9 1981 FENERBAHCE SK <em>BRUNO</em> <em>ALVES</em> 65 H&Eacute;LDER POSTIGA Avan&ccedil;ado / 23 Futebol 27 1982<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Search international players",
+            "originalURL": "http://selecoesportuguesas.fpf.pt/en-us/searchplayers.aspx",
+            "snippet": " Defender / 2 Football 1 1961 FC PORTO JO&Atilde;O PINTO 68 <em>BRUNO</em> <em>ALVES</em> Defender / 2 Football 9 1981 FENERBAHCE SK <em>BRUNO</em> <em>ALVES</em> 65 H&Eacute;LDER POSTIGA Forward / 23 Football 27 1982 VALENCIA CF H&Eacute;LDER POSTIGA 65 N&Eacute;N&Eacute;<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Grecia - Kazulo Portal da comunidade social Web2.0 Portuguesa | Transforma-te",
+            "originalURL": "http://www.kazulo.pt/s/tags/Grecia.htm",
+            "snippet": " Patr&iacute;cio; Defesas : Miguel, Paulo Ferreira, Jorge Ribeiro, Bosingwa, <em>Bruno</em> <em>Alves</em>, Fernando Meira<span class=\"ellipsis\"> ... </span> : Miguel, Paulo Ferreira, Jorge Ribeiro, Bosingwa, <em>Bruno</em> <em>Alves</em>, Fernando Meira, Pepe, Ricardo Carvalho<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Bola Branco",
+            "originalURL": "http://bolabranco.blogs.sapo.pt/",
+            "snippet": ", mas j&aacute; os pr&oacute;ximos pontos... Em que clube &eacute; o <em>Bruno</em> <em>Alves</em> &eacute; central? s&oacute; mesmo no porto onde n&atilde;o tem que se esfor&ccedil;ar muito para ganhar os joguinhos; Quem fala de <em>bruno</em> <em>alves</em> fale de Bosingwa...meu rico<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Coment\u00e1rios do blog S\u00f3 d\u00e1 BENFICA",
+            "originalURL": "http://blogs.sapo.pt/commentsrss.bml?blog=sodabenfica",
+            "snippet": " aos 2 pelos coment&aacute;rios.&lt;br /&gt;N&atilde;o sabia disso do destaque.&lt;br /&gt;&lt;br /&gt;Quanto ao <em>Bruno</em> <em>Alves</em> n&atilde;o se<span class=\"ellipsis\"> ... </span> Coment&aacute;rio a O rolo compressor* Quero ver de vai dar sumar&iacute;ssimo ao <em>Bruno</em> <em>Alves</em> ou se fica tudo como<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "VATSIM's Portugal vACC",
+            "originalURL": "http://www.portugal-vacc.org/",
+            "snippet": "-2230z (2h00) No Flights scheduled Current ATC online Callsign Frequency LPPR_APP 121.100 <em>Bruno</em> <em>Alves</em> Top 5 controllers Name Duration 1. Rui Ramos 27:17 2. <em>Bruno</em> <em>Alves</em> 14:06 3. Hugo Santos 10:17 4<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": ":: LADY'S PLACE ::",
+            "originalURL": "http://www.ladysplace.pt/index.html",
+            "snippet": " muito Especial. Equipa Instrutoras Lady&acute;s Place Ler mais + &nbsp; J&aacute; na pr&oacute;xima 3&ordf;f Prof. <em>Bruno</em> <em>Alves</em> Dia 1 de Outubro vamos ter a presen&ccedil;a do Prof. <em>Bruno</em> <em>Alves</em> para uma aula de Total Condicionam Ler mais<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "SIC Online - Programas de Entretenimento| SIC Online",
+            "originalURL": "http://sic.sapo.pt/online/entretenimento/o-regresso-dos-incriveis/",
+            "snippet": " ALMEIDA <em>BRUNO</em> <em>ALVES</em> CARLOS QUEIROZ Todos eles v&Atilde;&pound;o falar do que nunca falaram e mostrar o que Mundo<span class=\"ellipsis\"> ... </span> <em>Bruno</em> <em>Alves</em> O capit&Atilde;&pound;o do F.C. Porto &Atilde;&copy; um pai dedicado e um apaixonado por futev&Atilde;&sup3;lei Carlos Queir&oacute;z<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Investiga\u00e7\u00e3o MCMM",
+            "originalURL": "http://investigacao-mcmm.blogs.ua.sapo.pt/",
+            "snippet": " Ana Cl&aacute;udia Baptista Ana Filipa Sousa Ana Sofia Geitoso Andreia Bastos <em>Bruno</em> <em>Alves</em> <em>Bruno</em> Caseiro<span class=\"ellipsis\"> ... </span> B&aacute;rbara Cleto Beatriz Dehesa <em>Bruno</em> Almeida Carla Leite Catarina Melo Cristina Coutinho Daniela Rei<span class=\"ellipsis\"> ... </span> <em>Bruno</em> Monteiro <em>Bruno</em> Teles Catarina Manteigueiro Carlos Almeida Carlos Reis Cec&iacute;lia Cristo Celso Lopes<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Tomates Podres - Celebridades e famosos",
+            "originalURL": "http://www.tomatespodres.com/",
+            "snippet": " Ferraz Bruna Real Bruna Vinha <em>Bruno</em> <em>Alves</em> <em>Bruno</em> de Carvalho <em>Bruno</em> Mars <em>Bruno</em> Nogueira <em>Bruno</em> Pereira<span class=\"ellipsis\"> ... </span> site Ter&ccedil;a-feira, 5 de Novembro de 2013 Beatriz Batarda e <em>Bruno</em> Nogueira admitem rela&ccedil;&atilde;o Beatriz Batarda e <em>Bruno</em> Nogueira j&aacute; s&atilde;o vistos &agrave;s claras como namorados o casal j&aacute; n&atilde;o esconde a rela&ccedil;&atilde;o. Os<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": ":.: Nuno Merino eleito para a comiss\u00e3o da FIG - Outras modalidades - Jornal Record :.:",
+            "originalURL": "http://www.record.xl.pt/Modalidades/Outras/interior.aspx?content_id=852798",
+            "snippet": " Su&eacute;cia... 13:27&nbsp; | Sele&ccedil;&otilde;es <em>Bruno</em> <em>Alves</em>: &laquo;Vou tentar n&atilde;o dar espa&ccedil;o a Ibrahimovic&raquo; 13:27&nbsp; | Iniciativas<span class=\"ellipsis\"> ... </span>:10&nbsp; | Sele&ccedil;&otilde;es <em>Bruno</em> <em>Alves</em>: &laquo;Ronaldo &eacute; o melhor e pode fazer a diferen&ccedil;a&raquo; 2013-11-12T14:03:08 Ontem<span class=\"ellipsis\"> ... </span>: <em>Bruno</em> Nobre arrebata bronze no Mundial de trampolins 10-11-2013, &agrave;s&nbsp;18:58 &nbsp;-&nbsp; Badminton: Telma Santos<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "---Rodrigo---",
+            "originalURL": "http://rodrigo_scp_17.blogs.sapo.pt/",
+            "snippet": " 21:59 link do post | comentar | | adicionar aos favoritos <em>Bruno</em> <em>Alves</em> sinto-me: tags: <em>bruno</em><span class=\"ellipsis\"> ... </span> NOV .tags 125 2010 amigos namoros ! lool amnha ! asa delta audi automovel bo&ccedil;a <em>bruno</em> btt car carvalho<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Craques t\u00eam aulas de surf na praia - Exclusivo CM - Correio da Manh\u00e3",
+            "originalURL": "http://www.cmjornal.xl.pt/detalhe/noticias/exclusivo-cm/craques-tem-aulas-de-surf-na-praia",
+            "snippet": " sua senha de acesso? Ainda n&atilde;o tem registo? fechar x direitos reservados <em>Bruno</em> <em>Alves</em> durante o<span class=\"ellipsis\"> ... </span> not&iacute;cia? Sim N&atilde;o COMENT&Aacute;RIO MAIS VOTADO F&eacute;rias Craques t&ecirc;m aulas de surf na praia Pepe e <em>Bruno</em> <em>Alves</em><span class=\"ellipsis\"> ... </span> <em>Bruno</em> <em>Alves</em>, do Zenit S&atilde;o Petersburgo, e Pepe, do Real Madrid, aproveitaram as ondas de Inverno de<span class=\"ellipsis\"> ... </span>"
+        }
+    ]
+}
