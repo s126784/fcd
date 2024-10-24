@@ -1,0 +1,273 @@
+{
+    "serviceName": "Arquivo.pt - the Portuguese web-archive",
+    "linkToService": "https://arquivo.pt",
+    "next_page": "https://arquivo.pt/textsearch?q=William+Carvalho&from=20170101000000&to=20171231235959&fields=title%2Csnippet%2CoriginalURL%2Ctimestamp&offset=50",
+    "estimated_nr_results": 1613133,
+    "request_parameters": {
+        "offset": 0,
+        "dedupValue": 2,
+        "from": "20170101000000",
+        "to": "20171231235959",
+        "fields": [
+            "title",
+            "snippet",
+            "originalURL",
+            "timestamp"
+        ],
+        "dedupField": "site",
+        "q": "William Carvalho",
+        "maxItems": 50
+    },
+    "response_items": [
+        {
+            "title": "DAQUI A NADA \u2013 RODRIGUES GUEDES DE CARVALHO",
+            "originalURL": "http://daquianada.blogs.sapo.pt/",
+            "snippet": "DAQUI A NADA &#8211; RODRIGUES GUEDES DE <em>CARVALHO</em> Daqui a Nada, de Rodrigues Guedes de <em>Carvalho</em>. Leya BIS &#8211; livros de bolso DAQUI A NADA &#8211; RODRIGUES GUEDES DE <em>CARVALHO</em> BIS &#8211; LIVROS DE BOLSO 08 Mai 09 DAQUI A NADA Daqui a Nada Rodrigo Guedes de <em>Carvalho</em> &laquo;O autor demonstra uma maturidade invulgar na<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Agnes partilha conversas privadas com William Carvalho \u2014 MYWAY",
+            "originalURL": "http://myway.pt//agnes-william-carvalho//42419",
+            "snippet": "Agnes partilha conversas privadas com <em>William</em> <em>Carvalho</em> &#8212; MYWAY Get Amazing Stories Get great<span class=\"ellipsis\"> ... </span> conversas privadas com <em>William</em> <em>Carvalho</em> Share Tweet S&eacute;rgio Concei&ccedil;&atilde;o: &#8220;Queremos interromper o dom&iacute;nio do<span class=\"ellipsis\"> ... </span> sumo de laranja Rui Gomes da Silva defende posi&ccedil;&atilde;o de Lu&iacute;s Filipe Vieira Foto: Agnes e <em>William</em> <em>Carvalho</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "A INAUDITA GUERRA DA AVENIDA GAGO COUTINHO \u2013 M\u00c1RIO DE CARVALHO",
+            "originalURL": "http://avgagocoutinho.blogs.sapo.pt/",
+            "snippet": "A INAUDITA GUERRA DA AVENIDA GAGO COUTINHO &#8211; M&Aacute;RIO DE <em>CARVALHO</em> A Inaudita Guerra da Avenida Gago Coutinho, M&aacute;rio de <em>Carvalho</em>. Leya BIS &#8211; livros de bolso &nbsp; &nbsp; 08 Mai 09 A INAUDITA GUERRA DA AVENIDA GAGO COUTINHO A inaudita guerra da Avenida Gago Coutinho M&aacute;rio de <em>Carvalho</em> Os automobilistas que nessa<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Mini-entrevista a William Carvalho ~ \u00a9\u00ae Sporting Visto Por N\u00f3s \u2122",
+            "originalURL": "http://svpn.blogspot.pt/2010/10/mini-entrevista-william-carvalho.html",
+            "snippet": "Mini-entrevista a <em>William</em> <em>Carvalho</em> ~ &copy;&reg; Sporting Visto Por N&oacute;s &#8482; Skip to content Menu In&iacute;cio<span class=\"ellipsis\"> ... </span> Directivo XXI Torcida Verde Iniciativas SVPN Entrevistas Exclusivas Eng.&ordm; Gilberto Borges <em>William</em> <em>Carvalho</em><span class=\"ellipsis\"> ... </span> DimSports Sporting TV Pr&oacute;ximo Jogo 29/10/2010 Mini-entrevista a <em>William</em> <em>Carvalho</em> Publicado &agrave;s 15:02 &nbsp;&nbsp;&nbsp; por<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Mini-entrevista a William Carvalho ~ \u00a9\u00ae Sporting Visto Por N\u00f3s \u2122",
+            "originalURL": "http://svpn.blogspot.pt/2010/10/mini-entrevista-william-carvalho.html",
+            "snippet": "Mini-entrevista a <em>William</em> <em>Carvalho</em> ~ &copy;&reg; Sporting Visto Por N&oacute;s &#8482; Skip to content Menu In&iacute;cio<span class=\"ellipsis\"> ... </span> DimSports Sporting TV Pr&oacute;ximo Jogo 29/10/2010 Mini-entrevista a <em>William</em> <em>Carvalho</em> Publicado &agrave;s 15:02<span class=\"ellipsis\"> ... </span>, e at&eacute; ao fim! Partilhar: Etiquetas: Entrevista , Futebol Forma&ccedil;&atilde;o , <em>William</em> <em>Carvalho</em> &nbsp;&nbsp;&nbsp; &nbsp; 2<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "DAQUI A NADA \u2013 RODRIGUES GUEDES DE CARVALHO",
+            "originalURL": "http://daquianada.blogs.sapo.pt/",
+            "snippet": "DAQUI A NADA &#8211; RODRIGUES GUEDES DE <em>CARVALHO</em> Daqui a Nada, de Rodrigues Guedes de <em>Carvalho</em>. Leya BIS &#8211; livros de bolso DAQUI A NADA &#8211; RODRIGUES GUEDES DE <em>CARVALHO</em> BIS &#8211; LIVROS DE BOLSO 08 Mai 09 DAQUI A NADA Daqui a Nada Rodrigo Guedes de <em>Carvalho</em> &laquo;O autor demonstra uma maturidade invulgar na<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Sporting, Caso, William Carvalho, 83m",
+            "originalURL": "http://www.vsports.pt/embd/34510/m/296237/dn/4dce88b2b4634147152d3d6c3ff326c1?autostart=false",
+            "snippet": "Sporting, Caso, <em>William</em> <em>Carvalho</em>, 83m<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Sporting, Caso, William Carvalho, 83m",
+            "originalURL": "http://www.vsports.pt/embd/34510/m/296237/dn/4dce88b2b4634147152d3d6c3ff326c1?autostart=false",
+            "snippet": "Sporting, Caso, <em>William</em> <em>Carvalho</em>, 83m<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Vis\u00e3o de Mercado: William Carvalho entre os 100 melhores jogadores do Mundo",
+            "originalURL": "http://visaodemercado.blogspot.pt/2015/12/william-carvalho-entre-os-100-melhores.html",
+            "snippet": "Vis&atilde;o de Mercado: <em>William</em> <em>Carvalho</em> entre os 100 melhores jogadores do Mundo <em>William</em> <em>Carvalho</em> entre os 100 melhores jogadores do Mundo Concorda? O internacional portugu&ecirc;s supera jogadores como Kane, Bacca, Pastore, Rooney, Son, Salah, Krychowiak e Verratti. <em>William</em> <em>Carvalho</em>, do Sporting, foi o 86<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Sporting pronto para perder William Carvalho",
+            "originalURL": "http://www.ojogo.pt/futebol/1a-liga/sporting/noticias/interior/sporting-pronto-para-perder-william-carvalho-6251148.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+OJ-Porto+%28OJ+-+Porto%29",
+            "snippet": "Sporting pronto para perder <em>William</em> <em>Carvalho</em> Destaques I Liga II Liga Camp. Portugal (1&ordf; Fase<span class=\"ellipsis\"> ... </span> Sporting Sporting pronto para perder <em>William</em> <em>Carvalho</em> Sporting pronto para perder <em>William</em> <em>Carvalho</em><span class=\"ellipsis\"> ... </span> principais ativos do elenco: <em>William</em> <em>Carvalho</em>. Segundo O JOGO apurou, entre o lote de jogadores<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Agnes sobre William Carvalho: \u201cEu preciso de homens a s\u00e9rio\u201d",
+            "originalURL": "http://portugal.shafaqna.com/PT/PT/2301641",
+            "snippet": "&#65279; Agnes sobre <em>William</em> <em>Carvalho</em>: &#8220;Eu preciso de homens a s&eacute;rio&#8221; &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; English &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Portugal<span class=\"ellipsis\"> ... </span> <em>William</em> <em>Carvalho</em>: &#8220;Eu preciso de homens a s&eacute;rio&#8221; Agnes, antiga concorrente da Casa dos Segredos e que viu<span class=\"ellipsis\"> ... </span>: &nbsp;&nbsp; Agnes &nbsp;|&nbsp; sobre &nbsp;|&nbsp; <em>William</em> &nbsp;|&nbsp; <em>Carvalho</em> &nbsp;|&nbsp; &#8220;Eu &nbsp;|&nbsp; preciso &nbsp;|&nbsp; homens &nbsp;|&nbsp; s&eacute;rio&#8221; &nbsp;|&nbsp; Most<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Vis\u00e3o de Mercado: William Carvalho entre os 100 melhores jogadores do Mundo",
+            "originalURL": "http://visaodemercado.blogspot.pt/2015/12/william-carvalho-entre-os-100-melhores.html",
+            "snippet": "Vis&atilde;o de Mercado: <em>William</em> <em>Carvalho</em> entre os 100 melhores jogadores do Mundo <em>William</em> <em>Carvalho</em> entre os 100 melhores jogadores do Mundo Concorda? O internacional portugu&ecirc;s supera jogadores como Kane, Bacca, Pastore, Rooney, Son, Salah, Krychowiak e Verratti. <em>William</em> <em>Carvalho</em>, do Sporting, foi o 86<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Sporting ultima Juventus sem William Carvalho | Maisfutebol.iol.pt",
+            "originalURL": "http://www.maisfutebol.iol.pt/amp/liga-dos-campeoes/30-10-2017/sporting-ultima-juventus-sem-william-carvalho",
+            "snippet": "Sporting ultima Juventus sem <em>William</em> <em>Carvalho</em> | Maisfutebol.iol.pt Sporting ultima Juventus sem <em>William</em> <em>Carvalho</em> Por Reda&ccedil;&atilde;o &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hoje &agrave;s 11:15 Treino Sporting (Fonte: Lusa) Treino Sporting (Fonte<span class=\"ellipsis\"> ... </span> manh&atilde; desta segunda-feira com vista ao jogo frente &agrave; Juventus sem <em>William</em> <em>Carvalho</em> e os j&aacute;<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Sporting e FPF assinalam anivers\u00e1rio de William Carvalho",
+            "originalURL": "http://www.ojogo.pt/futebol/1a-liga/sporting/noticias/interior/sporting-e-fpf-assinalam-aniversario-de-william-carvalho-5778807.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+OJ-Sporting+%28OJ+-+Sporting%29",
+            "snippet": "Sporting e FPF assinalam anivers&aacute;rio de <em>William</em> <em>Carvalho</em> Destaques I Liga II Liga Camp. Portugal (1<span class=\"ellipsis\"> ... </span> de <em>William</em> <em>Carvalho</em> Sporting e FPF assinalam anivers&aacute;rio de <em>William</em> <em>Carvalho</em> Partilhar no Facebook<span class=\"ellipsis\"> ... </span> Instagram <em>William</em> <em>Carvalho</em> celebra esta sexta-feira o 25&ordm; anivers&aacute;rio, e a data n&atilde;o passou<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "West Ham confident of signing William Carvalho from Sporting Lisbon | Football | The Guardian",
+            "originalURL": "https://amp.theguardian.com/football/2017/aug/24/slaven-bilic-william-carvalho-west-ham-sporting-lisbon",
+            "snippet": "West Ham confident of signing <em>William</em> <em>Carvalho</em> from Sporting Lisbon | Football | The Guardian<span class=\"ellipsis\"> ... </span> Ham confident of signing <em>William</em> <em>Carvalho</em> from Sporting Lisbon &#8226; Transfer under threat after talks<span class=\"ellipsis\"> ... </span> Bilic <em>William</em> <em>Carvalho</em> remains in West Ham United&#8217;s transfer sights despite talks stalling with<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Carlos Severino: \u00abPreferia perder Adrien do que William Carvalho\u00bb | Futebol 365",
+            "originalURL": "http://www.futebol365.pt/artigo/175047-carlos-severino-preferia-perder-adrien-do-que-william-carvalho/?utm_source=aeiou&utm_medium=feed&utm_campaign=destaque_aeiou",
+            "snippet": "Carlos Severino: &laquo;Preferia perder Adrien do que <em>William</em> <em>Carvalho</em>&raquo; | Futebol 365 Caro visitante<span class=\"ellipsis\"> ... </span> que <em>William</em> <em>Carvalho</em>&raquo; por Rog&eacute;rio Dias, publicado a 03-08-2017 &agrave;s 17:50 Sporting Adrien Silva <em>William</em><span class=\"ellipsis\"> ... </span> altura em que a imprensa nacional e internacional falam das poss&iacute;veis sa&iacute;das de <em>William</em> <em>Carvalho</em> e<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "William Carvalho focado no trabalho e no objetivo de vencer \u2013 Tribuna da Madeira",
+            "originalURL": "http://www.tribunadamadeira.pt/2014/06/13/william-carvalho-focado-no-trabalho-e-no-objetivo-de-vencer/",
+            "snippet": "<em>William</em> <em>Carvalho</em> focado no trabalho e no objetivo de vencer &#8211; Tribuna da Madeira Sexta-feira, 6<span class=\"ellipsis\"> ... </span>, <em>William</em> <em>Carvalho</em>, explicou que est&aacute; pronto para ajudar a equipa. O m&eacute;dio da equipa lusa sabe que a<span class=\"ellipsis\"> ... </span> bem.&#8221; <em>William</em> <em>Carvalho</em> garante que a Sele&ccedil;&atilde;o Portuguesa vai defrontarr a Alemanha sem receios e com<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "William Carvalho: \u00abQuero manter o foco na Sele\u00e7\u00e3o\u00bb - Sporting - Jornal Record",
+            "originalURL": "http://www.record.pt/futebol/futebol-nacional/liga-nos/sporting/detalhe/william-carvalho-quero-manter-o-foco-na-selecao.html",
+            "snippet": "<em>William</em> <em>Carvalho</em>: &laquo;Quero manter o foco na Sele&ccedil;&atilde;o&raquo; - Sporting - Jornal Record Quarta-feira, 14 de<span class=\"ellipsis\"> ... </span> Futebol Nacional Liga NOS Sporting 0 0 10h35 <em>William</em> <em>Carvalho</em>: &laquo;Quero manter o foco na Sele&ccedil;&atilde;o&raquo; Rea&ccedil;&atilde;o aos rumores de que tem mercado em Inglaterra Foto: Paulo Calado <em>William</em> <em>Carvalho</em> garantiu esta<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "A INAUDITA GUERRA DA AVENIDA GAGO COUTINHO \u2013 M\u00c1RIO DE CARVALHO",
+            "originalURL": "http://avgagocoutinho.blogs.sapo.pt/",
+            "snippet": "A INAUDITA GUERRA DA AVENIDA GAGO COUTINHO &#8211; M&Aacute;RIO DE <em>CARVALHO</em> A Inaudita Guerra da Avenida Gago Coutinho, M&aacute;rio de <em>Carvalho</em>. Leya BIS &#8211; livros de bolso &nbsp; &nbsp; 08 Mai 09 A INAUDITA GUERRA DA AVENIDA GAGO COUTINHO A inaudita guerra da Avenida Gago Coutinho M&aacute;rio de <em>Carvalho</em> Os automobilistas que nessa<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "West Ham confident of signing William Carvalho from Sporting Lisbon | Football | The Guardian",
+            "originalURL": "https://www.theguardian.com/football/2017/aug/24/slaven-bilic-william-carvalho-west-ham-sporting-lisbon",
+            "snippet": "West Ham confident of signing <em>William</em> <em>Carvalho</em> from Sporting Lisbon | Football | The Guardian Close<span class=\"ellipsis\"> ... </span> midfielder &#8226; &#8216;We need someone to boost our team and quality,&#8217; says Slaven Bilic <em>William</em> <em>Carvalho</em> remains in<span class=\"ellipsis\"> ... </span>. Photograph: Hugo Delgado/EPA West Ham United West Ham confident of signing <em>William</em> <em>Carvalho</em> from<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Sporting: SAD leonina j\u00e1 definiu o pre\u00e7o de William Carvalho | Futebol 365",
+            "originalURL": "http://www.futebol365.pt/artigo/169256-sporting-sad-leonina-ja-definiu-o-preco-de-william-carvalho/?utm_source=aeiou&utm_medium=feed&utm_campaign=destaque_aeiou",
+            "snippet": "Sporting: SAD leonina j&aacute; definiu o pre&ccedil;o de <em>William</em> <em>Carvalho</em> | Futebol 365 Caro visitante<span class=\"ellipsis\"> ... </span> <em>Carvalho</em> por Rog&eacute;rio Dias, publicado a 28-04-2017 &agrave;s 12:08 WBA Arsenal Sporting Man City <em>William</em><span class=\"ellipsis\"> ... </span> respons&aacute;veis leoninos chegaram a um acordo quanto ao pre&ccedil;o do m&eacute;dio portugu&ecirc;s <em>William</em> <em>Carvalho</em>. De acordo<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Football transfer rumours: West Ham to win race for William Carvalho? | Football | The Guardian",
+            "originalURL": "https://amp.theguardian.com/football/2017/aug/10/football-transfer-rumours-west-ham-to-win-race-for-william-carvalho",
+            "snippet": "Football transfer rumours: West Ham to win race for <em>William</em> <em>Carvalho</em>? | Football | The Guardian<span class=\"ellipsis\"> ... </span> }} Football transfer rumours: West Ham to win race for <em>William</em> <em>Carvalho</em>? Today&#8217;s tell-all is feeling the burn &#8230; Sporting&#8217;s <em>William</em> <em>Carvalho</em>, centre left, a target for the Hammers. Photograph: Mario Cruz/EPA<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Football transfer rumours: West Ham to win race for William Carvalho? | Football | The Guardian",
+            "originalURL": "https://www.theguardian.com/football/2017/aug/10/football-transfer-rumours-west-ham-to-win-race-for-william-carvalho",
+            "snippet": "Football transfer rumours: West Ham to win race for <em>William</em> <em>Carvalho</em>? | Football | The Guardian<span class=\"ellipsis\"> ... </span>: West Ham to win race for <em>William</em> <em>Carvalho</em>? Today&#8217;s tell-all is feeling the burn &#8230; Sporting&#8217;s <em>William</em><span class=\"ellipsis\"> ... </span> Football transfer rumours: West Ham to win race for <em>William</em> <em>Carvalho</em>? Today&#8217;s tell-all is feeling the<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "William Carvalho no West Bromwich? Carvalhal diz que m\u00e9dio merece mais - Sporting - Jornal Record",
+            "originalURL": "http://www.record.pt/futebol/futebol-nacional/liga-nos/sporting/detalhe/william-carvalho-no-west-bromwich-carvalhal-diz-que-medio-merece-mais.html",
+            "snippet": "<em>William</em> <em>Carvalho</em> no West Bromwich? Carvalhal diz que m&eacute;dio merece mais - Sporting - Jornal Record<span class=\"ellipsis\"> ... </span> Futebol Nacional Liga NOS Sporting 264 4 11h57 <em>William</em> <em>Carvalho</em> no West Bromwich? Carvalhal diz que<span class=\"ellipsis\"> ... </span> aqu&eacute;m para um jogador com a qualidade de <em>William</em> <em>Carvalho</em>. O WBA continua a fazer observa&ccedil;&otilde;es ao<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Treinador do WBA diz que William Carvalho \u00ab\u00e9 um gigante\u00bb | Maisfutebol.iol.pt | Paix\u00e3o Pura - Tony P",
+            "originalURL": "http://www.maisfutebol.iol.pt/sporting/mercado/treinador-do-wba-diz-que-william-carvalho-e-um-gigante",
+            "snippet": "Treinador do WBA diz que <em>William</em> <em>Carvalho</em> &laquo;&eacute; um gigante&raquo; | Maisfutebol.iol.pt | Paix&atilde;o Pura - Tony<span class=\"ellipsis\"> ... </span> que <em>William</em> <em>Carvalho</em> &laquo;&eacute; um gigante&raquo; Tony Pulis assistiu ao d&eacute;rbi entre Sporting e Benfica Reda&ccedil;&atilde;o Tony<span class=\"ellipsis\"> ... </span> Sporting e Benfica, o treinador do West Bromwich Albion teve oportunidade de ver ao vivo <em>William</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Tribuna Expresso | A medalha de William Carvalho voltou a casa. Como \u00e9 que n\u00e3o se sabe",
+            "originalURL": "http://tribunaexpresso.pt/revista-de-imprensa/2017-07-13-A-medalha-de-William-Carvalho-voltou-a-casa.-Como-e-que-nao-se-sabe",
+            "snippet": "Tribuna Expresso | A medalha de <em>William</em> <em>Carvalho</em> voltou a casa. Como &eacute; que n&atilde;o se sabe Tribuna<span class=\"ellipsis\"> ... </span> A medalha de <em>William</em> <em>Carvalho</em> voltou a casa. Como &eacute; que n&atilde;o se sabe <em>William</em> <em>Carvalho</em> perdeu a<span class=\"ellipsis\"> ... </span> aqueles que estiveram em campo, em Paris, naquela noite. <em>William</em> <em>Carvalho</em> festejou tanto, tanto, no<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Tribuna Expresso | Andr\u00e9 Moreira est\u00e1 bloqueado (para j\u00e1), William Carvalho e Adrien podem sair e Ab",
+            "originalURL": "http://tribunaexpresso.pt/revista-de-imprensa/2017-07-10-Andre-Moreira-esta-bloqueado--para-ja--William-Carvalho-e-Adrien-podem-sair-e-Aboubakar-quer-jogar-em-Inglaterra",
+            "snippet": "Tribuna Expresso | Andr&eacute; Moreira est&aacute; bloqueado (para j&aacute;), <em>William</em> <em>Carvalho</em> e Adrien podem sair e<span class=\"ellipsis\"> ... </span> sonho &eacute; jogar na Premier League&#8221;, disse o jogador, segundo o jornal turco &#8220;Hurriyet&#8221;. <em>William</em> <em>Carvalho</em><span class=\"ellipsis\"> ... </span> maiores refer&ecirc;ncias. <em>William</em> <em>Carvalho</em>, segundo a &#8220;Bola&#8221;, dever&aacute; rumar a Inglaterra. Tanto o West<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "William Carvalho perdeu a Medalha do Euro 2016\ud83c\udfc5 e faz apelo a quem a tiver\ud83c\uddf5\ud83c\uddf9 - YouTube",
+            "originalURL": "https://www.youtube.com/embed/u_ap6AHnI10?ecver=1",
+            "snippet": "<em>William</em> <em>Carvalho</em> perdeu a Medalha do Euro 2016&#55356;&#57285; e faz apelo a quem a tiver&#55356;&#56821;&#55356;&#56825; - YouTube Ocorreu um erro. Experimente ver este v&iacute;deo em www.youtube.com ou ative o JavaScript se estiver desativado no seu navegador.<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "William Carvalho perdeu a Medalha do Euro 2016\ud83c\udfc5 e faz apelo a quem a tiver\ud83c\uddf5\ud83c\uddf9 - YouTube",
+            "originalURL": "https://www.youtube.com/embed/u_ap6AHnI10?ecver=1",
+            "snippet": "<em>William</em> <em>Carvalho</em> perdeu a Medalha do Euro 2016&#55356;&#57285; e faz apelo a quem a tiver&#55356;&#56821;&#55356;&#56825; - YouTube Ocorreu um erro. Experimente ver este v&iacute;deo em www.youtube.com ou ative o JavaScript se estiver desativado no seu navegador.<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Marquesa de Alorna",
+            "originalURL": "http://marquesa-de-alorna.blogs.sapo.pt/",
+            "snippet": "Marquesa de Alorna Marquesa de Alorna, de Maria Jo&atilde;o Lopo de <em>Carvalho</em>. Leya BIS &#8211; livros de bolso &nbsp; &nbsp; home 16 Mai 13 Marquesa de Alorna &#8211; Maria Jo&atilde;o Lopo de <em>Carvalho</em> &nbsp; Rebelde, culta, apaixonada e<span class=\"ellipsis\"> ... </span> coment&aacute;rios (1) | favorito Maria Jo&atilde;o Lopo de <em>Carvalho</em> fala de Marquesa de Alorna no programa Cinco Sentidos<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Agnes: \"William n\u00e3o faz o meu g\u00e9nero\"",
+            "originalURL": "http://ptjornal.com/agnes-william-nao-genero-202521",
+            "snippet": " 10 Outubro 2017 - 10:40 Agnes Arabela voltou a falar no alegado ass&eacute;dio de <em>William</em> <em>Carvalho</em>. Apesar<span class=\"ellipsis\"> ... </span>, n&atilde;o comentou ainda o assunto. 0 PARTILHAS Partilhar Tweetar T&oacute;picos: Agnes , <em>William</em> <em>Carvalho</em> Navega&ccedil;&atilde;o de artigos Agnes assume erro de encaminhar mensagens trocadas com <em>William</em> <em>Carvalho</em> no WhatsApp<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Agnes: \"William n\u00e3o faz o meu g\u00e9nero\"",
+            "originalURL": "http://ptjornal.com//agnes-william-nao-genero-202521",
+            "snippet": " 10 Outubro 2017 - 10:40 Agnes Arabela voltou a falar no alegado ass&eacute;dio de <em>William</em> <em>Carvalho</em>. Apesar<span class=\"ellipsis\"> ... </span>, n&atilde;o comentou ainda o assunto. 0 PARTILHAS Partilhar Tweetar T&oacute;picos: Agnes , <em>William</em> <em>Carvalho</em> Navega&ccedil;&atilde;o de artigos Agnes assume erro de encaminhar mensagens trocadas com <em>William</em> <em>Carvalho</em> no WhatsApp<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "\u201cWilliam n\u00e3o faz o meu g\u00e9nero\u201d, diz Agnes",
+            "originalURL": "http://www.cmjornal.pt/famosos/amp/william-nao-faz-o-meu-genero-diz-agnes",
+            "snippet": ". <em>William</em> <em>Carvalho</em>, de 25 anos, enviou mensagens &agrave; ex-concorrente da Casa dos Segredos Agnes Arabela<span class=\"ellipsis\"> ... </span> imagem para saber mais Siga o CM no Facebook . Partilhe Saiba mais &#8226; <em>William</em> <em>Carvalho</em> &#8226; Cristiana<span class=\"ellipsis\"> ... </span> Relacionadas Fotogaleria <em>William</em> <em>Carvalho</em> convida Agnes para jogo do Sporting Comentar<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Caso William: FPF responde ao Sporting - Futebol Portugal",
+            "originalURL": "http://futebolportugal.com/caso-william-fpf-responde-ao-sporting/",
+            "snippet": " Futebol respondeu &agrave; acusa&ccedil;&atilde;o do Sporting de que <em>William</em> <em>Carvalho</em> estaria lesionado na sele&ccedil;&atilde;o e que essa<span class=\"ellipsis\"> ... </span> Portugal, da les&atilde;o do jogador <em>William</em> <em>Carvalho</em>. Carlos Martinho, m&eacute;dico da FPF que acompanhou a Sele&ccedil;&atilde;o Nacional sub-21 na Rep&uacute;blica Checa, assegura que &laquo;<em>William</em> <em>Carvalho</em> n&atilde;o apresentou, at&eacute; ao final do<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Marquesa de Alorna",
+            "originalURL": "http://marquesa-de-alorna.blogs.sapo.pt/",
+            "snippet": "Marquesa de Alorna Marquesa de Alorna, de Maria Jo&atilde;o Lopo de <em>Carvalho</em>. Leya BIS &#8211; livros de bolso &nbsp; &nbsp; home 16 Mai 13 Marquesa de Alorna &#8211; Maria Jo&atilde;o Lopo de <em>Carvalho</em> &nbsp; Rebelde, culta, apaixonada e<span class=\"ellipsis\"> ... </span> coment&aacute;rios (1) | favorito Maria Jo&atilde;o Lopo de <em>Carvalho</em> fala de Marquesa de Alorna no programa Cinco Sentidos<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "William entre os \ud83d\udd1f melhores \"trincos\" na Europa \u2693\ufe0f | GoalPoint",
+            "originalURL": "http://goalpoint.pt/blog/sportingcp/william-entre-os-10-melhores-trincos-na-europa_49091",
+            "snippet": " Twitter O m&eacute;dio do Sporting, <em>William</em> <em>Carvalho</em> , &eacute; um dos dez melhores m&eacute;dios-centro-defensivos do futebol<span class=\"ellipsis\"> ... </span><em>William</em> entre os &#55357;&#56607; melhores &quot;trincos&quot; na Europa &#9875;&#65039; | GoalPoint Entrar SOBRE N&Oacute;S QUEM SOMOS<span class=\"ellipsis\"> ... </span>&#8482;) BAR&Oacute;METRO FOOTBALL MYTHBUSTERS PASSATEMPOS LOJA Home Competi&ccedil;&otilde;es Liga NOS <em>William</em> entre os<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "/ IMAGENS / FILMES / M\u00daSICA / DESIGN",
+            "originalURL": "http://nuno-m-carvalho.blogspot.pt/",
+            "snippet": " coment&aacute;rios Etiquetas: | DESIGN , | PRODUTOS 12.12.16 BLAKE E MORTIMER - O TESTAMENTO DE <em>WILLIAM</em> S<span class=\"ellipsis\"> ... </span> NUNO M <em>CARVALHO</em> _FOTOS NUNO M <em>CARVALHO</em> | BANDA DESENHADA | BRYAN FERRY | CITA&Ccedil;&Otilde;ES | DAVID BOWIE<span class=\"ellipsis\"> ... </span> | AO VIVO NO QUEIM&Oacute;DROMO DO PORTO | 2011 &copy; Nuno M. <em>Carvalho</em> - nas imagens identificadas Ver o meu<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "\u201cWilliam n\u00e3o faz o meu g\u00e9nero\u201d, diz Agnes - Famosos - Correio da Manh\u00e3",
+            "originalURL": "http://www.cmjornal.pt/famosos/detalhe/william-nao-faz-o-meu-genero-diz-agnes?ref=Cidades_BlocoTopoPagina",
+            "snippet": " <em>William</em> <em>Carvalho</em>, de 25 anos, enviou mensagens &agrave; ex-concorrente da Casa dos Segredos Agnes Arabela, de 32<span class=\"ellipsis\"> ... </span> | 01:30 partilhe 662 0 + 662 0 <em>William</em> <em>Carvalho</em>, de 25 anos, enviou mensagens &agrave; ex-concorrente da<span class=\"ellipsis\"> ... </span> craque leonino.&nbsp; Clique na imagem para saber mais Relacionadas Famosos Fotogaleria <em>William</em> <em>Carvalho</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Pesquisa por carvalho - Quiosque - AEIOU.pt",
+            "originalURL": "http://www.aeiou.pt/quiosque/search?s=Carvalho",
+            "snippet": " &raquo; Guardiola pode avan&ccedil;ar j&aacute; por <em>William</em> <em>Carvalho</em> 17 Janeiro 2017 Imprensa brit&acirc;nica afirma que o<span class=\"ellipsis\"> ... </span>Pesquisa por <em>carvalho</em> - Quiosque - AEIOU.pt Fa&ccedil;a do AEIOU a sua homepage Sites Web Not&iacute;cias V&iacute;deos<span class=\"ellipsis\"> ... </span> de ' <em>carvalho</em> ' Ordenar por: relev&acirc;ncia | data S&oacute; h&aacute; no Sporting um verdadeiro le&atilde;o de ra&ccedil;a, de seu<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Guerra de palavras por William vai para tribunal",
+            "originalURL": "http://www.dn.pt/desporto/sporting/interior/guerra-de-palavras-por-william-vai-para-tribunal-8746211.html",
+            "snippet": " alvo de uma queixa judicial O mercado de transfer&ecirc;ncias fechou, <em>William</em> <em>Carvalho</em> continuou em<span class=\"ellipsis\"> ... </span> que existiu uma proposta escrita para contratar <em>William</em>, contrariando assim Bruno de <em>Carvalho</em> e<span class=\"ellipsis\"> ... </span> eles n&atilde;o podem admitir publicamente que estavam preparados para vender <em>William</em> <em>Carvalho</em>. A nossa<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Guerra de palavras por William vai para tribunal",
+            "originalURL": "http://www.dn.pt/desporto/sporting/interior/guerra-de-palavras-por-william-vai-para-tribunal-8746211.html",
+            "snippet": " de uma queixa judicial O mercado de transfer&ecirc;ncias fechou, <em>William</em> <em>Carvalho</em> continuou em Alvalade<span class=\"ellipsis\"> ... </span> existiu uma proposta escrita para contratar <em>William</em>, contrariando assim Bruno de <em>Carvalho</em> e Nuno<span class=\"ellipsis\"> ... </span> n&atilde;o podem admitir publicamente que estavam preparados para vender <em>William</em> <em>Carvalho</em>. A nossa proposta<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Adrien e William contam como foi o di\u00e1logo com Bruno de Carvalho",
+            "originalURL": "http://www.sabado.pt/desporto/futebol/detalhe/amp/adrien_e_william_contam_como_foi_o_dialogo_com_bruno_de_carvalho.html",
+            "snippet": "Adrien e <em>William</em> contam como foi o di&aacute;logo com Bruno de <em>Carvalho</em> Adrien e <em>William</em> contam como foi o<span class=\"ellipsis\"> ... </span> Sporting Adrien Silva e <em>William</em> <em>Carvalho</em> explicaram, este domingo, o que se passou no balne&aacute;rio do<span class=\"ellipsis\"> ... </span> vers&atilde;o dos acontecimento foi corroborada por <em>William</em> <em>Carvalho</em>, que garantiu que a conversa decorreu de<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Danilo acredita na compatibilidade com William - Renascen\u00e7a",
+            "originalURL": "http://rr.sapo.pt/noticia/95140/danilo_acredita_na_compatibilidade_com_william",
+            "snippet": " incompat&iacute;vel com <em>William</em> <em>Carvalho</em> no meio-campo da selec&ccedil;&atilde;o nacional. Assim o garantiu o m&eacute;dio<span class=\"ellipsis\"> ... </span>Danilo acredita na compatibilidade com <em>William</em> - Renascen&ccedil;a O site da Renascen&ccedil;a usa cookies. Ao<span class=\"ellipsis\"> ... </span> com <em>William</em> 06 out, 2017 - 16:55 O trinco da selec&ccedil;&atilde;o nacional garante que est&aacute; totalmente<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "/ IMAGENS / FILMES / M\u00daSICA / DESIGN",
+            "originalURL": "http://nuno-m-carvalho.blogspot.pt/search",
+            "snippet": " coment&aacute;rios Etiquetas: | DESIGN , | PRODUTOS 12.12.16 BLAKE E MORTIMER - O TESTAMENTO DE <em>WILLIAM</em> S<span class=\"ellipsis\"> ... </span> site: _FOTOS CONCERTOS NUNO M <em>CARVALHO</em> _FOTOS NUNO M <em>CARVALHO</em> | BANDA DESENHADA | BRYAN FERRY<span class=\"ellipsis\"> ... </span> PORTUGAL | 2011 X-WIFE | AO VIVO NO QUEIM&Oacute;DROMO DO PORTO | 2011 &copy; Nuno M. <em>Carvalho</em> - nas imagens<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Pesquisa por carvalho - Quiosque - AEIOU.pt",
+            "originalURL": "http://www.aeiou.pt/quiosque/search?s=carvalho&p=4&order=date",
+            "snippet": " da Ta&ccedil;a de Portugal Jornal Record &raquo; Sporting e FPF assinalam anivers&aacute;rio de <em>William</em> <em>Carvalho</em> 7<span class=\"ellipsis\"> ... </span>, abordou de forma ir&oacute;nica uma poss&iacute;vel transfer&ecirc;ncia de <em>William</em> <em>Carvalho</em> para o Manchester City<span class=\"ellipsis\"> ... </span> aconselhada por Pinheiro de Azevedo &agrave; sua m&atilde;e Jornal Record &raquo; &quot;<em>William</em> <em>Carvalho</em> no City? Por 30 milh&otilde;es<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Carrillo e William terminaram a Liga 2016/17 - Renascen\u00e7a",
+            "originalURL": "http://rr.sapo.pt/noticia/83772/carrillo_e_william_terminaram_a_liga_201617?utm_source=sapo",
+            "snippet": " partida. FC Porto e Benfica multados. A+ / A- &nbsp; Andr&eacute; Carrillo (Benfica) e <em>William</em> <em>Carvalho</em> (Sporting<span class=\"ellipsis\"> ... </span>Carrillo e <em>William</em> terminaram a Liga 2016/17 - Renascen&ccedil;a O site da Renascen&ccedil;a usa cookies. Ao<span class=\"ellipsis\"> ... </span> demiss&atilde;o do ministro depois de investiga&ccedil;&atilde;o da Renascen&ccedil;a A+ / A- Castigos Carrillo e <em>William</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "A Entrevista de Bruno de Carvalho ao Record - Parte 2",
+            "originalURL": "http://tuvaisvencer.blogspot.pt/2017/01/a-entrevista-de-bruno-de-carvalho-ao_3.html",
+            "snippet": ". Desde que cheguei que me dizem que o <em>William</em> <em>Carvalho</em> ia sair. Agora &eacute; o Gelson e depois n&atilde;o sei<span class=\"ellipsis\"> ... </span>A Entrevista de Bruno de <em>Carvalho</em> ao Record - Parte 2 Avan&ccedil;ar para o conte&uacute;do principal Tu Vais<span class=\"ellipsis\"> ... </span> de Bruno de <em>Carvalho</em> ao Record - Parte 2 janeiro 03, 2017 Foto: Paulo Calado &nbsp;A segunda parte da<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Mister do Caf\u00e9: A entrevista de Bruno de Carvalho \u00e0 CMTV",
+            "originalURL": "http://misterdocafe.blogspot.pt/2016/12/a-entrevista-de-bruno-de-carvalho-cmtv.html",
+            "snippet": " Vouchers <em>William</em> <em>Carvalho</em> XXIII Capital Limited Zaragoza Z&eacute; Lu&iacute;s (BTV) Zenit Zenit. Orlando City<span class=\"ellipsis\"> ... </span>Mister do Caf&eacute;: A entrevista de Bruno de <em>Carvalho</em> &agrave; CMTV quinta-feira, 15 de dezembro de 2016 A entrevista de Bruno de <em>Carvalho</em> &agrave; CMTV Aqui fica a recente entrevista que Bruno de <em>Carvalho</em> concedeu &agrave;<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "A Entrevista de Bruno de Carvalho ao Record - Parte 2",
+            "originalURL": "http://tuvaisvencer.blogspot.pt/2017/01/a-entrevista-de-bruno-de-carvalho-ao_3.html",
+            "snippet": ". Desde que cheguei que me dizem que o <em>William</em> <em>Carvalho</em> ia sair. Agora &eacute; o Gelson e depois n&atilde;o sei<span class=\"ellipsis\"> ... </span>A Entrevista de Bruno de <em>Carvalho</em> ao Record - Parte 2 Avan&ccedil;ar para o conte&uacute;do principal Tu Vais<span class=\"ellipsis\"> ... </span> de Bruno de <em>Carvalho</em> ao Record - Parte 2 janeiro 03, 2017 Foto: Paulo Calado &nbsp;A segunda parte da<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Adrien e William admitem \"di\u00e1logo normal\" com o presidente",
+            "originalURL": "http://www.jn.pt/desporto/interior/amp/adrien-e-william-admitem-dialogo-normal-com-o-presidente-5607295.html",
+            "snippet": " &quot;di&aacute;logo normal&quot; com o presidente Bruno de <em>Carvalho</em>, Adrien, <em>William</em> e Ruben Semedo Foto&nbsp;Jorge Amaral<span class=\"ellipsis\"> ... </span> not&iacute;cias avan&ccedil;adas este domingo, tanto Adrien Silva como <em>William</em> <em>Carvalho</em> negaram que se tenha tratado de<span class=\"ellipsis\"> ... </span>Adrien e <em>William</em> admitem &quot;di&aacute;logo normal&quot; com o presidente Nacional Local Justi&ccedil;a Economia Desporto<span class=\"ellipsis\"> ... </span>"
+        }
+    ]
+}

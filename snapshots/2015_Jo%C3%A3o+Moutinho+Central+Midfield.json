@@ -1,0 +1,273 @@
+{
+    "serviceName": "Arquivo.pt - the Portuguese web-archive",
+    "linkToService": "https://arquivo.pt",
+    "next_page": "https://arquivo.pt/textsearch?q=Jo%C3%A3o+Moutinho&from=20150101000000&to=20151231235959&fields=title%2Csnippet%2CoriginalURL%2Ctimestamp&offset=50",
+    "estimated_nr_results": 1618778,
+    "request_parameters": {
+        "offset": 0,
+        "dedupValue": 2,
+        "from": "20150101000000",
+        "to": "20151231235959",
+        "fields": [
+            "title",
+            "snippet",
+            "originalURL",
+            "timestamp"
+        ],
+        "dedupField": "site",
+        "q": "Jo\u00e3o Moutinho",
+        "maxItems": 50
+    },
+    "response_items": [
+        {
+            "title": "Jo\u00e3o Moutinho",
+            "originalURL": "http://joao-moutinho.blogs.sapo.pt/",
+            "snippet": "<em>Jo&atilde;o</em> <em>Moutinho</em> <em>Jo&atilde;o</em> <em>Moutinho</em> Ter&ccedil;a-feira, 17 de Abril de 2007 Puto Maravilha (Sporting) UM puto que<span class=\"ellipsis\"> ... </span> post | comentar | ver coment&aacute;rios (8) | favorito | <em>Jo&atilde;o</em> <em>Moutinho</em><span class=\"ellipsis\"> ... </span> , curiorisidade , desporto , destaques , eu , futebol , futebolistas , interessante , <em>jo&atilde;o</em> <em>moutinho</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o Moutinho - Jo\u00e3o Moutinho",
+            "originalURL": "http://joao-moutinho.blogs.sapo.pt/485.html",
+            "snippet": "<em>Jo&atilde;o</em> <em>Moutinho</em> - <em>Jo&atilde;o</em> <em>Moutinho</em> <em>Jo&atilde;o</em> <em>Moutinho</em> in&iacute;cio | post seguinte &raquo; Ter&ccedil;a-feira, 17 de Abril de 2007 <em>Jo&atilde;o</em> <em>Moutinho</em><span class=\"ellipsis\"> ... </span> , futebolistas , interessante , <em>jo&atilde;o</em> <em>moutinho</em> , <em>moutinho</em> , noticias , not&iacute;cias , novidades<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o Moutinho",
+            "originalURL": "http://blogs.sapo.pt/users/joao-moutinho/data/atom",
+            "snippet": "urn:lj:blogs.sapo.pt:atom1:joao-<em>moutinho</em> <em>Jo&atilde;o</em> <em>Moutinho</em> FFHF FFHF 2009-02-19T20:50:59Z urn:lj:blogs.sapo.pt:atom1:joao-<em>moutinho</em>:656 2007-04-17T22:11:06 Puto Maravilha (Sporting) 2007-03-24T10:20:20Z<span class=\"ellipsis\"> ... </span>;&quot;&gt;&nbsp;&lt;/div&gt; &lt;/div&gt; urn:lj:blogs.sapo.pt:atom1:joao-<em>moutinho</em>:485 2007-04-17T14:13:58 <em>Jo&atilde;o</em> <em>Moutinho</em> 2007<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Expresso | Jo\u00e3o Moutinho",
+            "originalURL": "http://expresso.sapo.pt/palavra/entity/people/Joao-Moutinho",
+            "snippet": "Expresso | <em>Jo&atilde;o</em> <em>Moutinho</em> Menu Expresso Siga-nos Facebook Twitter RSS Pesquisar Fechar Login Logout Perfil Pesquisar Fechar Login Logout Perfil Di&aacute;rio Seman&aacute;rio <em>Jo&atilde;o</em> <em>Moutinho</em> Desporto Alb&acirc;nia-Portugal. Vingar Aveiro e festejar apuramento 07.09.2015 9h53 Caso ven&ccedil;a a sele&ccedil;&atilde;o albanesa, Portugal poder&aacute;<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "*Jo\u00e3o Moutinho's fan*",
+            "originalURL": "http://bigfanjoaomoutinho.blogs.sapo.pt/",
+            "snippet": " de 2006 <em>Jo&atilde;o</em> <em>Moutinho</em> nos Morangos com a&ccedil;ucar O jogador do Sporting foi convidado a fazer uma<span class=\"ellipsis\"> ... </span> os D`ZRT, 4Taste e as Chantily. <em>Jo&atilde;o</em> <em>Moutinho</em> ir&aacute; assistir aos espect&aacute;culos. &quot;&Eacute; a primeira vez que participo em algo do g&eacute;nero&quot; disse <em>Jo&atilde;o</em> <em>Moutinho</em>. O jogador confessa que at&eacute; &eacute; fan da novela &quot;&Eacute; uma<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "\u00abEntramos sempre para ganhar\u00bb - Jo\u00e3o Moutinho - Futebol Portugal",
+            "originalURL": "http://futebolportugal.clix.pt/entramos-sempre-para-ganhar-joao-moutinho/",
+            "snippet": "&laquo;Entramos sempre para ganhar&raquo; - <em>Jo&atilde;o</em> <em>Moutinho</em> - Futebol Portugal In&iacute;cio Futebol Estat&iacute;stica<span class=\"ellipsis\"> ... </span> janeiro Futebol / &laquo;Entramos sempre para ganhar&raquo; &#8211; <em>Jo&atilde;o</em> <em>Moutinho</em> &laquo;Entramos sempre para ganhar&raquo; &#8211; <em>Jo&atilde;o</em> <em>Moutinho</em> &laquo;Entramos sempre para ganhar&raquo; &#8211; <em>Jo&atilde;o</em> <em>Moutinho</em> Destaques Euro 2016 Not&iacute;cias Sele&ccedil;&atilde;o SHARE<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o Moutinho est\u00e1 de regresso - Desporto - RTP Not\u00edcias",
+            "originalURL": "http://www.rtp.pt/noticias/desporto/joao-moutinho-esta-de-regresso_v863721",
+            "snippet": "<em>Jo&atilde;o</em> <em>Moutinho</em> est&aacute; de regresso - Desporto - RTP Not&iacute;cias RTP R&aacute;dio e Televis&atilde;o de Portugal Not&iacute;cias<span class=\"ellipsis\"> ... </span> no Whatsapp <em>Jo&atilde;o</em> <em>Moutinho</em> est&aacute; de regresso RTP 05 Out, 2015, 14:14 | Desporto Se n&atilde;o estiver a ver o<span class=\"ellipsis\"> ... </span> qualifica&ccedil;&atilde;o para o Europeu em Fran&ccedil;a. Partilhar o artigo <em>Jo&atilde;o</em> <em>Moutinho</em> est&aacute; de regresso Imprimir o<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Coisas... e tal: Biografia de hoje... Jo\u00e3o Moutinho",
+            "originalURL": "http://coisasetal98.blogspot.pt/2012/07/biografia-de-hoje-joao-moutinho.html",
+            "snippet": "Coisas... e tal: Biografia de hoje... <em>Jo&atilde;o</em> <em>Moutinho</em> Coisas... e tal s&aacute;bado, 21 de julho de 2012 Biografia de hoje... <em>Jo&atilde;o</em> <em>Moutinho</em> &nbsp;A biografia de hoje e para come&ccedil;ar esta rubrica em grande o meu jogador favorito <em>Jo&atilde;o</em> <em>Moutinho</em>. <em>Jo&atilde;o</em> Filipe Iria Santos <em>Moutinho</em> (Portim&atilde;o, 8 de setembro de 1986) &eacute; um<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "\u00abEntramos sempre para ganhar\u00bb - Jo\u00e3o Moutinho - Futebol Portugal",
+            "originalURL": "http://futebolportugal.clix.pt/entramos-sempre-para-ganhar-joao-moutinho/",
+            "snippet": "&laquo;Entramos sempre para ganhar&raquo; - <em>Jo&atilde;o</em> <em>Moutinho</em> - Futebol Portugal In&iacute;cio Futebol Estat&iacute;stica<span class=\"ellipsis\"> ... </span> combinados Futebol / &laquo;Entramos sempre para ganhar&raquo; &#8211; <em>Jo&atilde;o</em> <em>Moutinho</em> &laquo;Entramos sempre para ganhar&raquo; &#8211; <em>Jo&atilde;o</em> <em>Moutinho</em> &laquo;Entramos sempre para ganhar&raquo; &#8211; <em>Jo&atilde;o</em> <em>Moutinho</em> Destaques Euro 2016 Not&iacute;cias Sele&ccedil;&atilde;o SHARE<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "LATERAL ESQUERDO: Jo\u00e3o Moutinho versus Andr\u00e9 Martins.",
+            "originalURL": "http://www.lateral-esquerdo.blogspot.pt/2012/05/joao-moutinho-versus-andre-martins.html",
+            "snippet": "LATERAL ESQUERDO: <em>Jo&atilde;o</em> <em>Moutinho</em> versus Andr&eacute; Martins. skip to main | skip to sidebar LATERAL<span class=\"ellipsis\"> ... </span> <em>Jo&atilde;o</em> <em>Moutinho</em> versus Andr&eacute; Martins. First things first. A minha resposta ao post anterior seria Aimar. Alguns de v&oacute;s, e bem, recordaram as parecen&ccedil;as com <em>Jo&atilde;o</em> <em>Moutinho</em>. Comparando-os. Perceba que &eacute; uma<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o Moutinho na agenda do Atl\u00e9tico Madrid | Relvado",
+            "originalURL": "http://relvado.sapo.pt/mercado/rumores/joao-moutinho-na-agenda-atletico-madrid-506150",
+            "snippet": "<em>Jo&atilde;o</em> <em>Moutinho</em> na agenda do Atl&eacute;tico Madrid | Relvado Acompanhe o Relvado: Partilhar Relvado Mobile<span class=\"ellipsis\"> ... </span> Ferreira Moreirense Penafiel Boavista Off-side Ronaldo Mourinho <em>Jo&atilde;o</em> <em>Moutinho</em> na agenda do Atl&eacute;tico Madrid<span class=\"ellipsis\"> ... </span> noticia &eacute; avan&ccedil;ada esta sexta-feira pelo di&aacute;rio espanhol &quot;Marca&quot;. Recorde-se que <em>Jo&atilde;o</em> <em>Moutinho</em> saiu do FC<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o Moutinho j\u00e1 ter\u00e1 acordo com M\u00f3naco | Relvado",
+            "originalURL": "http://relvado.sapo.pt/mercado/rumores/joao-moutinho-ja-tera-acordo-com-monaco-454768",
+            "snippet": "<em>Jo&atilde;o</em> <em>Moutinho</em> j&aacute; ter&aacute; acordo com M&oacute;naco | Relvado Acompanhe o Relvado: Partilhar Relvado Mobile<span class=\"ellipsis\"> ... </span> Moreirense Penafiel Boavista Off-side Ronaldo Mourinho <em>Jo&atilde;o</em> <em>Moutinho</em> j&aacute; ter&aacute; acordo com M&oacute;naco Clube<span class=\"ellipsis\"> ... </span> VELUDO/AFP/Getty Images O M&oacute;naco j&aacute; tem um &quot;acordo contratual&quot; com <em>Jo&atilde;o</em> <em>Moutinho</em>, informa o jornal 'Le<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o Moutinho fora do est\u00e1gio da selec\u00e7\u00e3o - P\u00daBLICO",
+            "originalURL": "http://www.publico.pt/desporto/noticia/joao-moutinho-fora-de-estagio-da-seleccao-1706473",
+            "snippet": "<em>Jo&atilde;o</em> <em>Moutinho</em> fora do est&aacute;gio da selec&ccedil;&atilde;o - P&Uacute;BLICO Artigos seguintes Artigos anteriores Mais<span class=\"ellipsis\"> ... </span> <em>Jo&atilde;o</em> <em>Moutinho</em> fora do est&aacute;gio da selec&ccedil;&atilde;o 0 Partilhar no Facebook Partilhar no Twitter Partilhar no Google+ 0 <em>Jo&atilde;o</em> <em>Moutinho</em> fora do est&aacute;gio da selec&ccedil;&atilde;o Por P&Uacute;BLICO 31/08/2015 - 12:30 Patr&iacute;cia Melo<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Golo de Jo\u00e3o Moutinho rumo a Fran\u00e7a - Sele\u00e7\u00e3o Nacional - RTP Not\u00edcias",
+            "originalURL": "http://www.rtp.pt/noticias/selecao-nacional/golo-de-joao-moutinho-rumo-a-franca_a864631",
+            "snippet": "Golo de <em>Jo&atilde;o</em> <em>Moutinho</em> rumo a Fran&ccedil;a - Sele&ccedil;&atilde;o Nacional - RTP Not&iacute;cias RTP R&aacute;dio e Televis&atilde;o de<span class=\"ellipsis\"> ... </span> Linkedin Partilhe no Whatsapp Golo de <em>Jo&atilde;o</em> <em>Moutinho</em> rumo a Fran&ccedil;a Antena 1 - Antena 1 08 Out, 2015, 22:21<span class=\"ellipsis\"> ... </span> seu browser e volte a abrir. Golo de <em>Jo&atilde;o</em> <em>Moutinho</em> narrado por Fernando Eurico aos 66 minutos, num<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Sele\u00e7\u00e3o Nacional - R\u00faben Neves substitui Jo\u00e3o Moutinho - Selec\u00e7\u00e3o - DN",
+            "originalURL": "http://www.dn.pt/desporto/seleccao/interior/ruben-neves-substitui-joao-moutinho-4877555.html",
+            "snippet": "Sele&ccedil;&atilde;o Nacional - R&uacute;ben Neves substitui <em>Jo&atilde;o</em> <em>Moutinho</em> - Selec&ccedil;&atilde;o - DN Ter&ccedil;a-Feira 10 de novembro<span class=\"ellipsis\"> ... </span> <em>Jo&atilde;o</em> <em>Moutinho</em> Siga-nos Siga-nos no Facebook Siga-nos no Twitter Siga-nos no Google + 23&ordm;&nbsp;sol Lisboa 10<span class=\"ellipsis\"> ... </span> substitui <em>Jo&atilde;o</em> <em>Moutinho</em> Facebook Twitter Google Plus DN.pt Partilhar Pub Fernando Santos chamou m&eacute;dio<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jardim j\u00e1 conta com Jo\u00e3o Moutinho - O Jogo",
+            "originalURL": "http://www.ojogo.pt/Internacional/Portugueses/interior.aspx?content_id=4809393",
+            "snippet": "Jardim j&aacute; conta com <em>Jo&atilde;o</em> <em>Moutinho</em> - O Jogo O JOGO Online EDI&Ccedil;&Atilde;O ONLINE JORNAL DO DIA REVISTA J<span class=\"ellipsis\"> ... </span> conta com <em>Jo&atilde;o</em> <em>Moutinho</em> Publicado M&eacute;dio luso est&aacute; recuperado e volta &agrave; titularidade na rece&ccedil;&atilde;o ao<span class=\"ellipsis\"> ... </span> inaugural. E Leonardo Jardim recebeu uma boa not&iacute;cia: <em>Jo&atilde;o</em> <em>Moutinho</em> recuperou dos problemas f&iacute;sicos que o<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "\"Jo\u00e3o Moutinho tem falta de car\u00e1ter?\" - O Jogo",
+            "originalURL": "http://www.ojogo.pt/Internacional/Portugueses/interior.aspx?content_id=4914230",
+            "snippet": "&quot;<em>Jo&atilde;o</em> <em>Moutinho</em> tem falta de car&aacute;ter?&quot; - O Jogo O JOGO Online EDI&Ccedil;&Atilde;O ONLINE JORNAL DO DIA REVISTA J<span class=\"ellipsis\"> ... </span> &quot;<em>Jo&atilde;o</em> <em>Moutinho</em> tem falta de car&aacute;ter?&quot; Publicado Treinador do M&oacute;naco irritou-se na confer&ecirc;ncia de<span class=\"ellipsis\"> ... </span> Avenida dos Aliados&quot; Futebol Liga inglesa de regresso aos &eacute;crans da SportTV Leonardo Jardim &quot;<em>Jo&atilde;o</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o Moutinho abandona Sele\u00e7\u00e3o - Futebol - Correio da Manh\u00e3",
+            "originalURL": "http://www.cmjornal.xl.pt/desporto/futebol/detalhe/joao_moutinho_abandona_selecao.html",
+            "snippet": "<em>Jo&atilde;o</em> <em>Moutinho</em> abandona Sele&ccedil;&atilde;o - Futebol - Correio da Manh&atilde; Os nossos termos e condi&ccedil;&otilde;es de<span class=\"ellipsis\"> ... </span> Foto&nbsp;Paulo Calado Internacional portugu&ecirc;s <em>Jo&atilde;o</em> <em>Moutinho</em> 0 &nbsp; COMENT&Aacute;RIOS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&gt; PARTILHAR 707<span class=\"ellipsis\"> ... </span> a gest&atilde;o dessa &aacute;rea na sua conta. ENVIAR IMPRIMIR 31.08.2015 &nbsp;&nbsp;12:22 <em>Jo&atilde;o</em> <em>Moutinho</em> abandona Sele&ccedil;&atilde;o<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o Moutinho quer ficar muitos anos na selec\u00e7\u00e3o - P\u00daBLICO",
+            "originalURL": "http://www.publico.pt/desporto/noticia/joao-moutinho-quer-ficar-muitos-anos-na-seleccao-1698563",
+            "snippet": "<em>Jo&atilde;o</em> <em>Moutinho</em> quer ficar muitos anos na selec&ccedil;&atilde;o - P&Uacute;BLICO Artigos seguintes Artigos anteriores T&oacute;picos Futebol internacional Euro 2016 Selec&ccedil;&atilde;o <em>Jo&atilde;o</em> <em>Moutinho</em> quer ficar muitos anos na selec&ccedil;&atilde;o 0 Partilhar no Facebook Partilhar no Twitter Partilhar no Google+ 0 <em>Jo&atilde;o</em> <em>Moutinho</em> quer ficar muitos anos<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Reflex\u00e3o Portista: A gorada transfer\u00eancia de Jo\u00e3o Moutinho (segundo The Sunday Times)",
+            "originalURL": "http://www.reflexaoportista.pt/2012/09/a-gorada-transferencia-de-joao-moutinho.html",
+            "snippet": "Reflex&atilde;o Portista: A gorada transfer&ecirc;ncia de <em>Jo&atilde;o</em> <em>Moutinho</em> (segundo The Sunday Times) skip to main | skip to sidebar domingo, 2 de setembro de 2012 A gorada transfer&ecirc;ncia de <em>Jo&atilde;o</em> <em>Moutinho</em> (segundo<span class=\"ellipsis\"> ... </span> de <em>Jo&atilde;o</em> <em>Moutinho</em> para o Tottenham se gorou por 4 minutos. Ter&aacute; havido necessidade de tratar de novo<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o Moutinho: \u00abEspero que consigam o t\u00edtulo\u00bb - \u00daltima Hora - S\u00e1bado",
+            "originalURL": "http://www.sabado.pt/ultima_hora/detalhe/joao_moutinho_espero_que_consigam_o_titulo.html",
+            "snippet": "<em>Jo&atilde;o</em> <em>Moutinho</em>: &laquo;Espero que consigam o t&iacute;tulo&raquo; - &Uacute;ltima Hora - S&aacute;bado Os nossos termos e condi&ccedil;&otilde;es<span class=\"ellipsis\"> ... </span> Sa&uacute;de Multim&eacute;dia Opini&atilde;o Cultura GPS Desporto Social <em>Jo&atilde;o</em> <em>Moutinho</em>: &laquo;Espero que consigam o t&iacute;tulo&raquo; <em>Jo&atilde;o</em><span class=\"ellipsis\"> ... </span> Porto... 1 <em>Jo&atilde;o</em> <em>Moutinho</em>: &laquo;Espero que consigam o t&iacute;tulo&raquo; <em>Jo&atilde;o</em> <em>Moutinho</em> aproveitou o facto de n&atilde;o<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Internacional - It\u00e1lia - Bruno Fernandes: \u00ab\u00cddolo? Jo\u00e3o Moutinho\u00bb | Maisfutebol.iol.pt",
+            "originalURL": "http://www.maisfutebol.iol.pt/internacional-italia-selecao-udinese-bruno-fernandes-joao-moutinho-cristiano-ronaldo/5489b3010cf2b74e882411d2.html",
+            "snippet": "Internacional - It&aacute;lia - Bruno Fernandes: &laquo;&Iacute;dolo? <em>Jo&atilde;o</em> <em>Moutinho</em>&raquo; | Maisfutebol.iol.pt MAISFUTEBOL<span class=\"ellipsis\"> ... </span> It&aacute;lia Sele&ccedil;&atilde;o Internacional Bruno Fernandes: &laquo;&Iacute;dolo? <em>Jo&atilde;o</em> <em>Moutinho</em>&raquo; O jogador da Udinese pretende<span class=\"ellipsis\"> ... </span>? Pela posi&ccedil;&atilde;o que ocupa em campo, <em>Jo&atilde;o</em> <em>Moutinho</em>. Depois gosto tamb&eacute;m de Cristiano Ronaldo e ainda de<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Tudo aquilo que Jo\u00e3o Moutinho n\u00e3o \u00e9 | Maisfutebol.iol.pt",
+            "originalURL": "http://www.maisfutebol.iol.pt/opiniao/agora-ele-era-o-heroi/tudo-aquilo-que-joao-moutinho-nao-e",
+            "snippet": "Tudo aquilo que <em>Jo&atilde;o</em> <em>Moutinho</em> n&atilde;o &eacute; | Maisfutebol.iol.pt MAISFUTEBOL &Uacute;LTIMAS LIGA JOGOS AO VIVO<span class=\"ellipsis\"> ... </span> de bola Opini&atilde;o Tudo aquilo que <em>Jo&atilde;o</em> <em>Moutinho</em> n&atilde;o &eacute; A prop&oacute;sito de uma par&aacute;bola que acabou no p&eacute;<span class=\"ellipsis\"> ... </span> aquilo que n&atilde;o s&atilde;o. <em>Jo&atilde;o</em> <em>Moutinho</em> &eacute;, talvez, um dos exemplos mais consumados dessa esp&eacute;cie. Enumeremos<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "JO\u00c3O MOUTINHO EM ENTREVISTA: 'ESTOU CADA VEZ MELHOR' - OPINI\u00c3O DESCONCERTANTE",
+            "originalURL": "http://opiniaodesconcertante.blogs.sapo.pt/120853.html",
+            "snippet": "<em>JO&Atilde;O</em> <em>MOUTINHO</em> EM ENTREVISTA: 'ESTOU CADA VEZ MELHOR' - OPINI&Atilde;O DESCONCERTANTE &nbsp; &laquo; anterior | home | seguinte &raquo; Ter&ccedil;a-feira, 14 de Outubro de 2008 <em>JO&Atilde;O</em> <em>MOUTINHO</em> EM ENTREVISTA: 'ESTOU CADA VEZ MELHOR<span class=\"ellipsis\"> ... </span> <em>Jo&atilde;o</em> Cacelas a 14 de Outubro de 2008 &agrave;s 19:16 Foi exactamente o que pensei assim que li esse t&iacute;tulo. E<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Ricardo Quaresma e Jo\u00e3o Moutinho fora do mundial ! - Alemanha 2006",
+            "originalURL": "http://alemanha2006.blogs.sapo.pt/8733.html",
+            "snippet": "Ricardo Quaresma e <em>Jo&atilde;o</em> <em>Moutinho</em> fora do mundial ! - Alemanha 2006 &nbsp; &nbsp; Aposte j&aacute; nos jogos do<span class=\"ellipsis\"> ... </span> Quaresma e <em>Jo&atilde;o</em> <em>Moutinho</em> fora do mundial ! Agostinho Oliveira, seleccionador dos sub 21 anunciou hoje os convocados para o Euro 2006 daquela categoria sendo que Ricardo Quaresma e <em>Jo&atilde;o</em> <em>Moutinho</em> foram<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "adidas adipower Predator - Jo\u00e3o Moutinho e Javi Garcia.mp4 - YouTube",
+            "originalURL": "https://www.youtube.com/embed/y5JSPxyBS9w",
+            "snippet": "adidas adipower Predator - <em>Jo&atilde;o</em> <em>Moutinho</em> e Javi Garcia.mp4 - YouTube<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o Moutinho lesiona-se e desfalca M\u00f3naco - Futebol - Correio da Manh\u00e3",
+            "originalURL": "http://www.cmjornal.xl.pt/desporto/futebol/detalhe/joao_moutinho_lesiona_se_e_desfalca_monaco.html",
+            "snippet": "<em>Jo&atilde;o</em> <em>Moutinho</em> lesiona-se e desfalca M&oacute;naco - Futebol - Correio da Manh&atilde; Os nossos termos e<span class=\"ellipsis\"> ... </span> fora do lote de capit&atilde;es de equipa MAIS FUTEBOL FC Porto segura Alex Sandro Foto&nbsp;EPA <em>Jo&atilde;o</em> <em>Moutinho</em><span class=\"ellipsis\"> ... </span> gest&atilde;o dessa &aacute;rea na sua conta. ENVIAR IMPRIMIR 15.08.2015 &nbsp;&nbsp;17:50 <em>Jo&atilde;o</em> <em>Moutinho</em> lesiona-se e<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o Moutinho falha \"play-off\" dos Campe\u00f5es e sele\u00e7\u00e3o nacional - TSF",
+            "originalURL": "http://www.tsf.pt/PaginaInicial/Desporto/Interior.aspx?content_id=4731604&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+TSF-Desporto+%28TSF+Online+-+Desporto+%28RSS%29%29",
+            "snippet": "<em>Jo&atilde;o</em> <em>Moutinho</em> falha &quot;play-off&quot; dos Campe&otilde;es e sele&ccedil;&atilde;o nacional - TSF TSF Bikes Zona de Conforto TSF<span class=\"ellipsis\"> ... </span> &nbsp; Tags Desporto , Futebol , <em>Jo&atilde;o</em> <em>Moutinho</em> , Liga dos Campe&otilde;es , M&oacute;naco , sele&ccedil;&atilde;o nacional &nbsp; <em>Jo&atilde;o</em> <em>Moutinho</em> falha &quot;play-off&quot; dos Campe&otilde;es e sele&ccedil;&atilde;o nacional Publicado O m&eacute;dio portugu&ecirc;s <em>Jo&atilde;o</em> <em>Moutinho</em> vai<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Coment\u00e1rios do blog *Jo\u00e3o Moutinho&#39;s fan* ao post Perfil de Jo\u00e3o Moutinho",
+            "originalURL": "http://blogs.sapo.pt/commentsrss.bml?blog=bigfanjoaomoutinho&ditemid=472",
+            "snippet": "Coment&aacute;rios do blog *Jo&atilde;o Moutinho&amp;#39;s fan* ao post Perfil de <em>Jo&atilde;o</em> <em>Moutinho</em> http://bigfanjoaomoutinho.blogs.sapo.pt *Jo&atilde;o Moutinho&amp;#39;s fan* - SAPO Blogs Thu, 01 Jan 1970 00:00:00 GMT LiveJournal / SAPO Blogs<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Selec\u00e7\u00e3o em 2014/15. Jo\u00e3o Moutinho foi o que mais jogou",
+            "originalURL": "http://ionline.pt/397658?source=social",
+            "snippet": "Selec&ccedil;&atilde;o em 2014/15. <em>Jo&atilde;o</em> <em>Moutinho</em> foi o que mais jogou 18/6/15 subscrever newsletter Iniciar<span class=\"ellipsis\"> ... </span> Pesquisar &nbsp; &nbsp; Tweet Selec&ccedil;&atilde;o em 2014/15. <em>Jo&atilde;o</em> <em>Moutinho</em> foi o que mais jogou Selec&ccedil;&atilde;o em 2014/15. <em>Jo&atilde;o</em><span class=\"ellipsis\"> ... </span> marcou metade dos dez golos lusos. O m&eacute;dio <em>Jo&atilde;o</em> <em>Moutinho</em> foi o jogador mais utilizado na selec&ccedil;&atilde;o<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Coment\u00e1rios em: Jo\u00e3o Moutinho alimenta a paix\u00e3o da McDonald\u2019s pelo Mundial (com v\u00eddeo)",
+            "originalURL": "http://www.meiosepublicidade.pt/2014/06/joao-moutinho-alimenta-a-paixao-da-mcdonalds-pelo-mundial-com-video/feed/",
+            "snippet": "Coment&aacute;rios em: <em>Jo&atilde;o</em> <em>Moutinho</em> alimenta a paix&atilde;o da McDonald&#8217;s pelo Mundial (com v&iacute;deo) http://www.meiosepublicidade.pt/2014/06/joao-<em>moutinho</em>-alimenta-a-paixao-da-mcdonalds-pelo-mundial-com-video/ O jornal independente para profissionais de comunica&ccedil;&atilde;o e marketing Sat, 26 Oct 2013 17:46:27 +0000<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o Moutinho alimenta a paix\u00e3o da McDonald\u2019s pelo Mundial (com v\u00eddeo) | Meios & Publicidade",
+            "originalURL": "http://www.meiosepublicidade.pt/2014/06/joao-moutinho-alimenta-a-paixao-da-mcdonalds-pelo-mundial-com-video/",
+            "snippet": "<em>Jo&atilde;o</em> <em>Moutinho</em> alimenta a paix&atilde;o da McDonald&#8217;s pelo Mundial (com v&iacute;deo) | Meios &amp; Publicidade Saltar<span class=\"ellipsis\"> ... </span> :: Noticias <em>Jo&atilde;o</em> <em>Moutinho</em> alimenta a paix&atilde;o da McDonald&#8217;s pelo Mundial (com v&iacute;deo) 3 de Junho de 2014<span class=\"ellipsis\"> ... </span> campanha de publicidade da McDonald&#8217;s Portugal a pensar no Mundial 2014, protagonizada por <em>Jo&atilde;o</em> <em>Moutinho</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Minist\u00e9rio P\u00fablico pede 3 anos de pris\u00e3o num reformat\u00f3rio para Jo\u00e3o Moutinho - Inimigo P\u00fablico",
+            "originalURL": "http://inimigo.publico.pt/Noticia/Detail/1515915",
+            "snippet": "Minist&eacute;rio P&uacute;blico pede 3 anos de pris&atilde;o num reformat&oacute;rio para <em>Jo&atilde;o</em> <em>Moutinho</em> - Inimigo P&uacute;blico HOME<span class=\"ellipsis\"> ... </span> <em>Jo&atilde;o</em> <em>Moutinho</em> Por V&iacute;tor Elias A estrela do FC Porto, Hulk, foi acusado pelo Minist&eacute;rio P&uacute;blico do crime<span class=\"ellipsis\"> ... </span> efectiva. Para al&eacute;m disso, o Minist&eacute;rio P&uacute;blico identificou o pequeno <em>Jo&atilde;o</em> <em>Moutinho</em> como membro do<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Minist\u00e9rio P\u00fablico pede 3 anos de pris\u00e3o num reformat\u00f3rio para Jo\u00e3o Moutinho - Inimigo P\u00fablico",
+            "originalURL": "http://inimigo.publico.pt/Noticia/Detail/1515915",
+            "snippet": "Minist&eacute;rio P&uacute;blico pede 3 anos de pris&atilde;o num reformat&oacute;rio para <em>Jo&atilde;o</em> <em>Moutinho</em> - Inimigo P&uacute;blico HOME<span class=\"ellipsis\"> ... </span> num reformat&oacute;rio para <em>Jo&atilde;o</em> <em>Moutinho</em> Por V&iacute;tor Elias A estrela do FC Porto, Hulk, foi acusado pelo<span class=\"ellipsis\"> ... </span> punido com 3 anos de pris&atilde;o efectiva. Para al&eacute;m disso, o Minist&eacute;rio P&uacute;blico identificou o pequeno <em>Jo&atilde;o</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Bernardo Silva e Jo\u00e3o Moutinho marcam na goleada do M\u00f3naco ao Toulouse - JN",
+            "originalURL": "http://www.jn.pt/PaginaInicial/Desporto/Interior.aspx?content_id=4547348&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+JN-DESPORTO+%28JN+-+Desporto%29",
+            "snippet": "Bernardo Silva e <em>Jo&atilde;o</em> <em>Moutinho</em> marcam na goleada do M&oacute;naco ao Toulouse - JN Nacional Justi&#65533;a<span class=\"ellipsis\"> ... </span> Bernardo Silva e Jo&#65533;o <em>Moutinho</em> marcam na goleada do M&#65533;naco ao Toulouse Hoje &#65533;s 19:58 O M&#65533;naco venceu<span class=\"ellipsis\"> ... </span> contribui&#65533;&#65533;o de dois golos portugueses, dos internacionais Bernardo Silva e Jo&#65533;o <em>Moutinho</em>. &#65533; GUILLAUME<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o Moutinho diz que Portugal tem que vencer a S\u00e9rvia | Desporto : Futebol : Nacional | Di\u00e1rio Digi",
+            "originalURL": "http://diariodigital.sapo.pt/news.asp?id_news=765681",
+            "snippet": "<em>Jo&atilde;o</em> <em>Moutinho</em> diz que Portugal tem que vencer a S&eacute;rvia | Desporto : Futebol : Nacional | Di&aacute;rio<span class=\"ellipsis\"> ... </span> | Modalidades | Motores Nacional 25-03-2015&nbsp;&agrave;s&nbsp;11:46 <em>Jo&atilde;o</em> <em>Moutinho</em> diz que Portugal tem que vencer a S&eacute;rvia O m&eacute;dio <em>Jo&atilde;o</em> <em>Moutinho</em> afirmou hoje a sele&ccedil;&atilde;o portuguesa de futebol tem que vencer no domingo a<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Apresenta\u00e7\u00e3o Projecto - Cross Platform",
+            "originalURL": "http://moutinho.blogs.ua.sapo.pt/909.html",
+            "snippet": " 00:26 ahha, ta altamente <em>Jo&atilde;o</em> <em>Moutinho</em>! Ups, Tiago <em>Moutinho</em>! :DD Good work! responder a coment&aacute;rio<span class=\"ellipsis\"> ... </span> por tiago-<em>moutinho</em> &agrave;s 20:16 link do post | comentar | adicionar aos favoritos | 3 coment&aacute;rios: De<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o Trigo Moutinho - CUF Cascais Hospital",
+            "originalURL": "http://www.cufcascais.pt/CV/Jo%c3%a3o+Trigo+Moutinho/8304",
+            "snippet": "<em>Jo&atilde;o</em> Trigo <em>Moutinho</em> - CUF Cascais Hospital Este website utiliza cookies para lhe proporcionar uma<span class=\"ellipsis\"> ... </span> Clientes O Hospital M&eacute;dico <em>Jo&atilde;o</em> Trigo <em>Moutinho</em> Especialidade:&nbsp; Ortopedia Unidades CUF:&nbsp; CUF Cascais<span class=\"ellipsis\"> ... </span>, Oeiras 2003 - Assistente Graduado no Hospital Prisional S.<em>Jo&atilde;o</em> de Deus, Caxias 2002-2003<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o Trigo Moutinho - CUF Cascais Hospital",
+            "originalURL": "http://www.cufcascais.pt/en/CV/Jo%c3%a3o+Trigo+Moutinho/8304",
+            "snippet": "<em>Jo&atilde;o</em> Trigo <em>Moutinho</em> - CUF Cascais Hospital Please note that this website uses cookies to provide you with the best browsing experience and increase the usability of the website. By using this website<span class=\"ellipsis\"> ... </span> Appointment Insurance Customer Service The Hospital M&eacute;dico <em>Jo&atilde;o</em> Trigo <em>Moutinho</em> Specialties:&nbsp; Orthopaedics<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "O amor nos tempos da blogosfera",
+            "originalURL": "http://oamornostemposdablogosfera.blogs.sapo.pt/",
+            "snippet": " Queiroz. J&aacute; n&atilde;o quero saber porque raz&atilde;o ele decidiu pr&eacute;-convocar o Z&eacute; Castro, o porqu&ecirc; de <em>Jo&atilde;o</em> <em>Moutinho</em><span class=\"ellipsis\"> ... </span> acontece, e quem o diz s&oacute; pode ser por feminismo&nbsp;ou por&nbsp;preconceito de esquerda. link do post Por <em>Jo&atilde;o</em><span class=\"ellipsis\"> ... </span> Por <em>Jo&atilde;o</em> Gomes de Almeida, &agrave;s 17:25&amp;nbsp ver coment&aacute;rios (1) comentar 18.6.10 Saramago Nunca<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Lu\u00eds Moutinho no \"Expresso\" | AAACM",
+            "originalURL": "http://aaacm.pt/artigo/newsletter/2011/01/luis-moutinho-no-expresso",
+            "snippet": "Lu&iacute;s <em>Moutinho</em> no &quot;Expresso&quot; | AAACM AAACM - Associa&ccedil;&atilde;o dos Antigos Alunos do Col&eacute;gio Militar<span class=\"ellipsis\"> ... </span> (medicina dent&aacute;ria) Protocolo AAACM - <em>Jo&atilde;o</em> Mata Corrector de Seguros Protocolo AAACM - Sonhando Organiza&ccedil;&atilde;o de Viagens In&iacute;cio Newsletter Lu&iacute;s <em>Moutinho</em> no &quot;Expresso&quot; Lu&iacute;s <em>Moutinho</em> no &quot;Expresso&quot; 14 Jan 2011<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Projecto Vercial",
+            "originalURL": "http://alfarrabio.di.uminho.pt/vercial/moutinho.htm",
+            "snippet": "Projecto Vercial Jos&eacute; Viale <em>Moutinho</em> Jos&eacute; Viale <em>Moutinho</em> nasceu no Funchal no dia 12/6/1945<span class=\"ellipsis\"> ... </span> desenhos de Fernando Lanhas. Lisboa: Caminho, 1989; As Portas Entreabertas (1975/85). Pref&aacute;cio de <em>Jo&atilde;o</em><span class=\"ellipsis\"> ... </span> , org. Eug&eacute;nio de Andrade. Porto: O Oiro do Dia , 1983. 3&ordf; ed; Contos &#150; Com desenhos de <em>Jo&atilde;o</em> Abel Manta<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "(IM)PARCIAL: BYE BYE MOUTINHO, SEGUE O TEU CAMINHO",
+            "originalURL": "http://im-parcial.blogspot.pt/2010/07/bye-bye-moutinho-segue-o-teu-caminho.html",
+            "snippet": " condi&ccedil;&otilde;es para continuar a ser capit&atilde;o. <em>Jo&atilde;o</em> <em>Moutinho</em> passou a n&atilde;o contar com o Sporting, e o Sporting n&atilde;o contava com <em>Jo&atilde;o</em> <em>Moutinho</em>. - A certa altura tent&aacute;mos encontrar uma solu&ccedil;&atilde;o no mercado e o <em>Jo&atilde;o</em> foi<span class=\"ellipsis\"> ... </span> &uacute;ltima vez que falarei sobre o <em>Jo&atilde;o</em> <em>Moutinho</em>. . - Se o clube fosse meu, talvez admitisse deix&aacute;-lo<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "(IM)PARCIAL: BYE BYE MOUTINHO, SEGUE O TEU CAMINHO",
+            "originalURL": "http://im-parcial.blogspot.pt/2010/07/bye-bye-moutinho-segue-o-teu-caminho.html",
+            "snippet": " condi&ccedil;&otilde;es para continuar a ser capit&atilde;o. <em>Jo&atilde;o</em> <em>Moutinho</em> passou a n&atilde;o contar com o Sporting, e o Sporting n&atilde;o contava com <em>Jo&atilde;o</em> <em>Moutinho</em>. - A certa altura tent&aacute;mos encontrar uma solu&ccedil;&atilde;o no mercado e o <em>Jo&atilde;o</em> foi<span class=\"ellipsis\"> ... </span> &uacute;ltima vez que falarei sobre o <em>Jo&atilde;o</em> <em>Moutinho</em>. . - Se o clube fosse meu, talvez admitisse deix&aacute;-lo<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Expresso | Moutinho \u00e9 o mais utilizado de sempre em Portugal",
+            "originalURL": "http://expresso.sapo.pt/desporto/moutinho-e-o-mais-utilizado-de-sempre-em-portugal=f313212",
+            "snippet": " sempre. T&ecirc;m ambos 21 anos. Ricardo Capela <em>Jo&atilde;o</em> <em>Moutinho</em> &eacute; um caso s&eacute;rio de regularidade no futebol<span class=\"ellipsis\"> ... </span> a temporada, &eacute; prov&aacute;vel que <em>Jo&atilde;o</em> <em>Moutinho</em> chegue aos 56 jogos e fique muito perto dos cinco mil<span class=\"ellipsis\"> ... </span>, chegando aos 54 jogos e isolando-se no segundo lugar, apenas atr&aacute;s de <em>Jo&atilde;o</em> <em>Moutinho</em>. Palavras<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Bernardo Silva e Moutinho ajudam M\u00f3naco - Renascen\u00e7a",
+            "originalURL": "http://rr.sapo.pt/bolabranca_detalhe.aspx?fid=4&did=175677",
+            "snippet": "Bernardo Silva e <em>Moutinho</em> ajudam M&oacute;naco - Renascen&ccedil;a O site da Renascen&ccedil;a usa cookies. Ao<span class=\"ellipsis\"> ... </span> equilibrar a defesa do Sporting&quot; Bernardo Silva e <em>Moutinho</em> ajudam M&oacute;naco Empate abre espa&ccedil;o para refor&ccedil;o<span class=\"ellipsis\"> ... </span> Bernardo Silva e <em>Moutinho</em> ajudam M&oacute;naco Equipa orientada por Leonardo Jardim apura-se para os oitavos-de<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "\"Moutinho n\u00e3o joga nada de especial\" - Renascen\u00e7a",
+            "originalURL": "http://rr.sapo.pt/bolabranca_detalhe.aspx?fid=4&did=185377",
+            "snippet": " principado durante 19 temporadas) fez graves cr&iacute;ticas &agrave;s presta&ccedil;&otilde;es de <em>Jo&atilde;o</em> <em>Moutinho</em> no clube<span class=\"ellipsis\"> ... </span>. Mesmo nada de especial. Quando tem a bola n&atilde;o assusta ningu&eacute;m&quot;, declarou Ettori. <em>Jo&atilde;o</em> <em>Moutinho</em><span class=\"ellipsis\"> ... </span>&quot;<em>Moutinho</em> n&atilde;o joga nada de especial&quot; - Renascen&ccedil;a O site da Renascen&ccedil;a usa cookies. Ao prosseguir<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "\u00abMoutinho foi elemento chave no M\u00f3naco\u00bb \u2013 Villas Boas | Portugal News",
+            "originalURL": "https://www.portugalnews.pt/desporto/moutinho-foi-elemento-chave-no-monaco-villas-boas/",
+            "snippet": " Zenit, Andr&eacute; Villas Boas, reconheceu que o m&eacute;dio portugu&ecirc;s <em>Jo&atilde;o</em> <em>Moutinho</em> foi decisivo na vit&oacute;ria do<span class=\"ellipsis\"> ... </span>&laquo;<em>Moutinho</em> foi elemento chave no M&oacute;naco&raquo; &#8211; Villas Boas | Portugal News In&iacute;cio Arte Ci&ecirc;ncia Desporto<span class=\"ellipsis\"> ... </span> ouvir Alberto <em>Jo&atilde;o</em> Jardim Costa visitou S&oacute;crates e defendeu que se deixe a justi&ccedil;a funcionar Economia O<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Moutinho dispensado e R\u00faben Neves chamado - \u00daltima Hora - S\u00e1bado",
+            "originalURL": "http://www.sabado.pt/ultima_hora/detalhe/moutinho_dispensado_e_ruben_neves_chamado.html",
+            "snippet": " chamado 09 Novembro 2015 &#8226; Record Por Lu&iacute;s Miroto Sim&otilde;es - Record <em>Jo&atilde;o</em> <em>Moutinho</em> foi dispensado da Sele&ccedil;&atilde;o<span class=\"ellipsis\"> ... </span><em>Moutinho</em> dispensado e R&uacute;ben Neves chamado - &Uacute;ltima Hora - S&aacute;bado Os nossos termos e condi&ccedil;&otilde;es de<span class=\"ellipsis\"> ... </span> Multim&eacute;dia Opini&atilde;o Cultura GPS Desporto Social <em>Moutinho</em> dispensado e R&uacute;ben Neves chamado M&eacute;dio do<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Moutinho de p\u00e9 quente volta a fazer estragos em Belgrado",
+            "originalURL": "http://www.sol.pt/noticia/416294",
+            "snippet": " Duarte/AP Nos &uacute;ltimos dois jogos com a camisola das quinas, <em>Jo&atilde;o</em> <em>Moutinho</em> fez tantos golos como no<span class=\"ellipsis\"> ... </span>. Santos reagiu e chamou <em>Jo&atilde;o</em> <em>Moutinho</em> ao relvado, por troca com Miguel Veloso, para refrescar o meio campo<span class=\"ellipsis\"> ... </span><em>Moutinho</em> de p&eacute; quente volta a fazer estragos em Belgrado Contactos Publicidade Passatempos<span class=\"ellipsis\"> ... </span>"
+        }
+    ]
+}

@@ -1,0 +1,273 @@
+{
+    "serviceName": "Arquivo.pt - the Portuguese web-archive",
+    "linkToService": "https://arquivo.pt",
+    "next_page": "https://arquivo.pt/textsearch?q=Cristiano+Ronaldo&from=20210101000000&to=20211231235959&fields=title%2Csnippet%2CoriginalURL%2Ctimestamp&offset=50",
+    "estimated_nr_results": 916,
+    "request_parameters": {
+        "offset": 0,
+        "dedupValue": 2,
+        "from": "20210101000000",
+        "to": "20211231235959",
+        "fields": [
+            "title",
+            "snippet",
+            "originalURL",
+            "timestamp"
+        ],
+        "dedupField": "site",
+        "q": "Cristiano Ronaldo",
+        "maxItems": 50
+    },
+    "response_items": [
+        {
+            "title": "Cristiano Ronaldo - TSF",
+            "originalURL": "https://www.tsf.pt/tag/cristiano-ronaldo.html",
+            "snippet": "<em>Cristiano</em> <em>Ronaldo</em> - TSF Saltar para conte&uacute;do da p&aacute;gina Menu TSF - P&aacute;gina inicial Portugal Mundo<span class=\"ellipsis\"> ... </span> ainda n&atilde;o tinha perdido para o campeonato, em 13 jogos. <em>Cristiano</em> <em>Ronaldo</em> volta a bisar na goleada<span class=\"ellipsis\"> ... </span> virtual. France Football escolhe o melhor onze da hist&oacute;ria. <em>Cristiano</em> <em>Ronaldo</em> &eacute; o &uacute;nico portugu&ecirc;s Os<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Tudo sobre: Cristiano Ronaldo \u2013 Observador",
+            "originalURL": "https://observador.pt/seccao/desporto/futebol/cristiano-ronaldo/",
+            "snippet": "Tudo sobre: <em>Cristiano</em> <em>Ronaldo</em> &#8211; Observador O Observador j&aacute; n&atilde;o suporta o Internet Explorer 11 ou<span class=\"ellipsis\"> ... </span> economia Os gr&aacute;ficos completos Informa&ccedil;&atilde;o &uacute;til Como manter-se seguro <em>Cristiano</em> <em>Ronaldo</em> Seguir <em>Cristiano</em> <em>Ronaldo</em> <em>Cristiano</em> <em>Ronaldo</em> traduz a &quot;firmeza dos&nbsp;ilh&eacute;us&quot; <em>Cristiano</em> <em>Ronaldo</em> bateu a concorr&ecirc;ncia<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Saber Mais: Cristiano Ronaldo",
+            "originalURL": "http://www.sabado.pt/sabermais/cristiano-ronaldo",
+            "snippet": "Saber Mais: <em>Cristiano</em> <em>Ronaldo</em> Login Search Assine o Neg&oacute;cios e aceda sem limites, no pc e no<span class=\"ellipsis\"> ... </span> mortes por covid-19 Not&iacute;cia em destaque Saber mais sobre <em>Cristiano</em> <em>Ronaldo</em> Criar Alerta Para poder<span class=\"ellipsis\"> ... </span> pandemia em Portugal 09.11.2020 Lusa <em>Cristiano</em> <em>Ronaldo</em> testa negativo &agrave; Covid-19 30.10.2020 Record<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Cristiano Ronaldo regressa amanh\u00e3 a It\u00e1lia - R\u00e1dio Calheta",
+            "originalURL": "http://www.radiocalheta.pt/cristiano-ronaldo-regressa-amanha-a-italia",
+            "snippet": "<em>Cristiano</em> <em>Ronaldo</em> regressa amanh&atilde; a It&aacute;lia - R&aacute;dio Calheta E. Editorial Emiss&atilde;o Online Entrar<span class=\"ellipsis\"> ... </span>-Madeira <em>Cristiano</em> <em>Ronaldo</em> regressa amanh&atilde; a It&aacute;lia JM-Madeira <em>Cristiano</em> <em>Ronaldo</em> regressa amanh&atilde; a It&aacute;lia <em>Cristiano</em> <em>Ronaldo</em> dever&aacute; regressar amanh&atilde;, segunda-feira,&nbsp;a It&aacute;lia, depois do governo italiano<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Os novos neg\u00f3cios de Cristiano Ronaldo - Jornal Economia & Finan\u00e7as",
+            "originalURL": "http://jornaldeeconomia.sapo.ao/mundo/os-novos-negocios-de-cristiano-ronaldo",
+            "snippet": "Os novos neg&oacute;cios de <em>Cristiano</em> <em>Ronaldo</em> - Jornal Economia &amp; Finan&ccedil;as Jornal de Economia e Finan&ccedil;as<span class=\"ellipsis\"> ... </span> opini&atilde;o especial lazer In&iacute;cio Mundo Os novos neg&oacute;cios de <em>Cristiano</em> <em>Ronaldo</em> Os novos neg&oacute;cios de <em>Cristiano</em><span class=\"ellipsis\"> ... </span> por DR Al&eacute;m de ser o melhor jogador do mundo, <em>Cristiano</em> <em>Ronaldo</em> dedica-se a outros projectos fora dos<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Messi elogia Cristiano Ronaldo, distinguido o Jogador do S\u00e9culo",
+            "originalURL": "https://desporto.sapo.pt/amp/futebol/la-liga/artigos/messi-elogia-cristiano-ronaldo-2",
+            "snippet": "Messi elogia <em>Cristiano</em> <em>Ronaldo</em>, distinguido o Jogador do S&eacute;culo &#10005; In&iacute;cio Nacional Internacional Modalidades Em direto V&iacute;deos Especiais Reportagens eSports &#9776; Messi elogia <em>Cristiano</em> <em>Ronaldo</em><span class=\"ellipsis\"> ... </span> eterna rivalidade com <em>Cristiano</em> <em>Ronaldo</em>. CR7 bisa e vence duelo frente a Messi e a Juventus<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Presidente do parlamento da Madeira felicita Cristiano Ronaldo",
+            "originalURL": "https://desporto.sapo.pt/amp/futebol/artigos/presidente-do-parlamento-da-madeira-felicita-cristiano-ronaldo-2",
+            "snippet": "Presidente do parlamento da Madeira felicita <em>Cristiano</em> <em>Ronaldo</em> &#10005; In&iacute;cio Nacional Internacional<span class=\"ellipsis\"> ... </span> felicita <em>Cristiano</em> <em>Ronaldo</em> 28 dez 2020 08:33 &#8226; Futebol &#8226; Sportinforma / Lusa O futebolista portugu&ecirc;s foi distinguido com o trof&eacute;u de Jogador do S&eacute;culo nos Globe Soccer Awards. <em>Cristiano</em> <em>Ronaldo</em> e Georgina<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Cristiano Ronaldo ganha pr\u00e9mio 'Golden Foot' 2020",
+            "originalURL": "http://portocanal.sapo.pt/noticia/245512/",
+            "snippet": "<em>Cristiano</em> <em>Ronaldo</em> ganha pr&eacute;mio 'Golden Foot' 2020 IN&Iacute;CIO NOT&Iacute;CIAS PROGRAMAS V&Iacute;DEOS GUIA TV FC PORTO<span class=\"ellipsis\"> ... </span> &nbsp; &nbsp; SEC&Ccedil;&Otilde;ES DE NOT&Iacute;CIAS:&nbsp;&nbsp;&nbsp;&nbsp; &Uacute;LTIMAS NORTE POL&Iacute;TICA ECONOMIA MUNDO PA&Iacute;S DESPORTO &nbsp; <em>Cristiano</em> <em>Ronaldo</em><span class=\"ellipsis\"> ... </span> dez 2020 (Lusa) -- O portugu&ecirc;s <em>Cristiano</em> <em>Ronaldo</em> conquistou hoje o 'Golden Foot' 2020, um pr&eacute;mio que<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Cristiano Ronaldo ganha pr\u00e9mio 'Golden Foot' 2020",
+            "originalURL": "http://portocanal.sapo.pt:443/noticia/245512",
+            "snippet": "<em>Cristiano</em> <em>Ronaldo</em> ganha pr&eacute;mio 'Golden Foot' 2020 IN&Iacute;CIO NOT&Iacute;CIAS PROGRAMAS V&Iacute;DEOS GUIA TV FC PORTO<span class=\"ellipsis\"> ... </span> &nbsp; &nbsp; SEC&Ccedil;&Otilde;ES DE NOT&Iacute;CIAS:&nbsp;&nbsp;&nbsp;&nbsp; &Uacute;LTIMAS NORTE POL&Iacute;TICA ECONOMIA MUNDO PA&Iacute;S DESPORTO &nbsp; <em>Cristiano</em> <em>Ronaldo</em><span class=\"ellipsis\"> ... </span> dez 2020 (Lusa) -- O portugu&ecirc;s <em>Cristiano</em> <em>Ronaldo</em> conquistou hoje o 'Golden Foot' 2020, um pr&eacute;mio que<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Cristiano Ronaldo bisa no regresso a Barcelona - TSF",
+            "originalURL": "https://www.tsf.pt/desporto/amp/ronaldo-bisa-no-regresso-a-barcelona-13118685.html",
+            "snippet": "<em>Cristiano</em> <em>Ronaldo</em> bisa no regresso a Barcelona - TSF &Uacute;ltimas Portugal Pol&iacute;tica Economia Sociedade<span class=\"ellipsis\"> ... </span> da Hist&oacute;ria Tr&acirc;nsito Menu In&iacute;cio Liga dos Campe&otilde;es <em>Cristiano</em> <em>Ronaldo</em> bisa no regresso a Barcelona<span class=\"ellipsis\"> ... </span>. De um lado o Barcelona de Lionel Messi e do outro a Juventus de <em>Cristiano</em> <em>Ronaldo</em>. O duelo entre os<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Cristiano Ronaldo ganha 47 mil euros por dia - Jornal Economia & Finan\u00e7as",
+            "originalURL": "http://jornaldeeconomia.sapo.ao/lazer/cristiano-ronaldo-ganha-47-mil-euros-por-dia",
+            "snippet": "<em>Cristiano</em> <em>Ronaldo</em> ganha 47 mil euros por dia - Jornal Economia &amp; Finan&ccedil;as Jornal de Economia e<span class=\"ellipsis\"> ... </span> opini&atilde;o especial lazer In&iacute;cio Lazer <em>Cristiano</em> <em>Ronaldo</em> ganha 47 mil euros por dia <em>Cristiano</em> <em>Ronaldo</em><span class=\"ellipsis\"> ... </span> <em>Cristiano</em> <em>Ronaldo</em> superar Messi . Foto por Divulga&ccedil;&atilde;o <em>Cristiano</em> <em>Ronaldo</em> come&ccedil;ou por dizer o seguinte<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Cristiano Ronaldo wins \u2018Golden Foot\u2019 award - The Portugal News",
+            "originalURL": "https://www.theportugalnews.com/news/2020-12-04/cristiano-ronaldo-wins-golden-foot-award/57001",
+            "snippet": "<em>Cristiano</em> <em>Ronaldo</em> wins &#8216;Golden Foot&#8217; award - The Portugal News Fri, 01 Jan 2021 PUB Toggle<span class=\"ellipsis\"> ... </span> Newsletter Contacts Classifieds Properties Hotels Events History Newsletter Contacts <em>Cristiano</em> <em>Ronaldo</em><span class=\"ellipsis\"> ... </span> footballing star, <em>Cristiano</em> <em>Ronaldo</em> won on 1 December the &#8216;Golden Foot&#8217; 2020 award, an accolade given to<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Cristiano Ronaldo testa negativo \u00e0 Covid-19 - Coronav\u00edrus - Jornal de Neg\u00f3cios",
+            "originalURL": "http://www.sabado.pt/economia/coronavirus/detalhe/cristiano-ronaldo-testa-negativo-a-covid-19",
+            "snippet": "<em>Cristiano</em> <em>Ronaldo</em> testa negativo &agrave; Covid-19 - Coronav&iacute;rus - Jornal de Neg&oacute;cios Login Search Assine<span class=\"ellipsis\"> ... </span> <em>Cristiano</em> <em>Ronaldo</em> testa negativo &agrave; Covid-19 Avan&ccedil;ado portugu&ecirc;s da Juventus recuperado Record 30 de Outubro de 2020 &agrave;s 17:30 Assine j&aacute; 1&#8364;/1 m&ecirc;s 1 ... <em>Cristiano</em> <em>Ronaldo</em> testou negativo &agrave; Covid-19<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Cristiano Ronaldo vence pr\u00e9mio de jogador do s\u00e9culo nos Globe Soccer Awards - Voz - SAPO",
+            "originalURL": "https://www.sapo.pt/rd/cristiano-ronaldo-vence-premio-de-jogador-do-_5fe8bae19c362e5ccb018022",
+            "snippet": "<em>Cristiano</em> <em>Ronaldo</em> vence pr&eacute;mio de jogador do s&eacute;culo nos Globe Soccer Awards - Voz - SAPO SAPO In&iacute;cio In&iacute;cio COVID-19 Atualidade Desporto Economia Vida Glamour Tecnologia Planeta Voz Mais Menu Pesquisa Menu In&iacute;cio COVID-19 Atualidade Desporto Economia Vida Glamour Tecnologia Planeta Voz Esquema de<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Governo da Madeira diz que Cristiano Ronaldo traduz a \"firmeza dos ilh\u00e9us\"",
+            "originalURL": "https://observador.pt/2020/12/28/governo-da-madeira-diz-que-cristiano-ronaldo-traduz-a-firmeza-dos-ilheus/amp/",
+            "snippet": "Governo da Madeira diz que <em>Cristiano</em> <em>Ronaldo</em> traduz a &quot;firmeza dos ilh&eacute;us&quot; Sec&ccedil;&otilde;es In&iacute;cio Pol&iacute;tica<span class=\"ellipsis\"> ... </span> Regras da Comunidade Contactos Ajuda &copy;2021 Observador Defini&ccedil;&otilde;es de Privacidade <em>Cristiano</em> <em>Ronaldo</em> Governo da Madeira diz que <em>Cristiano</em> <em>Ronaldo</em> traduz a &quot;firmeza dos ilh&eacute;us&quot; <em>Cristiano</em> <em>Ronaldo</em> bateu a<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Veja a decora\u00e7\u00e3o de Natal de Georgina Rodriguez e Cristiano Ronaldo - Holofote",
+            "originalURL": "https://holofote.sapo.pt/celebridades/2020-12-11-veja-a-decoracao-de-natal-de-georgina-rodriguez-e-cristiano-ronaldo/",
+            "snippet": "Veja a decora&ccedil;&atilde;o de Natal de Georgina Rodriguez e <em>Cristiano</em> <em>Ronaldo</em> - Holofote Loja Pesquisa Loja<span class=\"ellipsis\"> ... </span> decora&ccedil;&atilde;o de Natal de Georgina Rodriguez e <em>Cristiano</em> <em>Ronaldo</em> O casal j&aacute; preparou a casa para a quadra festiva! A casa da fam&iacute;lia de <em>Cristiano</em> <em>Ronaldo</em> e Georgina Rodriguez j&aacute; est&aacute; pronta para a chegada<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Veja as imagens da festa dos 35 anos de Cristiano Ronaldo - R\u00e1dio Calheta",
+            "originalURL": "http://www.radiocalheta.pt/veja-as-imagens-da-festa-dos-35-anos-de-cristiano-ronaldo",
+            "snippet": "Veja as imagens da festa dos 35 anos de <em>Cristiano</em> <em>Ronaldo</em> - R&aacute;dio Calheta E. Editorial Emiss&atilde;o<span class=\"ellipsis\"> ... </span>? Home Not&iacute;cias JM-Madeira Veja as imagens da festa dos 35 anos de <em>Cristiano</em> <em>Ronaldo</em> JM-Madeira Veja as imagens da festa dos 35 anos de <em>Cristiano</em> <em>Ronaldo</em> Estas s&atilde;o algumas das imagens da festa de<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Destak.pt | V\u00eddeo | Golo preferido de Cristiano Ronaldo foi contra o FC Porto",
+            "originalURL": "http://www.destak.pt/video/86115-golo-preferido-de-cristiano-ronaldo-foi-contra-o-fc-porto",
+            "snippet": "Destak.pt | V&iacute;deo | Golo preferido de <em>Cristiano</em> <em>Ronaldo</em> foi contra o FC Porto O primeiro di&aacute;rio<span class=\"ellipsis\"> ... </span> cinema m&uacute;sica emprego marcas e empresas entrevista PUBLICIDADE Desporto Golo preferido de <em>Cristiano</em> <em>Ronaldo</em> foi contra o FC Porto 27 | 01 | 2011 &nbsp; 21.55H O anunciou foi feito pelo pr&oacute;prio <em>Ronaldo</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Vis\u00e3o | Liga das Na\u00e7\u00f5es: Portugal vence Su\u00e9cia com 'bis' de Cristiano Ronaldo",
+            "originalURL": "https://visao.sapo.pt/atualidade/desporto/2020-09-08-liga-das-nacoes-portugal-vence-suecia-com-bis-de-cristiano-ronaldo/",
+            "snippet": "Vis&atilde;o | Liga das Na&ccedil;&otilde;es: Portugal vence Su&eacute;cia com 'bis' de <em>Cristiano</em> <em>Ronaldo</em> Assinar Loja<span class=\"ellipsis\"> ... </span> Liga das Na&ccedil;&otilde;es: Portugal vence Su&eacute;cia com &#8216;bis&#8217; de <em>Cristiano</em> <em>Ronaldo</em> Lusa A sele&ccedil;&atilde;o portuguesa de<span class=\"ellipsis\"> ... </span>, com um 'bis' de <em>Cristiano</em> <em>Ronaldo</em>, que ultrapassou os 100 golos Lusa Desporto 08.09.2020 &agrave;s 21h44<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Cristiano Ronaldo re\u00e7oit le prix du \u201cBallon d\u2019Or\u201d - The Portugal News",
+            "originalURL": "https://www.theportugalnews.com/fr/nouvelles/2020-12-04/cristiano-ronaldo-recoit-le-prix-du-ballon-d-or/57001",
+            "snippet": "<em>Cristiano</em> <em>Ronaldo</em> re&ccedil;oit le prix du &#8220;Ballon d&#8217;Or&#8221; - The Portugal News ven., 01 janv. 2021 PUB<span class=\"ellipsis\"> ... </span> Bulletin d'information <em>Cristiano</em> <em>Ronaldo</em> re&ccedil;oit le prix du &#8220;Ballon d&#8217;Or&#8221; Par TPN/Lusa, in Sports &middot; 04-12-2020 01:00:00 &middot; 0 Comments La star du football portugais, <em>Cristiano</em> <em>Ronaldo</em>, a remport&eacute; le 1er<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Cristiano Ronaldo wins player of century at Dubai Globe Soccer awards as Georgina Rodriguez stuns in",
+            "originalURL": "https://www.thesun.co.uk/sport/13583522/cristiano-ronaldo-dubai-globe-soccer-awards-georgina-rodriguez-outfit/",
+            "snippet": "<em>Cristiano</em> <em>Ronaldo</em> wins player of century at Dubai Globe Soccer awards as Georgina Rodriguez stuns<span class=\"ellipsis\"> ... </span> League Champions League Championship EFL WSL GEOR DROPPING <em>Cristiano</em> <em>Ronaldo</em> wins player of century<span class=\"ellipsis\"> ... </span> 2020, 21:00 Updated : 31 Dec 2020, 21:00 Jack Figg Invalid Date, <em>CRISTIANO</em> <em>RONALDO</em> was named Player of<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Cristiano Ronaldo wins player of century at Dubai Globe Soccer awards as Georgina Rodriguez stuns in",
+            "originalURL": "https://www.thesun.ie/sport/football/6335935/cristiano-ronaldo-dubai-globe-soccer-awards-georgina-rodriguez-outfit/",
+            "snippet": "<em>Cristiano</em> <em>Ronaldo</em> wins player of century at Dubai Globe Soccer awards as Georgina Rodriguez stuns<span class=\"ellipsis\"> ... </span> League Premier League Champions League GEOR DROPPING <em>Cristiano</em> <em>Ronaldo</em> wins player of century at Dubai<span class=\"ellipsis\"> ... </span> Updated : 31 Dec 2020, 21:09 Jack Figg Invalid Date, <em>CRISTIANO</em> <em>RONALDO</em> was named Player of the<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Cristiano Ronaldo celebrates New Year with Georgina Rodriguez and children as family welcome 2021 wi",
+            "originalURL": "https://www.thesun.ie/sport/football/6353970/ronaldo-new-year-georgina-rodriguez/",
+            "snippet": "<em>Cristiano</em> <em>Ronaldo</em> celebrates New Year with Georgina Rodriguez and children as family welcome 2021<span class=\"ellipsis\"> ... </span> League Premier League Champions League RON NIGHT STAND <em>Cristiano</em> <em>Ronaldo</em> celebrates New Year with<span class=\"ellipsis\"> ... </span> 2020, 20:59 Updated : 31 Dec 2020, 21:49 <em>CRISTIANO</em> <em>RONALDO</em> has delighted fans by showing off his low<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Cristiano Ronaldo celebrates New Year with Georgina Rodriguez and children as family welcome 2021 wi",
+            "originalURL": "https://www.thesun.co.uk/sport/football/13620196/ronaldo-new-year-georgina-rodriguez/",
+            "snippet": "<em>Cristiano</em> <em>Ronaldo</em> celebrates New Year with Georgina Rodriguez and children as family welcome 2021<span class=\"ellipsis\"> ... </span> Premier League Champions League Championship EFL WSL RON NIGHT STAND <em>Cristiano</em> <em>Ronaldo</em> celebrates New<span class=\"ellipsis\"> ... </span> Brophy 31 Dec 2020, 20:56 Updated : 31 Dec 2020, 21:45 <em>CRISTIANO</em> <em>RONALDO</em> has delighted fans by showing<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Cristiano Ronaldo wins player of century at Dubai Globe Soccer awards as Georgina Rodriguez stuns in",
+            "originalURL": "https://www.the-sun.com/sport/2036542/cristiano-ronaldo-dubai-globe-soccer-awards-georgina-rodriguez-outfit/",
+            "snippet": "<em>Cristiano</em> <em>Ronaldo</em> wins player of century at Dubai Globe Soccer awards as Georgina Rodriguez stuns<span class=\"ellipsis\"> ... </span> <em>Cristiano</em> <em>Ronaldo</em> wins player of century at Dubai Globe Soccer awards as Georgina Rodriguez stuns in<span class=\"ellipsis\"> ... </span> Date, <em>CRISTIANO</em> <em>RONALDO</em> was named Player of the Century at a glamorous awards ceremony in Dubai. The<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Vis\u00e3o | Liga das Na\u00e7\u00f5es: Cristiano Ronaldo de regresso ao 'onze' de Portugal na Su\u00e9cia",
+            "originalURL": "https://visao.sapo.pt/atualidade/desporto/2020-09-08-liga-das-nacoes-cristiano-ronaldo-de-regresso-ao-onze-de-portugal-na-suecia/",
+            "snippet": "Vis&atilde;o | Liga das Na&ccedil;&otilde;es: <em>Cristiano</em> <em>Ronaldo</em> de regresso ao 'onze' de Portugal na Su&eacute;cia Assinar Loja<span class=\"ellipsis\"> ... </span> 18h48 Lusa Liga das Na&ccedil;&otilde;es: <em>Cristiano</em> <em>Ronaldo</em> de regresso ao &#8216;onze&#8217; de Portugal na Su&eacute;cia Lusa O avan&ccedil;ado <em>Cristiano</em> <em>Ronaldo</em> recuperou de um problema no p&eacute; direito e faz parte do 'onze' que Portugal<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Cristiano Ronaldo celebrates New Year with Georgina Rodriguez and children as family welcome 2021 wi",
+            "originalURL": "https://www.the-sun.com/sport/premier-league/2060382/ronaldo-new-year-georgina-rodriguez/",
+            "snippet": "<em>Cristiano</em> <em>Ronaldo</em> celebrates New Year with Georgina Rodriguez and children as family welcome 2021<span class=\"ellipsis\"> ... </span> STAND <em>Cristiano</em> <em>Ronaldo</em> celebrates New Year with Georgina Rodriguez and children as family welcome<span class=\"ellipsis\"> ... </span> <em>CRISTIANO</em> <em>RONALDO</em> has delighted fans by showing off his low-key New Year celebrations with Georgina<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Destak.pt | V\u00eddeo | Golo preferido de Cristiano Ronaldo foi contra o FC Porto",
+            "originalURL": "http://www.destak.pt/video/86115",
+            "snippet": "Destak.pt | V&iacute;deo | Golo preferido de <em>Cristiano</em> <em>Ronaldo</em> foi contra o FC Porto O primeiro di&aacute;rio<span class=\"ellipsis\"> ... </span> cinema m&uacute;sica emprego marcas e empresas entrevista PUBLICIDADE Desporto Golo preferido de <em>Cristiano</em> <em>Ronaldo</em> foi contra o FC Porto 27 | 01 | 2011 &nbsp; 21.55H O anunciou foi feito pelo pr&oacute;prio <em>Ronaldo</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Pesquisar - XXI Governo - Rep\u00c3\u00bablica Portuguesa",
+            "originalURL": "https://www.portugal.gov.pt/pt/gc21/pesquisar?p=1039",
+            "snippet": " Unidas Ver mais Not&Atilde;&shy;cias 2016-12-12 &Atilde;&nbsp;s 20h27 <em>Cristiano</em> <em>Ronaldo</em>: uma inspira&Atilde;&sect;&Atilde;&pound;o para as novas gera&Atilde;&sect;&Atilde;&micro;es Not&Atilde;&shy;cias 2016-12-12 &Atilde;&nbsp;s 20h27 <em>Cristiano</em> <em>Ronaldo</em>: uma inspira&Atilde;&sect;&Atilde;&pound;o para as novas gera&Atilde;&sect;&Atilde;&micro;es <em>Cristiano</em> <em>Ronaldo</em>: uma inspira&Atilde;&sect;&Atilde;&pound;o para as novas gera&Atilde;&sect;&Atilde;&micro;es Ver mais <em>Cristiano</em> <em>Ronaldo</em>: uma<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Pesquisar - XXI Governo - Rep\u00c3\u00bablica Portuguesa",
+            "originalURL": "https://www.portugal.gov.pt/pt/gc21/pesquisar?p=1014",
+            "snippet": "&pound;o de <em>Cristiano</em> <em>Ronaldo</em> como melhor futebolista 2016 Not&Atilde;&shy;cias 2017-01-09 &Atilde;&nbsp;s 19h50 Governo congratula-se com distin&Atilde;&sect;&Atilde;&pound;o de <em>Cristiano</em> <em>Ronaldo</em> como melhor futebolista 2016 Governo congratula-se com distin&Atilde;&sect;&Atilde;&pound;o de <em>Cristiano</em> <em>Ronaldo</em> como melhor futebolista 2016 Tags: desporto Ver mais Governo<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "SAPO Desporto - SAPO",
+            "originalURL": "https://www.sapo.pt/parceiro/sapo-desporto?pagina=11",
+            "snippet": " <em>Cristiano</em> <em>Ronaldo</em>, distinguido o Jogador do S&eacute;culo O avan&ccedil;ado argentino falou sobre a eterna rivalidade com <em>Cristiano</em> <em>Ronaldo</em>. SAPO Desporto &middot; Desporto &middot; 28 dez 2020 09:13 &quot;Os n&uacute;meros de Bruno Fernandes<span class=\"ellipsis\"> ... </span> felicita <em>Cristiano</em> <em>Ronaldo</em> O futebolista portugu&ecirc;s foi distinguido com o trof&eacute;u de Jogador do S&eacute;culo nos<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "CARTA AO DOUTOR CENTENO",
+            "originalURL": "http://www.gazetadointerior.pt/noticias/ano-2018/1559/opiniao/carta-ao-doutor-centeno.aspx",
+            "snippet": " <em>Cristiano</em> <em>Ronaldo</em> e comprei-lho. Pediu-me dez moedas de pastilha e como eu n&atilde;o tinha pastilhas que<span class=\"ellipsis\"> ... </span> andou a ver de mim para me comprar o cromo do <em>Cristiano</em> <em>Ronaldo</em> mas ainda bem que n&atilde;o me encontrou<span class=\"ellipsis\"> ... </span> pastilhas e ficado com o cromo de <em>Cristiano</em> <em>Ronaldo</em> e juro que hei de vend&ecirc;-lo por dez pastilhas<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Na Madeira, Katia Aveiro aproveita para fazer tratamento est\u00e9tico - Atualidade - SAPO Lifestyle",
+            "originalURL": "https://lifestyle.sapo.pt/fama/noticias-fama/artigos/na-madeira-katia-aveiro-aproveita-para-fazer-tratamento-estetico",
+            "snippet": " merecemos&quot;, afirma a irm&atilde; de <em>Cristiano</em> <em>Ronaldo</em>. Katia Aveiro aproveitou a sua estadia na Madeira, onde<span class=\"ellipsis\"> ... </span> a irm&atilde; de <em>Cristiano</em> <em>Ronaldo</em> na legenda de uma montagem fotogr&aacute;fica onde se mostra ao lado do m&eacute;dico<span class=\"ellipsis\"> ... </span> Minuto &middot; Atualidade &middot; 31 dez 2020 17:33 V&iacute;deo: Em casa de <em>Ronaldo</em> est&aacute; tudo pronto para a festa de<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Na Madeira, Katia Aveiro aproveita para fazer tratamento est\u00e9tico",
+            "originalURL": "https://lifestyle.sapo.pt/amp/fama/noticias-fama/artigos/na-madeira-katia-aveiro-aproveita-para-fazer-tratamento-estetico",
+            "snippet": " a irm&atilde; de <em>Cristiano</em> <em>Ronaldo</em>. Katia Aveiro aproveitou a sua estadia na Madeira, onde passou o Natal<span class=\"ellipsis\"> ... </span> <em>Cristiano</em> <em>Ronaldo</em> na legenda de uma montagem fotogr&aacute;fica onde se mostra ao lado do m&eacute;dico em quest&atilde;o<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Premier League: Artist depicts Guardiola and Mourinho kissing in Barcelona | MARCA in English",
+            "originalURL": "https://www.marca.com/en/football/international-football/2018/04/19/5ad898a7e2704e137b8b4587.html",
+            "snippet": " Enviar por email 19/04/2018 15:27 CEST En Espa&ntilde;ol Messi and <em>Cristiano</em> <em>Ronaldo</em> kiss W hilst they may be<span class=\"ellipsis\"> ... </span> designs and has followed up his previous illustration of Lionel Messi and <em>Cristiano</em> <em>Ronaldo</em> kissing<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "H\u00e1 uma nova fotografia de Georgina em lingerie - Holofote",
+            "originalURL": "https://holofote.sapo.pt/celebridades/2020-12-17-ha-uma-nova-fotografia-de-georgina-em-lingerie/",
+            "snippet": " uma conhecida cara portuguesa. Relacionados Foi assim que <em>Cristiano</em> <em>Ronaldo</em> reagiu &agrave;s fotos em<span class=\"ellipsis\"> ... </span> <em>Cristiano</em> <em>Ronaldo</em> . E quem n&atilde;o ficou indiferente ao retrato da modelo foi Rita Ferro Rodrigues , que<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "F\u00fatbol - Noticias de F\u00fatbol - EL ESPA\u00d1OL",
+            "originalURL": "https://www.elespanol.com/deportes/futbol/895/",
+            "snippet": " del &eacute;xito de <em>Cristiano</em> <em>Ronaldo</em>: 35 a&ntilde;os, premios individuales y superando a hist&oacute;ricos El delantero luso est&aacute; firmando grandes datos pese a su edad. A diferencia de otros referentes, <em>Cristiano</em> <em>Ronaldo</em><span class=\"ellipsis\"> ... </span> desde este martes por la ma&ntilde;ana. Jorge Pacheco 29.12.2020 10:01 h. <em>Cristiano</em>, de su hijo: &quot;Veremos si<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Deportes - Noticias Deportivas - EL ESPA\u00d1OL",
+            "originalURL": "https://www.elespanol.com/deportes/1478/",
+            "snippet": " <em>Cristiano</em> <em>Ronaldo</em>: 35 a&ntilde;os, premios individuales y superando a hist&oacute;ricos El delantero luso est&aacute; firmando grandes datos pese a su edad. A diferencia de otros referentes, <em>Cristiano</em> <em>Ronaldo</em> sigue formando<span class=\"ellipsis\"> ... </span>. <em>Cristiano</em>, de su hijo: &quot;Veremos si es un gran futbolista; bebe Coca-Cola y come patatas fritas&quot; La gala de<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "VIP.pt | Bonita por fora e perfeita por dentro",
+            "originalURL": "https://www.vip.pt/pesquisa",
+            "snippet": " filter <em>Cristiano</em> <em>Ronaldo</em> (1725) Apply <em>Cristiano</em> <em>Ronaldo</em> filter Vip (1721) Apply Vip filter atriz (1679<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "archives - 27 Dec 2020. euronews : International and European news all available as video on demand",
+            "originalURL": "https://it.euronews.com/2020/12/27",
+            "snippet": "-12-27 mondo <em>Cristiano</em> <em>Ronaldo</em> nominato calciatore del secolo <em>Ronaldo</em> ha battuto a Dubai Messi, Salah<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "\"Como \u00e9 que o Bicho Mexe?\": diretos de Bruno Nogueira no Instagram regressam no dia de Natal",
+            "originalURL": "https://mag.sapo.pt/amp/showbiz/artigos/como-e-que-o-bicho-mexe-diretos-de-bruno-nogueira-no-instagram-regressam-no-dia-de-natal",
+            "snippet": " participa&ccedil;&atilde;o de figuras como <em>Cristiano</em> <em>Ronaldo</em>, Bruno Fernandes, N&eacute;lson &Eacute;vora ou Salvador Sobral. A &uacute;ltima<span class=\"ellipsis\"> ... </span> 2020 01:06 N&uacute;mero recorde de espectadores, Natal nas ruas, <em>Ronaldo</em> e um final no Coliseu. Assim foi o<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "O C\u00c9U NUBLOU-SE DE SUSPEI\u00c7\u00c3O\u2026",
+            "originalURL": "http://www.gazetadointerior.pt/noticias/ano-2018/1557/opiniao/o-ceu-nublou.aspx",
+            "snippet": " c&eacute;us do nosso viver. At&eacute; &agrave; exaust&atilde;o bombardeiam-nos os telejornais com o CASO <em>CRISTIANO</em> <em>RONALDO</em>. O<span class=\"ellipsis\"> ... </span> mulher ser&aacute; neg&oacute;cio? Mas a suspei&ccedil;&atilde;o ser&aacute; uma lapa agarrada a Cristino <em>Ronaldo</em>, seja ele inocente ou<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Desporto - R\u00e1dio Campan\u00e1rio",
+            "originalURL": "https://www.radiocampanario.com/ultimas/desporto?start=60",
+            "snippet": " estar familiarizado, nem&#8230; <em>Cristiano</em> <em>Ronaldo</em> &eacute; o 2&ordm; jogador da hist&oacute;ria com 101 golos numa sele&ccedil;&atilde;o 08 Set. 2020 NACIONAL De acordo com a not&iacute;cia avan&ccedil;ada pelo Correio da Manh&atilde;, o portugu&ecirc;s <em>Cristiano</em> <em>Ronaldo</em> tornou-se esta ter&ccedil;a-feira o segundo jogador da hist&oacute;ria do futebol a chegar aos 101 golos por<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Caras | Diogo Amaral encanta gra\u00e7as \u00e0 gargalhada do filho mais velho",
+            "originalURL": "https://caras.sapo.pt/famosos/2020-12-15-diogo-amaral-encanta-gracas-a-gargalhada-do-filho-mais-velho/",
+            "snippet": ". Famosos 15 visuais de Georgina Rodr&iacute;guez que inspiram para o r&eacute;veillon A companheira de <em>Cristiano</em> <em>Ronaldo</em> revela alguns looks que podem ser usados para a noite de passagem de ano. Mesmo que<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Caras | Rainha S\u00f3nia e princesa Mette-Marit emocionadas com discurso da princesa Ingrid da Noruega",
+            "originalURL": "https://caras.sapo.pt/realeza/2020-12-21-rainha-sonia-e-princesa-mette-marit-emocionadas-com-discurso-da-princesa-ingrid-da-noruega/",
+            "snippet": " para o r&eacute;veillon A companheira de <em>Cristiano</em> <em>Ronaldo</em> revela alguns looks que podem ser usados para a<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Dolores Aveiro salta para a televis\u00c3\u00a3o na companhia da Galp \u2013 Marketeer",
+            "originalURL": "https://marketeer.sapo.pt/dolores-aveiro-salta-para-a-televisao-na-companhia-da-galp",
+            "snippet": " Pedro Fernandes, que ajudar&Atilde;&iexcl; a m&Atilde;&pound;e de <em>Cristiano</em> <em>Ronaldo</em> a apresentar os benef&Atilde;&shy;cios e vantagens<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "El beso entre Guardiola y Mourinho en Barcelona del que habla todo el mundo | Marca.com",
+            "originalURL": "https://www.marca.com/tiramillas/actualidad/2018/04/19/5ad88988ca474154598b45b9.html",
+            "snippet": " recurrido de nuevo al beso, como ya hiciera con Messi y <em>Cristiano</em> <em>Ronaldo</em>, para dibujar a Guardiola y a<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "El beso entre Guardiola y Mourinho en Barcelona del que habla todo el mundo",
+            "originalURL": "https://amp.marca.com/tiramillas/actualidad/2018/04/19/5ad88988ca474154598b45b9.html",
+            "snippet": " . El grafitero ha recurrido de nuevo al beso, como ya hiciera con Messi y <em>Cristiano</em> <em>Ronaldo</em>, para<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Baloncesto: \u00daltimas noticias de Hoy - Mundo Deportivo",
+            "originalURL": "https://www.mundodeportivo.com/baloncesto/p2",
+            "snippet": " Madrid Valencia Messi Athletic Real Sociedad Gordo Navidad Espanyol Neymar <em>Cristiano</em> <em>Ronaldo</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Dolores Aveiro salta para a televis\u00c3\u00a3o na companhia da Galp \u2013 Marketeer",
+            "originalURL": "https://marketeer.sapo.pt/dolores-aveiro-salta-para-a-televisao-na-companhia-da-galp?p=177460",
+            "snippet": " Pedro Fernandes, que ajudar&Atilde;&iexcl; a m&Atilde;&pound;e de <em>Cristiano</em> <em>Ronaldo</em> a apresentar os benef&Atilde;&shy;cios e vantagens<span class=\"ellipsis\"> ... </span>"
+        }
+    ]
+}

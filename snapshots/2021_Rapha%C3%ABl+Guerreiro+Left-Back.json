@@ -1,0 +1,57 @@
+{
+    "serviceName": "Arquivo.pt - the Portuguese web-archive",
+    "linkToService": "https://arquivo.pt",
+    "estimated_nr_results": 9,
+    "request_parameters": {
+        "offset": 0,
+        "dedupValue": 2,
+        "from": "20210101000000",
+        "to": "20211231235959",
+        "fields": [
+            "title",
+            "snippet",
+            "originalURL",
+            "timestamp"
+        ],
+        "dedupField": "site",
+        "q": "Rapha\u00ebl Guerreiro",
+        "maxItems": 50
+    },
+    "response_items": [
+        {
+            "title": "Bruno Fernandes bisa, Ronaldo ajuda Juventus a apurar-se. Veja os golos - TSF",
+            "originalURL": "https://www.tsf.pt/desporto/amp/bruno-fernandes-bisa-ronaldo-ajuda-juventus-a-apurar-se-para-os-oitavos-de-final-13071982.html",
+            "snippet": " para a pr&oacute;xima fase, superando Club Brugge e Zenit, respetivamente, no Grupo F. Com <em>Rapha&euml;l</em> <em>Guerreiro</em> de in&iacute;cio, o Borussia venceu os belgas por 3-0, com dois golos do noruegu&ecirc;s Erling Haaland, aos<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "sele\u00e7\u00e3o nacional - TSF",
+            "originalURL": "https://www.tsf.pt/tag/selecao-nacional.html",
+            "snippet": " servi&ccedil;o da campe&atilde; italiana, frente &agrave; Lazio. <em>Rapha&euml;l</em> <em>Guerreiro</em> foi a &uacute;nica aus&ecirc;ncia no primeiro<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Destaques",
+            "originalURL": "http://portocanal.sapo.pt:443/noticias/5?n=7",
+            "snippet": " garante que Cristiano Ronaldo est&aacute; apto Porto Canal com Lusa | 10-11-2020 13:40 <em>Rapha&euml;l</em> <em>Guerreiro</em> foi<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Destaques",
+            "originalURL": "http://portocanal.sapo.pt:443/noticias/5/0mrlPS7GkbJjP651HzUKhKe0Xhass__cozL0HjuuxeH.f7?n=7",
+            "snippet": " garante que Cristiano Ronaldo est&aacute; apto Porto Canal com Lusa | 10-11-2020 13:40 <em>Rapha&euml;l</em> <em>Guerreiro</em> foi<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Vis\u00e3o | Liga das Na\u00e7\u00f5es: Cristiano Ronaldo de regresso ao 'onze' de Portugal na Su\u00e9cia",
+            "originalURL": "https://visao.sapo.pt/atualidade/desporto/2020-09-08-liga-das-nacoes-cristiano-ronaldo-de-regresso-ao-onze-de-portugal-na-suecia/",
+            "snippet": " Jo&atilde;o Cancelo na direita, <em>Rapha&euml;l</em> <em>Guerreiro</em> na esquerda e Pepe e R&uacute;ben Dias no centro. No meio-campo<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Edi\u00e7\u00e3o Impressa do LusoJornal",
+            "originalURL": "https://lusojornal.com/edicao-impressa/",
+            "snippet": "Edi&ccedil;&atilde;o Impressa do LusoJornal O LusoJornal Contactos Pol&iacute;tica de Privacidade Pesquisar Ligar/Aderir<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Pr\u00e9mio Pr\u00edncipe da Beira em Ci\u00eancias Biom\u00e9dicas 2015 - Noticias",
+            "originalURL": "http://www.radiofundacao.net/noticias_geral.php?a=13&id=2274",
+            "snippet": "Pr&eacute;mio Pr&iacute;ncipe da Beira em Ci&ecirc;ncias Biom&eacute;dicas 2015 - Noticias No ar: Madrugada &nbsp; Home R&aacute;dio<span class=\"ellipsis\"> ... </span>"
+        }
+    ]
+}

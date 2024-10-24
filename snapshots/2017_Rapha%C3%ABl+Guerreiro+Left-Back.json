@@ -1,0 +1,273 @@
+{
+    "serviceName": "Arquivo.pt - the Portuguese web-archive",
+    "linkToService": "https://arquivo.pt",
+    "next_page": "https://arquivo.pt/textsearch?q=Rapha%C3%ABl+Guerreiro&from=20170101000000&to=20171231235959&fields=title%2Csnippet%2CoriginalURL%2Ctimestamp&offset=50",
+    "estimated_nr_results": 60170,
+    "request_parameters": {
+        "offset": 0,
+        "dedupValue": 2,
+        "from": "20170101000000",
+        "to": "20171231235959",
+        "fields": [
+            "title",
+            "snippet",
+            "originalURL",
+            "timestamp"
+        ],
+        "dedupField": "site",
+        "q": "Rapha\u00ebl Guerreiro",
+        "maxItems": 50
+    },
+    "response_items": [
+        {
+            "title": "O Guerreiro da Luz: Rapha\u00ebl Guerreiro",
+            "originalURL": "https://o-guerreiro-da-luz.blogspot.pt/search/label/Rapha%C3%ABl%20Guerreiro?updated-max=2014-11-21T23:55:00Z&max-results=20&start=20&by-date=false",
+            "snippet": "O <em>Guerreiro</em> da Luz: <em>Rapha&euml;l</em> <em>Guerreiro</em> Blogs Portugal Nenhuma mensagem com a etiqueta <em>Rapha&euml;l</em> <em>Guerreiro</em> . Mostrar todas as mensagens Nenhuma mensagem com a etiqueta <em>Rapha&euml;l</em> <em>Guerreiro</em> . Mostrar todas<span class=\"ellipsis\"> ... </span> Brasil 2014 O <em>Guerreiro</em> da Luz Pol&iacute;tica Desportiva Pol&iacute;tica Financeira Portugal Pr&eacute;-&Eacute;poca 2012-2013<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "RAPHA\u00cbL GUERREIRO - Saber Mais - Record",
+            "originalURL": "http://www.record.pt/sabermais/rapha%C3%ABl-guerreiro",
+            "snippet": "<em>RAPHA&Euml;L</em> <em>GUERREIRO</em> - Saber Mais - Record Segunda-feira, 10 de julho de 2017 Todas as Capas Premium<span class=\"ellipsis\"> ... </span>: <em>RAPHA&Euml;L</em> <em>GUERREIRO</em> 16h42 Borussia Dortmund M&eacute;dicos do Dortmund 'ilibam' FPF na les&atilde;o de <em>Rapha&euml;l</em><span class=\"ellipsis\"> ... </span> <em>Guerreiro</em> j&aacute; n&atilde;o est&aacute; com o grupo 29.06.2017 Ta&ccedil;a das Confedera&ccedil;&otilde;es 2017 <em>Rapha&euml;l</em> <em>Guerreiro</em> regressa a<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Rapha\u00ebl Guerreiro Arquivos - Fair Play",
+            "originalURL": "http://www.fairplay.pt/tag/raphael-guerreiro",
+            "snippet": "<em>Rapha&euml;l</em> <em>Guerreiro</em> Arquivos - Fair Play Oops! It appears that you have disabled your Javascript. In order for you to see this page as it is meant to appear, we ask that you please re-enable your Javascript! Fut. Nacional Benfica Porto Sporting Sele&ccedil;&atilde;o Nacional Outros Clubes Fut. Internacional<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Rapha\u00ebl Guerreiro prossegue exames",
+            "originalURL": "http://www.dn.pt/desporto/interior/amp/confederacoes-titulares-em-recuperacao-raphael-guerreiro-prossegue-exames-8582246.html",
+            "snippet": "<em>Rapha&euml;l</em> <em>Guerreiro</em> prossegue exames Portugal Desporto Mundo Opini&atilde;o Dinheiro Sociedade Artes Pessoas Media Fotogalerias V&iacute;deos Evas&otilde;es Dinheiro Vivo Not&iacute;cias Magazine Desporto <em>Rapha&euml;l</em> <em>Guerreiro</em> prossegue exames 22&nbsp;DE&nbsp;JUNHO&nbsp;DE&nbsp;2017 &nbsp;09:34 Lusa Os titulares frente &agrave; R&uacute;ssia estiveram ausentes do &uacute;ltimo<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Rapha\u00ebl Guerreiro prossegue exames",
+            "originalURL": "http://www.dn.pt/desporto/interior/amp/confederacoes-titulares-em-recuperacao-raphael-guerreiro-prossegue-exames-8582246.html",
+            "snippet": "<em>Rapha&euml;l</em> <em>Guerreiro</em> prossegue exames Portugal Desporto Mundo Opini&atilde;o Dinheiro Sociedade Artes Pessoas Media Fotogalerias V&iacute;deos Evas&otilde;es Dinheiro Vivo Not&iacute;cias Magazine Desporto <em>Rapha&euml;l</em> <em>Guerreiro</em> prossegue exames 22&nbsp;DE&nbsp;JUNHO&nbsp;DE&nbsp;2017 &nbsp;09:34 Lusa Os titulares frente &agrave; R&uacute;ssia estiveram ausentes do &uacute;ltimo<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "RAPHA\u00cbL GUERREIRO - Saber Mais - Record",
+            "originalURL": "http://www.record.pt/sabermais/rapha%C3%ABl-guerreiro",
+            "snippet": "<em>RAPHA&Euml;L</em> <em>GUERREIRO</em> - Saber Mais - Record Sexta-feira, 23 de junho de 2017 Todas as Capas Premium<span class=\"ellipsis\"> ... </span> Contactos Loja Promo&ccedil;&otilde;es Saber Mais: <em>RAPHA&Euml;L</em> <em>GUERREIRO</em> Ontem &agrave;s 16h29 Fran&ccedil;a Antero Henrique quer levar&nbsp;<em>Rapha&euml;l</em> <em>Guerreiro</em> Diretor desportivo do Paris SG aprecia lateral portugu&ecirc;s Ontem &agrave;s 12h29 Ta&ccedil;a<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Bancada | Rapha\u00ebl Guerreiro ainda est\u00e1 de muletas",
+            "originalURL": "https://bancada.pt/futebol/grandefutebol/raphael-guerreiro-ainda-esta-de-muletas",
+            "snippet": "Bancada | <em>Rapha&euml;l</em> <em>Guerreiro</em> ainda est&aacute; de muletas In&iacute;cio Portugal Grande Futebol Match Centre<span class=\"ellipsis\"> ... </span> <em>Rapha&euml;l</em> <em>Guerreiro</em> ainda est&aacute; de muletas Reda&ccedil;&atilde;o Bancada 2017-06-26 18:20:00 V&iacute;deo partilhado por Jos&eacute;<span class=\"ellipsis\"> ... </span> encontra lesionado , mas <em>Rapha&euml;l</em> <em>Guerreiro</em> ainda est&aacute; a utilizar muletas. Num v&iacute;deo partilhado no<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Tribuna Expresso | A hist\u00f3ria improv\u00e1vel de Rapha\u00ebl Guerreiro",
+            "originalURL": "http://tribunaexpresso.pt/euro2016/2016-06-16-A-historia-improvavel-de-Raphael-Guerreiro",
+            "snippet": "Tribuna Expresso | A hist&oacute;ria improv&aacute;vel de <em>Rapha&euml;l</em> <em>Guerreiro</em> Euro 2016 Assinar Loja Facebook Twitter RSS Feed Login Logout Perfil SIC Not&iacute;cias Menu A hist&oacute;ria improv&aacute;vel de <em>Rapha&euml;l</em> <em>Guerreiro</em> Quem &eacute;<span class=\"ellipsis\"> ... </span> Dortmund Pedro Candeias 16.06.2016 &agrave;s 12h39 <em>Rapha&euml;l</em> <em>Guerreiro</em>, &agrave; esquerda na imagem, convenceu<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Rapha\u00ebl Guerreiro falha treino do Borussia Dortmund",
+            "originalURL": "http://www.tsf.pt/desporto/interior/rapahel-guerreiro-falha-treino-do-borussia-dortmund-5709802.html",
+            "snippet": "<em>Rapha&euml;l</em> <em>Guerreiro</em> falha treino do Borussia Dortmund In&iacute;cio Notici&aacute;rios Pol&iacute;tica Sociedade Economia Desporto Internacional Cultura V&iacute;deos Opini&atilde;o Evas&otilde;es Programas Programa&ccedil;&atilde;o Servi&ccedil;os Frequ&ecirc;ncias<span class=\"ellipsis\"> ... </span> Pesquisar Desporto Resultados e Classifica&ccedil;&otilde;es Jogos em Direto Liga dos Campe&otilde;es <em>Rapha&euml;l</em> <em>Guerreiro</em> falha<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Rapha\u00ebl Guerreiro falha treino do Borussia Dortmund",
+            "originalURL": "http://www.tsf.pt/desporto/interior/rapahel-guerreiro-falha-treino-do-borussia-dortmund-5709802.html",
+            "snippet": "<em>Rapha&euml;l</em> <em>Guerreiro</em> falha treino do Borussia Dortmund In&iacute;cio Notici&aacute;rios Pol&iacute;tica Sociedade Economia Desporto Internacional Cultura V&iacute;deos Opini&atilde;o Evas&otilde;es Programas Programa&ccedil;&atilde;o Servi&ccedil;os Frequ&ecirc;ncias<span class=\"ellipsis\"> ... </span> Pesquisar Desporto Resultados e Classifica&ccedil;&otilde;es Jogos em Direto Liga dos Campe&otilde;es <em>Rapha&euml;l</em> <em>Guerreiro</em> falha<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Destak.pt | Opini\u00e3o | At\u00e9 onde pode ir Rapha\u00ebl Guerreiro?",
+            "originalURL": "http://www.destak.pt/opiniao/279296-ate-onde-pode-ir-raphael-guerreiro",
+            "snippet": "Destak.pt | Opini&atilde;o | At&eacute; onde pode ir <em>Rapha&euml;l</em> <em>Guerreiro</em>? O primeiro di&aacute;rio gratuito em Portugal<span class=\"ellipsis\"> ... </span>. Dezassete. Numa semana. Sim. Desta avalancha de golos, dois foram marcados por <em>Rapha&euml;l</em> <em>Guerreiro</em>, o<span class=\"ellipsis\"> ... </span> fugas autom&oacute;vel cinema m&uacute;sica emprego marcas e empresas entrevista OPINI&Atilde;O At&eacute; onde pode ir <em>Rapha&euml;l</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Destak.pt | Opini\u00e3o | At\u00e9 onde pode ir Rapha\u00ebl Guerreiro?",
+            "originalURL": "http://www.destak.pt/opiniao/279296",
+            "snippet": "Destak.pt | Opini&atilde;o | At&eacute; onde pode ir <em>Rapha&euml;l</em> <em>Guerreiro</em>? O primeiro di&aacute;rio gratuito em Portugal<span class=\"ellipsis\"> ... </span>. Dezassete. Numa semana. Sim. Desta avalancha de golos, dois foram marcados por <em>Rapha&euml;l</em> <em>Guerreiro</em>, o<span class=\"ellipsis\"> ... </span> fugas autom&oacute;vel cinema m&uacute;sica emprego marcas e empresas entrevista OPINI&Atilde;O At&eacute; onde pode ir <em>Rapha&euml;l</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Confedera\u00e7\u00f5es: Titulares em recupera\u00e7\u00e3o, Rapha\u00ebl Guerreiro prossegue exames",
+            "originalURL": "http://www.ojogo.pt/extra/lusa/interior/confederacoes-titulares-em-recuperacao-raphael-guerreiro-prossegue-exames-8582249.html",
+            "snippet": "Confedera&ccedil;&otilde;es: Titulares em recupera&ccedil;&atilde;o, <em>Rapha&euml;l</em> <em>Guerreiro</em> prossegue exames Destaques I Liga II<span class=\"ellipsis\"> ... </span> <em>Guerreiro</em> prossegue exames Confedera&ccedil;&otilde;es: Titulares em recupera&ccedil;&atilde;o, <em>Rapha&euml;l</em> <em>Guerreiro</em> prossegue exames<span class=\"ellipsis\"> ... </span>, estiveram hoje ausentes do &uacute;ltimo treino em Moscovo, incluindo <em>Rapha&euml;l</em> <em>Guerreiro</em>, que prossegue os<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Antero Henrique quer levar\u00a0Rapha\u00ebl Guerreiro - \u00daltima Hora - S\u00c1BADO",
+            "originalURL": "http://www.sabado.pt/ultima-hora/detalhe/antero-henrique-quer-levarraphal-guerreiro",
+            "snippet": "Antero Henrique quer levar&nbsp;<em>Rapha&euml;l</em> <em>Guerreiro</em> - &Uacute;ltima Hora - S&Aacute;BADO Este website utiliza cookies<span class=\"ellipsis\"> ... </span> falaram de mais pub &Uacute;ltima Hora Antero Henrique quer levar&nbsp;<em>Rapha&euml;l</em> <em>Guerreiro</em> 23.06.2017 17:29 por<span class=\"ellipsis\"> ... </span> portugu&ecirc;s&nbsp;<em>Rapha&euml;l</em> <em>Guerreiro</em> poder&aacute; estar de regresso ao futebol franc&ecirc;s, agora para representar o Paris SG<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Confedera\u00e7\u00f5es: Titulares em recupera\u00e7\u00e3o, Rapha\u00ebl Guerreiro prossegue exames",
+            "originalURL": "http://www.ojogo.pt/extra/lusa/interior/amp/confederacoes-titulares-em-recuperacao-raphael-guerreiro-prossegue-exames-8582249.html",
+            "snippet": "Confedera&ccedil;&otilde;es: Titulares em recupera&ccedil;&atilde;o, <em>Rapha&euml;l</em> <em>Guerreiro</em> prossegue exames FUTEBOL MODALIDADES<span class=\"ellipsis\"> ... </span> recupera&ccedil;&atilde;o, <em>Rapha&euml;l</em> <em>Guerreiro</em> prossegue exames Os titulares da sele&ccedil;&atilde;o portuguesa de futebol na vit&oacute;ria<span class=\"ellipsis\"> ... </span>, incluindo <em>Rapha&euml;l</em> <em>Guerreiro</em>, que prossegue os exames para avaliar a gravidade da les&atilde;o. O lateral esquerdo<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Rapha\u00ebl Guerreiro vai parar 3 a 4 meses",
+            "originalURL": "http://blogvisaodemercado.pt/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fblogvisaodemercado.pt%2F2017%2F07%2Fraphael-guerreiro-vai-parar-3-4-meses%2F&format=xml",
+            "snippet": "/author/visao-de-mercado/ <em>Rapha&euml;l</em> <em>Guerreiro</em> vai parar 3 a 4 meses rich 600 338 &lt;blockquote class=&quot;wp<span class=\"ellipsis\"> ... </span>/&quot;&gt;<em>Rapha&euml;l</em> <em>Guerreiro</em> vai parar 3 a 4 meses&lt;/a&gt;&lt;/blockquote&gt; &lt;script type='text/javascript<span class=\"ellipsis\"> ... </span>&quot; title=&quot;&#8220;<em>Rapha&euml;l</em> <em>Guerreiro</em> vai parar 3 a 4 meses&#8221; &#8212; Vis&atilde;o de Mercado&quot; frameborder=&quot;0&quot; marginwidth<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Rapha\u00ebl Guerreiro condenado a uma multa de 90 mil euros",
+            "originalURL": "https://sol.sapo.pt/artigo/576440/rapha-l-guerreiro-condenado-a-uma-multa-de-90-mil-euros",
+            "snippet": "<em>Rapha&euml;l</em> <em>Guerreiro</em> condenado a uma multa de 90 mil euros Menu &Uacute;ltimas Economia Pol&iacute;tica Opini&atilde;o Menu &Uacute;ltimas Destaques : Economia Pol&iacute;tica Opini&atilde;o Desporto 16 de agosto 2017 <em>Rapha&euml;l</em> <em>Guerreiro</em><span class=\"ellipsis\"> ... </span> Photo &nbsp; Comentar Partilhar Temas <em>Rapha&euml;l</em> <em>Guerreiro</em> O futebolista <em>Rapha&euml;l</em> <em>Guerreiro</em> foi condenado esta<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Fora-de-jogo: Rapha\u00ebl Guerreiro quer jogar um dia no...Benfica",
+            "originalURL": "http://foradejogo08.blogspot.pt/2016/10/raphael-guerreiro-quer-jogar-um-dia.html",
+            "snippet": "Fora-de-jogo: <em>Rapha&euml;l</em> <em>Guerreiro</em> quer jogar um dia no...Benfica HOME CAPAS DO DIA LIVE IMAGENS V&Iacute;DEOS DIXIT RUBRICAS BOLADAS OPINI&Otilde;ES CONTACTOS PARCERIAS 30 outubro 2016 <em>Rapha&euml;l</em> <em>Guerreiro</em> quer jogar um dia no...Benfica em 22:30 <em>Rapha&euml;l</em> <em>Guerreiro</em>, internacional portugu&ecirc;s do Borussia Dortmund, em<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Benfica e FC Porto na corrida por Rapha\u00ebl Guerreiro | Relvado",
+            "originalURL": "http://m.relvado.aeiou.pt/benfica/benfica-fc-porto-na-corrida-por-raphael-guerreiro-513657?device=mobile",
+            "snippet": "Benfica e FC Porto na corrida por <em>Rapha&euml;l</em> <em>Guerreiro</em> | Relvado Relvado Menu Benfica FC Porto<span class=\"ellipsis\"> ... </span> Porto na corrida por <em>Rapha&euml;l</em> <em>Guerreiro</em> Nuno R. Teixeira 14 de Janeiro de 2016, &agrave;s 16:04 Liverpool na<span class=\"ellipsis\"> ... </span> contrata&ccedil;&atilde;o de <em>Rapha&euml;l</em> <em>Guerreiro</em>, de acordo com not&iacute;cias que se t&ecirc;m acumulado nas &uacute;ltimas semanas, mas tamb&eacute;m<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Benfica e FC Porto na corrida por Rapha\u00ebl Guerreiro | Relvado",
+            "originalURL": "http://m.relvado.aeiou.pt/benfica/benfica-fc-porto-na-corrida-por-raphael-guerreiro-513657?page=1",
+            "snippet": "Benfica e FC Porto na corrida por <em>Rapha&euml;l</em> <em>Guerreiro</em> | Relvado Relvado Menu Benfica FC Porto<span class=\"ellipsis\"> ... </span> Porto na corrida por <em>Rapha&euml;l</em> <em>Guerreiro</em> Nuno R. Teixeira 14 de Janeiro de 2016, &agrave;s 16:04 Liverpool na<span class=\"ellipsis\"> ... </span> contrata&ccedil;&atilde;o de <em>Rapha&euml;l</em> <em>Guerreiro</em>, de acordo com not&iacute;cias que se t&ecirc;m acumulado nas &uacute;ltimas semanas, mas tamb&eacute;m<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "[ZeroZero] Rapha\u00ebl Guerreiro: \u00abEspero um dia poder jogar no Benfica\u00bb - Benfica HD",
+            "originalURL": "https://benficahd.blogspot.pt/2016/10/zerozero-raphael-guerreiro-espero-um.html",
+            "snippet": "[ZeroZero] <em>Rapha&euml;l</em> <em>Guerreiro</em>: &laquo;Espero um dia poder jogar no Benfica&raquo; - Benfica HD Benfica HD juntos<span class=\"ellipsis\"> ... </span> [ZeroZero] <em>Rapha&euml;l</em> <em>Guerreiro</em>: &laquo;Espero um dia poder jogar no Benfica&raquo; [ZeroZero] <em>Rapha&euml;l</em> <em>Guerreiro</em><span class=\"ellipsis\"> ... </span>) &#9658;&nbsp; Dezembro (47) &#9658;&nbsp; Novembro (62) &#9660;&nbsp; Outubro (58) Modalidades [30 Out] [ZeroZero] <em>Rapha&euml;l</em> <em>Guerreiro</em>: &laquo;Espero<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Revista de Imprensa \u00bb Antero Henrique quer levar\u00a0Rapha\u00ebl Guerreiro \u2013 Record",
+            "originalURL": "http://revistadeimprensa.com/desporto/antero-henrique-quer-levar-raphael-guerreiro-record/",
+            "snippet": "Revista de Imprensa &raquo; Antero Henrique quer levar&nbsp;<em>Rapha&euml;l</em> <em>Guerreiro</em> &#8211; Record Not&iacute;cias | Coment&aacute;rios<span class=\"ellipsis\"> ... </span> Vidas Fama Antero Henrique quer levar&nbsp;<em>Rapha&euml;l</em> <em>Guerreiro</em> &#8211; Record Publicado por Admin em 23-6-2017 na<span class=\"ellipsis\"> ... </span> Leia o resto da not&iacute;cia aqui: Antero Henrique quer levar&nbsp;<em>Rapha&euml;l</em> <em>Guerreiro</em> Deixe o seu coment&aacute;rio<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Fora-de-jogo: Rapha\u00ebl Guerreiro quer jogar um dia no...Benfica",
+            "originalURL": "http://foradejogo08.blogspot.pt/2016/10/raphael-guerreiro-quer-jogar-um-dia.html",
+            "snippet": "Fora-de-jogo: <em>Rapha&euml;l</em> <em>Guerreiro</em> quer jogar um dia no...Benfica HOME CAPAS DO DIA LIVE IMAGENS V&Iacute;DEOS DIXIT RUBRICAS BOLADAS OPINI&Otilde;ES CONTACTOS PARCERIAS 30 outubro 2016 <em>Rapha&euml;l</em> <em>Guerreiro</em> quer jogar um dia no...Benfica em 22:30 <em>Rapha&euml;l</em> <em>Guerreiro</em>, internacional portugu&ecirc;s do Borussia Dortmund, em<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Antero Henrique quer levar\u00a0Rapha\u00ebl Guerreiro - \u00daltima Hora - S\u00c1BADO",
+            "originalURL": "http://www.sabado.pt/ultima-hora/detalhe/antero-henrique-quer-levarraphal-guerreiro?ref=SEC_ultimos_ultima-hora&act=0&est=Aberto",
+            "snippet": "Antero Henrique quer levar&nbsp;<em>Rapha&euml;l</em> <em>Guerreiro</em> - &Uacute;ltima Hora - S&Aacute;BADO Este website utiliza cookies<span class=\"ellipsis\"> ... </span> falaram de mais pub &Uacute;ltima Hora Antero Henrique quer levar&nbsp;<em>Rapha&euml;l</em> <em>Guerreiro</em> 23.06.2017 17:29 por<span class=\"ellipsis\"> ... </span> portugu&ecirc;s&nbsp;<em>Rapha&euml;l</em> <em>Guerreiro</em> poder&aacute; estar de regresso ao futebol franc&ecirc;s, agora para representar o Paris SG<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Rapha\u00ebl Guerreiro condenado a uma multa de 90 mil euros",
+            "originalURL": "https://ionline.sapo.pt/artigo/576436/OneSignalSDKUpdaterWorker.js.php",
+            "snippet": "<em>Rapha&euml;l</em> <em>Guerreiro</em> condenado a uma multa de 90 mil euros 18/8/17 subscrever newsletter Iniciar<span class=\"ellipsis\"> ... </span> Registar Pesquisar &nbsp; &nbsp; <em>Rapha&euml;l</em> <em>Guerreiro</em> condenado a uma multa de 90 mil euros <em>Rapha&euml;l</em> <em>Guerreiro</em><span class=\"ellipsis\"> ... </span>. <em>Rapha&euml;l</em> <em>Guerreiro</em> Please enable JavaScript to view the comments powered by Disqus. assinaturas &uacute;ltima<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Rapha\u00ebl Guerreiro condenado a uma multa de 90 mil euros",
+            "originalURL": "https://ionline.sapo.pt/artigo/576436/OneSignalSDKUpdaterWorker.js.php",
+            "snippet": "<em>Rapha&euml;l</em> <em>Guerreiro</em> condenado a uma multa de 90 mil euros 17/8/17 subscrever newsletter Iniciar<span class=\"ellipsis\"> ... </span> Registar Pesquisar &nbsp; &nbsp; <em>Rapha&euml;l</em> <em>Guerreiro</em> condenado a uma multa de 90 mil euros <em>Rapha&euml;l</em> <em>Guerreiro</em><span class=\"ellipsis\"> ... </span>. <em>Rapha&euml;l</em> <em>Guerreiro</em> Please enable JavaScript to view the comments powered by Disqus. assinaturas &uacute;ltima<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "[ZeroZero] Rapha\u00ebl Guerreiro: \u00abEspero um dia poder jogar no Benfica\u00bb - Benfica HD",
+            "originalURL": "https://benficahd.blogspot.pt/2016/10/zerozero-raphael-guerreiro-espero-um.html",
+            "snippet": "[ZeroZero] <em>Rapha&euml;l</em> <em>Guerreiro</em>: &laquo;Espero um dia poder jogar no Benfica&raquo; - Benfica HD Benfica HD juntos<span class=\"ellipsis\"> ... </span> Estoril ( C ) 18h15 segunda-feira, 31 de outubro de 2016 Microfone Home Microfone [ZeroZero] <em>Rapha&euml;l</em> <em>Guerreiro</em>: &laquo;Espero um dia poder jogar no Benfica&raquo; [ZeroZero] <em>Rapha&euml;l</em> <em>Guerreiro</em>: &laquo;Espero um dia poder<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Rapha\u00ebl Guerreiro condenado a uma multa de 90 mil euros",
+            "originalURL": "https://sol.sapo.pt/artigo/576440",
+            "snippet": "<em>Rapha&euml;l</em> <em>Guerreiro</em> condenado a uma multa de 90 mil euros Menu &Uacute;ltimas Economia Pol&iacute;tica Opini&atilde;o Menu &Uacute;ltimas Destaques : Economia Pol&iacute;tica Opini&atilde;o Desporto 16 de agosto 2017 <em>Rapha&euml;l</em> <em>Guerreiro</em><span class=\"ellipsis\"> ... </span> Photo &nbsp; Comentar Partilhar Temas <em>Rapha&euml;l</em> <em>Guerreiro</em> O futebolista <em>Rapha&euml;l</em> <em>Guerreiro</em> foi condenado esta<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Revista de Imprensa \u00bb Titulares em recupera\u00e7\u00e3o, Rapha\u00ebl Guerreiro prossegue exames \u2013 Destak",
+            "originalURL": "http://revistadeimprensa.com/diarios-generalistas/titulares-em-recuperacao-raphael-guerreiro-prossegue-exames-destak/",
+            "snippet": "Revista de Imprensa &raquo; Titulares em recupera&ccedil;&atilde;o, <em>Rapha&euml;l</em> <em>Guerreiro</em> prossegue exames &#8211; Destak<span class=\"ellipsis\"> ... </span> Activa Revista Vidas Fama Titulares em recupera&ccedil;&atilde;o, <em>Rapha&euml;l</em> <em>Guerreiro</em> prossegue exames &#8211; Destak<span class=\"ellipsis\"> ... </span> recupera&ccedil;&atilde;o, <em>Rapha&euml;l</em> <em>Guerreiro</em> prossegue exames Deixe o seu coment&aacute;rio Click here to cancel reply. Nome<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Rapha\u00ebl Guerreiro falha treino do Borussia Dortmund - AEIOU.pt",
+            "originalURL": "http://www.aeiou.pt/quiosque/raphael-guerreiro-falha-ultimo-treino-antes-do-jogo-com-benfica",
+            "snippet": "<em>Rapha&euml;l</em> <em>Guerreiro</em> falha treino do Borussia Dortmund - AEIOU.pt Fa&ccedil;a do AEIOU a sua homepage Sites<span class=\"ellipsis\"> ... </span> tecnologia ci&ecirc;ncia e sa&uacute;de desporto sociedade lazer mundo pessoas jogos arquivo <em>Rapha&euml;l</em> <em>Guerreiro</em><span class=\"ellipsis\"> ... </span>. Borussia Dortmund s&oacute; anuncia convocados &agrave; tarde. TSF &raquo; <em>Rapha&euml;l</em> <em>Guerreiro</em> falha &uacute;ltimo treino antes<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Rapha\u00ebl Guerreiro multado em 90.000 euros por fuga de local de acidente - BOM DIA",
+            "originalURL": "http://bomdia.eu/raphael-guerreiro-multado-90-000-euros-fuga-local-acidente/",
+            "snippet": "<em>Rapha&euml;l</em> <em>Guerreiro</em> multado em 90.000 euros por fuga de local de acidente - BOM DIA De que est&aacute; &agrave;<span class=\"ellipsis\"> ... </span> campeonato alem&atilde;o de futebol Hoje &agrave;s 22:32 <em>Rapha&euml;l</em> <em>Guerreiro</em> multado em 90.000 euros por fuga de local de<span class=\"ellipsis\"> ... </span> Lisboa Porto Faro Desporto <em>Rapha&euml;l</em> <em>Guerreiro</em> multado em 90.000 euros por fuga de local de acidente Hoje<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Rapha\u00ebl Guerreiro multado em 90 mil euros por fuga de local de acidente",
+            "originalURL": "http://www.cmjornal.pt/desporto/amp/raphal-guerreiro-multado-em-90-mil-euros-por-fuga-de-local-de-acidente",
+            "snippet": "<em>Rapha&euml;l</em> <em>Guerreiro</em> multado em 90 mil euros por fuga de local de acidente Exclusivos Cm ao Minuto<span class=\"ellipsis\"> ... </span> Classificados Correio da Manh&atilde; <em>Rapha&euml;l</em> <em>Guerreiro</em> multado em 90 mil euros por fuga de local de acidente Foto EPA<span class=\"ellipsis\"> ... </span> portugu&ecirc;s <em>Rapha&euml;l</em> <em>Guerreiro</em> foi condenado hoje a uma multa de 90 mil euros por um tribunal de segunda<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Dortmund's Rapha\u00ebl Guerreiro scores stunning backheel volley in training - YouTube",
+            "originalURL": "https://www.youtube.com/embed/1K6pwx4dybw?enablejsapi=1&rel=0&showinfo=0&origin=https://www.theguardian.com",
+            "snippet": "Dortmund's <em>Rapha&euml;l</em> <em>Guerreiro</em> scores stunning backheel volley in training - YouTube Ocorreu um erro. Experimente ver este v&iacute;deo em www.youtube.com ou ative o JavaScript se estiver desativado no seu navegador.<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Dortmund's Rapha\u00ebl Guerreiro scores stunning backheel volley in training - YouTube",
+            "originalURL": "https://www.youtube.com/embed/1K6pwx4dybw?enablejsapi=1&rel=0&showinfo=0&origin=https://www.theguardian.com",
+            "snippet": "Dortmund's <em>Rapha&euml;l</em> <em>Guerreiro</em> scores stunning backheel volley in training - YouTube Ocorreu um erro. Experimente ver este v&iacute;deo em www.youtube.com ou ative o JavaScript se estiver desativado no seu navegador.<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Rapha\u00ebl Guerreiro multado em 90.000 euros por fuga de local de acidente",
+            "originalURL": "http://bomdia.eu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fbomdia.eu%2Fraphael-guerreiro-multado-90-000-euros-fuga-local-acidente%2F&format=xml",
+            "snippet": "/&quot;&gt;<em>Rapha&euml;l</em> <em>Guerreiro</em> multado em 90.000 euros por fuga de local de acidente&lt;/a&gt;&lt;/blockquote&gt; &lt;script type<span class=\"ellipsis\"> ... </span>/embed/&quot; width=&quot;600&quot; height=&quot;338&quot; title=&quot;&#8220;<em>Rapha&euml;l</em> <em>Guerreiro</em> multado em 90.000 euros por fuga de local<span class=\"ellipsis\"> ... </span>1.0 BOM DIA http://bomdia.eu S&eacute;rgio Teixeira http://bomdia.eu/author/sergioteixeira/ <em>Rapha&euml;l</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Portugal vence R\u00fassia e fica com Rapha\u00ebl Guerreiro em risco na Confedera\u00e7\u00f5es - Desporto - Futebol In",
+            "originalURL": "http://tpa.sapo.ao/desporto/futebol-internacional/portugal-vence-russia-e-fica-com-raphael-guerreiro-em-risco-na-confederacoes",
+            "snippet": "Portugal vence R&uacute;ssia e fica com <em>Rapha&euml;l</em> <em>Guerreiro</em> em risco na Confedera&ccedil;&otilde;es - Desporto - Futebol<span class=\"ellipsis\"> ... </span> Internacional Portugal vence R&uacute;ssia e fica com <em>Rapha&euml;l</em> <em>Guerreiro</em> em risco na Confedera&ccedil;&otilde;es 07h08, 23 de<span class=\"ellipsis\"> ... </span> perdido o lateral-esquerdo <em>Rapha&euml;l</em> <em>Guerreiro</em> para o resto da Ta&ccedil;a das Confedera&ccedil;&otilde;es. O portugu&ecirc;s do<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Portugal vence R\u00fassia e fica com Rapha\u00ebl Guerreiro em risco na Confedera\u00e7\u00f5es - Desporto - Futebol In",
+            "originalURL": "http://tpa.sapo.ao/desporto/futebol-internacional/portugal-vence-russia-e-fica-com-raphael-guerreiro-em-risco-na-confederacoes",
+            "snippet": "Portugal vence R&uacute;ssia e fica com <em>Rapha&euml;l</em> <em>Guerreiro</em> em risco na Confedera&ccedil;&otilde;es - Desporto - Futebol<span class=\"ellipsis\"> ... </span> Internacional Portugal vence R&uacute;ssia e fica com <em>Rapha&euml;l</em> <em>Guerreiro</em> em risco na Confedera&ccedil;&otilde;es 07h08, 23 de<span class=\"ellipsis\"> ... </span> Selele na Galeria Tamar Golan Portugal pode ter perdido o lateral-esquerdo <em>Rapha&euml;l</em> <em>Guerreiro</em> para o<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Dortmund's Rapha\u00ebl Guerreiro scores stunning backheel volley in training \u2013 video | Football | The Gu",
+            "originalURL": "https://www.theguardian.com/football/video/2017/oct/26/dortmund-raphael-guerreiro-scores-incredible-backheel-volley-video",
+            "snippet": "Dortmund's <em>Rapha&euml;l</em> <em>Guerreiro</em> scores stunning backheel volley in training &#8211; video | Football | The<span class=\"ellipsis\"> ... </span> The amazing world of sport Dortmund's <em>Rapha&euml;l</em> <em>Guerreiro</em> scores stunning backheel volley in training &#8211; video Play Video 0:21 Borussia Dortmund's <em>Rapha&euml;l</em> <em>Guerreiro</em> scores a stunning flying backheel<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Dortmund's Rapha\u00ebl Guerreiro scores stunning backheel volley in training \u2013 video | Football | The Gu",
+            "originalURL": "https://www.theguardian.com/football/video/2017/oct/26/dortmund-raphael-guerreiro-scores-incredible-backheel-volley-video",
+            "snippet": "Dortmund's <em>Rapha&euml;l</em> <em>Guerreiro</em> scores stunning backheel volley in training &#8211; video | Football | The<span class=\"ellipsis\"> ... </span> The amazing world of sport Dortmund's <em>Rapha&euml;l</em> <em>Guerreiro</em> scores stunning backheel volley in training &#8211; video Play Video 0:21 Borussia Dortmund's <em>Rapha&euml;l</em> <em>Guerreiro</em> scores a stunning flying backheel<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Gal\u00e1xia Futebol\u00edstica : Nem Ronaldo, nem Messi! Foi Rapha\u00ebl Guerreiro quem brilhou em Old Trafford",
+            "originalURL": "http://galaxiafutebolistica.blogspot.pt/2014/11/nem-ronaldo-nem-messi-foi-raphael.html",
+            "snippet": "Gal&aacute;xia Futebol&iacute;stica : Nem Ronaldo, nem Messi! Foi <em>Rapha&euml;l</em> <em>Guerreiro</em> quem brilhou em Old Trafford<span class=\"ellipsis\"> ... </span> do Mundo ter&ccedil;a-feira, 18 de novembro de 2014 Nem Ronaldo, nem Messi! Foi <em>Rapha&euml;l</em> <em>Guerreiro</em> quem brilhou em Old Trafford ARGENTINA 0-1 PORTUGAL (<em>Rapha&euml;l</em> <em>Guerreiro</em> 90+1') Hoje, em Old Trafford, a<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Rapha\u00ebl Guerreiro e Bernardo Silva em d\u00favida para o Chile - Ta\u00e7a das Confedera\u00e7\u00f5es - RTP Not\u00edcias",
+            "originalURL": "https://www.rtp.pt/noticias/taca-das-confederacoes/raphael-guerreiro-e-bernardo-silva-em-duvida-para-o-chile_a1010411",
+            "snippet": "<em>Rapha&euml;l</em> <em>Guerreiro</em> e Bernardo Silva em d&uacute;vida para o Chile - Ta&ccedil;a das Confedera&ccedil;&otilde;es - RTP Not&iacute;cias<span class=\"ellipsis\"> ... </span> Google+ Partilhe no Linkedin Partilhe no Whatsapp <em>Rapha&euml;l</em> <em>Guerreiro</em> e Bernardo Silva em d&uacute;vida para o<span class=\"ellipsis\"> ... </span> Jun, 2017, 21:45 | Ta&ccedil;a das Confedera&ccedil;&otilde;es Foto: fpf.pt <em>Rapha&euml;l</em> <em>Guerreiro</em> e Bernardo Silva est&atilde;o em<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Rapha\u00ebl Guerreiro e Bernardo Silva em d\u00favida para o Chile - Ta\u00e7a das Confedera\u00e7\u00f5es - RTP Not\u00edcias",
+            "originalURL": "http://www.rtp.pt/noticias/taca-das-confederacoes/raphael-guerreiro-e-bernardo-silva-em-duvida-para-o-chile_a1010411",
+            "snippet": "<em>Rapha&euml;l</em> <em>Guerreiro</em> e Bernardo Silva em d&uacute;vida para o Chile - Ta&ccedil;a das Confedera&ccedil;&otilde;es - RTP Not&iacute;cias<span class=\"ellipsis\"> ... </span> Google+ Partilhe no Linkedin Partilhe no Whatsapp <em>Rapha&euml;l</em> <em>Guerreiro</em> e Bernardo Silva em d&uacute;vida para o<span class=\"ellipsis\"> ... </span> Jun, 2017, 21:45 | Ta&ccedil;a das Confedera&ccedil;&otilde;es Foto: fpf.pt <em>Rapha&euml;l</em> <em>Guerreiro</em> e Bernardo Silva est&atilde;o em<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Gal\u00e1xia Futebol\u00edstica : Nem Ronaldo, nem Messi! Foi Rapha\u00ebl Guerreiro quem brilhou em Old Trafford",
+            "originalURL": "http://galaxiafutebolistica.blogspot.pt/2014/11/nem-ronaldo-nem-messi-foi-raphael.html",
+            "snippet": "Gal&aacute;xia Futebol&iacute;stica : Nem Ronaldo, nem Messi! Foi <em>Rapha&euml;l</em> <em>Guerreiro</em> quem brilhou em Old Trafford<span class=\"ellipsis\"> ... </span>-feira, 18 de novembro de 2014 Nem Ronaldo, nem Messi! Foi <em>Rapha&euml;l</em> <em>Guerreiro</em> quem brilhou em Old Trafford ARGENTINA 0-1 PORTUGAL (<em>Rapha&euml;l</em> <em>Guerreiro</em> 90+1') Hoje, em Old Trafford, a Sele&ccedil;&atilde;o Nacional<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Not\u00edcias ao Minuto - Rapha\u00ebl Guerreiro multado em 90 mil euros por fuga de local de acidente",
+            "originalURL": "https://www.noticiasaominuto.com/desporto/848603/raphael-guerreiro-multado-em-90-mil-euros-por-fuga-de-local-de-acidente",
+            "snippet": "Not&iacute;cias ao Minuto - <em>Rapha&euml;l</em> <em>Guerreiro</em> multado em 90 mil euros por fuga de local de acidente 23<span class=\"ellipsis\"> ... </span> PR&Oacute;XIMOS DIAS Edi&ccedil;&atilde;o PORTUGAL BRASIL <em>Rapha&euml;l</em> <em>Guerreiro</em> multado em 90 mil euros por fuga de local de<span class=\"ellipsis\"> ... </span> Lusa Desporto Alemanha Partilhar esta not&iacute;cia Tweet O futebolista portugu&ecirc;s <em>Rapha&euml;l</em> <em>Guerreiro</em> foi<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Not\u00edcias ao Minuto - Rapha\u00ebl Guerreiro multado em 90 mil euros por fuga de local de acidente",
+            "originalURL": "https://www.noticiasaominuto.com/desporto/848603/raphael-guerreiro-multado-em-90-mil-euros-por-fuga-de-local-de-acidente",
+            "snippet": "Not&iacute;cias ao Minuto - <em>Rapha&euml;l</em> <em>Guerreiro</em> multado em 90 mil euros por fuga de local de acidente 25<span class=\"ellipsis\"> ... </span> PORTUGAL BRASIL <em>Rapha&euml;l</em> <em>Guerreiro</em> multado em 90 mil euros por fuga de local de acidente Em novembro do<span class=\"ellipsis\"> ... </span> Partilhar esta not&iacute;cia Tweet O futebolista portugu&ecirc;s <em>Rapha&euml;l</em> <em>Guerreiro</em> foi condenado hoje a uma multa de<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "O Guerreiro da Luz: 2014",
+            "originalURL": "https://o-guerreiro-da-luz.blogspot.pt/2014/",
+            "snippet": " , <em>Rapha&euml;l</em> <em>Guerreiro</em> , Selec&ccedil;&atilde;o nacional Enviar a mensagem por e-mail D&ecirc; a sua opini&atilde;o! Partilhar no<span class=\"ellipsis\"> ... </span>O <em>Guerreiro</em> da Luz: 2014 Blogs Portugal 28 dezembro 2014 Sim! Poder&iacute;amos ganhar a Liga dos Campe&otilde;es<span class=\"ellipsis\"> ... </span> Ver&atilde;o Mercado Global de Transfer&ecirc;ncias Messi Mundial Brasil 2014 O <em>Guerreiro</em> da Luz Pol&iacute;tica<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Mais Sobre guerreiro - Correio da Manh\u00e3",
+            "originalURL": "https://www.cmjornal.pt//maissobre/guerreiro",
+            "snippet": " &quot;Ningu&eacute;m p&aacute;ra essa mulher&quot; &eacute; o novo tema de Jorge <em>Guerreiro</em>. Venha conhecer. 12:38 | 16/08 <em>Rapha&euml;l</em><span class=\"ellipsis\"> ... </span>Mais Sobre <em>guerreiro</em> - Correio da Manh&atilde; A not&iacute;cia foi guardada na sua lista de not&iacute;cias favoritas<span class=\"ellipsis\"> ... </span> Destaques principais Saber mais sobre &#8226; <em>guerreiro</em> 13:34 | 01/11 Eduardo, o menino <em>guerreiro</em> Eduardo, aos<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Revista Futebolista: Raphael Guerreiro",
+            "originalURL": "http://revistafutebolista.blogspot.pt/search/label/Raphael%20Guerreiro",
+            "snippet": "&nbsp;selec&ccedil;&atilde;o&nbsp;que representa. A ficha Nome: <em>Rapha&euml;l</em> <em>Guerreiro</em> Data de nascimento: 22/12/1993 Local de<span class=\"ellipsis\"> ... </span>Revista Futebolista: Raphael <em>Guerreiro</em> skip to main | skip to sidebar P&aacute;gina Inicial FC Porto<span class=\"ellipsis\"> ... </span> com a etiqueta Raphael <em>Guerreiro</em> . Mostrar todas as mensagens Mostrar mensagens com a etiqueta<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Revista Futebolista: Raphael Guerreiro",
+            "originalURL": "http://revistafutebolista.blogspot.pt/search/label/Raphael%20Guerreiro",
+            "snippet": "&nbsp;selec&ccedil;&atilde;o&nbsp;que representa. A ficha Nome: <em>Rapha&euml;l</em> <em>Guerreiro</em> Data de nascimento: 22/12/1993 Local de<span class=\"ellipsis\"> ... </span>Revista Futebolista: Raphael <em>Guerreiro</em> skip to main | skip to sidebar P&aacute;gina Inicial FC Porto<span class=\"ellipsis\"> ... </span> com a etiqueta Raphael <em>Guerreiro</em> . Mostrar todas as mensagens Mostrar mensagens com a etiqueta<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Bancada | Portugal-Chile: Guerreiro n\u00e3o joga. Bernardo talvez",
+            "originalURL": "https://bancada.pt/futebol/grandefutebol/portugal-chile-guerreiro-nao-joga-bernardo-talvez",
+            "snippet": " Santos garantiu, em confer&ecirc;ncia de imprensa, que <em>Rapha&euml;l</em> <em>Guerreiro</em> n&atilde;o jogar&aacute; frente ao Chile, nesta<span class=\"ellipsis\"> ... </span>Bancada | Portugal-Chile: <em>Guerreiro</em> n&atilde;o joga. Bernardo talvez In&iacute;cio Portugal Grande Futebol Match<span class=\"ellipsis\"> ... </span> Grande Futebol Portugal-Chile: <em>Guerreiro</em> n&atilde;o joga. Bernardo talvez Reda&ccedil;&atilde;o Bancada 2017-06-27 15:45:00<span class=\"ellipsis\"> ... </span>"
+        }
+    ]
+}

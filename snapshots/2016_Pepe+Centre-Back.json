@@ -1,0 +1,273 @@
+{
+    "serviceName": "Arquivo.pt - the Portuguese web-archive",
+    "linkToService": "https://arquivo.pt",
+    "next_page": "https://arquivo.pt/textsearch?q=Pepe&from=20160101000000&to=20161231235959&fields=title%2Csnippet%2CoriginalURL%2Ctimestamp&offset=50",
+    "estimated_nr_results": 3973780,
+    "request_parameters": {
+        "offset": 0,
+        "dedupValue": 2,
+        "from": "20160101000000",
+        "to": "20161231235959",
+        "fields": [
+            "title",
+            "snippet",
+            "originalURL",
+            "timestamp"
+        ],
+        "dedupField": "site",
+        "q": "Pepe",
+        "maxItems": 50
+    },
+    "response_items": [
+        {
+            "title": "301 Moved Permanently",
+            "originalURL": "http://www.garrafeiratiopepe.pt/",
+            "snippet": "301 Moved Permanently Moved Permanently The document has moved here<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Anfibios",
+            "originalURL": "http://www.fpepe.com/",
+            "snippet": "Anfibios Em constru&ccedil;&atilde;o<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Pepe: \u00abEstou bem e dispon\u00edvel\u00bb | Maisfutebol.iol.pt | Paix\u00e3o Pura -",
+            "originalURL": "http://www.maisfutebol.iol.pt/euro-2016/selecao/pepe-estou-bem-e-disponivel",
+            "snippet": "<em>Pepe</em>: &laquo;Estou bem e dispon&iacute;vel&raquo; | Maisfutebol.iol.pt | Paix&atilde;o Pura - MAISFUTEBOL &Uacute;LTIMAS LIGA JOGOS<span class=\"ellipsis\"> ... </span> Estat&iacute;sticas Euro 2016 Sele&ccedil;&atilde;o Sele&ccedil;&atilde;o nacional Euro 2016 <em>Pepe</em>: &laquo;Estou bem e dispon&iacute;vel&raquo; Por Lu&iacute;s Mateus<span class=\"ellipsis\"> ... </span> Twitter Google+ &nbsp; &nbsp; &nbsp; &nbsp; *enviado-especial ao Euro 2016 <em>Pepe</em> assumiu que est&aacute; recuperado e pode jogar<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Pepe: \u00abEstou bem e dispon\u00edvel\u00bb | Maisfutebol.iol.pt | Paix\u00e3o Pura -",
+            "originalURL": "http://www.maisfutebol.iol.pt/euro-2016/selecao/pepe-estou-bem-e-disponivel",
+            "snippet": "<em>Pepe</em>: &laquo;Estou bem e dispon&iacute;vel&raquo; | Maisfutebol.iol.pt | Paix&atilde;o Pura - MAISFUTEBOL &Uacute;LTIMAS LIGA JOGOS<span class=\"ellipsis\"> ... </span> Estat&iacute;sticas Euro 2016 Sele&ccedil;&atilde;o Sele&ccedil;&atilde;o nacional Euro 2016 <em>Pepe</em>: &laquo;Estou bem e dispon&iacute;vel&raquo; Por Lu&iacute;s Mateus<span class=\"ellipsis\"> ... </span> Twitter Google+ &nbsp; &nbsp; &nbsp; &nbsp; *enviado-especial ao Euro 2016 <em>Pepe</em> assumiu que est&aacute; recuperado e pode jogar<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Vw Kombi T1 Ambul\u00e2ncia da PSP da Pepe Jato - Miniaturas | Carros no Porto",
+            "originalURL": "http://coleccoes.grandemercado.pt/porto/miniaturas-carros/vw-kombi-t1-ambulancia-da-psp-da-pepe-jato-1456497.htm",
+            "snippet": "Vw Kombi T1 Ambul&acirc;ncia da PSP da <em>Pepe</em> Jato - Miniaturas | Carros no Porto A carregar... Login<span class=\"ellipsis\"> ... </span> | Portugueses Vw Kombi T1 Ambul&acirc;ncia da PSP da <em>Pepe</em> Jato no Porto An&uacute;ncios Grandemercado &nbsp;&gt;&nbsp; Porto &nbsp;&gt;&nbsp; Colec&ccedil;&otilde;es &nbsp;&gt;&nbsp; Miniaturas | Carros &nbsp;&gt;&nbsp; Vw Kombi T1 Ambul&acirc;ncia da PSP da <em>Pepe</em> Jato voltar &agrave; Lista<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "PEPE - PEPE",
+            "originalURL": "http://www.astropa.unipa.it/~giusi/CSI2264.html",
+            "snippet": "<em>PEPE</em> - <em>PEPE</em> Coordinated Synoptic Investigation of NGC 2264 (CSI 2264) Coordinated Synoptic Investigation of NGC 2264<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "PEPE - PEPE",
+            "originalURL": "http://www.astropa.unipa.it/~giusi/PEPE.html",
+            "snippet": "<em>PEPE</em> - <em>PEPE</em> COSPAR Panel on Exo-Planet Exploration COSPAR Panel site Cospar site Scientific Round Table at 40th COSPAR Scientific Assembly held in Moscow (2-10 Aug 2014) Monday, 4 August, 15:00 - 17:00, room: Conference Hall, Fundamental Library Building Exoplanet Exploration and the Future of<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "",
+            "originalURL": "http://www.pepe.ethz.ch/robots.txt",
+            "snippet": "Crawl-Delay: 20\n\nUser-agent: *\nDisallow: /aaa_template\nDisallow: /contact<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "",
+            "originalURL": "http://www.pepe.ethz.ch/css/colors_c030.css",
+            "snippet": ""
+        },
+        {
+            "title": "Stock e lotes de roupas e cak\u00e7ado de marcas (guess,pepe jeans erc - Aveiro",
+            "originalURL": "http://aveiro.quebarato.com.pt/aveiro/stock-e-lotes-de-roupas-e-cakcado-de-marcas-guess-pepe-jeans-erc__BFEC34.html?utm_source=quebarato&utm_medium=selecao&utm_campaign=pt_carrossel",
+            "snippet": "Stock e lotes de roupas e cak&ccedil;ado de marcas (guess,<em>pepe</em> jeans erc - Aveiro Stock e lotes de roupas e cak&ccedil;ado de marcas (guess,<em>pepe</em> jeans erc - Aveiro Voc&ecirc; est&aacute; em: Portugal Stock e lotes de roupas e cak&ccedil;ado de marcas (guess,<em>pepe</em> jeans erc em Aveiro Entrar | Cadastre-se Voc&ecirc; est&aacute; em: Portugal nome<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Susi Pepe",
+            "originalURL": "http://www.irea.cnr.it/en/index.php?option=com_comprofiler&task=userprofile&user=147&Itemid=100",
+            "snippet": "Susi <em>Pepe</em> Site map Webmail Contact us Italian Home Institute Mission History Organization Budget<span class=\"ellipsis\"> ... </span> Outreach and Education Home \\ Personal profile \\ Susi <em>Pepe</em> Name: Susi Surname: <em>Pepe</em> Email: ... This e-mail<span class=\"ellipsis\"> ... </span>., Casu F., Manconi A., Manunta M., Manzo M., <em>Pepe</em> A., <em>Pepe</em> S., Sansosti E., Solaro G. , TizzaniP<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Antonio Pepe",
+            "originalURL": "http://www.irea.cnr.it/en/index.php?option=com_comprofiler&task=userprofile&user=141&Itemid=100",
+            "snippet": "Antonio <em>Pepe</em> Site map Webmail Contact us Italian Home Institute Mission History Organization Budget<span class=\"ellipsis\"> ... </span> Outreach and Education Home \\ Personal profile \\ Antonio <em>Pepe</em> Name: Antonio Surname: <em>Pepe</em> Email<span class=\"ellipsis\"> ... </span> production Lundgren, P., F. Casu, M. Manzo, A. <em>Pepe</em>, P. Berardino, E. Sansosti, and R. Lanari (2004<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Sylwester Polonijny 2015 z PepeTV | PepeTV",
+            "originalURL": "http://www.pepe-tv.eu/sylwester-polonijny-2015-z-pepetv/",
+            "snippet": " - Wywiady - Polonia - Europa <em>PEPE</em> TV on Facebook <em>PEPE</em> TV on Google+ <em>PEPE</em> TV on Twitter <em>PEPE</em> TV on YouTube <em>Pepe</em> Info PLP PepeTV PLP G&#322;osowanie PLP Notowania Teledyski PLP Zasady g&#322;osowania Zasady<span class=\"ellipsis\"> ... </span> &middot; Wydarzenia Sylwester Polonijny 2015 z PepeTV by <em>Pepe</em> Stycze&#324; 3, 2016 Sylwester Polonijny 2015 z PepeTV<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Pepe - ---Rodrigo---",
+            "originalURL": "http://rodrigo_scp_17.blogs.sapo.pt/11353.html",
+            "snippet": "<em>Pepe</em> - ---Rodrigo--- ---Rodrigo--- este &eacute; o meu blog e vou relatar coisas da minha vida espero que gostem !!!!!!!!!!!!!! lol &laquo; post anterior home Ter&ccedil;a-feira, 01 de Junho de 2010 <em>Pepe</em> sinto-me: tags: <em>pepe</em> publicado por rodrigo_scp_17 &agrave;s 22:05 link do post | comentar | | favorito &laquo; post anterior<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Pepe - ---Rodrigo---",
+            "originalURL": "http://rodrigo_scp_17.blogs.sapo.pt/11353.html?view=857",
+            "snippet": "<em>Pepe</em> - ---Rodrigo--- ---Rodrigo--- este &eacute; o meu blog e vou relatar coisas da minha vida espero que gostem !!!!!!!!!!!!!! lol &laquo; post anterior home Ter&ccedil;a-feira, 01 de Junho de 2010 <em>Pepe</em> sinto-me: tags: <em>pepe</em> publicado por rodrigo_scp_17 &agrave;s 22:05 link do post | comentar | | favorito &laquo; post anterior<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Expresso | Pepe Pinto",
+            "originalURL": "http://expresso.sapo.pt/palavra/entity/people/Pepe-Pinto",
+            "snippet": "Expresso | <em>Pepe</em> Pinto Menu Expresso Assinaturas Boa Cama Boa Mesa Emprego Imobili&aacute;rio Siga-nos Facebook Twitter RSS Pesquisar Fechar Login Logout Perfil Pesquisar Fechar Login Logout Perfil Di&aacute;rio Seman&aacute;rio <em>Pepe</em> Pinto Cultura A m&uacute;sica que embala o mundo 09.10.2015 8h00 Mariza tem um novo &aacute;lbum e<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Pepe Caballa y la Pavana archivos | El Faro de Ceuta",
+            "originalURL": "http://elfarodeceuta.es/vinetas/pepe-caballa/",
+            "snippet": "<em>Pepe</em> Caballa y la Pavana archivos | El Faro de Ceuta Medio auditado por &nbsp;&nbsp; Editorial Contacto Informaci&oacute;n de inter&eacute;s Producciones Vi&ntilde;etas <em>Pepe</em> Caballa y la Pavana Blogs De norte a norte &#8211; Carmen<span class=\"ellipsis\"> ... </span> Programas Reportajes El Faro de Melilla Seleccionar p&aacute;gina Categor&iacute;a: <em>Pepe</em> Caballa y la Pavana<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Pepe Angela_CV_Eng. SENZA",
+            "originalURL": "http://www.feem.it/userfiles/attach/201526150174Pepe%20Angela_CV_Eng.%20SENZA.pdf",
+            "snippet": " \n \n   \n  \n \n \nEUROPEAN \nCURRICULUM VITAE \nFORMAT \n \n \n \n \nPERSONAL INFORMATION \n \nName  ANGELA <em>PEPE</em> \nAddress   \nTelephone   \nFax   \nE-mail  angela.<em>pepe</em>@feem.it \n \nNationality  Italian \n \nDate of birth   14. 10. 1971 Viggiano (PZ) \n \n \nWORK EXPERIENCE        FROM JULY  2011 TO PRESENT<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "life of pepe",
+            "originalURL": "http://lifeofpepe.blogspot.pt/",
+            "snippet": "life of <em>pepe</em> 16 outubro 2015 MATA-RATOS + CLOCKWORK BOYS olha ai a capa feita por mim para os gajos Publicada por <em>Pepe</em> &agrave;(s) 12:19 da tarde Sem coment&aacute;rios: Hiperliga&ccedil;&otilde;es para esta mensagem 15 outubro<span class=\"ellipsis\"> ... </span> disto? (P&aacute;tio das Cantigas) &nbsp; (Orlando Costa) Z&eacute; Gato + Jessica Rabbit Publicada por <em>Pepe</em> &agrave;(s) 3:29 da<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "life of pepe",
+            "originalURL": "http://www.lifeofpepe.blogspot.pt/",
+            "snippet": "life of <em>pepe</em> 16 outubro 2015 MATA-RATOS + CLOCKWORK BOYS olha ai a capa feita por mim para os gajos Publicada por <em>Pepe</em> &agrave;(s) 12:19 da tarde Sem coment&aacute;rios: Hiperliga&ccedil;&otilde;es para esta mensagem 15 outubro<span class=\"ellipsis\"> ... </span> disto? (P&aacute;tio das Cantigas) &nbsp; (Orlando Costa) Z&eacute; Gato + Jessica Rabbit Publicada por <em>Pepe</em> &agrave;(s) 3:29 da<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Etiqueta: Pepe :: Jornal da Regi\u00e3o",
+            "originalURL": "http://m.jregiao-online.webnode.pt/tags/Pepe/",
+            "snippet": "Etiqueta: <em>Pepe</em> :: Jornal da Regi&atilde;o Jornal da Regi&atilde;o Por favor, aguarde... Etiqueta: <em>Pepe</em> Belenenses, Sporting e Atl&eacute;tico em torneio de homenagem a <em>Pepe</em> http://m.jregiao-online.webnode.pt/products/belenenses-sporting-e-atletico-em-torneio-de-homenagem-a-<em>pepe</em>/ <em>Pepe</em> condicionado no segundo treino da<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Pepe Angela_CV_Eng. SENZA",
+            "originalURL": "http://www.feem.it/userfiles/attach/201526150174Pepe%20Angela_CV_Eng.%20SENZA.pdf",
+            "snippet": " \n \n   \n  \n \n \nEUROPEAN \nCURRICULUM VITAE \nFORMAT \n \n \n \n \nPERSONAL INFORMATION \n \nName  ANGELA <em>PEPE</em> \nAddress   \nTelephone   \nFax   \nE-mail  angela.<em>pepe</em>@feem.it \n \nNationality  Italian \n \nDate of birth   14. 10. 1971 Viggiano (PZ) \n \n \nWORK EXPERIENCE        FROM JULY  2011 TO PRESENT<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "life of pepe",
+            "originalURL": "http://lifeofpepe.blogspot.pt/",
+            "snippet": "life of <em>pepe</em> 24 mar&ccedil;o 2016 Dj Action este blog tem andado muito parado, eu sei, mas n&atilde;o est&aacute;<span class=\"ellipsis\"> ... </span> precisar de um bom corte na cabeleira ou aparadela na trufa, check this out Publicada por <em>Pepe</em> &agrave;(s<span class=\"ellipsis\"> ... </span> + CLOCKWORK BOYS olha ai a capa feita por mim para os gajos Publicada por <em>Pepe</em> &agrave;(s) 12:19 da tarde Sem<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Etiqueta: Pepe :: Jornal da Regi\u00e3o",
+            "originalURL": "http://jregiao-online.webnode.pt/tags/Pepe/",
+            "snippet": "Etiqueta: <em>Pepe</em> :: Jornal da Regi&atilde;o Jornal da Regi&atilde;o P&aacute;gina inicial &gt; Lista de etiquetas Etiqueta: <em>Pepe</em> Belenenses, Sporting e Atl&eacute;tico em torneio de homenagem a <em>Pepe</em> http://jregiao-online.webnode.pt/products/belenenses-sporting-e-atletico-em-torneio-de-homenagem-a-<em>pepe</em>/ <em>Pepe</em> condicionado no segundo<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "NINDS: Stroke Proceedings: Pepe Overview",
+            "originalURL": "http://www.ninds.nih.gov/news_and_events/proceedings/stroke_proceedings/pepeover.htm?css=print",
+            "snippet": "NINDS: Stroke Proceedings: <em>Pepe</em> Overview Skip Navigation | En Espa&ntilde;ol Search this site<span class=\"ellipsis\"> ... </span> Find People About NINDS NINDS: Stroke Proceedings: <em>Pepe</em> Overview Proceedings of a National<span class=\"ellipsis\"> ... </span>, Prehospital Care, Notification, and Transport Paul E. <em>Pepe</em>, M.D., M.P.H., F.A.C.E.P., F.C.C.M.<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Pepe Pillz - 1001guru.ru",
+            "originalURL": "http://www.1001guru.ru/games/Pepe+Pillz",
+            "snippet": "<em>Pepe</em> Pillz - 1001guru.ru &#1048;&#1075;&#1088;&#1099; &#1055;&#1088;&#1080;&#1082;&#1083;&#1102;&#1095;&#1077;&#1085;&#1095;&#1077;&#1089;&#1082;&#1080;&#1077; &#1048;&#1075;&#1088;&#1099; &#1042;&#1086;&#1079;&#1076;&#1091;&#1096;&#1085;&#1099;&#1077; &#1048;&#1075;&#1088;&#1099; &#1042;&#1077;&#1089;&#1077;&#1083;&#1099;&#1077; &#1048;&#1075;&#1088;&#1091;&#1096;&#1082;&#1080; &#1052;&#1091;&#1083;&#1100;&#1090;&#1080;&#1084;&#1077;&#1076;&#1080;&#1081;&#1085;&#1099;&#1077;<span class=\"ellipsis\"> ... </span> &raquo; &#1048;&#1075;&#1088;&#1099; &#1085;&#1072; &#1051;&#1086;&#1074;&#1082;&#1086;&#1089;&#1090;&#1100; &raquo; &#1055;&#1088;&#1099;&#1075;&#1072;&#1081; &#1042;&#1086;&#1074;&#1088;&#1077;&#1084;&#1103; &raquo; <em>Pepe</em> Pillz 7.7 / 10 - 634 <em>Pepe</em> Pillz &#1069;&#1090;&#1072; &#1079;&#1072;&#1090;&#1103;&#1075;&#1080;&#1074;&#1072;&#1102;&#1097;&#1072;&#1103; &#1080;&#1075;&#1088;&#1072; &#1087;&#1086;&#1076; &#1085;&#1072;&#1079;&#1074;&#1072;&#1085;&#1080;&#1077;&#1084; <em>Pepe</em> Pillz &#1087;&#1086;&#1076;&#1072;&#1088;&#1080;&#1090; &#1074;&#1072;&#1084; &#1095;&#1072;&#1089;&#1099; &#1074;&#1077;&#1089;&#1077;&#1083;&#1100;&#1103;! &#1053;&#1077; &#1079;&#1072;&#1073;&#1091;&#1076;&#1100;&#1090;&#1077; &#1089;&#1099;&#1075;&#1088;&#1072;&#1090;&#1100; &#1074; &#1080;&#1075;&#1088;&#1099; &#1074; &#1082;&#1072;&#1090;&#1077;&#1075;&#1086;&#1088;&#1080;&#1080; &#1048;&#1075;&#1088;&#1099; &#1085;&#1072;<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Pepe Pillz - Herniostrov.cz",
+            "originalURL": "http://www.herniostrov.cz/hry/Pepe+Pillz",
+            "snippet": "<em>Pepe</em> Pillz - Herniostrov.cz Hry Adventury L&eacute;tac&iacute; Simul&aacute;tory Z&aacute;bavn&eacute; Hry Hry pro v&iacute;ce hr&aacute;&#269;&#367; Logick&eacute;<span class=\"ellipsis\"> ... </span> Zru&#269;nosti &raquo; Vysko&#269; v &#269;as &raquo; <em>Pepe</em> Pillz 7.7 / 10 - 634 <em>Pepe</em> Pillz Dob&#345;e se bavte u hry <em>Pepe</em> Pillz v kategorii Hry Zru&#269;nosti. Hry z na&#353;&iacute; skupiny Vysko&#269; v &#269;as pat&#345;&iacute; mezi nejlep&#353;&iacute;! <em>Pepe</em> Pillz Fullscreen Klikni sem<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Pepe Pillz - Flashowegry.pl",
+            "originalURL": "http://www.flashowegry.pl/gry/Pepe+Pillz",
+            "snippet": "<em>Pepe</em> Pillz - Flashowegry.pl Gry Gry Przygodowe Latanie Humoru Gry Multiplayer Logiczne Gry<span class=\"ellipsis\"> ... </span> Zr&#281;czno&#347;ciowe &raquo; Wskocz na czas &raquo; <em>Pepe</em> Pillz 7.7 / 10 - 634 <em>Pepe</em> Pillz Ta wci&#261;gaj&#261;ca gra o nazwie <em>Pepe</em> Pillz<span class=\"ellipsis\"> ... </span> Wskocz na czas. <em>Pepe</em> Pillz Fullscreen Kliknij tutaj, aby od razu rozpocz&#261;&#263; gr&#281; Game not loaded yet<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Pepe Pillz - Netesjatekok.hu",
+            "originalURL": "http://www.netesjatekok.hu/jatekok/Pepe+Pillz",
+            "snippet": "<em>Pepe</em> Pillz - Netesjatekok.hu J&aacute;t&eacute;kok Kaland J&aacute;t&eacute;kok Rep&uuml;l&ouml;s J&aacute;t&eacute;kok Vicces J&aacute;t&eacute;kok H&aacute;l&oacute;zati J&aacute;t&eacute;kok<span class=\"ellipsis\"> ... </span> j&aacute;t&eacute;kok Rajzol&oacute;s J&aacute;t&eacute;kok Juss &aacute;t a t&uacute;loldalra Netes J&aacute;t&eacute;kok &raquo; &Uuml;gyess&eacute;gi J&aacute;t&eacute;kok &raquo; Id&ouml;ugr&aacute;s &raquo; <em>Pepe</em> Pillz 7.7 / 10 - 634 <em>Pepe</em> Pillz Sz&oacute;rakozz j&oacute;l az egyik legjobb j&aacute;t&eacute;kunkkal, <em>Pepe</em> Pillz. Gy&#337;z&#337;dj meg<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Pepe Pillz - Roundgames.de",
+            "originalURL": "http://www.roundgames.de/game/Pepe+Pillz",
+            "snippet": "<em>Pepe</em> Pillz - Roundgames.de Games Abenteuerspiele Flugspiele Lustige Spiele Mehrspieler-Spiele<span class=\"ellipsis\"> ... </span> &raquo; Rechtzeitig Springen &raquo; <em>Pepe</em> Pillz 7.7 / 10 - 634 <em>Pepe</em> Pillz Wenn du Spa&szlig; an <em>Pepe</em> Pillz hattest, sieh du unsere anderen Rechtzeitig Springen Spiele an. Sie sind &auml;hnlich! <em>Pepe</em> Pillz Fullscreen Kliche hier um das<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Pepe Pillz - Spilstedet.dk",
+            "originalURL": "http://www.spilstedet.dk/spil/Pepe+Pillz",
+            "snippet": "<em>Pepe</em> Pillz - Spilstedet.dk Spil Eventyr Spil Flyvespil Sjove Spil Multiplayer Spil Puslespil<span class=\"ellipsis\"> ... </span> Trampoline Flere spil Drawing Games Reach the other Side Spil Stedet &raquo; F&aelig;rdighedsspil &raquo; Jump on Time &raquo; <em>Pepe</em> Pillz 7.7 / 10 - 634 <em>Pepe</em> Pillz Hav det sjovt med <em>Pepe</em> Pillz&nbsp;i kategorien F&aelig;rdighedsspil. Vores Jump<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Pepe Pillz - Spellengrot.nl",
+            "originalURL": "http://www.spellengrot.nl/spellen/Pepe+Pillz",
+            "snippet": "<em>Pepe</em> Pillz - Spellengrot.nl Spellen Avontuur Spellen Vlieg Spellen Grappige Spellen Multiplayer<span class=\"ellipsis\"> ... </span> &raquo; Spring op Tijd &raquo; <em>Pepe</em> Pillz 7.7 / 10 - 634 <em>Pepe</em> Pillz <em>Pepe</em> Pillz is een van onze favoriete spellen in de categorie Vaardigheid. Genieten maar! <em>Pepe</em> Pillz Fullscreen Klik hier om het spel meteen te<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Pepe Pillz - Jucati.ro",
+            "originalURL": "http://www.jucati.ro/jocuri/Pepe+Pillz",
+            "snippet": "<em>Pepe</em> Pillz - Jucati.ro Jocuri Jocuri de Aventura Jocuri cu Avioane Jocuri Funny Jocuri Multiplayer<span class=\"ellipsis\"> ... </span> Prinde cealalta parte Jucati &raquo; Jocuri de Indemanare &raquo; Sarituri in Timp &raquo; <em>Pepe</em> Pillz 7.7 / 10 - 634 <em>Pepe</em> Pillz Crede&#355;i c&#259; ave&#355;i abilit&#259;&#355;ile necesare pentru a juca <em>Pepe</em> Pillz din categoria Jocuri de<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Pepe Pillz - Giocaqui.it",
+            "originalURL": "http://www.giocaqui.it/giochi/Pepe+Pillz",
+            "snippet": "<em>Pepe</em> Pillz - Giocaqui.it Giochi Giochi d&#8217;Avventura Giochi di volo Giochi Divertenti Giochi<span class=\"ellipsis\"> ... </span> Disegno Raggiungi l'Altra Parte Gioca Qui &raquo; Giochi d&#8217;Abilit&agrave; &raquo; Salta in tempo &raquo; <em>Pepe</em> Pillz 7.7 / 10 - 634 <em>Pepe</em> Pillz Quindi vorresti giocare a un gioco nella nostra categoria di Giochi d&#8217;Abilit&agrave;? Allora<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Pepe Pillz - 1001paixnidia.gr",
+            "originalURL": "http://www.1001paixnidia.gr/paixnidia/Pepe+Pillz",
+            "snippet": "<em>Pepe</em> Pillz - 1001paixnidia.gr Paixnidia &#928;&#945;&#953;&#967;&#957;&#943;&#948;&#953;&#945; &#928;&#949;&#961;&#953;&#960;&#941;&#964;&#949;&#953;&#945;&#962; &#928;&#945;&#953;&#967;&#957;&#943;&#948;&#953;&#945; &#928;&#964;&#942;&#963;&#949;&#969;&#962; &#913;&#963;&#964;&#949;&#943;&#945; &#928;&#945;&#953;&#967;&#957;&#943;&#948;&#953;&#945;<span class=\"ellipsis\"> ... </span> 1001 Paixnidia &raquo; &#928;&#945;&#953;&#967;&#957;&#943;&#948;&#953;&#945; &#917;&#960;&#953;&#948;&#949;&#958;&#953;&#972;&#964;&#951;&#964;&#945;&#962; &raquo; &#928;&#942;&#948;&#945; &#964;&#951; &#963;&#969;&#963;&#964;&#942; &#963;&#964;&#953;&#947;&#956;&#942; &raquo; <em>Pepe</em> Pillz 7.7 / 10 - 634 <em>Pepe</em><span class=\"ellipsis\"> ... </span> &#949;&#956;&#960;&#972;&#948;&#953;&#945; &#960;&#959;&#965; &#956;&#960;&#945;&#943;&#957;&#959;&#965;&#957; &#963;&#964;&#959;&#957; &#948;&#961;&#972;&#956;&#959; &#963;&#959;&#965;. <em>Pepe</em> Pillz Fullscreen &#922;&#940;&#957;&#964;&#949; &#954;&#955;&#953;&#954; &#949;&#948;&#974; &#947;&#953;&#945; &#957;&#945; &#958;&#949;&#954;&#953;&#957;&#942;&#963;&#949;&#964;&#949; &#945;&#956;&#941;&#963;&#969;&#962; &#964;&#959;<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Pepe Pillz - Coolaspel.se",
+            "originalURL": "http://www.coolaspel.se/spel/Pepe+Pillz",
+            "snippet": "<em>Pepe</em> Pillz - Coolaspel.se Spel &Auml;ventyrsspel Flygspel Roliga Spel Multiplayer Spel Pusselspel<span class=\"ellipsis\"> ... </span> N&aring; andra sidan Coola Spel &raquo; F&auml;rdighetsspel &raquo; Hoppa I Tid &raquo; <em>Pepe</em> Pillz 7.7 / 10 - 634 <em>Pepe</em> Pillz<span class=\"ellipsis\"> ... </span> m&ouml;bler, kl&auml;der och andra hinder som kommer i v&auml;gen. <em>Pepe</em> Pillz Fullscreen Klicka h&auml;r f&ouml;r att starta<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Pepe - kevin carvalho",
+            "originalURL": "http://kevin96.blogs.sapo.pt/7338.html",
+            "snippet": "<em>Pepe</em> - kevin carvalho kevin carvalho ...... &laquo; post anterior home post seguinte &raquo; <em>Pepe</em> Ter&ccedil;a-feira, 08 de Junho de 2010 comentar publicado por kevin96 &agrave;s 15:12 | link do post | | favorito &laquo; post<span class=\"ellipsis\"> ... </span> 28 29 30 &laquo; Mai posts recentes Rolando Helton <em>Pepe</em> Isto &eacute; demais Stepanov F.C.P F.C.P F.C.P F.C.P F.C.<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Etiqueta: Pepe :: Jornal da Regi\u00e3o",
+            "originalURL": "http://jregiao-online.webnode.pt/tags/Pepe/",
+            "snippet": "Etiqueta: <em>Pepe</em> :: Jornal da Regi&atilde;o Jornal da Regi&atilde;o P&aacute;gina inicial &gt; Lista de etiquetas Etiqueta: <em>Pepe</em> Belenenses, Sporting e Atl&eacute;tico em torneio de homenagem a <em>Pepe</em> http://jregiao-online.webnode.pt/products/belenenses-sporting-e-atletico-em-torneio-de-homenagem-a-<em>pepe</em>/ <em>Pepe</em> condicionado no segundo<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Pepe Mujica | El Nuevo Diaro",
+            "originalURL": "http://www.elnuevodiario.com.do/app/article.aspx?id=502270",
+            "snippet": "<em>Pepe</em> Mujica | El Nuevo Diaro EDICIONES ANTERIORES Quienes Somos Contacto RD$200.80 Gasolina Premium RD$185.20 Gasolina Regular RD$156.10 Gasoil Optimo RD$142.50 Gasoil Regular RD$94.10 GLP RD$23.22<span class=\"ellipsis\"> ... </span> fundadores de este diario. Editorial <em>Pepe</em> Mujica El expresidente don Jos&eacute; <em>Pepe</em> Mujica es un ser<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Palavra-Chave: \"entity/people/Pepe\" - Caras",
+            "originalURL": "http://caras.sapo.pt/keyword/entity/people/Pepe",
+            "snippet": "Palavra-Chave: &quot;entity/people/<em>Pepe</em>&quot; - Caras Caras Nas Bancas loading... Assine J&aacute; Assinaturas Loja Newsletter Perfil Facebook Twitter Newsletter RSS Pesquisa Home Famosos Atualidade Realeza B&eacute;lgica Dinamarca Espanha Holanda Inglaterra Jord&acirc;nia M&oacute;naco Noruega Portugal Su&eacute;cia Moda Lifestyle A Caras<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "A. Itro, A. Carotenuto, G.B. Pepe",
+            "originalURL": "http://www.eapd.gr/7B5DFE47.en.aspx",
+            "snippet": "A. Itro, A. Carotenuto, G.B. <em>Pepe</em> HOME MEMBERS' LOGIN TERMS OF USE SITE MAP CONTACT US MISSION<span class=\"ellipsis\"> ... </span> Tsinidou webmaster@eapd.eu A. Itro, A. Carotenuto, G.B. <em>Pepe</em> European Journal of Paediatric Dentistry<span class=\"ellipsis\"> ... </span>) \\ A. Itro, A. Carotenuto, G.B. <em>Pepe</em> Copyright &copy; 2009 EAPD. All rights reserved. :: Board, Council &amp;<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Pepe Brix on Vimeo",
+            "originalURL": "https://vimeo.com/user37762324",
+            "snippet": "<em>Pepe</em> Brix on Vimeo Join Log in Create Membership options Sell videos Video School Cameo More&#8230; Watch<span class=\"ellipsis\"> ... </span> selling Upload <em>Pepe</em> Brix Plus Joined 10 months ago User Stats 11 videos 0 likes 0 following 0 groups 0 channels 0 albums Profile Images Follow Message User Bio <em>Pepe</em> Brix has not yet updated their profile<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Pepe (@officialpepe) | Twitter",
+            "originalURL": "https://twitter.com/officialpepe",
+            "snippet": "<em>Pepe</em> (@officialpepe) | Twitter &agrave;&sup2;&sup1;&agrave;&sup3;&#139;&agrave;&sup2;&reg;&agrave;&sup3;&#141; &agrave;&sup2;&#149;&agrave;&sup3;&#129;&agrave;&sup2;&deg;&agrave;&sup2;&iquest;&agrave;&sup2;&curren;&agrave;&sup3;&#129; &agrave;&sup2;&sup1;&agrave;&sup3;&#129;&agrave;&sup2;&iexcl;&agrave;&sup3;&#129;&agrave;&sup2;&#149;&agrave;&sup2;&frac34;&agrave;&sup2;&#159; &agrave;&sup2;&ordf;&agrave;&sup3;&#141;&agrave;&sup2;&deg;&agrave;&sup2;&para;&agrave;<span class=\"ellipsis\"> ... </span>&sup3;&#135;&agrave;&sup2;&micro;&agrave;&sup3;&#134; &agrave;&sup2;&reg;&agrave;&sup2;&curren;&agrave;&sup3;&#141;&agrave;&sup2;&curren;&agrave;&sup3;&#129; &agrave;&sup2;&#149;&agrave;&sup2;&frac34;&agrave;&sup2;&deg;&agrave;&sup3;&#141;&agrave;&sup2;&macr;&agrave;&sup2;&frac34;&agrave;&sup2;&#154;&agrave;&sup2;&deg;&agrave;&sup2;&iquest;&agrave;&sup2;&cedil;&agrave;&sup3;&#129;&agrave;&sup2;&curren;&agrave;&sup3;&#141;&agrave;&sup2;&curren;&agrave;&sup3;&#135;&agrave;&sup2;&micro;&agrave;&sup3;&#134;. &agrave;&sup2;&reg;&agrave;&sup3;&#129;&agrave;&sup2;&#154;&agrave;&sup3;&#141;&agrave;&sup2;&#154;&agrave;&sup3;&#129; <em>Pepe</em><span class=\"ellipsis\"> ... </span>&sup2;&deg;&agrave;&sup2;&brvbar;&agrave;&sup3;&#141;&agrave;&sup2;&brvbar;&agrave;&sup3;&#129;&agrave;&sup2;&#151;&agrave;&sup3;&#138;&agrave;&sup2;&sup3;&agrave;&sup2;&iquest;&agrave;&sup2;&cedil;&agrave;&sup3;&#129; <em>Pepe</em> &agrave;&sup2;&ordf;&agrave;&sup2;&deg;&agrave;&sup2;&iquest;&agrave;&sup2;&para;&agrave;&sup3;&#128;&agrave;&sup2;&sup2;&agrave;&sup2;&iquest;&agrave;&sup2;&cedil;&agrave;&sup2;&iquest;&agrave;&sup2;&brvbar; &agrave;&sup2;&#150;&agrave;&sup2;&frac34;&agrave;&sup2;&curren;&agrave;&sup3;&#134; @ officialpepe Bem<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Pepe (@officialpepe) | Twitter",
+            "originalURL": "https://twitter.com/officialpepe",
+            "snippet": "<em>Pepe</em> (@officialpepe) | Twitter &agrave;&sup2;&sup1;&agrave;&sup3;&#139;&agrave;&sup2;&reg;&agrave;&sup3;&#141; &agrave;&sup2;&#149;&agrave;&sup3;&#129;&agrave;&sup2;&deg;&agrave;&sup2;&iquest;&agrave;&sup2;&curren;&agrave;&sup3;&#129; &agrave;&sup2;&sup1;&agrave;&sup3;&#129;&agrave;&sup2;&iexcl;&agrave;&sup3;&#129;&agrave;&sup2;&#149;&agrave;&sup2;&frac34;&agrave;&sup2;&#159; &agrave;&sup2;&ordf;&agrave;&sup3;&#141;&agrave;&sup2;&deg;&agrave;&sup2;&para;&agrave;<span class=\"ellipsis\"> ... </span>&sup3;&#135;&agrave;&sup2;&micro;&agrave;&sup3;&#134; &agrave;&sup2;&reg;&agrave;&sup2;&curren;&agrave;&sup3;&#141;&agrave;&sup2;&curren;&agrave;&sup3;&#129; &agrave;&sup2;&#149;&agrave;&sup2;&frac34;&agrave;&sup2;&deg;&agrave;&sup3;&#141;&agrave;&sup2;&macr;&agrave;&sup2;&frac34;&agrave;&sup2;&#154;&agrave;&sup2;&deg;&agrave;&sup2;&iquest;&agrave;&sup2;&cedil;&agrave;&sup3;&#129;&agrave;&sup2;&curren;&agrave;&sup3;&#141;&agrave;&sup2;&curren;&agrave;&sup3;&#135;&agrave;&sup2;&micro;&agrave;&sup3;&#134;. &agrave;&sup2;&reg;&agrave;&sup3;&#129;&agrave;&sup2;&#154;&agrave;&sup3;&#141;&agrave;&sup2;&#154;&agrave;&sup3;&#129; <em>Pepe</em><span class=\"ellipsis\"> ... </span>&sup2;&deg;&agrave;&sup2;&brvbar;&agrave;&sup3;&#141;&agrave;&sup2;&brvbar;&agrave;&sup3;&#129;&agrave;&sup2;&#151;&agrave;&sup3;&#138;&agrave;&sup2;&sup3;&agrave;&sup2;&iquest;&agrave;&sup2;&cedil;&agrave;&sup3;&#129; <em>Pepe</em> &agrave;&sup2;&ordf;&agrave;&sup2;&deg;&agrave;&sup2;&iquest;&agrave;&sup2;&para;&agrave;&sup3;&#128;&agrave;&sup2;&sup2;&agrave;&sup2;&iquest;&agrave;&sup2;&cedil;&agrave;&sup2;&iquest;&agrave;&sup2;&brvbar; &agrave;&sup2;&#150;&agrave;&sup2;&frac34;&agrave;&sup2;&curren;&agrave;&sup3;&#134; @ officialpepe Bem<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Pepe Caballa y la Pavana archivos | P\u00e1gina 2 de 8 | El Faro de Ceuta",
+            "originalURL": "http://elfarodeceuta.es/vinetas/pepe-caballa/page/2/",
+            "snippet": "<em>Pepe</em> Caballa y la Pavana archivos | P&aacute;gina 2 de 8 | El Faro de Ceuta Medio auditado por &nbsp;&nbsp; Editorial Contacto Informaci&oacute;n de inter&eacute;s Producciones Vi&ntilde;etas <em>Pepe</em> Caballa y la Pavana Blogs De norte a<span class=\"ellipsis\"> ... </span> FaroTV Especiales Programas Reportajes El Faro de Melilla Seleccionar p&aacute;gina Categor&iacute;a: <em>Pepe</em> Caballa y<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Pepe Pillz - Igraiigri.com",
+            "originalURL": "http://www.igraiigri.com/igri/Pepe+Pillz",
+            "snippet": "<em>Pepe</em> Pillz - Igraiigri.com Igri &#1040;&#1076;&#1074;&#1077;&#1085;&#1095;&#1098;&#1088; &#1048;&#1075;&#1088;&#1080; &#1051;&#1077;&#1090;&#1103;&#1097;&#1080; &#1080;&#1075;&#1088;&#1080; &#1047;&#1072;&#1073;&#1072;&#1074;&#1085;&#1080; &#1048;&#1075;&#1088;&#1080; &#1048;&#1075;&#1088;&#1080; &#1074; &#1084;&#1091;&#1083;&#1090;&#1080;&#1087;&#1083;&#1077;&#1072;&#1088; &#1051;&#1086;&#1075;&#1080;&#1095;&#1077;&#1089;&#1082;&#1080;<span class=\"ellipsis\"> ... </span> &#1057;&#1090;&#1080;&#1075;&#1085;&#1080; &#1076;&#1088;&#1091;&#1075;&#1072;&#1090;&#1072; &#1089;&#1090;&#1088;&#1072;&#1085;&#1072; Igrai Igri &raquo; &#1058;&#1088;&#1091;&#1076;&#1085;&#1080; &#1048;&#1075;&#1088;&#1080; &raquo; &#1057;&#1082;&#1086;&#1095;&#1080; &#1085;&#1072;&#1074;&#1088;&#1077;&#1084;&#1077; &raquo; <em>Pepe</em> Pillz 7.7 / 10 - 634 <em>Pepe</em> Pillz &#1041;&#1083;&#1072;&#1075;&#1086;&#1076;&#1072;&#1088;&#1103;,&#1095;&#1077; &#1085;&#1080; &#1087;&#1086;&#1089;&#1077;&#1090;&#1080;&#1093;&#1090;&#1077;. &#1053;&#1072;&#1076;&#1103;&#1074;&#1072;&#1084;&#1077; &#1089;&#1077; &#1076;&#1072; &#1042;&#1080; &#1077; &#1093;&#1072;&#1088;&#1077;&#1089;&#1072;&#1083;&#1072; &#1085;&#1072;&#1096;&#1072;&#1090;&#1072; <em>Pepe</em> Pillz! &#1040;&#1082;&#1086; &#1089;&#1090;&#1077; &#1103; &#1079;&#1072;&#1074;&#1098;&#1088;&#1096;&#1080;&#1083;&#1080;, &#1090;&#1086; &#1080;&#1084;&#1072;<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Pepe Pillz - Maniadejogos.com",
+            "originalURL": "http://www.maniadejogos.com/jogos/Pepe+Pillz",
+            "snippet": "<em>Pepe</em> Pillz - Maniadejogos.com Jogos Jogos de Aventura Jogos de V&ocirc;o Jogos Engra&ccedil;ados Jogos em<span class=\"ellipsis\"> ... </span> &raquo; Jogos de Habilidade &raquo; Pule na hora &raquo; <em>Pepe</em> Pillz 7.7 / 10 - 634 <em>Pepe</em> Pillz Se voc&ecirc; apreciou <em>Pepe</em> Pillz, d&ecirc; uma olhada em nossos outros jogos Pule na hora. Eles s&atilde;o similares! <em>Pepe</em> Pillz Fullscreen<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Pepe Pillz - Benoynarim.com",
+            "originalURL": "http://www.benoynarim.com/oyunlar/Pepe+Pillz",
+            "snippet": "<em>Pepe</em> Pillz - Benoynarim.com Oyunlar Macera Oyunlar&#305; U&ccedil;u&#287; Oyunlar&#305; E&eth;lenceli Oyunlar &Ccedil;ok Oyunculu<span class=\"ellipsis\"> ... </span> Fazla Oyunlar Cizim Oyunlari &Ouml;b&uuml;r Tarafa Ua&#287; Ben Oynarim &raquo; Yetenek Oyunlar&#305; &raquo; Zamann&#305;da z&#305;pla &raquo; <em>Pepe</em> Pillz 7.7 / 10 - 634 <em>Pepe</em> Pillz Herbert&#8217;e hem&#351;ireden ka&ccedil;abilmesi i&ccedil;in yard&#305;m edin, b&ouml;ylece<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Pepe Pillz - Juegator.com",
+            "originalURL": "http://www.juegator.com/juegos/Pepe+Pillz",
+            "snippet": "<em>Pepe</em> Pillz - Juegator.com Juegos Juegos de Aventura Juegos de Volar Juegos Divertidos Multi<span class=\"ellipsis\"> ... </span> Dibujos Llega al otro Lado Juegator &raquo; Juegos de Habilidad &raquo; Salta a Tiempo &raquo; <em>Pepe</em> Pillz 7.7 / 10 - 634 <em>Pepe</em> Pillz Ayuda a Herbert a escapar de la enfermera para que no tenga que tomarse sus pastillas<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Pepe Pillz - Roundgames.com",
+            "originalURL": "http://www.roundgames.com/game/Pepe+Pillz",
+            "snippet": "<em>Pepe</em> Pillz - Roundgames.com Games Adventure Games Flying Games Funny Games Multiplayer Games Puzzle<span class=\"ellipsis\"> ... </span> Games &raquo; Skill Games &raquo; Jump on Time &raquo; <em>Pepe</em> Pillz 7.7 / 10 - 634 <em>Pepe</em> Pillz Help Herbert escape the nurse<span class=\"ellipsis\"> ... </span> obstacles that get in the way. <em>Pepe</em> Pillz Fullscreen Click here to start game directly Game not loaded yet<span class=\"ellipsis\"> ... </span>"
+        }
+    ]
+}

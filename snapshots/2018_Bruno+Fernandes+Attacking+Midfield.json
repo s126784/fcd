@@ -1,0 +1,273 @@
+{
+    "serviceName": "Arquivo.pt - the Portuguese web-archive",
+    "linkToService": "https://arquivo.pt",
+    "next_page": "https://arquivo.pt/textsearch?q=Bruno+Fernandes&from=20180101000000&to=20181231235959&fields=title%2Csnippet%2CoriginalURL%2Ctimestamp&offset=50",
+    "estimated_nr_results": 1325824,
+    "request_parameters": {
+        "offset": 0,
+        "dedupValue": 2,
+        "from": "20180101000000",
+        "to": "20181231235959",
+        "fields": [
+            "title",
+            "snippet",
+            "originalURL",
+            "timestamp"
+        ],
+        "dedupField": "site",
+        "q": "Bruno Fernandes",
+        "maxItems": 50
+    },
+    "response_items": [
+        {
+            "title": "Bruno Fernandes",
+            "originalURL": "http://bmcf.pt/",
+            "snippet": "<em>Bruno</em> <em>Fernandes</em> Saltar para: Posts [1] , Pesquisa [2] O meu blogue Curriculum Vitae Trabalho Acad&eacute;mico Web R&aacute;dio Televis&atilde;o Arquivo O meu blogue Curriculum Vitae Trabalho Acad&eacute;mico Web R&aacute;dio Televis&atilde;o <em>Bruno</em> <em>Fernandes</em> Site pessoal 01 Mai18 Bem-vindo(a) Conte&uacute;do n&atilde;o suportado. &nbsp; em destaque &nbsp; not&iacute;cias<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Bruno Fernandes",
+            "originalURL": "http://bmcf.pt/",
+            "snippet": "<em>Bruno</em> <em>Fernandes</em> Saltar para: Posts [1] , Pesquisa [2] O meu blogue Curriculum Vitae Trabalho Acad&eacute;mico Web R&aacute;dio Televis&atilde;o Arquivo O meu blogue Curriculum Vitae Trabalho Acad&eacute;mico Web R&aacute;dio Televis&atilde;o <em>Bruno</em> <em>Fernandes</em> Site pessoal 24 Mar18 Bem-vindo(a) Conte&uacute;do n&atilde;o suportado. &nbsp; em destaque &nbsp; not&iacute;cias<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Bruno Fernandes - Marktwertverlauf | Transfermarkt",
+            "originalURL": "http://www.transfermarkt.de/bruno-fernandes/marktwertverlauf/spieler/240306",
+            "snippet": "<em>Bruno</em> <em>Fernandes</em> - Marktwertverlauf | Transfermarkt Um die Seite nutzen zu k&ouml;nnen, schalten Sie<span class=\"ellipsis\"> ... </span> Pinto (13) Stefan Ristovski (15) Lumor (22) J&eacute;r&eacute;my Mathieu (19) Douglas (8) <em>Bruno</em> <em>Fernandes</em> (14<span class=\"ellipsis\"> ... </span> 1994 Platz 16 '94 Platz 16 der wertvollsten Spieler des 1994er Jahrgangs <em>Bruno</em> <em>Fernandes</em> ist mit<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Bruno Fernandes - Marktwertverlauf | Transfermarkt",
+            "originalURL": "http://www.transfermarkt.at/bruno-fernandes/marktwertverlauf/spieler/240306",
+            "snippet": "<em>Bruno</em> <em>Fernandes</em> - Marktwertverlauf | Transfermarkt Um die Seite nutzen zu k&ouml;nnen, schalten Sie<span class=\"ellipsis\"> ... </span> (13) Stefan Ristovski (15) Lumor (22) J&eacute;r&eacute;my Mathieu (19) Douglas (8) <em>Bruno</em> <em>Fernandes</em> (14) William<span class=\"ellipsis\"> ... </span> 1994 Platz 16 '94 Platz 16 der wertvollsten Spieler des 1994er Jahrgangs <em>Bruno</em> <em>Fernandes</em> ist mit einem<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Bruno Fernandes - Marktwertverlauf | Transfermarkt",
+            "originalURL": "http://www.transfermarkt.de/bruno-fernandes/marktwertverlauf/spieler/240306",
+            "snippet": "<em>Bruno</em> <em>Fernandes</em> - Marktwertverlauf | Transfermarkt Um die Seite nutzen zu k&ouml;nnen, schalten Sie<span class=\"ellipsis\"> ... </span> Pinto (13) Stefan Ristovski (15) Lumor (22) J&eacute;r&eacute;my Mathieu (19) Douglas (8) <em>Bruno</em> <em>Fernandes</em> (14<span class=\"ellipsis\"> ... </span> 1994 Platz 16 '94 Platz 16 der wertvollsten Spieler des 1994er Jahrgangs <em>Bruno</em> <em>Fernandes</em> ist mit<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Bruno Fernandes - Marktwertverlauf | Transfermarkt",
+            "originalURL": "http://www.transfermarkt.ch/bruno-fernandes/marktwertverlauf/spieler/240306",
+            "snippet": "<em>Bruno</em> <em>Fernandes</em> - Marktwertverlauf | Transfermarkt Um die Seite nutzen zu k&ouml;nnen, schalten Sie<span class=\"ellipsis\"> ... </span> (13) Stefan Ristovski (15) Lumor (22) J&eacute;r&eacute;my Mathieu (19) Douglas (8) <em>Bruno</em> <em>Fernandes</em> (14) William<span class=\"ellipsis\"> ... </span> 1994 Platz 16 '94 Platz 16 der wertvollsten Spieler des 1994er Jahrgangs <em>Bruno</em> <em>Fernandes</em> ist mit einem<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Bruno Fernandes - Marktwertverlauf | Transfermarkt",
+            "originalURL": "http://www.transfermarkt.at/bruno-fernandes/marktwertverlauf/spieler/240306",
+            "snippet": "<em>Bruno</em> <em>Fernandes</em> - Marktwertverlauf | Transfermarkt Um die Seite nutzen zu k&ouml;nnen, schalten Sie<span class=\"ellipsis\"> ... </span> (13) Stefan Ristovski (15) Lumor (22) J&eacute;r&eacute;my Mathieu (19) Douglas (8) <em>Bruno</em> <em>Fernandes</em> (14) William<span class=\"ellipsis\"> ... </span> 1994 Platz 16 '94 Platz 16 der wertvollsten Spieler des 1994er Jahrgangs <em>Bruno</em> <em>Fernandes</em> ist mit einem<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Bruno Fernandes - Marktwertverlauf | Transfermarkt",
+            "originalURL": "http://www.transfermarkt.ch/bruno-fernandes/marktwertverlauf/spieler/240306",
+            "snippet": "<em>Bruno</em> <em>Fernandes</em> - Marktwertverlauf | Transfermarkt Um die Seite nutzen zu k&ouml;nnen, schalten Sie<span class=\"ellipsis\"> ... </span> (13) Stefan Ristovski (15) Lumor (22) J&eacute;r&eacute;my Mathieu (19) Douglas (8) <em>Bruno</em> <em>Fernandes</em> (14) William<span class=\"ellipsis\"> ... </span> 1994 Platz 16 '94 Platz 16 der wertvollsten Spieler des 1994er Jahrgangs <em>Bruno</em> <em>Fernandes</em> ist mit einem<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Bruno Fernandes - Marktwaarde-ontwikkeling | Transfermarkt",
+            "originalURL": "http://www.transfermarkt.nl/bruno-fernandes/marktwertverlauf/spieler/240306",
+            "snippet": "<em>Bruno</em> <em>Fernandes</em> - Marktwaarde-ontwikkeling | Transfermarkt Om deze pagina te kunnen gebruiken<span class=\"ellipsis\"> ... </span> (15) Lumor (22) J&eacute;r&eacute;my Mathieu (19) Douglas (8) <em>Bruno</em> <em>Fernandes</em> (14) William Carvalho (9) Marcos<span class=\"ellipsis\"> ... </span>) Seydou Doumbia (40) Fredy Montero (7) R&uacute;ben Ribeiro Aanwinst #8 <em>Bruno</em> <em>Fernandes</em> 1 Geb./leeftijd: 8<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Bruno Fernandes - Evoluzione VdM | Transfermarkt",
+            "originalURL": "http://www.transfermarkt.it/bruno-fernandes/marktwertverlauf/spieler/240306",
+            "snippet": "<em>Bruno</em> <em>Fernandes</em> - Evoluzione VdM | Transfermarkt Per usare questa pagina &egrave; necessario attivare<span class=\"ellipsis\"> ... </span>) Lumor (22) J&eacute;r&eacute;my Mathieu (19) Douglas (8) <em>Bruno</em> <em>Fernandes</em> (14) William Carvalho (9) Marcos Acu&ntilde;a (16<span class=\"ellipsis\"> ... </span> Doumbia (40) Fredy Montero (7) R&uacute;ben Ribeiro Nuovo arrivo #8 <em>Bruno</em> <em>Fernandes</em> 1 Nato il: 08/set/1994<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Bruno Fernandes - Marktwaarde-ontwikkeling | Transfermarkt",
+            "originalURL": "http://www.transfermarkt.nl/bruno-fernandes/marktwertverlauf/spieler/240306",
+            "snippet": "<em>Bruno</em> <em>Fernandes</em> - Marktwaarde-ontwikkeling | Transfermarkt Om deze pagina te kunnen gebruiken<span class=\"ellipsis\"> ... </span> (15) Lumor (22) J&eacute;r&eacute;my Mathieu (19) Douglas (8) <em>Bruno</em> <em>Fernandes</em> (14) William Carvalho (9) Marcos<span class=\"ellipsis\"> ... </span>) Seydou Doumbia (40) Fredy Montero (7) R&uacute;ben Ribeiro Aanwinst #8 <em>Bruno</em> <em>Fernandes</em> 1 Geb./leeftijd: 8<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Bruno Fernandes - Evoluzione VdM | Transfermarkt",
+            "originalURL": "http://www.transfermarkt.it/bruno-fernandes/marktwertverlauf/spieler/240306",
+            "snippet": "<em>Bruno</em> <em>Fernandes</em> - Evoluzione VdM | Transfermarkt Per usare questa pagina &egrave; necessario attivare<span class=\"ellipsis\"> ... </span>) Lumor (22) J&eacute;r&eacute;my Mathieu (19) Douglas (8) <em>Bruno</em> <em>Fernandes</em> (14) William Carvalho (9) Marcos Acu&ntilde;a (16<span class=\"ellipsis\"> ... </span> Doumbia (40) Fredy Montero (7) R&uacute;ben Ribeiro Nuovo arrivo #8 <em>Bruno</em> <em>Fernandes</em> 1 Nato il: 08/set/1994<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Bruno Fernandes - Rozw\u00f3j warto\u015bci rynkowej | Transfermarkt",
+            "originalURL": "http://www.transfermarkt.pl/bruno-fernandes/marktwertverlauf/spieler/240306",
+            "snippet": "<em>Bruno</em> <em>Fernandes</em> - Rozw&oacute;j warto&#347;ci rynkowej | Transfermarkt Um die Seite nutzen zu k&ouml;nnen, schalten<span class=\"ellipsis\"> ... </span>) Stefan Ristovski (15) Lumor (22) J&eacute;r&eacute;my Mathieu (19) Douglas (8) <em>Bruno</em> <em>Fernandes</em> (14) William Carvalho<span class=\"ellipsis\"> ... </span> Podence (88) Seydou Doumbia (40) Fredy Montero (7) R&uacute;ben Ribeiro Nowy nabytek #8 <em>Bruno</em> <em>Fernandes</em> 1<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Bruno Fernandes - Rozw\u00f3j warto\u015bci rynkowej | Transfermarkt",
+            "originalURL": "http://www.transfermarkt.pl/bruno-fernandes/marktwertverlauf/spieler/240306",
+            "snippet": "<em>Bruno</em> <em>Fernandes</em> - Rozw&oacute;j warto&#347;ci rynkowej | Transfermarkt Um die Seite nutzen zu k&ouml;nnen, schalten<span class=\"ellipsis\"> ... </span>) Stefan Ristovski (15) Lumor (22) J&eacute;r&eacute;my Mathieu (19) Douglas (8) <em>Bruno</em> <em>Fernandes</em> (14) William Carvalho<span class=\"ellipsis\"> ... </span> Podence (88) Seydou Doumbia (40) Fredy Montero (7) R&uacute;ben Ribeiro Nowy nabytek #8 <em>Bruno</em> <em>Fernandes</em> 1<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Bruno Fernandes - market value progress | Transfermarkt",
+            "originalURL": "http://www.transfermarkt.co.uk/bruno-fernandes/marktwertverlauf/spieler/240306",
+            "snippet": "<em>Bruno</em> <em>Fernandes</em> - market value progress | Transfermarkt For using this site, please activate<span class=\"ellipsis\"> ... </span>) J&eacute;r&eacute;my Mathieu (19) Douglas (8) <em>Bruno</em> <em>Fernandes</em> (14) William Carvalho (9) Marcos Acu&ntilde;a (16) Rodrigo<span class=\"ellipsis\"> ... </span> (40) Fredy Montero (7) R&uacute;ben Ribeiro New arrival #8 <em>Bruno</em> <em>Fernandes</em> 1 Born/age: Sep 8, 1994 (23) Place<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Bruno Fernandes - market value progress | Transfermarkt",
+            "originalURL": "http://www.transfermarkt.co.uk/bruno-fernandes/marktwertverlauf/spieler/240306",
+            "snippet": "<em>Bruno</em> <em>Fernandes</em> - market value progress | Transfermarkt For using this site, please activate<span class=\"ellipsis\"> ... </span>) J&eacute;r&eacute;my Mathieu (19) Douglas (8) <em>Bruno</em> <em>Fernandes</em> (14) William Carvalho (9) Marcos Acu&ntilde;a (16) Rodrigo<span class=\"ellipsis\"> ... </span> (40) Fredy Montero (7) R&uacute;ben Ribeiro New arrival #8 <em>Bruno</em> <em>Fernandes</em> 1 Born/age: Sep 8, 1994 (23) Place<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Bruno Fernandes e Gelson aptos",
+            "originalURL": "https://www.record.pt/futebol/futebol-nacional/liga-nos/sporting/detalhe/AMP/bruno-fernandes-e-gelson-aptos.html",
+            "snippet": "<em>Bruno</em> <em>Fernandes</em> e Gelson aptos Home &Uacute;ltimas Not&iacute;cias Ta&ccedil;a das Confedera&ccedil;&otilde;es Record Premium Not&iacute;cias<span class=\"ellipsis\"> ... </span> Assinatura Digital Saiba mais <em>Bruno</em> <em>Fernandes</em> e Gelson aptos Ap&oacute;s sa&iacute;rem tocados Foto: Fernando Ferreira <em>Bruno</em> <em>Fernandes</em> e Gelson tamb&eacute;m deixaram o Est&aacute;dio do Restelo com queixas f&iacute;sicas mas, &agrave;<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "P\u00f3dio: Bas Dost, Acu\u00f1a, Bruno Fernandes - \u00c9s a nossa F\u00e9!",
+            "originalURL": "https://sporting.blogs.sapo.pt/podio-bas-dost-acuna-bruno-fernandes-4504087",
+            "snippet": "P&oacute;dio: Bas Dost, Acu&ntilde;a, <em>Bruno</em> <em>Fernandes</em> - &Eacute;s a nossa F&eacute;! Saltar para: Post [1] , Coment&aacute;rios [2<span class=\"ellipsis\"> ... </span>, <em>Bruno</em> <em>Fernandes</em> Pedro Correia 12.11.18 Por curiosidade, aqui fica a soma das classifica&ccedil;&otilde;es<span class=\"ellipsis\"> ... </span> Acu&ntilde;a: 17 <em>Bruno</em> <em>Fernandes</em>: 17 Coates: 15 Mathieu: 15 <em>Bruno</em> Gaspar: 14 Nani: 14 Gudelj: 14 Miguel<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Bruno Fernandes - Piyasa de\u011fer ak\u0131\u015f\u0131 | Transfermarkt",
+            "originalURL": "http://www.transfermarkt.com.tr/bruno-fernandes/marktwertverlauf/spieler/240306",
+            "snippet": "<em>Bruno</em> <em>Fernandes</em> - Piyasa de&#287;er ak&#305;&#351;&#305; | Transfermarkt Sayfay&#305; kullanmak i&ccedil;in Javascript'i global<span class=\"ellipsis\"> ... </span>) Lumor (22) J&eacute;r&eacute;my Mathieu (19) Douglas (8) <em>Bruno</em> <em>Fernandes</em> (14) William Carvalho (9) Marcos Acu&ntilde;a<span class=\"ellipsis\"> ... </span>) Seydou Doumbia (40) Fredy Montero (7) R&uacute;ben Ribeiro Yeni transfer #8 <em>Bruno</em> <em>Fernandes</em> 1 Do&#287;um tarihi/Ya&#351;<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Bruno Fernandes - Piyasa de\u011fer ak\u0131\u015f\u0131 | Transfermarkt",
+            "originalURL": "http://www.transfermarkt.com.tr/bruno-fernandes/marktwertverlauf/spieler/240306",
+            "snippet": "<em>Bruno</em> <em>Fernandes</em> - Piyasa de&#287;er ak&#305;&#351;&#305; | Transfermarkt Sayfay&#305; kullanmak i&ccedil;in Javascript'i global<span class=\"ellipsis\"> ... </span>) Lumor (22) J&eacute;r&eacute;my Mathieu (19) Douglas (8) <em>Bruno</em> <em>Fernandes</em> (14) William Carvalho (9) Marcos Acu&ntilde;a<span class=\"ellipsis\"> ... </span>) Seydou Doumbia (40) Fredy Montero (7) R&uacute;ben Ribeiro Yeni transfer #8 <em>Bruno</em> <em>Fernandes</em> 1 Do&#287;um tarihi/Ya&#351;<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Bruno Fernandes - Evoluci\u00f3n del valor de mercado | Transfermarkt",
+            "originalURL": "http://www.transfermarkt.es/bruno-fernandes/marktwertverlauf/spieler/240306",
+            "snippet": "<em>Bruno</em> <em>Fernandes</em> - Evoluci&oacute;n del valor de mercado | Transfermarkt Para utilizar esta p&aacute;gina, por<span class=\"ellipsis\"> ... </span>) Andr&eacute; Pinto (13) Stefan Ristovski (15) Lumor (22) J&eacute;r&eacute;my Mathieu (19) Douglas (8) <em>Bruno</em> <em>Fernandes</em> (14<span class=\"ellipsis\"> ... </span> <em>Bruno</em> <em>Fernandes</em> 1 Nacimiento / edad: 08/09/1994 (23) Lugar de nacimiento: Maia Nacionalidad<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Bruno Fernandes - Evoluci\u00f3n del valor de mercado | Transfermarkt",
+            "originalURL": "http://www.transfermarkt.es/bruno-fernandes/marktwertverlauf/spieler/240306",
+            "snippet": "<em>Bruno</em> <em>Fernandes</em> - Evoluci&oacute;n del valor de mercado | Transfermarkt Para utilizar esta p&aacute;gina, por<span class=\"ellipsis\"> ... </span>) Andr&eacute; Pinto (13) Stefan Ristovski (15) Lumor (22) J&eacute;r&eacute;my Mathieu (19) Douglas (8) <em>Bruno</em> <em>Fernandes</em> (14<span class=\"ellipsis\"> ... </span> <em>Bruno</em> <em>Fernandes</em> 1 Nacimiento / edad: 08/09/1994 (23) Lugar de nacimiento: Maia Nacionalidad<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Bruno Fernandes - Desenvolvimento do valor de mercado | Transfermarkt",
+            "originalURL": "http://www.transfermarkt.pt/bruno-fernandes/marktwertverlauf/spieler/240306",
+            "snippet": "<em>Bruno</em> <em>Fernandes</em> - Desenvolvimento do valor de mercado | Transfermarkt Um die Seite nutzen zu k&ouml;nnen<span class=\"ellipsis\"> ... </span> <em>Fernandes</em> (14) William Carvalho (9) Marcos Acu&ntilde;a (16) Rodrigo Battaglia (37) Wendel (11) <em>Bruno</em> C&eacute;sar<span class=\"ellipsis\"> ... </span> Refor&ccedil;o #8 <em>Bruno</em> <em>Fernandes</em> 1 Nasc./Idade: 08/09/1994 (23) Local de nascimento: Maia Nacionalidade<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Bruno Fernandes - Desenvolvimento do valor de mercado | Transfermarkt",
+            "originalURL": "http://www.transfermarkt.pt/bruno-fernandes/marktwertverlauf/spieler/240306",
+            "snippet": "<em>Bruno</em> <em>Fernandes</em> - Desenvolvimento do valor de mercado | Transfermarkt Um die Seite nutzen zu k&ouml;nnen<span class=\"ellipsis\"> ... </span> <em>Fernandes</em> (14) William Carvalho (9) Marcos Acu&ntilde;a (16) Rodrigo Battaglia (37) Wendel (11) <em>Bruno</em> C&eacute;sar<span class=\"ellipsis\"> ... </span> Refor&ccedil;o #8 <em>Bruno</em> <em>Fernandes</em> 1 Nasc./Idade: 08/09/1994 (23) Local de nascimento: Maia Nacionalidade<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Revista de Imprensa \u00bb Bruno Fernandes e Gelson aptos \u2013 Record",
+            "originalURL": "http://revistadeimprensa.com/desporto/bruno-fernandes-e-gelson-aptos-record/",
+            "snippet": "Revista de Imprensa &raquo; <em>Bruno</em> <em>Fernandes</em> e Gelson aptos &#8211; Record Not&iacute;cias | Coment&aacute;rios | Not&iacute;cias no<span class=\"ellipsis\"> ... </span> resto da not&iacute;cia aqui: <em>Bruno</em> <em>Fernandes</em> e Gelson aptos Deixe o seu coment&aacute;rio Click here to cancel<span class=\"ellipsis\"> ... </span> Exame Inform&aacute;tica Revista Bit PC Guia Social Fama Revista Caras Revista Activa Revista Vidas <em>Bruno</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Bruno Fernandes e Gelson aptos - Record",
+            "originalURL": "http://revistadeimprensa.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Frevistadeimprensa.com%2Fdesporto%2Fbruno-fernandes-e-gelson-aptos-record%2F&format=xml",
+            "snippet": "/mingosmoreira/ <em>Bruno</em> <em>Fernandes</em> e Gelson aptos - Record rich 600 338 &lt;blockquote class=&quot;wp-embedded-content&quot;&gt;&lt;a href=&quot;http://revistadeimprensa.com/desporto/<em>bruno</em>-<em>fernandes</em>-e-gelson-aptos-record/&quot;&gt;<em>Bruno</em><span class=\"ellipsis\"> ... </span>://revistadeimprensa.com/desporto/<em>bruno</em>-<em>fernandes</em>-e-gelson-aptos-record/embed/&quot; width=&quot;600&quot; height=&quot;338<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "\u00abBruno Fernandes n\u00e3o quis melhoria de contrato\u00bb Sousa Cintra | Super Sporting",
+            "originalURL": "https://www.supersporting.net/bruno-fernandes-nao-quis-melhoria-de-contrato-sousa-cintra/",
+            "snippet": "&laquo;<em>Bruno</em> <em>Fernandes</em> n&atilde;o quis melhoria de contrato&raquo; Sousa Cintra | Super Sporting super sporting Tudo<span class=\"ellipsis\"> ... </span> Sporting Clube de Portugal sendo um site de todos os sportinguistas. PARTILHE &laquo;<em>Bruno</em> <em>Fernandes</em> n&atilde;o quis<span class=\"ellipsis\"> ... </span> critica regresso de <em>Bruno</em> <em>Fernandes</em> Sporting B n&atilde;o termina e continuar&aacute; em competi&ccedil;&atilde;o 2 coment&aacute;rios Jo&atilde;o<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Bruno Fernandes n\u00e3o perde os Livros de Ouro",
+            "originalURL": "https://www.record.pt/iniciativas/detalhe/AMP/bruno-fernandes-nao-perde-os-livros-de-ouro.html",
+            "snippet": "<em>Bruno</em> <em>Fernandes</em> n&atilde;o perde os Livros de Ouro Home &Uacute;ltimas Not&iacute;cias Ta&ccedil;a das Confedera&ccedil;&otilde;es Record<span class=\"ellipsis\"> ... </span> Contacte-nos Assinatura Digital Saiba mais <em>Bruno</em> <em>Fernandes</em> n&atilde;o perde os Livros de Ouro Gr&aacute;tis com o Record a partir de domingo Foto: Rui Minderico <em>Bruno</em> <em>Fernandes</em>, m&eacute;dio do Sporting, n&atilde;o vai perder os<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "\u200bBruno Fernandes vence pr\u00e9mio Melhor Jovem de Outubro/Novembro - Renascen\u00e7a",
+            "originalURL": "http://rr.sapo.pt/noticia/101786/bruno-fernandes-vence-premio-melhor-jovem-de-outubronovembro",
+            "snippet": "&#8203;<em>Bruno</em> <em>Fernandes</em> vence pr&eacute;mio Melhor Jovem de Outubro/Novembro - Renascen&ccedil;a O site da Renascen&ccedil;a<span class=\"ellipsis\"> ... </span>+ / A- &#8203;<em>Bruno</em> <em>Fernandes</em> vence pr&eacute;mio Melhor Jovem de Outubro/Novembro 29 dez, 2017 - 13:06 O m&eacute;dio<span class=\"ellipsis\"> ... </span> <em>Fernandes</em> recebe trof&eacute;u do Sindicato. Foto: M&aacute;rio Cruz/Lusa. <em>Bruno</em> <em>Fernandes</em> venceu o pr&eacute;mio Melhor<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Beto Severo aprova regresso de Nani e perman\u00eancia de Bruno Fernandes | Super Sporting",
+            "originalURL": "https://www.supersporting.net/beto-severo-aprova-regresso-de-nani-e-permanencia-de-bruno-fernandes/",
+            "snippet": "Beto Severo aprova regresso de Nani e perman&ecirc;ncia de <em>Bruno</em> <em>Fernandes</em> | Super Sporting super<span class=\"ellipsis\"> ... </span> regresso de Nani e perman&ecirc;ncia de <em>Bruno</em> <em>Fernandes</em> Publicado a 11/07/2018 por Pedro Pinto em Not&iacute;cias<span class=\"ellipsis\"> ... </span> Peseiro e o poss&iacute;vel regresso dos &#8220;refor&ccedil;os&#8221; <em>Bruno</em> <em>Fernandes</em> e Nani. O antigo defesa do Sporting considera<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Bruno Alves, Bruno Fernandes e Gon\u00e7alo Guedes titulares frente \u00e0 Arg\u00e9lia | Futebol 365",
+            "originalURL": "http://www.futebol365.pt/artigo/190426-bruno-alves-bruno-fernandes-e-goncalo-guedes-titulares-frente-a-argelia/?utm_source=aeiou&utm_medium=feed&utm_campaign=destaque_aeiou",
+            "snippet": "<em>Bruno</em> Alves, <em>Bruno</em> <em>Fernandes</em> e Gon&ccedil;alo Guedes titulares frente &agrave; Arg&eacute;lia | Futebol 365 Caro<span class=\"ellipsis\"> ... </span> Liga Campe&otilde;es Liga Europa JohnnyBet Home &raquo; Not&iacute;cias &raquo; Nacional <em>Bruno</em> Alves, <em>Bruno</em> <em>Fernandes</em> e Gon&ccedil;alo<span class=\"ellipsis\"> ... </span> de sele&ccedil;&otilde;es Arg&eacute;lia Portugal <em>Bruno</em> Alves Gon&ccedil;alo Guedes <em>Bruno</em> <em>Fernandes</em> O selecionador nacional<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Bruno Fernandes: \u00abVi spiego i ritiri con Cristiano Ronaldo\u00bb",
+            "originalURL": "http://m.tuttosport.com/amp/news/calcio/serie-a/juventus/2018/08/08-46147207/bruno_fernandes_vi_spiego_i_ritiri_con_cristiano_ronaldo/",
+            "snippet": "<em>Bruno</em> <em>Fernandes</em>: &laquo;Vi spiego i ritiri con Cristiano Ronaldo&raquo; Home Calcio Formula 1 Moto Motori Basket Tennis Volley Tuttosport LIVE Juventus Filippo Cornacchia 2018-08-08 08:45:00 <em>Bruno</em> <em>Fernandes</em>: &laquo;Vi<span class=\"ellipsis\"> ... </span> Italia, ma niente di particolare&raquo; , racconta <em>Bruno</em> <em>Fernandes</em>, trequartista dello Sporting ex Sampdoria<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "\u200bBruno Fernandes vence pr\u00e9mio Melhor Jovem de Outubro/Novembro - Renascen\u00e7a",
+            "originalURL": "http://rr.sapo.pt/detalhe.aspx?objid=101786",
+            "snippet": "&#8203;<em>Bruno</em> <em>Fernandes</em> vence pr&eacute;mio Melhor Jovem de Outubro/Novembro - Renascen&ccedil;a O site da Renascen&ccedil;a<span class=\"ellipsis\"> ... </span>+ / A- &#8203;<em>Bruno</em> <em>Fernandes</em> vence pr&eacute;mio Melhor Jovem de Outubro/Novembro 29 dez, 2017 - 13:06 O m&eacute;dio<span class=\"ellipsis\"> ... </span> <em>Fernandes</em> recebe trof&eacute;u do Sindicato. Foto: M&aacute;rio Cruz/Lusa. <em>Bruno</em> <em>Fernandes</em> venceu o pr&eacute;mio Melhor<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Sporting: Gelson, William e Bruno Fernandes rescindem contratos | Futebol 365",
+            "originalURL": "http://www.futebol365.pt/artigo/190617-sporting-gelson-william-e-bruno-fernandes-rescindem-contratos/?utm_source=aeiou&utm_medium=feed&utm_campaign=destaque_aeiou",
+            "snippet": "Sporting: Gelson, William e <em>Bruno</em> <em>Fernandes</em> rescindem contratos | Futebol 365 Caro visitante<span class=\"ellipsis\"> ... </span> Campe&otilde;es Liga Europa JohnnyBet Home &raquo; Not&iacute;cias &raquo; Nacional Sporting: Gelson, William e <em>Bruno</em> <em>Fernandes</em><span class=\"ellipsis\"> ... </span> Gelson Martins <em>Bruno</em> <em>Fernandes</em> Os futebolistas portugueses Gelson Martins, William Carvalho e <em>Bruno</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Sporting CP X Os Belenenses - Sporting CP, Jogada, Bruno Fernandes, 65m",
+            "originalURL": "https://www.vsports.pt/vod/39861/m/361875/record/a37a8309786301c943d2ab05caffdb1c",
+            "snippet": "Sporting CP X Os Belenenses - Sporting CP, Jogada, <em>Bruno</em> <em>Fernandes</em>, 65m Sporting CP X Os Belenenses - Sporting CP, Jogada, <em>Bruno</em> <em>Fernandes</em>, 65m In&iacute;cio V&iacute;deos Sexta, 01 de Dezembro de 2017 Liga NOS<span class=\"ellipsis\"> ... </span>' Sporting CP, Jogada, <em>Bruno</em> <em>Fernandes</em> aos 65' <em>Bruno</em> <em>Fernandes</em> - ver mais v&iacute;deos Bomba de <em>Bruno</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Sporting CP X Os Belenenses - Sporting CP, Jogada, Bruno Fernandes, 62m",
+            "originalURL": "https://www.vsports.pt/vod/39860/m/361875/record/8b1d750b0b5362ee5d28649544743f1f",
+            "snippet": "Sporting CP X Os Belenenses - Sporting CP, Jogada, <em>Bruno</em> <em>Fernandes</em>, 62m Sporting CP X Os Belenenses - Sporting CP, Jogada, <em>Bruno</em> <em>Fernandes</em>, 62m In&iacute;cio V&iacute;deos Sexta, 01 de Dezembro de 2017 Liga NOS<span class=\"ellipsis\"> ... </span>' Sporting CP, Jogada, <em>Bruno</em> <em>Fernandes</em> aos 62' <em>Bruno</em> <em>Fernandes</em> - ver mais v&iacute;deos Nuno Tom&aacute;s a<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Ristovski \u00e9 novidade. Coentr\u00e3o, Gelson e Bruno Fernandes convocados",
+            "originalURL": "https://www.dn.pt/desporto/sporting/interior/ristovski-e-novidade-no-sporting-coentrao-gelson-e-bruno-fernandes-convocados-9021968.html",
+            "snippet": "Ristovski &eacute; novidade. Coentr&atilde;o, Gelson e <em>Bruno</em> <em>Fernandes</em> convocados Quinta-Feira 04 de janeiro de<span class=\"ellipsis\"> ... </span> App Store Google Play Desporto Ristovski &eacute; novidade. Coentr&atilde;o, Gelson e <em>Bruno</em> <em>Fernandes</em> convocados<span class=\"ellipsis\"> ... </span>. Coentr&atilde;o, Gelson e <em>Bruno</em> <em>Fernandes</em> convocados 03&nbsp;DE&nbsp;JANEIRO&nbsp;DE&nbsp;2018 &nbsp;15:35 DN/Lusa Ristovski chamado<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Basketball: Bruno Fernandes about to join NBA - Sports - Angola Press - ANGOP",
+            "originalURL": "http://www.angop.ao/angola/en_us/noticias/desporto/2017/11/49/Basketball-Bruno-Fernandes-about-join-NBA,2dedeb63-cecb-42c9-9e87-98f3cbc67c3e.html",
+            "snippet": "Basketball: <em>Bruno</em> <em>Fernandes</em> about to join NBA - Sports - Angola Press - ANGOP ANGOP - Angola Press<span class=\"ellipsis\"> ... </span> 2017 17:44 Basketball: <em>Bruno</em> <em>Fernandes</em> about to join NBA Luanda - Angolan basketball player <em>Bruno</em> <em>Fernandes</em> has been selected by the Cleveland Cavaliers, where the star Lebron James plays for the 2018<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "William, Gelson e Bruno Fernandes rescindiram contrato com o Sporting - Desporto - S\u00c1BADO",
+            "originalURL": "https://www.sabado.pt/desporto/detalhe/william-gelson-e-bruno-fernandes-rescindiram-contrato-com-o-sporting",
+            "snippet": "William, Gelson e <em>Bruno</em> <em>Fernandes</em> rescindiram contrato com o Sporting - Desporto - S&Aacute;BADO O nosso<span class=\"ellipsis\"> ... </span> negociadores de Trump e Kim Jong-un? William, Gelson e <em>Bruno</em> <em>Fernandes</em> rescindiram contrato com o Sporting<span class=\"ellipsis\"> ... </span> William, Gelson e <em>Bruno</em> <em>Fernandes</em> rescindiram contrato com o Sporting 17:11 por&nbsp; Record 58 Cartas de<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Bruno Fernandes e Nani d\u00e3o vit\u00f3ria ao Sporting sobre o Loures",
+            "originalURL": "https://www.tsf.pt/desporto/interior/marcelo-carlos-mane-e-castaignos-titulares-frente-ao-loures-10045534.html",
+            "snippet": "<em>Bruno</em> <em>Fernandes</em> e Nani d&atilde;o vit&oacute;ria ao Sporting sobre o Loures In&iacute;cio &Uacute;ltimas Not&iacute;cias Notici&aacute;rios<span class=\"ellipsis\"> ... </span> Pesquisar Desporto Resultados e Classifica&ccedil;&otilde;es Jogos em Direto Ta&ccedil;a de Portugal <em>Bruno</em> <em>Fernandes</em> e<span class=\"ellipsis\"> ... </span> aconteceu aos 18 minutos quando <em>Bruno</em> <em>Fernandes</em>, de livre direto, fez a bola rasar o poste da baliza de<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "A BOLA - Coentr\u00e3o e Bruno Fernandes recuperam para o `derby` (Sporting)",
+            "originalURL": "http://www.abola.pt/Nacional/Noticias/Ver/708855",
+            "snippet": "A BOLA - Coentr&atilde;o e <em>Bruno</em> <em>Fernandes</em> recuperam para o `derby` (Sporting) ... Login Edi&ccedil;&atilde;o digital<span class=\"ellipsis\"> ... </span> d'Abola A Bola TV Coentr&atilde;o e <em>Bruno</em> <em>Fernandes</em> recuperam para o `derby` Sporting 31-12-2017 17:24 Por<span class=\"ellipsis\"> ... </span>, ao cansa&ccedil;o. <em>Bruno</em> <em>Fernandes</em> tamb&eacute;m terminou a partida no Est&aacute;dio do Restelo com queixas mas tamb&eacute;m<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Ristovski \u00e9 novidade no Sporting, Coentr\u00e3o, Gelson e Bruno Fernandes convocados",
+            "originalURL": "http://www.dnoticias.pt/desporto/ristovski-e-novidade-no-sporting-coentrao-gelson-e-bruno-fernandes-convocados-GX2563019",
+            "snippet": "Ristovski &eacute; novidade no Sporting, Coentr&atilde;o, Gelson e <em>Bruno</em> <em>Fernandes</em> convocados Multim&eacute;dia Opini&atilde;o<span class=\"ellipsis\"> ... </span> no Sporting, Coentr&atilde;o, Gelson e <em>Bruno</em> <em>Fernandes</em> convocados Ag&ecirc;ncia Lusa / Lisboa / 03 Jan 2018 / 15<span class=\"ellipsis\"> ... </span> ver&atilde;o o emprestou ao Sporting. Ap&oacute;s o jogo da Ta&ccedil;a da Liga, Coentr&atilde;o, <em>Bruno</em> <em>Fernandes</em> e Gelson Martins<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Bruno de Carvalho revela mensagens trocadas com Gelson, Bruno Fernandes e o representante de Bas Dos",
+            "originalURL": "https://24.sapo.pt/desporto/artigos/bruno-de-carvalho-revela-mensagens-trocadas-com-jogadores-que-pediram-rescisao",
+            "snippet": "<em>Bruno</em> de Carvalho revela mensagens trocadas com Gelson, <em>Bruno</em> <em>Fernandes</em> e o representante de Bas<span class=\"ellipsis\"> ... </span> Carvalho revela mensagens trocadas com Gelson, <em>Bruno</em> <em>Fernandes</em> e o representante de Bas Dost 12 jun<span class=\"ellipsis\"> ... </span> trocadas com os jogadores do clube que ontem pediram rescis&atilde;o, nomeadamente, <em>Bruno</em> <em>Fernandes</em>, Gelson<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Bruno Fernandes eleito melhor jogador jovem da Liga em outubro e novembro",
+            "originalURL": "https://www.ojogo.pt/futebol/1a-liga/sporting/noticias/interior/bruno-fernandes-eleito-melhor-jogador-jovem-da-liga-em-outubro-e-novembro-9014480.html",
+            "snippet": "<em>Bruno</em> <em>Fernandes</em> eleito melhor jogador jovem da Liga em outubro e novembro Destaques I Liga II Liga<span class=\"ellipsis\"> ... </span> Futebol I Liga Sporting <em>Bruno</em> <em>Fernandes</em> eleito melhor jogador jovem da Liga em outubro e novembro <em>Bruno</em> <em>Fernandes</em> eleito melhor jogador jovem da Liga em outubro e novembro Partilhar no Facebook Twitter<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Bruno Fernandes eleito melhor jogador jovem da Liga em outubro e novembro",
+            "originalURL": "https://www.ojogo.pt/futebol/1a-liga/sporting/noticias/interior/amp/bruno-fernandes-eleito-melhor-jogador-jovem-da-liga-em-outubro-e-novembro-9014480.html",
+            "snippet": "<em>Bruno</em> <em>Fernandes</em> eleito melhor jogador jovem da Liga em outubro e novembro FUTEBOL MODALIDADES<span class=\"ellipsis\"> ... </span> NEWSLETTERS SOBRE O SITE Menu In&iacute;cio MODALIDADES In&iacute;cio Futebol I Liga Sporting <em>Bruno</em> <em>Fernandes</em><span class=\"ellipsis\"> ... </span> atribu&iacute;do pelo Sindicato dos Jogadores Profissionais de Futebol (SJPF). <em>Bruno</em> <em>Fernandes</em> arrebatou o pr&eacute;mio<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Bas Dost, Bruno Fernandes e Acu\u00f1a treinaram na Academia | Site oficial do Sporting Clube de Portugal",
+            "originalURL": "http://admin.beta.sporting.pt/pt/noticias/futebol/equipa-principal/2018-07-23/bas-dost-bruno-fernandes-e-acuna-treinaram-na-academia",
+            "snippet": "Bas Dost, <em>Bruno</em> <em>Fernandes</em> e Acu&ntilde;a treinaram na Academia | Site oficial do Sporting Clube de<span class=\"ellipsis\"> ... </span> Equipa Principal Bas Dost, <em>Bruno</em> <em>Fernandes</em> e Acu&ntilde;a treinaram na Academia 2 dias atr&aacute;s Atletismo<span class=\"ellipsis\"> ... </span> Geraldes Mattheus Oliveira <em>Bruno</em> C&eacute;sar Radosav Petrovi&#263; Jo&atilde;o Palhinha Wendel <em>Bruno</em> <em>Fernandes</em> Mi&#353;i&#263;<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jesus tirava Paci\u00eancia ao Vit\u00f3ria, Couceiro escolhia Bruno Fernandes | Maisfutebol.iol.pt",
+            "originalURL": "http://www.maisfutebol.iol.pt/taca-da-liga/sporting/jesus-tirava-paciencia-ao-vitoria-couceiro-escolhia-bruno-fernandes",
+            "snippet": "Jesus tirava Paci&ecirc;ncia ao Vit&oacute;ria, Couceiro escolhia <em>Bruno</em> <em>Fernandes</em> | Maisfutebol.iol.pt MENU<span class=\"ellipsis\"> ... </span> <em>Bruno</em> <em>Fernandes</em> As escolhas dos treinadores sobre quem tiravam ao rival para a final da Ta&ccedil;a da Liga <em>Bruno</em> Jos&eacute; Ferreira Jornalista Correspondente @Bruno_JFerreira As escolhas dos treinadores sobre<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Nani e Bruno Fernandes fizeram a diferen\u00e7a no regresso do Sporting \u00e0s vit\u00f3rias",
+            "originalURL": "https://www.tsf.pt/desporto/interior/ja-ha-onzes-para-o-jogo-entre-sporting-e-boavista-10099594.html",
+            "snippet": "Nani e <em>Bruno</em> <em>Fernandes</em> fizeram a diferen&ccedil;a no regresso do Sporting &agrave;s vit&oacute;rias In&iacute;cio &Uacute;ltimas<span class=\"ellipsis\"> ... </span> venceram o Boavista por 3-0, com golos de Nani e <em>Bruno</em> <em>Fernandes</em>. In&ecirc;s Andr&eacute; de Figueiredo Partilhar<span class=\"ellipsis\"> ... </span> <em>Bruno</em> <em>Fernandes</em> que marca um gola&ccedil;o de fora da &aacute;rea. E nem deu tempo para os adeptos pararem de festejar<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Guimar\u00e3es Digital - Bruno Fernandes, Seara de S\u00e1 e Sofia Ferreira estrearam-se na verea\u00e7\u00e3o municipal",
+            "originalURL": "http://www.guimaraesdigital.com/noticias/69973/bruno-fernandes-seara-de-sa-e-sofia-ferreira-estrearam-se-na-vereacao-municipal-vimaranense",
+            "snippet": "Guimar&atilde;es Digital - <em>Bruno</em> <em>Fernandes</em>, Seara de S&aacute; e Sofia Ferreira estrearam-se na verea&ccedil;&atilde;o<span class=\"ellipsis\"> ... </span> &laquo;Memento - Raimundo <em>Fernandes</em>, um coleccionador de Guimar&atilde;es&raquo;, Casa da Mem&oacute;ria. At&eacute; 4 de Mar&ccedil;o. <em>Bruno</em><span class=\"ellipsis\"> ... </span> de Outubro, 2017 14:10 Fernando Seara de S&aacute; e Sofia Ferreira, do PS, e <em>Bruno</em> <em>Fernandes</em>, do PSD<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Vit\u00f3ria FC X Sporting CP - Sporting CP, Jogada, Bruno Fernandes, 88m",
+            "originalURL": "http://ligaportugal.vsports.pt/embd/41234/m/361934/liga/76a45ef268c41739eda5ab6657dc9fec?autostart=false",
+            "snippet": "Vit&oacute;ria FC X Sporting CP - Sporting CP, Jogada, <em>Bruno</em> <em>Fernandes</em>, 88m To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video 0:38<span class=\"ellipsis\"> ... </span>"
+        }
+    ]
+}

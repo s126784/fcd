@@ -1,0 +1,273 @@
+{
+    "serviceName": "Arquivo.pt - the Portuguese web-archive",
+    "linkToService": "https://arquivo.pt",
+    "next_page": "https://arquivo.pt/textsearch?q=Renato+Sanches&from=20200101000000&to=20201231235959&fields=title%2Csnippet%2CoriginalURL%2Ctimestamp&offset=50",
+    "estimated_nr_results": 199182,
+    "request_parameters": {
+        "offset": 0,
+        "dedupValue": 2,
+        "from": "20200101000000",
+        "to": "20201231235959",
+        "fields": [
+            "title",
+            "snippet",
+            "originalURL",
+            "timestamp"
+        ],
+        "dedupField": "site",
+        "q": "Renato Sanches",
+        "maxItems": 50
+    },
+    "response_items": [
+        {
+            "title": "Renato Sanches Noticias | ESPNDeportes",
+            "originalURL": "https://espndeportes.espn.com/futbol/jugador/noticias/_/id/227217/renato-sanches",
+            "snippet": "<em>Renato</em> <em>Sanches</em> Noticias | ESPNDeportes Ir a la navegaci&oacute;n Menu ESPN F&uacute;tbol B&aacute;squetbol MMA MLB Boxeo F. Americano Watch Audio Juegos <em>Renato</em> <em>Sanches</em> Lille #18 Mediocampista Seguir Est/Pes 1.75 m, 68 kg<span class=\"ellipsis\"> ... </span>-Etienne Stade Rennes Stade de Reims Strasbourg Atacante Mediocampista Defensor Arquero 18 <em>Renato</em> <em>Sanches</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Renato Sanches Noticias | ESPN",
+            "originalURL": "https://www.espn.cl/futbol/jugador/noticias/_/id/227217/renato-sanches",
+            "snippet": "<em>Renato</em> <em>Sanches</em> Noticias | ESPN Ir a la navegaci&oacute;n Menu ESPN F&uacute;tbol Tenis B&aacute;squetbol Deporte Motor Golf Rugby Play TV <em>Renato</em> <em>Sanches</em> Lille #18 Mediocampista Seguir Est/Pes 1.75 m, 68 kg FDN 18/8/1997<span class=\"ellipsis\"> ... </span> Stade de Reims Strasbourg Atacante Mediocampista Defensor Arquero 18 <em>Renato</em> <em>Sanches</em> #18 8 Xeka #8 21<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Renato Sanches Estad\u00edsticas | ESPNDeportes",
+            "originalURL": "https://espndeportes.espn.com/futbol/jugador/estadisticas/_/id/227217/renato-sanches",
+            "snippet": "<em>Renato</em> <em>Sanches</em> Estad&iacute;sticas | ESPNDeportes Ir a la navegaci&oacute;n Menu ESPN F&uacute;tbol B&aacute;squetbol MMA MLB Boxeo F. Americano Watch Audio Juegos <em>Renato</em> <em>Sanches</em> Lille #18 Mediocampista Seguir Est/Pes 1.75 m, 68 kg FDN 18/8/1997 (23) Estad&iacute;sticas de temporada 2020-21 1FRA TIT (SUP) 1 (0) G 0 A 0 TT 2 Perfil<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Renato Sanches Biograf\u00eda | ESPN",
+            "originalURL": "https://www.espn.cl/futbol/jugador/bio/_/id/227217/renato-sanches",
+            "snippet": "<em>Renato</em> <em>Sanches</em> Biograf&iacute;a | ESPN Ir a la navegaci&oacute;n Menu ESPN F&uacute;tbol Tenis B&aacute;squetbol Deporte Motor Golf Rugby Play TV <em>Renato</em> <em>Sanches</em> Lille #18 Mediocampista Seguir Est/Pes 1.75 m, 68 kg FDN 18/8/1997 (23) Estad&iacute;sticas de temporada 2020-21 1FRA TIT (SUP) 1 (0) G 0 A 0 TT 2 Perfil de Jugador Bio<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Renato Sanches News | ESPN",
+            "originalURL": "https://www.espn.co.uk/football/player/news/_/id/227217/renato-sanches",
+            "snippet": "<em>Renato</em> <em>Sanches</em> News | ESPN Skip to navigation Menu ESPN Football NFL NBA MMA F1 Cricket ESPN Player Fantasy <em>Renato</em> <em>Sanches</em> Lille #18 Midfielder Follow HT/WT 1.75 m, 68 kg DOB 18/8/1997 (23) 2020-21<span class=\"ellipsis\"> ... </span> Defender Goalkeeper 18 <em>Renato</em> <em>Sanches</em> #18 8 Xeka #8 21 Benjamin Andr&eacute; #21 10 Jonathan Ikon&eacute; #10 15 Eugenio<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Renato Sanches Noticias | - ESPN",
+            "originalURL": "https://www.espn.co.cr/futbol/jugador/noticias/_/id/227217/renato-sanches",
+            "snippet": "<em>Renato</em> <em>Sanches</em> Noticias | - ESPN Ir a la navegaci&oacute;n Menu ESPN F&uacute;tbol B&aacute;squetbol Otros Deportes Ciclismo MLB F. Americano TV Play <em>Renato</em> <em>Sanches</em> Lille #18 Mediocampista Seguir Est/Pes 1.75 m, 68 kg<span class=\"ellipsis\"> ... </span> Stade Rennes Stade de Reims Strasbourg Atacante Mediocampista Defensor Arquero 18 <em>Renato</em> <em>Sanches</em> #18<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Renato Sanches Biography | ESPN",
+            "originalURL": "https://www.espn.co.uk/football/player/bio/_/id/227217/renato-sanches",
+            "snippet": "<em>Renato</em> <em>Sanches</em> Biography | ESPN Skip to navigation Menu ESPN Football NFL NBA MMA F1 Cricket ESPN Player Fantasy <em>Renato</em> <em>Sanches</em> Lille #18 Midfielder Follow HT/WT 1.75 m, 68 kg DOB 18/8/1997 (23) 2020-21 Ligue 1 Stats START (SUB) 1 (0) G 0 A 0 SH 2 Overview Bio News Matches Stats Biography Team<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Renato Sanches Biograf\u00eda | - ESPN",
+            "originalURL": "https://www.espn.co.cr/futbol/jugador/bio/_/id/227217/renato-sanches",
+            "snippet": "<em>Renato</em> <em>Sanches</em> Biograf&iacute;a | - ESPN Ir a la navegaci&oacute;n Menu ESPN F&uacute;tbol B&aacute;squetbol Otros Deportes Ciclismo MLB F. Americano TV Play <em>Renato</em> <em>Sanches</em> Lille #18 Mediocampista Seguir Est/Pes 1.75 m, 68 kg FDN 18/8/1997 (23) Estad&iacute;sticas de temporada 2020-21 1FRA TIT (SUP) 1 (0) G 0 A 0 TT 2 Perfil de<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Renato Sanches - Not\u00edcias | ESPN",
+            "originalURL": "https://www.espn.com.br/futebol/jogador/noticias/_/id/227217/renato-sanches",
+            "snippet": "<em>Renato</em> <em>Sanches</em> - Not&iacute;cias | ESPN Ir para o Menu Principal Menu ESPN Futebol NFL NBA MMA eSports espnW Blogs Assista <em>Renato</em> <em>Sanches</em> Lille #18 Meio campista Seguir A/P 1.75 m, 68 kg DOB 18/8/1997 (23<span class=\"ellipsis\"> ... </span> de Reims Strasbourg Atacante Meio campista Defensor Goleiro 18 <em>Renato</em> <em>Sanches</em> #18 8 Xeka #8 21<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Renato Sanches Noticias | ESPN",
+            "originalURL": "https://www.espn.com.ar/futbol/jugador/noticias/_/id/227217/renato-sanches",
+            "snippet": "<em>Renato</em> <em>Sanches</em> Noticias | ESPN Ir a la navegaci&oacute;n Menu ESPN F&uacute;tbol Rugby Tenis B&aacute;squetbol Deporte Motor Hockey Play TV <em>Renato</em> <em>Sanches</em> Lille #18 Mediocampista Seguir Est/Pes 1.75 m, 68 kg FDN 18/8<span class=\"ellipsis\"> ... </span> Rennes Stade de Reims Strasbourg Atacante Mediocampista Defensor Arquero 18 <em>Renato</em> <em>Sanches</em> #18 8 Xeka #8<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Renato Sanches Noticias | ESPN",
+            "originalURL": "https://www.espn.com.ve/futbol/jugador/noticias/_/id/227217/renato-sanches",
+            "snippet": "<em>Renato</em> <em>Sanches</em> Noticias | ESPN Ir a la navegaci&oacute;n Menu ESPN MLB F&uacute;tbol B&aacute;squetbol Boxeo MMA Tenis Video TV <em>Renato</em> <em>Sanches</em> Lille #18 Mediocampista Seguir Est/Pes 1.75 m, 68 kg FDN 18/8/1997 (23<span class=\"ellipsis\"> ... </span> Reims Strasbourg Atacante Mediocampista Defensor Arquero 18 <em>Renato</em> <em>Sanches</em> #18 8 Xeka #8 21 Benjamin<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Renato Sanches Noticias | ESPN",
+            "originalURL": "https://www.espn.com.co/futbol/jugador/noticias/_/id/227217/renato-sanches",
+            "snippet": "<em>Renato</em> <em>Sanches</em> Noticias | ESPN Ir a la navegaci&oacute;n Menu ESPN F&uacute;tbol Ciclismo Tenis MLB B&aacute;squetbol ESPN Run Play TV <em>Renato</em> <em>Sanches</em> Lille #18 Mediocampista Seguir Est/Pes 1.75 m, 68 kg FDN 18/8/1997 (23<span class=\"ellipsis\"> ... </span> Stade de Reims Strasbourg Atacante Mediocampista Defensor Arquero 18 <em>Renato</em> <em>Sanches</em> #18 8 Xeka #8 21<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Renato Sanches Noticias | ESPN",
+            "originalURL": "https://www.espn.com.mx/futbol/jugador/noticias/_/id/227217/renato-sanches",
+            "snippet": "<em>Renato</em> <em>Sanches</em> Noticias | ESPN Ir a la navegaci&oacute;n Presentado por Menu ESPN F&uacute;tbol MLB F. Americano Tenis Boxeo B&aacute;squetbol Play TV Juegos <em>Renato</em> <em>Sanches</em> Lille #18 Mediocampista Seguir Est/Pes 1.75 m<span class=\"ellipsis\"> ... </span> la planeaci&oacute;n. 1Y Bayern Munich F&uacute;tbol <em>Renato</em> <em>Sanches</em> se llev&oacute; el galard&oacute;n Golden Boy El exjugador<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Renato Sanches Noticias | ESPN",
+            "originalURL": "https://www.espn.com.pe/futbol/jugador/noticias/_/id/227217/renato-sanches",
+            "snippet": "<em>Renato</em> <em>Sanches</em> Noticias | ESPN Ir a la navegaci&oacute;n Menu ESPN F&uacute;tbol B&aacute;squetbol Boxeo Tenis Deporte Motor ESPN Run TV Play <em>Renato</em> <em>Sanches</em> Lille #18 Mediocampista Seguir Est/Pes 1.75 m, 68 kg FDN 18/8<span class=\"ellipsis\"> ... </span> Rennes Stade de Reims Strasbourg Atacante Mediocampista Defensor Arquero 18 <em>Renato</em> <em>Sanches</em> #18 8 Xeka<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Renato Sanches Noticias | - ESPN",
+            "originalURL": "https://www.espn.com.uy/futbol/jugador/noticias/_/id/227217/renato-sanches",
+            "snippet": "<em>Renato</em> <em>Sanches</em> Noticias | - ESPN Ir a la navegaci&oacute;n Menu ESPN F&uacute;tbol B&aacute;squetbol Rugby Tenis Deporte Motor MMA Play TV <em>Renato</em> <em>Sanches</em> Lille #18 Mediocampista Seguir Est/Pes 1.75 m, 68 kg FDN 18/8/1997<span class=\"ellipsis\"> ... </span> Stade de Reims Strasbourg Atacante Mediocampista Defensor Arquero 18 <em>Renato</em> <em>Sanches</em> #18 8 Xeka #8<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Renato Sanches Noticias | - ESPN",
+            "originalURL": "https://www.espn.com.pa/futbol/jugador/noticias/_/id/227217/renato-sanches",
+            "snippet": "<em>Renato</em> <em>Sanches</em> Noticias | - ESPN Ir a la navegaci&oacute;n Menu ESPN F&uacute;tbol MLB Boxeo B&aacute;squetbol Ciclismo F. Americano Play TV Juegos <em>Renato</em> <em>Sanches</em> Lille #18 Mediocampista Seguir Est/Pes 1.75 m, 68 kg FDN<span class=\"ellipsis\"> ... </span> Stade Rennes Stade de Reims Strasbourg Atacante Mediocampista Defensor Arquero 18 <em>Renato</em> <em>Sanches</em> #18 8<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Renato Sanches Noticias | - ESPN",
+            "originalURL": "https://www.espn.com.ec/futbol/jugador/noticias/_/id/227217/renato-sanches",
+            "snippet": "<em>Renato</em> <em>Sanches</em> Noticias | - ESPN Ir a la navegaci&oacute;n Menu ESPN F&uacute;tbol Tenis Ciclismo B&aacute;squetbol ESPN Run Boxeo TV Play <em>Renato</em> <em>Sanches</em> Lille #18 Mediocampista Seguir Est/Pes 1.75 m, 68 kg FDN 18/8/1997<span class=\"ellipsis\"> ... </span> Stade de Reims Strasbourg Atacante Mediocampista Defensor Arquero 18 <em>Renato</em> <em>Sanches</em> #18 8 Xeka #8<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Renato Sanches Noticias | - ESPN",
+            "originalURL": "https://www.espn.com.gt/futbol/jugador/noticias/_/id/227217/renato-sanches",
+            "snippet": "<em>Renato</em> <em>Sanches</em> Noticias | - ESPN Ir a la navegaci&oacute;n Menu ESPN F&uacute;tbol Otros Deportes MLB F. Americano B&aacute;squetbol Ciclismo Play TV Juegos <em>Renato</em> <em>Sanches</em> Lille #18 Mediocampista Seguir Est/Pes 1.75 m<span class=\"ellipsis\"> ... </span>-Etienne Stade Rennes Stade de Reims Strasbourg Atacante Mediocampista Defensor Arquero 18 <em>Renato</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Renato Sanches Noticias | - ESPN",
+            "originalURL": "https://www.espn.com.do/futbol/jugador/noticias/_/id/227217/renato-sanches",
+            "snippet": "<em>Renato</em> <em>Sanches</em> Noticias | - ESPN Ir a la navegaci&oacute;n Menu ESPN MLB B&aacute;squetbol F&uacute;tbol Golf Tenis F. Americano Play TV Juegos <em>Renato</em> <em>Sanches</em> Lille #18 Mediocampista Seguir Est/Pes 1.75 m, 68 kg FDN 18/8<span class=\"ellipsis\"> ... </span> Rennes Stade de Reims Strasbourg Atacante Mediocampista Defensor Arquero 18 <em>Renato</em> <em>Sanches</em> #18 8 Xeka<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Renato Sanches Estad\u00edsticas | - ESPN",
+            "originalURL": "https://www.espn.com.do/futbol/jugador/estadisticas/_/id/227217/renato-sanches",
+            "snippet": "<em>Renato</em> <em>Sanches</em> Estad&iacute;sticas | - ESPN Ir a la navegaci&oacute;n Menu ESPN MLB B&aacute;squetbol F&uacute;tbol Golf Tenis F. Americano Play TV Juegos <em>Renato</em> <em>Sanches</em> Lille #18 Mediocampista Seguir Est/Pes 1.75 m, 68 kg FDN 18/8/1997 (23) Estad&iacute;sticas de temporada 2020-21 1FRA TIT (SUP) 1 (0) G 0 A 0 TT 2 Perfil de Jugador<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Renato Sanches Estad\u00edsticas | ESPN",
+            "originalURL": "https://www.espn.com.mx/futbol/jugador/estadisticas/_/id/227217/renato-sanches",
+            "snippet": "<em>Renato</em> <em>Sanches</em> Estad&iacute;sticas | ESPN Ir a la navegaci&oacute;n Presentado por Menu ESPN F&uacute;tbol MLB F. Americano Tenis Boxeo B&aacute;squetbol Play TV Juegos <em>Renato</em> <em>Sanches</em> Lille #18 Mediocampista Seguir Est/Pes 1.75 m, 68 kg FDN 18/8/1997 (23) Estad&iacute;sticas de temporada 2020-21 1FRA TIT (SUP) 1 (0) G 0 A 0 TT 2<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Renato Sanches Biograf\u00eda | ESPN",
+            "originalURL": "https://www.espn.com.ar/futbol/jugador/bio/_/id/227217/renato-sanches",
+            "snippet": "<em>Renato</em> <em>Sanches</em> Biograf&iacute;a | ESPN Ir a la navegaci&oacute;n Menu ESPN F&uacute;tbol Rugby Tenis B&aacute;squetbol Deporte Motor Hockey Play TV <em>Renato</em> <em>Sanches</em> Lille #18 Mediocampista Seguir Est/Pes 1.75 m, 68 kg FDN 18/8/1997 (23) Estad&iacute;sticas de temporada 2020-21 1FRA TIT (SUP) 1 (0) G 0 A 0 TT 2 Perfil de Jugador Bio<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Renato Sanches Biograf\u00eda | - ESPN",
+            "originalURL": "https://www.espn.com.pa/futbol/jugador/bio/_/id/227217/renato-sanches",
+            "snippet": "<em>Renato</em> <em>Sanches</em> Biograf&iacute;a | - ESPN Ir a la navegaci&oacute;n Menu ESPN F&uacute;tbol MLB Boxeo B&aacute;squetbol Ciclismo F. Americano Play TV Juegos <em>Renato</em> <em>Sanches</em> Lille #18 Mediocampista Seguir Est/Pes 1.75 m, 68 kg FDN 18/8/1997 (23) Estad&iacute;sticas de temporada 2020-21 1FRA TIT (SUP) 1 (0) G 0 A 0 TT 2 Perfil de<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Renato Sanches - Estat\u00edsticas | ESPN",
+            "originalURL": "https://www.espn.com.br/futebol/jogador/estatisticas/_/id/227217/renato-sanches",
+            "snippet": "<em>Renato</em> <em>Sanches</em> - Estat&iacute;sticas | ESPN Ir para o Menu Principal Menu ESPN Futebol NFL NBA MMA eSports espnW Blogs Assista <em>Renato</em> <em>Sanches</em> Lille #18 Meio campista Seguir A/P 1.75 m, 68 kg DOB 18/8/1997 (23) Estat&iacute;sticas da Temporada 2020-21 Franc&ecirc;s TIT (RES) 1 (0) G 0 A 0 TC 2 Perfil do jogador Bio<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Renato Sanches Biograf\u00eda | - ESPN",
+            "originalURL": "https://www.espn.com.uy/futbol/jugador/bio/_/id/227217/renato-sanches",
+            "snippet": "<em>Renato</em> <em>Sanches</em> Biograf&iacute;a | - ESPN Ir a la navegaci&oacute;n Menu ESPN F&uacute;tbol B&aacute;squetbol Rugby Tenis Deporte Motor MMA Play TV <em>Renato</em> <em>Sanches</em> Lille #18 Mediocampista Seguir Est/Pes 1.75 m, 68 kg FDN 18/8/1997 (23) Estad&iacute;sticas de temporada 2020-21 1FRA TIT (SUP) 1 (0) G 0 A 0 TT 2 Perfil de Jugador Bio<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Renato Sanches Biograf\u00eda | ESPN",
+            "originalURL": "https://www.espn.com.pe/futbol/jugador/bio/_/id/227217/renato-sanches",
+            "snippet": "<em>Renato</em> <em>Sanches</em> Biograf&iacute;a | ESPN Ir a la navegaci&oacute;n Menu ESPN F&uacute;tbol B&aacute;squetbol Boxeo Tenis Deporte Motor ESPN Run TV Play <em>Renato</em> <em>Sanches</em> Lille #18 Mediocampista Seguir Est/Pes 1.75 m, 68 kg FDN 18/8/1997 (23) Estad&iacute;sticas de temporada 2020-21 1FRA TIT (SUP) 1 (0) G 0 A 0 TT 2 Perfil de Jugador Bio<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Renato Sanches Biograf\u00eda | ESPN",
+            "originalURL": "https://www.espn.com.co/futbol/jugador/bio/_/id/227217/renato-sanches",
+            "snippet": "<em>Renato</em> <em>Sanches</em> Biograf&iacute;a | ESPN Ir a la navegaci&oacute;n Menu ESPN F&uacute;tbol Ciclismo Tenis MLB B&aacute;squetbol ESPN Run Play TV <em>Renato</em> <em>Sanches</em> Lille #18 Mediocampista Seguir Est/Pes 1.75 m, 68 kg FDN 18/8/1997 (23) Estad&iacute;sticas de temporada 2020-21 1FRA TIT (SUP) 1 (0) G 0 A 0 TT 2 Perfil de Jugador Bio<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Renato Sanches Estad\u00edsticas | ESPN",
+            "originalURL": "https://www.espn.com.ve/futbol/jugador/estadisticas/_/id/227217/renato-sanches",
+            "snippet": "<em>Renato</em> <em>Sanches</em> Estad&iacute;sticas | ESPN Ir a la navegaci&oacute;n Menu ESPN MLB F&uacute;tbol B&aacute;squetbol Boxeo MMA Tenis Video TV <em>Renato</em> <em>Sanches</em> Lille #18 Mediocampista Seguir Est/Pes 1.75 m, 68 kg FDN 18/8/1997 (23) Estad&iacute;sticas de temporada 2020-21 1FRA TIT (SUP) 1 (0) G 0 A 0 TT 2 Perfil de Jugador Bio Noticias<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Renato Sanches Estad\u00edsticas | - ESPN",
+            "originalURL": "https://www.espn.com.ec/futbol/jugador/estadisticas/_/id/227217/renato-sanches",
+            "snippet": "<em>Renato</em> <em>Sanches</em> Estad&iacute;sticas | - ESPN Ir a la navegaci&oacute;n Menu ESPN F&uacute;tbol Tenis Ciclismo B&aacute;squetbol ESPN Run Boxeo TV Play <em>Renato</em> <em>Sanches</em> Lille #18 Mediocampista Seguir Est/Pes 1.75 m, 68 kg FDN 18/8/1997 (23) Estad&iacute;sticas de temporada 2020-21 1FRA TIT (SUP) 1 (0) G 0 A 0 TT 2 Perfil de Jugador Bio<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Renato Sanches Biograf\u00eda | - ESPN",
+            "originalURL": "https://www.espn.com.gt/futbol/jugador/bio/_/id/227217/renato-sanches",
+            "snippet": "<em>Renato</em> <em>Sanches</em> Biograf&iacute;a | - ESPN Ir a la navegaci&oacute;n Menu ESPN F&uacute;tbol Otros Deportes MLB F. Americano B&aacute;squetbol Ciclismo Play TV Juegos <em>Renato</em> <em>Sanches</em> Lille #18 Mediocampista Seguir Est/Pes 1.75 m, 68 kg FDN 18/8/1997 (23) Estad&iacute;sticas de temporada 2020-21 1FRA TIT (SUP) 1 (0) G 0 A 0 TT 2 Perfil<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Renato Sanches Golden Boy | Relvado",
+            "originalURL": "http://m.relvado.aeiou.pt/internacional/renato-sanches-golden-boy-519758?device=mobile",
+            "snippet": "<em>Renato</em> <em>Sanches</em> Golden Boy | Relvado Relvado Menu Benfica FC Porto Sporting In&iacute;cio Internacional I<span class=\"ellipsis\"> ... </span> Ta&ccedil;a de Portugal Ta&ccedil;a da Liga II Liga Modalidades Ins&oacute;lito Off-side <em>Renato</em> <em>Sanches</em> Golden Boy Relvado7<span class=\"ellipsis\"> ... </span> Golden Boy, <em>Renato</em> <em>Sanches</em> &eacute; o vencedor da 14.&ordf; edi&ccedil;&atilde;o do Golden Boy, prestigiado pr&eacute;mio atribu&iacute;do<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Renato Sanches Golden Boy | Relvado",
+            "originalURL": "http://m.relvado.aeiou.pt/internacional/renato-sanches-golden-boy-519758?device=mobile",
+            "snippet": "<em>Renato</em> <em>Sanches</em> Golden Boy | Relvado Relvado Menu Benfica FC Porto Sporting In&iacute;cio Internacional I<span class=\"ellipsis\"> ... </span> Ta&ccedil;a de Portugal Ta&ccedil;a da Liga II Liga Modalidades Ins&oacute;lito Off-side <em>Renato</em> <em>Sanches</em> Golden Boy Relvado7<span class=\"ellipsis\"> ... </span> Golden Boy, <em>Renato</em> <em>Sanches</em> &eacute; o vencedor da 14.&ordf; edi&ccedil;&atilde;o do Golden Boy, prestigiado pr&eacute;mio atribu&iacute;do<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "A BOLA - Renato Sanches dispensado (Sele\u00e7\u00e3o)",
+            "originalURL": "https://www.abola.pt/amp/noticias/ver/859392",
+            "snippet": "A BOLA - <em>Renato</em> <em>Sanches</em> dispensado (Sele&ccedil;&atilde;o) 30 Setembro &Uacute;ltima Hora Nacional Internacional<span class=\"ellipsis\"> ... </span> Mundo Estatuto Editorial <em>Renato</em> <em>Sanches</em> dispensado Sele&ccedil;&atilde;o - 03-09-2020 11:16 Por Reda&ccedil;&atilde;o <em>Renato</em> Saches<span class=\"ellipsis\"> ... </span> frente a Cro&aacute;cia e Su&eacute;cia pela&nbsp;Unidade de Sa&uacute;de e Performance da FPF. <em>Renato</em> <em>Sanches</em> tinha realizado<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "renato sanches lille bulo - Streamable",
+            "originalURL": "https://streamable.com/s/lw44s/jwbmma",
+            "snippet": "<em>renato</em> <em>sanches</em> lille bulo - Streamable Loading... Speed 2 1.5 1 &frac12; &frac14; Download video Copy video URL Copy embed code Report issue Powered by Streamable<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Vergonha Alheia - Renato Sanches - Streamable",
+            "originalURL": "https://streamable.com/s/bbzzn/espf",
+            "snippet": "Vergonha Alheia - <em>Renato</em> <em>Sanches</em> - Streamable Speed 2 1.5 1 &frac12; &frac14; Download video Copy video URL Copy embed code Report issue Powered by Streamable<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Renato Sanches est\u00e1 infetado com covid-19",
+            "originalURL": "https://ionline.sapo.pt/artigo/703306/renato-sanches-esta-infetado-com-covid-19?seccao=Desporto_i",
+            "snippet": "<em>Renato</em> <em>Sanches</em> est&aacute; infetado com covid-19 20/7/20 Pesquisar Portugal Dinheiro Mundo Desporto Surf<span class=\"ellipsis\"> ... </span> Cinema lifestyle Opini&atilde;o Coronav&iacute;rus Edi&ccedil;&atilde;o Digital Pesquisar &nbsp; &nbsp; <em>Renato</em> <em>Sanches</em> est&aacute; infetado com covid-19 <em>Renato</em> <em>Sanches</em> est&aacute; infetado com covid-19 Twitter jornal i 18/07/2020 19:59 Facebook<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Troph\u00e9es UNFP : Votez pour Renato Sanches ! | Lille LOSC",
+            "originalURL": "https://www.losc.fr/actualites-foot-lille/troph%C3%A9es-unfp-votez-pour-renato-sanches",
+            "snippet": "Troph&eacute;es UNFP : Votez pour <em>Renato</em> <em>Sanches</em> ! | Lille LOSC menu &nbsp; Fermer X &nbsp; LOSC TV NEWS CLUB<span class=\"ellipsis\"> ... </span> FAMILLE DU FOOTBALL &nbsp; Fermer X 10.03.2020 Troph&eacute;es UNFP : Votez pour <em>Renato</em> <em>Sanches</em> ! Partager cet article<span class=\"ellipsis\"> ... </span> Conforama, <em>Renato</em> <em>Sanches</em> fait face &agrave; Kylian Mbapp&eacute; (Paris Saint-Germain) et T&eacute;ji Savanier (Montpellier<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Lille: un club inglese pensa a Renato Sanches",
+            "originalURL": "https://amp.calciomercato.com/news/lille-un-club-inglese-pensa-a-renato-sanches-86618",
+            "snippet": "Lille: un club inglese pensa a <em>Renato</em> <em>Sanches</em> Menu Sezioni Home Tutte le notizie Live Prima pagina<span class=\"ellipsis\"> ... </span> club inglese pensa a <em>Renato</em> <em>Sanches</em> del 08 novembre 2020 alle 22:43 + commenta Autore di una grande stagione con il Lille , il centrocampista portoghese classe 1997 <em>Renato</em> <em>Sanches</em> &egrave; entrato nel<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Ronaldo lesionado e Renato Sanches dispensado da Sele\u00e7\u00e3o Nacional",
+            "originalURL": "https://sol.sapo.pt/artigo/707646/ronaldo-lesionado-e-renato-sanches-dispensado-da-selecao-nacional",
+            "snippet": "Ronaldo lesionado e <em>Renato</em> <em>Sanches</em> dispensado da Sele&ccedil;&atilde;o Nacional Menu &Uacute;ltimas Sociedade Economia<span class=\"ellipsis\"> ... </span> 2020 Ronaldo lesionado e <em>Renato</em> <em>Sanches</em> dispensado da Sele&ccedil;&atilde;o Nacional Cristiano Ronaldo tem infe&ccedil;&atilde;o<span class=\"ellipsis\"> ... </span> Federa&ccedil;&atilde;o Portuguesa de Futebol (FPF) anunciou, esta quinta-feira, que <em>Renato</em> <em>Sanches</em> foi dispensado<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Tribuna Expresso | Renato Sanches testou positivo para covid-19",
+            "originalURL": "https://tribunaexpresso.pt/futebol-internacional/2020-07-18-Renato-Sanches-testou-positivo-para-covid-19",
+            "snippet": "Tribuna Expresso | <em>Renato</em> <em>Sanches</em> testou positivo para covid-19 Tribuna Expresso Assinar Loja Facebook Twitter Instagram RSS Feed Login Logout Perfil SIC Not&iacute;cias Menu Futebol internacional <em>Renato</em><span class=\"ellipsis\"> ... </span> Partilhar Facebook Twitter Email Whatsapp Mais Google+ Linkedin Pinterest Link: <em>Renato</em> <em>Sanches</em> encontra<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Futebol: Renato Sanches desafia Neymar e Kylian Mbapp\u00e9",
+            "originalURL": "https://amp.rfi.fr/pt/franca/20200126-futebol-renato-sanches-desafia-neymar-e-kylian-mbappe-lille-psg-paris-desporto",
+            "snippet": "Futebol: <em>Renato</em> <em>Sanches</em> desafia Neymar e Kylian Mbapp&eacute; Ao continuar na site aceita a utiliza&ccedil;&atilde;o de<span class=\"ellipsis\"> ... </span>: <em>Renato</em> <em>Sanches</em> desafia Neymar e Kylian Mbapp&eacute; Publicado a: 26/01/2020 - 16:39 Modificado a: 26/01/2020 - 16:40 <em>Renato</em> <em>Sanches</em> (esquerda), internacional portugu&ecirc;s do Lille. DENIS CHARLET / AFP Texto por<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Presidente do Bayern abre portas \u00e0 sa\u00edda de Renato Sanches",
+            "originalURL": "http://ptjornal.com/presidente-do-bayern-abre-portas-saida-renato-sanches-184691",
+            "snippet": "Presidente do Bayern abre portas &agrave; sa&iacute;da de <em>Renato</em> <em>Sanches</em> TV Ins&oacute;lito Nas Redes Nas Not&iacute;cias Hoje<span class=\"ellipsis\"> ... </span> <em>Renato</em> <em>Sanches</em> Por Reda&ccedil;&atilde;o 24 Julho 2017 - 15:17 A perman&ecirc;ncia de <em>Renato</em> <em>Sanches</em> em Munique parece<span class=\"ellipsis\"> ... </span> internacional portugu&ecirc;s. &#8220;Se <em>Renato</em> <em>Sanches</em> entender que &eacute; melhor para a sua carreira ser emprestado ou<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Renato Sanches dispensado da sele\u00e7\u00e3o devido a les\u00e3o muscular | MAISFUTEBOL",
+            "originalURL": "https://maisfutebol.iol.pt/portugal/franca/renato-sanches-dispensado-da-selecao-devido-a-lesao-muscular",
+            "snippet": "<em>Renato</em> <em>Sanches</em> dispensado da sele&ccedil;&atilde;o devido a les&atilde;o muscular | MAISFUTEBOL MENU MAISFUTEBOL<span class=\"ellipsis\"> ... </span> CLASSIFICA&Ccedil;&Otilde;ES MAISANDEBOL LIGA DOS CAMPE&Otilde;ES RONALDO Sele&ccedil;&atilde;o Hoje &agrave;s 13:48 <em>Renato</em> <em>Sanches</em> dispensado da<span class=\"ellipsis\"> ... </span> @maisfutebol O m&eacute;dio <em>Renato</em> <em>Sanches</em> foi dispensado este s&aacute;bado da sele&ccedil;&atilde;o nacional de Portugal<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Futebol: Renato Sanches desafia Neymar e Kylian Mbapp\u00e9",
+            "originalURL": "http://www.rfi.fr/pt/franca/20200126-futebol-renato-sanches-desafia-neymar-e-kylian-mbappe-lille-psg-paris-desporto",
+            "snippet": "Futebol: <em>Renato</em> <em>Sanches</em> desafia Neymar e Kylian Mbapp&eacute; Acesso ao principal conte&uacute;do L&iacute;nguas<span class=\"ellipsis\"> ... </span> Desporto Futebol: <em>Renato</em> <em>Sanches</em> desafia Neymar e Kylian Mbapp&eacute; Publicado a: 26/01/2020 - 16:39 Modificado a: 26/01/2020 - 16:40 <em>Renato</em> <em>Sanches</em> (esquerda), internacional portugu&ecirc;s do Lille. DENIS CHARLET<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Renato Sanches testou positivo \u00e0 COVID-19 - Ligue 1 - SAPO Desporto",
+            "originalURL": "https://desporto.sapo.pt/futebol/ligue-1/artigos/renato-sanches-testa-positivo-a-covid-19",
+            "snippet": "<em>Renato</em> <em>Sanches</em> testou positivo &agrave; COVID-19 - Ligue 1 - SAPO Desporto SAPO Desporto In&iacute;cio Nacional I<span class=\"ellipsis\"> ... </span> <em>Sanches</em> testou positivo &agrave; COVID-19 Sportinforma 18 jul 2020 19:48 Ligue 1 Ligue 1 <em>Renato</em> <em>Sanches</em><span class=\"ellipsis\"> ... </span> jogadores do Lille, entre eles <em>Renato</em> <em>Sanches</em>, testaram positivo &agrave; Covid-19. Os outros foram<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "TOPSHOT - Portugal's midfielder Renato Sanches, Portugal's forward... Nachrichtenfoto - Getty Images",
+            "originalURL": "https://www.gettyimages.at/detail/nachrichtenfoto/portugals-midfielder-renato-sanches-portugals-forward-nachrichtenfoto/545945830",
+            "snippet": "TOPSHOT - Portugal's midfielder <em>Renato</em> <em>Sanches</em>, Portugal's forward... Nachrichtenfoto - Getty<span class=\"ellipsis\"> ... </span> TOPSHOT - (From R) Portugal's midfielder <em>Renato</em> <em>Sanches</em>, Portugal's forward Eder, Portugal's defender<span class=\"ellipsis\"> ... </span> Fotos <em>Renato</em> <em>Sanches</em> Fotos Ricardo Quaresma Fotos Saint-Denis - Paris Fotos Seine-St-Denis Fotos<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "TOPSHOT - Portugal's midfielder Renato Sanches, Portugal's forward... Nachrichtenfoto - Getty Images",
+            "originalURL": "https://www.gettyimages.de/detail/nachrichtenfoto/portugals-midfielder-renato-sanches-portugals-forward-nachrichtenfoto/545945830",
+            "snippet": "TOPSHOT - Portugal's midfielder <em>Renato</em> <em>Sanches</em>, Portugal's forward... Nachrichtenfoto - Getty<span class=\"ellipsis\"> ... </span> TOPSHOT - (From R) Portugal's midfielder <em>Renato</em> <em>Sanches</em>, Portugal's forward Eder, Portugal's defender<span class=\"ellipsis\"> ... </span> Fu&szlig;ballnationalmannschaft Fotos <em>Renato</em> <em>Sanches</em> Fotos Ricardo Quaresma Fotos Saint-Denis - Paris Fotos Seine-St<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "A BOLA - Renato Sanches: \u00abChega de queixas\u00bb (Lille)",
+            "originalURL": "https://www.abola.pt/amp/noticias/ver/843956",
+            "snippet": "A BOLA - <em>Renato</em> <em>Sanches</em>: &laquo;Chega de queixas&raquo; (Lille) 30 Setembro &Uacute;ltima Hora Nacional Internacional<span class=\"ellipsis\"> ... </span> no Mundo Estatuto Editorial <em>Renato</em> <em>Sanches</em>: &laquo;Chega de queixas&raquo; Lille - 10-05-2020 19:56 Por Reda&ccedil;&atilde;o<span class=\"ellipsis\"> ... </span>, <em>Renato</em> <em>Sanches</em> deixou uma mensagem no Twitter , este domingo. &laquo;Chega de queixas, seguir em frente<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Renato Sanches nas camadas jovens do SL Benfica - YouTube",
+            "originalURL": "https://www.youtube.com/embed/_qyzdO86oKE",
+            "snippet": "<em>Renato</em> <em>Sanches</em> nas camadas jovens do SL Benfica - YouTube Ocorreu um erro. Experimente ver este v&iacute;deo em www.youtube.com ou ative o JavaScript se estiver desativado no seu navegador.<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "TOPSHOT - Portugal's midfielder Renato Sanches, Portugal's forward... Nyhetsfoto - Getty Images",
+            "originalURL": "https://www.gettyimages.se/detail/nyhetsfoto/portugals-midfielder-renato-sanches-portugals-forward-eder-nyhetsfoto/545945830",
+            "snippet": "TOPSHOT - Portugal's midfielder <em>Renato</em> <em>Sanches</em>, Portugal's forward... Nyhetsfoto - Getty Images KREATIVT MATERIAL Projektet #ShowUs Creative Insights REDAKTIONELLT MATERIAL VIDEO BBC Motion Gallery<span class=\"ellipsis\"> ... </span> Portugals fotbollslandslag Fotografier <em>Renato</em> <em>Sanches</em> Fotografier Ricardo Quaresma Fotografier Saint<span class=\"ellipsis\"> ... </span>"
+        }
+    ]
+}

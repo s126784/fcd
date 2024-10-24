@@ -1,0 +1,273 @@
+{
+    "serviceName": "Arquivo.pt - the Portuguese web-archive",
+    "linkToService": "https://arquivo.pt",
+    "next_page": "https://arquivo.pt/textsearch?q=Andr%C3%A9+Gomes&from=20180101000000&to=20181231235959&fields=title%2Csnippet%2CoriginalURL%2Ctimestamp&offset=50",
+    "estimated_nr_results": 1114629,
+    "request_parameters": {
+        "offset": 0,
+        "dedupValue": 2,
+        "from": "20180101000000",
+        "to": "20181231235959",
+        "fields": [
+            "title",
+            "snippet",
+            "originalURL",
+            "timestamp"
+        ],
+        "dedupField": "site",
+        "q": "Andr\u00e9 Gomes",
+        "maxItems": 50
+    },
+    "response_items": [
+        {
+            "title": "Andr\u00e9 Gomes",
+            "originalURL": "http://blogvisaodemercado.pt/2018/11/portugal-andre-gomes-dispensado-da-seleccao/",
+            "snippet": "<em>Andr&eacute;</em> <em>Gomes</em> Skip links Skip to primary navigation Skip to content Skip to primary sidebar Skip to<span class=\"ellipsis\"> ... </span> V&iacute;deos Contactos Portugal: <em>Andr&eacute;</em> <em>Gomes</em> dispensado da selec&ccedil;&atilde;o 12 Novembro, 2018 por Vis&atilde;o Desportiva 4 Coment&aacute;rios Quem deve ser o substituto? Fica adiado o regresso de <em>Andr&eacute;</em> <em>Gomes</em> &agrave; selec&ccedil;&atilde;o nacional<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Bancada | N\u00e9lson Semedo e Andr\u00e9 Gomes integram convocados",
+            "originalURL": "https://bancada.pt/futebol/grandefutebol/nelson-semedo-e-andre-gomes-integram-convocados",
+            "snippet": "Bancada | N&eacute;lson Semedo e <em>Andr&eacute;</em> <em>Gomes</em> integram convocados In&iacute;cio Portugal Grande Futebol Match<span class=\"ellipsis\"> ... </span> Semedo e <em>Andr&eacute;</em> <em>Gomes</em> integram convocados Reda&ccedil;&atilde;o Bancada 2017-12-22 16:00:00 Demb&eacute;l&eacute; ainda n&atilde;o &eacute; desta que ser&aacute; op&ccedil;&atilde;o para Ernesto Valverde Nelson Semedo e <em>Andr&eacute;</em> <em>Gomes</em> integram a lista de convocados do FC<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Blogger: Perfil do utilizador: Jos\u00e9 Gomes Andr\u00e9",
+            "originalURL": "https://www.blogger.com/profile/09638252409339252333",
+            "snippet": "Blogger: Perfil do utilizador: Jos&eacute; <em>Gomes</em> <em>Andr&eacute;</em> Conta Google Pesquisa Mapas YouTube Play Not&iacute;cias Gmail Contactos Drive Calend&aacute;rio Tradutor Fotos Mais Documentos Livros Blogger Hangouts Google Keep Cole&ccedil;&otilde;es Ainda mais do Google Entrar Google Apps Menu principal Jos&eacute; <em>Gomes</em> <em>Andr&eacute;</em> Ver tamanho completo<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Blogger: Perfil do utilizador: Jos\u00e9 Gomes Andr\u00e9",
+            "originalURL": "https://draft.blogger.com/profile/09638252409339252333",
+            "snippet": "Blogger: Perfil do utilizador: Jos&eacute; <em>Gomes</em> <em>Andr&eacute;</em> Conta Google Pesquisa Mapas YouTube Play Not&iacute;cias Gmail Contactos Drive Calend&aacute;rio Tradutor Fotos Mais Documentos Livros Blogger Hangouts Google Keep Cole&ccedil;&otilde;es Ainda mais do Google Entrar Google Apps Menu principal Jos&eacute; <em>Gomes</em> <em>Andr&eacute;</em> Ver tamanho completo<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Blogger: Perfil do utilizador: Jos\u00e9 Gomes Andr\u00e9",
+            "originalURL": "https://www.blogger.com/profile/09638252409339252333",
+            "snippet": "Blogger: Perfil do utilizador: Jos&eacute; <em>Gomes</em> <em>Andr&eacute;</em> Conta Google Pesquisa Mapas YouTube Play Not&iacute;cias Gmail Contactos Drive Calend&aacute;rio Tradutor Fotos Mais Documentos Livros Blogger Hangouts Google Keep Ainda mais do Google Entrar Google Apps Menu principal Jos&eacute; <em>Gomes</em> <em>Andr&eacute;</em> Ver tamanho completo<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Entrevista a Andr\u00e9 Gomes | Revista Panenka - YouTube",
+            "originalURL": "https://www.youtube.com/embed/dYe3qouqTOs?feature=oembed",
+            "snippet": "Entrevista a <em>Andr&eacute;</em> <em>Gomes</em> | Revista Panenka - YouTube Ocorreu um erro. Experimente ver este v&iacute;deo em www.youtube.com ou ative o JavaScript se estiver desativado no seu navegador.<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Entrevista a Andr\u00e9 Gomes | Revista Panenka - YouTube",
+            "originalURL": "https://www.youtube.com/embed/dYe3qouqTOs?feature=oembed",
+            "snippet": "Entrevista a <em>Andr&eacute;</em> <em>Gomes</em> | Revista Panenka - YouTube Ocorreu um erro. Experimente ver este v&iacute;deo em www.youtube.com ou ative o JavaScript se estiver desativado no seu navegador.<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Andr\u00e9 Gomes falha jogos frente a It\u00e1lia e Pol\u00f3nia",
+            "originalURL": "https://www.jn.pt/desporto/interior/andre-gomes-falha-jogos-frente-a-italia-e-polonia-10170237.html",
+            "snippet": "<em>Andr&eacute;</em> <em>Gomes</em> falha jogos frente a It&aacute;lia e Pol&oacute;nia Jornal de Not&iacute;cias Abrir menu Sec&ccedil;&otilde;es ePaper<span class=\"ellipsis\"> ... </span> WhatsApp Sele&ccedil;&atilde;o <em>Andr&eacute;</em> <em>Gomes</em> falha jogos frente a It&aacute;lia e Pol&oacute;nia Foto:&nbsp;David Klein/Reuters 12&nbsp;Novembro&nbsp;2018 JN Ontem&nbsp;&agrave;s&nbsp;22:27 Facebook Twitter Comentar T&oacute;picos Desporto Futebol <em>Andr&eacute;</em> <em>Gomes</em> falha jogos<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Andr\u00e9 Gomes falha It\u00e1lia e Pol\u00f3nia devido a \u2033problemas f\u00edsicos\u2033",
+            "originalURL": "https://www.tsf.pt/desporto/interior/andre-gomes-falha-jogos-com-italia-e-polonia-devido-a-lesao-10170293.html",
+            "snippet": "<em>Andr&eacute;</em> <em>Gomes</em> falha It&aacute;lia e Pol&oacute;nia devido a &#8243;problemas f&iacute;sicos&#8243; In&iacute;cio &Uacute;ltimas Not&iacute;cias Notici&aacute;rios<span class=\"ellipsis\"> ... </span> Pesquisar Desporto Resultados e Classifica&ccedil;&otilde;es Jogos em Direto sele&ccedil;&atilde;o nacional <em>Andr&eacute;</em> <em>Gomes</em> falha<span class=\"ellipsis\"> ... </span> Mustaf&aacute; ouvidos quarta-feira PUB O m&eacute;dio <em>Andr&eacute;</em> <em>Gomes</em> vai falhar os jogos com It&aacute;lia e Pol&oacute;nia, da<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "La jugada m\u00e1s c\u00f3mica de Andr\u00e9 Gomes que se ha hecho viral",
+            "originalURL": "https://www.sport.es/es/noticias/premier-league/jugada-mas-comica-andre-gomes-que-hecho-viral-7102530",
+            "snippet": "La jugada m&aacute;s c&oacute;mica de <em>Andr&eacute;</em> <em>Gomes</em> que se ha hecho viral Temas del d&iacute;a: Im&aacute;genes Messi Real Madrid<span class=\"ellipsis\"> ... </span> Championship F&uacute;tbol | F&uacute;tbol Internacional | Premier League La jugada m&aacute;s c&oacute;mica de <em>Andr&eacute;</em> <em>Gomes</em> que se ha hecho viral <em>Andr&eacute;</em> <em>Gomes</em> debuta con el Everton y es el protagonista de la jugada m&aacute;s c&oacute;mica de<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Barcelona quer vender Andr\u00e9 Gomes no ver\u00e3o - Espanha - Jornal Record",
+            "originalURL": "http://www.record.pt/internacional/paises/espanha/detalhe/barcelona-quer-vender-andre-gomes-no-verao.html",
+            "snippet": "Barcelona quer vender <em>Andr&eacute;</em> <em>Gomes</em> no ver&atilde;o - Espanha - Jornal Record Quarta-feira, 14 de fevereiro<span class=\"ellipsis\"> ... </span> 13h54 Barcelona quer vender <em>Andr&eacute;</em> <em>Gomes</em> no ver&atilde;o Internacional portugu&ecirc;s n&atilde;o tem conseguido vingar na Catalunha O jornal espanhol 'As' escreve esta quarta-feira que o futuro de <em>Andr&eacute;</em> <em>Gomes</em> no Barcelona &eacute;<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Barcelona: Andr\u00e9 Gomes novamente fora dos convocados | Maisfutebol.iol.pt",
+            "originalURL": "http://www.maisfutebol.iol.pt/internacional/nelson-semedo/barcelona-andre-gomes-novamente-fora-dos-convocados",
+            "snippet": "Barcelona: <em>Andr&eacute;</em> <em>Gomes</em> novamente fora dos convocados | Maisfutebol.iol.pt } MENU MAISFUTEBOL<span class=\"ellipsis\"> ... </span> FANTASY Internacional H&aacute; 1h e 8min Barcelona: <em>Andr&eacute;</em> <em>Gomes</em> novamente fora dos convocados Em sentido<span class=\"ellipsis\"> ... </span>, Semedo est&aacute; na lista de Valverde Reda&ccedil;&atilde;o Maisfutebol @maisfutebol <em>Andr&eacute;</em> <em>Gomes</em> est&aacute; fora dos eleitos de<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Not\u00edcias ao Minuto - Andr\u00e9 Gomes \u00e9 oferecido e disputado por ingleses",
+            "originalURL": "https://www.noticiasaominuto.com/desporto/934049/andre-gomes-e-oferecido-e-disputado-por-ingleses",
+            "snippet": "Not&iacute;cias ao Minuto - <em>Andr&eacute;</em> <em>Gomes</em> &eacute; oferecido e disputado por ingleses 7&ordm; &Uacute;ltima Hora Pol&iacute;tica Rui<span class=\"ellipsis\"> ... </span>, gra&ccedil;as a um pen&aacute;lti de Jonas ao minuto 90. &copy; VSports Partilhe este v&iacute;deo <em>Andr&eacute;</em> <em>Gomes</em> &eacute; oferecido e<span class=\"ellipsis\"> ... </span> futuro de <em>Andr&eacute;</em> <em>Gomes</em> no Barcelona estar&aacute; incerto. O jovem jogador portugu&ecirc;s foi oferecido, segundo o<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Treinador do FC Barcelona enaltece atitude corajosa de Andr\u00e9 Gomes - Desporto - S\u00c1BADO",
+            "originalURL": "https://www.sabado.pt/desporto/detalhe/treinador-do-fc-barcelona-enaltece-atitude-corajosa-de-andre-gomes",
+            "snippet": "Treinador do FC Barcelona enaltece atitude corajosa de <em>Andr&eacute;</em> <em>Gomes</em> - Desporto - S&Aacute;BADO Este website<span class=\"ellipsis\"> ... </span> Desporto Treinador do FC Barcelona enaltece atitude &quot;corajosa&quot; de <em>Andr&eacute;</em> <em>Gomes</em> 17:46 por&nbsp; Lusa 0 Ernesto<span class=\"ellipsis\"> ... </span> Barcelona, Ernesto Valverde, afirmou hoje que o futebolista portugu&ecirc;s <em>Andr&eacute;</em> <em>Gomes</em> foi &quot;corajoso&quot; ao<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Andr\u00e9 Gomes e Nelson Semedo enaltecem qualidades humanas de Andr\u00e9s Iniesta | Futebol 365",
+            "originalURL": "http://www.futebol365.pt/artigo/188233-andre-gomes-e-nelson-semedo-enaltecem-qualidades-humanas-de-andres-iniesta/?utm_source=aeiou&utm_medium=feed&utm_campaign=destaque_aeiou",
+            "snippet": "<em>Andr&eacute;</em> <em>Gomes</em> e Nelson Semedo enaltecem qualidades humanas de Andr&eacute;s Iniesta | Futebol 365 Caro<span class=\"ellipsis\"> ... </span> Liga Campe&otilde;es Liga Europa JohnnyBet Home &raquo; Not&iacute;cias &raquo; Internacional <em>Andr&eacute;</em> <em>Gomes</em> e Nelson Semedo<span class=\"ellipsis\"> ... </span>:10 Barcelona Andres Iniesta <em>Andr&eacute;</em> <em>Gomes</em> N&eacute;lson Semedo Os futebolistas portugueses do FC Barcelona<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "A BOLA BRASIL - Alisson nega golo a Andr\u00e9 Gomes de forma espetacular (v\u00eddeo) (Inglaterra)",
+            "originalURL": "https://www.abolabrasil.com/Nnh/Noticias/Ver/762134",
+            "snippet": "A BOLA BRASIL - Alisson nega golo a <em>Andr&eacute;</em> <em>Gomes</em> de forma espetacular (v&iacute;deo) (Inglaterra) ... Login Edi&ccedil;&atilde;o digital Loja d'Abola Login Edi&ccedil;&atilde;o digital Loja d'Abola Alisson nega golo a <em>Andr&eacute;</em> <em>Gomes</em> de forma espetacular (v&iacute;deo) Inglaterra 16:55 Por Reda&ccedil;&atilde;o Por Reda&ccedil;&atilde;o <em>Andr&eacute;</em> <em>Gomes</em> est&aacute; a ser um dos<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Busquets sobre Andr\u00e9 Gomes: \u00abSab\u00edamos algo, mas n\u00e3o at\u00e9 este ponto\u00bb | Futebol 365",
+            "originalURL": "http://www.futebol365.pt/artigo/186024-busquets-sobre-andre-gomes-sabiamos-algo-mas-nao-ate-este-ponto/?utm_source=aeiou&utm_medium=feed&utm_campaign=destaque_aeiou",
+            "snippet": "Busquets sobre <em>Andr&eacute;</em> <em>Gomes</em>: &laquo;Sab&iacute;amos algo, mas n&atilde;o at&eacute; este ponto&raquo; | Futebol 365 Caro visitante<span class=\"ellipsis\"> ... </span> Campe&otilde;es Liga Europa JohnnyBet Home &raquo; Not&iacute;cias &raquo; Internacional Busquets sobre <em>Andr&eacute;</em> <em>Gomes</em>: &laquo;Sab&iacute;amos<span class=\"ellipsis\"> ... </span> Busquets <em>Andr&eacute;</em> <em>Gomes</em> O espanhol Sergio Busquets comentou as declara&ccedil;&otilde;es de <em>Andr&eacute;</em> <em>Gomes</em>, que afirmou<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Andr\u00e9 Gomes faz pedido especial a Valverde depois de chegada de Coutinho - Espanha - Jornal Record",
+            "originalURL": "http://www.record.pt/internacional/paises/espanha/detalhe/andre-gomes-faz-pedido-especial-a-valverde.html",
+            "snippet": "<em>Andr&eacute;</em> <em>Gomes</em> faz pedido especial a Valverde depois de chegada de Coutinho - Espanha - Jornal Record<span class=\"ellipsis\"> ... </span> universidades para comiss&atilde;o independente sobre t&iacute;tulos nacionais <em>Andr&eacute;</em> <em>Gomes</em> faz pedido especial a Valverde<span class=\"ellipsis\"> ... </span> Internacional Pa&iacute;ses Espanha 636 2 14h02 <em>Andr&eacute;</em> <em>Gomes</em> faz pedido especial a Valverde depois de chegada de<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Andr\u00e9 Gomes diz n\u00e3o ter prazer em jogar e admite press\u00e3o - Futebol - Correio da Manh\u00e3",
+            "originalURL": "https://www.cmjornal.pt/desporto/futebol/detalhe/andre-gomes-diz-nao-ter-prazer-em-jogar-e-admite-pressao",
+            "snippet": "<em>Andr&eacute;</em> <em>Gomes</em> diz n&atilde;o ter prazer em jogar e admite press&atilde;o - Futebol - Correio da Manh&atilde; A not&iacute;cia foi<span class=\"ellipsis\"> ... </span> Login/Logout Assine Impresso do site do jornal Correio da manh&atilde;, em www.cmjornal.pt <em>Andr&eacute;</em> <em>Gomes</em> diz<span class=\"ellipsis\"> ... </span> que n&atilde;o se sente bem em campo. 17:44 O futebolista internacional portugu&ecirc;s <em>Andr&eacute;</em> <em>Gomes</em>, do FC<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Andr\u00e9 Gomes diz n\u00e3o ter prazer em jogar e admite press\u00e3o - Futebol - Correio da Manh\u00e3",
+            "originalURL": "http://www.cmjornal.pt//desporto/futebol/detalhe/andre-gomes-diz-nao-ter-prazer-em-jogar-e-admite-pressao",
+            "snippet": "<em>Andr&eacute;</em> <em>Gomes</em> diz n&atilde;o ter prazer em jogar e admite press&atilde;o - Futebol - Correio da Manh&atilde; A not&iacute;cia foi<span class=\"ellipsis\"> ... </span> Login/Logout Assine Impresso do site do jornal Correio da manh&atilde;, em www.cmjornal.pt <em>Andr&eacute;</em> <em>Gomes</em> diz<span class=\"ellipsis\"> ... </span> que n&atilde;o se sente bem em campo. 17:44 O futebolista internacional portugu&ecirc;s <em>Andr&eacute;</em> <em>Gomes</em>, do FC<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "bem pelo contr\u00e1rio",
+            "originalURL": "http://bempelocontrario.blogspot.com/",
+            "snippet": ", m&uacute;sica e cenas do nosso quotidiano lusitano. Espero que gostem! publicado por Jos&eacute; <em>Gomes</em> <em>Andr&eacute;</em> &agrave;s 03<span class=\"ellipsis\"> ... </span> por Jos&eacute; <em>Gomes</em> <em>Andr&eacute;</em> &agrave;s 02:37 6 comments s&aacute;bado, novembro 22, 2008 Finis Declaro por este meio a<span class=\"ellipsis\"> ... </span>. Agrade&ccedil;o a todos os que me leram e gostaram, e muito especialmente ao Jos&eacute; <em>Gomes</em> <em>Andr&eacute;</em>, que<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "bem pelo contr\u00e1rio",
+            "originalURL": "http://bempelocontrario.blogspot.com/",
+            "snippet": ", m&uacute;sica e cenas do nosso quotidiano lusitano. Espero que gostem! publicado por Jos&eacute; <em>Gomes</em> <em>Andr&eacute;</em> &agrave;s 03<span class=\"ellipsis\"> ... </span> por Jos&eacute; <em>Gomes</em> <em>Andr&eacute;</em> &agrave;s 02:37 6 comments s&aacute;bado, novembro 22, 2008 Finis Declaro por este meio a<span class=\"ellipsis\"> ... </span>. Agrade&ccedil;o a todos os que me leram e gostaram, e muito especialmente ao Jos&eacute; <em>Gomes</em> <em>Andr&eacute;</em>, que<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Portal DeG\u00f3is - Plataforma Nacional de Ci\u00eancia e Tecnologia",
+            "originalURL": "http://www.degois.pt/visualizador/curriculum.jsp?key=3082680755922250",
+            "snippet": " periodics with scientific refereeing 1. Preto, Leonel; <em>Gomes</em>, Joana; Novo, <em>Andr&eacute;</em>; Mendes, Eug&eacute;nia<span class=\"ellipsis\"> ... </span>. Preto, Leonel; Mendes, Eug&eacute;nia; <em>Gomes</em>, Maria J; Novo, <em>Andr&eacute;</em>. Avalia&ccedil;&atilde;o nutricional do doente com AVC<span class=\"ellipsis\"> ... </span> Reabilita&ccedil;&atilde;o,Coimbra,2012&nbsp;(Poster). 29. Liberal, Rui; Novo, <em>Andr&eacute;</em>; <em>Gomes</em>, Maria J. A idade como<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Portal DeG\u00f3is - Plataforma Nacional de Ci\u00eancia e Tecnologia",
+            "originalURL": "http://www.degois.pt/visualizador/curriculum.jsp?key=3082680755922250",
+            "snippet": " refereeing 1. Preto, Leonel; <em>Gomes</em>, Joana; Novo, <em>Andr&eacute;</em>; Mendes, Eug&eacute;nia; Granero-Molina, Jos&eacute;. 2016<span class=\"ellipsis\"> ... </span>; <em>Gomes</em>, Maria J; Novo, <em>Andr&eacute;</em>. Avalia&ccedil;&atilde;o nutricional do doente com AVC: aspetos importantes para a<span class=\"ellipsis\"> ... </span>. Liberal, Rui; Novo, <em>Andr&eacute;</em>; <em>Gomes</em>, Maria J. A idade como determinante na recupera&ccedil;&atilde;o da autonomia de<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Fam\u00edlia Gomes Porto",
+            "originalURL": "http://gomesporto.blogspot.com/",
+            "snippet": " <em>Gomes</em> Porto , nasc. 1907 , falecido em Santo <em>Andr&eacute;</em> em 1956. Foi cc Maria Busetti , nascida aos 08/09<span class=\"ellipsis\"> ... </span>Fam&iacute;lia <em>Gomes</em> Porto Fam&iacute;lia <em>Gomes</em> Porto o0o Arraial do Cuscuzeiro , atual Santo Antonio da Alegria<span class=\"ellipsis\"> ... </span> Thereza <em>Gomes</em> Porto Seja bem vindo Pesquisar este blog Visualiza&ccedil;&otilde;es Follow by Email Cuscuzeiro<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "",
+            "originalURL": "http://geracaobenfica.blogspot.com/2018/10/exclusivo-portugal-um-estado-de.html",
+            "snippet": ",5 M - Nelson Oliveira 7 M - Jo&atilde;o Cancelo 15 M - <em>Andr&eacute;</em> <em>Gomes</em> 15 + 7,5 = 22,5 M - Renato Sanches 35 M<span class=\"ellipsis\"> ... </span> de 2018 Exclusivo: Portugal - um Estado de Direito/SL Benfica - Forma&ccedil;&atilde;o para ganhar, por Rui <em>Gomes</em><span class=\"ellipsis\"> ... </span> T&oacute;picos: Benfica no Cora&ccedil;&atilde;o , Rui <em>Gomes</em> da Silva , Sport Lisboa e Benfica 64 coment&aacute;rios blogger<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Chili Com Carne - Andr\u00e9 Coelho",
+            "originalURL": "http://www.chilicomcarne.com/index.php?option=com_rsgallery2&Itemid=42&catid=103",
+            "snippet": "Chili Com Carne - <em>Andr&eacute;</em> Coelho ccc shop blog autores acts futuro primitivo links up down Galeria Principal &nbsp; bio <em>Andr&eacute;</em> Coelho&nbsp; [desde 2011] [n.1984, Vila Nova de Gaia]&nbsp; tem vindo a desenvolver o seu<span class=\"ellipsis\"> ... </span> Latrina do Chifrudo, editora que mant&eacute;m com Sara <em>Gomes</em>, na qual edita fanzines e discos. Tem vindo a<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "O cap. Antonio Gomes de Oliveira",
+            "originalURL": "http://antoniogomesdeoliveira.blogspot.com/",
+            "snippet": "O cap. Antonio <em>Gomes</em> de Oliveira O capit&atilde;o Antonio <em>Gomes</em> de Oliveira Seja bem vindo Pesquisar este blog Visualiza&ccedil;&otilde;es Campo Belo Velha Matriz de Campo Belo , MG , por onde o cap. Antonio <em>Gomes</em> de<span class=\"ellipsis\"> ... </span> Peixe , atual Divinol&acirc;ndia , SP. Antonio <em>Gomes</em> de Oliveira Assinatura de Antonio <em>Gomes</em> de Oliveira<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Chili Com Carne - Andr\u00e9 Coelho",
+            "originalURL": "http://www.chilicomcarne.com/index.php?option=com_rsgallery2&Itemid=42&catid=103",
+            "snippet": "Chili Com Carne - <em>Andr&eacute;</em> Coelho ccc shop blog autores acts futuro primitivo links up down Galeria Principal &nbsp; bio <em>Andr&eacute;</em> Coelho&nbsp; [desde 2011] [n.1984, Vila Nova de Gaia]&nbsp; tem vindo a desenvolver o seu<span class=\"ellipsis\"> ... </span> Latrina do Chifrudo, editora que mant&eacute;m com Sara <em>Gomes</em>, na qual edita fanzines e discos. Tem vindo a<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jos\u00e9 Gomes Ferreira \u2013 Wikip\u00e9dia, a enciclop\u00e9dia livre",
+            "originalURL": "https://pt.wikipedia.org/wiki/Jos%C3%A9_Gomes_Ferreira",
+            "snippet": "Jos&eacute; <em>Gomes</em> Ferreira &#8211; Wikip&eacute;dia, a enciclop&eacute;dia livre Jos&eacute; <em>Gomes</em> Ferreira Origem: Wikip&eacute;dia, a<span class=\"ellipsis\"> ... </span> portugu&ecirc;s. Para o jornalista econ&oacute;mico e actual subdirector de informa&ccedil;&atilde;o da SIC, veja Jos&eacute; <em>Gomes</em> Ferreira (jornalista) . Jos&eacute; <em>Gomes</em> Ferreira Nascimento 9 de junho de 1900 Porto , Portugal Morte 8 de<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Perfil > Perfil P\u00fablico - SAPO Blogs",
+            "originalURL": "https://blogs.sapo.pt/profile?blog=testeescadinhas",
+            "snippet": " poupar livros 75 subscritores Perfil de Vera <em>Gomes</em> 75 subscritores Nome Vera <em>Gomes</em> Localiza&ccedil;&atilde;o Bruxelas Sexo Feminino Email vera-<em>gomes</em>@sapo.pt Redes Sociais Sobre mim Tripeira apaixonada por Lisboa. Mas<span class=\"ellipsis\"> ... </span> http://escadinhas.blogs.sapo.pt &quot;Sou feliz s&oacute; por pregui&ccedil;a.&quot; Autores que Vera <em>Gomes</em> segue vincent<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "O cap. Antonio Gomes de Oliveira: O cap. Antonio Gomes de Oliveira",
+            "originalURL": "http://antoniogomesdeoliveira.blogspot.com/2009/09/o-cap-antonio-gomes-de-oliveira-em.html",
+            "snippet": "O cap. Antonio <em>Gomes</em> de Oliveira: O cap. Antonio <em>Gomes</em> de Oliveira O capit&atilde;o Antonio <em>Gomes</em> de<span class=\"ellipsis\"> ... </span> , por onde o cap. Antonio <em>Gomes</em> de Oliveira e fam&iacute;lia residiram pelos anos entre 1810 a 1835 , quando mudaram-se para a Fazenda do Rio do Peixe , atual Divinol&acirc;ndia , SP. Antonio <em>Gomes</em> de Oliveira<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Caixa de Costura",
+            "originalURL": "http://caixadecostura.blogspot.com/",
+            "snippet": ": Z&eacute; do Pipo e Maria <em>Gomes</em> de S&aacute;. Ora como se n&atilde;o bastasse e exagero do nome, bem sei que h&aacute; maiores<span class=\"ellipsis\"> ... </span> e o mi&uacute;do chama-se Jo&atilde;o como o mais velho. Fica <em>Andr&eacute;</em> e resolve-se o assunto. Pap&eacute;is distribu&iacute;dos e<span class=\"ellipsis\"> ... </span>. Pelo Jo&atilde;o Maria da Ana e do <em>Andr&eacute;</em>. Ontem festej&aacute;mos com eles de sorrisos escancarados. Ontem, s&oacute; por<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "tuff | Booking & Management agency | Streets Zion | WACK | Dikas | Andr\u00e9 Reis Gomes",
+            "originalURL": "http://tuff.pt/",
+            "snippet": "tuff | Booking &amp; Management agency | Streets Zion | WACK | Dikas | <em>Andr&eacute;</em> Reis <em>Gomes</em> Todas as not&iacute;cias em primeira m&atilde;o Artistas <em>Andr&eacute;</em> Reis <em>Gomes</em> Dikas King John Streets Zion Trio EDNA WACK Not&iacute;cias Contactos &copy; 2017 tuff. All rights reserved. Artistas <em>Andr&eacute;</em> Reis <em>Gomes</em> Dikas King John Streets Zion<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Daniel Gomes - XLDB",
+            "originalURL": "http://xldb.di.fc.ul.pt/wiki/Daniel_Gomes",
+            "snippet": ", 2011. Document | Presentation | BibTeX source Daniel <em>Gomes</em> , <em>Andr&eacute;</em> Nogueira , Jo&atilde;o Miranda , Miguel<span class=\"ellipsis\"> ... </span>, 2006 July, 2006. DOI | URL | Document | Presentation | BibTeX source Daniel <em>Gomes</em> , <em>Andr&eacute;</em> Santos<span class=\"ellipsis\"> ... </span> | Document | BibTeX source Daniel <em>Gomes</em> , <em>Andr&eacute;</em> Santos , M&aacute;rio J. Silva , Webstore: A Manager for<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Daniel Gomes - XLDB",
+            "originalURL": "http://xldb.di.fc.ul.pt/wiki/Daniel_Gomes",
+            "snippet": ", 2011. Document | Presentation | BibTeX source Daniel <em>Gomes</em> , <em>Andr&eacute;</em> Nogueira , Jo&atilde;o Miranda , Miguel<span class=\"ellipsis\"> ... </span>, 2006 July, 2006. DOI | URL | Document | Presentation | BibTeX source Daniel <em>Gomes</em> , <em>Andr&eacute;</em> Santos<span class=\"ellipsis\"> ... </span> | Document | BibTeX source Daniel <em>Gomes</em> , <em>Andr&eacute;</em> Santos , M&aacute;rio J. Silva , Webstore: A Manager for<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Caixa de Costura",
+            "originalURL": "http://caixadecostura.blogspot.com/",
+            "snippet": " casal de receitas de bacalhau. Inf&acirc;ncia infeliz a deste Z&eacute;zito. Filia&ccedil;&atilde;o: Z&eacute; do Pipo e Maria <em>Gomes</em> de<span class=\"ellipsis\"> ... </span> mais velho. Fica <em>Andr&eacute;</em> e resolve-se o assunto. Pap&eacute;is distribu&iacute;dos e a ida envolveu disserta&ccedil;&otilde;es<span class=\"ellipsis\"> ... </span> resultados, fez-se jantar de festejo. Pela Constan&ccedil;a da Catarina e do Jo&atilde;o. Pelo Jo&atilde;o Maria da Ana e do <em>Andr&eacute;</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "M\u00e1rio Rui Andr\u00e9 | Facebook",
+            "originalURL": "https://www.facebook.com/mruiandre",
+            "snippet": " M&aacute;rio <em>Gomes</em> <em>Andr&eacute;</em> Pires Rui Liang Maurice <em>Andr&eacute;</em> San-Chez (Mictlantecuhtli) <em>Andr&eacute;</em> Zegre Penim <em>Andr&eacute;</em><span class=\"ellipsis\"> ... </span>M&aacute;rio Rui <em>Andr&eacute;</em> | Facebook Ir para Sec&ccedil;&otilde;es desta p&aacute;gina Ajuda sobre Acessibilidade Clica nas teclas<span class=\"ellipsis\"> ... </span> conta? M&aacute;rio Rui <em>Andr&eacute;</em> M&aacute;rio Rui <em>Andr&eacute;</em> est&aacute; no Facebook. Para te ligares a M&aacute;rio, regista-te no Facebook<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jos\u00e9 Pedro Gomes - Internado com pneumonia grave | VIP.pt",
+            "originalURL": "http://www.vip.pt/jose-pedro-gomes-internado-com-pneumonia-grave",
+            "snippet": ". &nbsp; Jos&eacute; Pedro <em>Gomes</em> tem 64 anos e &eacute; casado com Cl&aacute;udia Belchior , tendo dois filhos, Marta e <em>Andr&eacute;</em> <em>Gomes</em><span class=\"ellipsis\"> ... </span>Jos&eacute; Pedro <em>Gomes</em> - Internado com pneumonia grave | VIP.pt Passar para o conte&uacute;do principal Toggle<span class=\"ellipsis\"> ... </span> VIP Gourmet VIP Interiores VIP Joias VIP Moda VIP Noivas Jos&eacute; Pedro <em>Gomes</em> Internado com pneumonia<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "ForaDeJogo.net - Nuno (Nuno Patr\u00edcio Gomes Jesus)",
+            "originalURL": "https://www.foradejogo.net/player.php?player=198812120002",
+            "snippet": " Vila Velha de R&oacute;d&atilde;o 39 Henrique 46 Job Ant&oacute;nio 28 Miguel Afonso 25 <em>Andr&eacute;</em> <em>Gomes</em> 33 Romeu Paulino 42<span class=\"ellipsis\"> ... </span>ForaDeJogo.net - Nuno (Nuno Patr&iacute;cio <em>Gomes</em> Jesus) Nome: Pass: Registo &nbsp; Recuperar . Cr&oacute;nicas Jorge<span class=\"ellipsis\"> ... </span> Equipas Jogadores Campeonatos L&aacute; por fora: Carreira Actividade por &eacute;poca Nuno Nuno Patr&iacute;cio <em>Gomes</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "'As Cr\u00f3nicas de Rui Gomes da Silva'",
+            "originalURL": "http://ascronicasderuigomesdasilva.blogspot.com/",
+            "snippet": "'As Cr&oacute;nicas de Rui <em>Gomes</em> da Silva' 'As Cr&oacute;nicas de Rui <em>Gomes</em> da Silva' 'Um grande defensor do<span class=\"ellipsis\"> ... </span> sentimento de reconhecimento.&quot; Rui <em>Gomes</em> da Silva, in A Bola Publicada por Coluna d&Aacute;guias Gloriosas &agrave;(s<span class=\"ellipsis\"> ... </span> Partilhar no Facebook Partilhar no Pinterest Etiquetas: Liga , M&aacute;rio Soares , Rui <em>Gomes</em> da Silva sexta-feira<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Maria Sem Frio Nem Casa: XIII Corrida da Lagoa de Santo Andr\u00e9 \u2013 19 de Julho de 2008",
+            "originalURL": "https://mariasemfrionemcasa.blogspot.pt/2008/07/xiii-corrida-da-lagoa-de-santo-andr-19.html",
+            "snippet": ":-) Beijinhos e at&eacute; &agrave; pr&oacute;xima. Bons treinos e boa semana de trabalho. 9:41 da manh&atilde; <em>Andr&eacute;</em> <em>Gomes</em> disse<span class=\"ellipsis\"> ... </span>Maria Sem Frio Nem Casa: XIII Corrida da Lagoa de Santo <em>Andr&eacute;</em> &#8211; 19 de Julho de 2008 Maria Sem Frio<span class=\"ellipsis\"> ... </span> julho de 2008 XIII Corrida da Lagoa de Santo <em>Andr&eacute;</em> &#8211; 19 de Julho de 2008 Esta prova que &eacute; j&aacute;<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "",
+            "originalURL": "http://relvado.aeiou.pt/mercado/rumores/andre-gomes-foi-uma-aposta-falhada-521366",
+            "snippet": " Lazer Flagra Guia+Viagens Kitchenet <em>Andr&eacute;</em> <em>Gomes</em> foi uma &quot;aposta falhada&quot; | Relvado Acompanhe o<span class=\"ellipsis\"> ... </span> , os respons&aacute;veis catal&atilde;es olham para <em>Andr&eacute;</em> <em>Gomes</em> e Paco Alc&aacute;cer (dois ex-Val&ecirc;ncia) como &quot;apostas<span class=\"ellipsis\"> ... </span> Ferreira Rio Ave Tondela Vit&oacute;ria Guimar&atilde;es Vit&oacute;ria Set&uacute;bal Off-side Ronaldo Mourinho JohnnyBet <em>Andr&eacute;</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "",
+            "originalURL": "http://relvado.aeiou.pt/mercado/rumores/andre-gomes-foi-uma-aposta-falhada-521366",
+            "snippet": " Lazer Flagra Guia+Viagens Kitchenet <em>Andr&eacute;</em> <em>Gomes</em> foi uma &quot;aposta falhada&quot; | Relvado Acompanhe o<span class=\"ellipsis\"> ... </span> , os respons&aacute;veis catal&atilde;es olham para <em>Andr&eacute;</em> <em>Gomes</em> e Paco Alc&aacute;cer (dois ex-Val&ecirc;ncia) como &quot;apostas<span class=\"ellipsis\"> ... </span> Ferreira Rio Ave Tondela Vit&oacute;ria Guimar&atilde;es Vit&oacute;ria Set&uacute;bal Off-side Ronaldo Mourinho JohnnyBet <em>Andr&eacute;</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "ACHTUNG BABY",
+            "originalURL": "http://mrandre2u.blogspot.com/",
+            "snippet": " So don't let the bastards grind you down posted by <em>Andr&eacute;</em> at 2/17/2010 quarta-feira, janeiro 06, 2010 posted by <em>Andr&eacute;</em> at 1/06/2010 quarta-feira, mar&ccedil;o 25, 2009 Comics! - Brevemente Etiquetas: comics posted by <em>Andr&eacute;</em> at 3/25/2009 Bussaco posted by <em>Andr&eacute;</em> at 3/25/2009 quarta-feira, mar&ccedil;o 18, 2009 Teste<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Daniel Perry - Google+",
+            "originalURL": "https://plus.google.com/108101051412770873193",
+            "snippet": " + <em>Andr&eacute;</em> <em>Gomes</em> de Albuquerque + Ashley Tisdale + Andrew Adel + Armando Alves + alexandre almeida<span class=\"ellipsis\"> ... </span> + Felicia Day + Fred Oliveira + <em>Andr&eacute;</em> <em>Gomes</em> de Albuquerque + Pedro Fernandes + Gunnar Meyer + gabriel Mna + Gabriela Souza + Gon&ccedil;alo Ara&uacute;jo + Tim Gerecke + Vic Gundotra + Ivo <em>Gomes</em> + John Gruber + SAM<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Repara\u00e7\u00e3o, Manuten\u00e7\u00e3o, Assist\u00eancia T\u00e9cnica - Bricotec24 Site Oficial",
+            "originalURL": "https://bricotec24.pt/",
+            "snippet": " Mudan&ccedil;as Siga-nos no Facebook Testemunhos Publica&ccedil;&atilde;o de Ana <em>Gomes</em> . Publica&ccedil;&atilde;o de Susana Gon&ccedil;alves<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Music is Math",
+            "originalURL": "http://music-is-math.blogspot.com/",
+            "snippet": "Music is Math Music is Math s&aacute;bado, outubro 02, 2004 posted by <em>Andr&eacute;</em> <em>Gomes</em> at 18:21 34 comments<span class=\"ellipsis\"> ... </span> para uma actua&ccedil;&atilde;o inesperada. Hummm. posted by <em>Andr&eacute;</em> <em>Gomes</em> at 23:59 3 comments ter&ccedil;a-feira, setembro 28<span class=\"ellipsis\"> ... </span> continuar a ler, seguir por aqui . posted by <em>Andr&eacute;</em> <em>Gomes</em> at 19:55 0 comments sexta-feira, setembro 17<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Everton vs. Crystal Palace - Football Match Summary - October 21, 2018 - ESPN",
+            "originalURL": "http://kwese.espn.com/football/match?gameId=513752",
+            "snippet": " Card 82 On: Dominic Calvert-Lewin | Off: <em>Andr&eacute;</em> <em>Gomes</em> 82 On: Ademola Lookman | Off: Theo Walcott 87<span class=\"ellipsis\"> ... </span> Pickford 12 Digne 5 Zouma 4 Keane 23 Coleman 17 Gueye 8 <em>Gomes</em> On: Dominic Calvert-Lewin | Off: <em>Andr&eacute;</em><span class=\"ellipsis\"> ... </span> Against Assists 0 Offsides 0 Discipline 1 Yellow 0 Red 8 <em>Andr&eacute;</em> <em>Gomes</em> Goals 0 Shots 2 0 Shots on<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Corrida do Tejo",
+            "originalURL": "http://corridadotejo.blogspot.com/",
+            "snippet": " cheguei acima mais a minha mi&uacute;da &quot;Roubaix&quot; Hasta publicada por <em>Andr&eacute;</em> <em>Gomes</em> @ 15:48 &nbsp; 1 Coment&aacute;rios<span class=\"ellipsis\"> ... </span>... hasta publicada por <em>Andr&eacute;</em> <em>Gomes</em> @ 23:33 &nbsp; 1 Coment&aacute;rios s&aacute;bado, 5 de fevereiro de 2011 Uma semana<span class=\"ellipsis\"> ... </span>... Hasta publicada por <em>Andr&eacute;</em> <em>Gomes</em> @ 23:01 &nbsp; 0 Coment&aacute;rios s&aacute;bado, 29 de janeiro de 2011 Pr&oacute;xima<span class=\"ellipsis\"> ... </span>"
+        }
+    ]
+}

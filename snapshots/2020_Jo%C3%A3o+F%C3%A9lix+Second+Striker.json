@@ -1,0 +1,273 @@
+{
+    "serviceName": "Arquivo.pt - the Portuguese web-archive",
+    "linkToService": "https://arquivo.pt",
+    "next_page": "https://arquivo.pt/textsearch?q=Jo%C3%A3o+F%C3%A9lix&from=20200101000000&to=20201231235959&fields=title%2Csnippet%2CoriginalURL%2Ctimestamp&offset=50",
+    "estimated_nr_results": 529800,
+    "request_parameters": {
+        "offset": 0,
+        "dedupValue": 2,
+        "from": "20200101000000",
+        "to": "20201231235959",
+        "fields": [
+            "title",
+            "snippet",
+            "originalURL",
+            "timestamp"
+        ],
+        "dedupField": "site",
+        "q": "Jo\u00e3o F\u00e9lix",
+        "maxItems": 50
+    },
+    "response_items": [
+        {
+            "title": "jo\u00e3o f\u00e9lix sequeira",
+            "originalURL": "http://gb10k.xsl.pt/",
+            "snippet": "<em>jo&atilde;o</em> <em>f&eacute;lix</em> sequeira Principal <em>jo&atilde;o</em> <em>f&eacute;lix</em> sequeira Descricao <em>jo&atilde;o</em> <em>f&eacute;lix</em> sequeira <em>jo&atilde;o</em> <em>f&eacute;lix</em> sequeira <em>Jo&atilde;o</em> <em>F&eacute;lix</em>. Portugal. m20 anosmAvan&ccedil;adomFutebol. 2020/21, 2019/20, 2018/19, 2017/18, 2016/17, 2015<span class=\"ellipsis\"> ... </span> novembro de 1999. Naturalidade: VISEU/&nbsp;. <em>Jo&atilde;o</em> <em>F&eacute;lix</em> (born 10 November 1999) is a Portuguese footballer<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "jo\u00e3o f\u00e9lix benfica",
+            "originalURL": "http://5ost6.xsl.pt/",
+            "snippet": "<em>jo&atilde;o</em> <em>f&eacute;lix</em> benfica Principal <em>jo&atilde;o</em> <em>f&eacute;lix</em> benfica Descricao <em>jo&atilde;o</em> <em>f&eacute;lix</em> benfica <em>jo&atilde;o</em> <em>f&eacute;lix</em> benfica<span class=\"ellipsis\"> ... </span>-europa5. <em>Jo&atilde;o</em> <em>F&eacute;lix</em> | Benfica. . <em>Jo&atilde;o</em> <em>F&eacute;lix</em> Sequeira Portugal Nasceu a 10 nov 1999 em Viseu, Portugal 20 anos 181 cm 70 kg 14/08/2020 &middot; 03/07/2019 &middot; <em>Jo&atilde;o</em> <em>F&eacute;lix</em>, o mi&uacute;do franzino que o FC Porto n&atilde;o<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o F\u00e9lix - Streamable",
+            "originalURL": "https://streamable.com/s/dy4rl/zunqo",
+            "snippet": "<em>Jo&atilde;o</em> <em>F&eacute;lix</em> - Streamable Loading... Speed 2 1.5 1 &frac12; &frac14; Copy video URL Copy embed code Report issue Powered by Streamable<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o F\u00e9lix - Not\u00edcias | ESPN",
+            "originalURL": "https://www.espn.com.br/futebol/jogador/noticias/_/id/276350/joao-felix",
+            "snippet": "<em>Jo&atilde;o</em> <em>F&eacute;lix</em> - Not&iacute;cias | ESPN Ir para o Menu Principal Menu ESPN Futebol NFL NBA MMA eSports espnW Blogs Assista <em>Jo&atilde;o</em> <em>F&eacute;lix</em> Atl&eacute;tico de Madrid #7 Meio campista Seguir A/P 1.8 m, 63 kg DOB 10/11/1999<span class=\"ellipsis\"> ... </span>.com.br Futebol Atl&eacute;tico de Madrid: Jornal corneta 'fominha' <em>Jo&atilde;o</em> <em>F&eacute;lix</em>: 'Um dia vai levantar a cabe&ccedil;a<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o F\u00e9lix Noticias | ESPN",
+            "originalURL": "https://www.espn.com.pe/futbol/jugador/noticias/_/id/276350/joao-felix",
+            "snippet": "<em>Jo&atilde;o</em> <em>F&eacute;lix</em> Noticias | ESPN Ir a la navegaci&oacute;n Menu ESPN F&uacute;tbol B&aacute;squetbol Boxeo Tenis Deporte Motor ESPN Run TV Play <em>Jo&atilde;o</em> <em>F&eacute;lix</em> Atl&eacute;tico Madrid #7 Mediocampista Seguir Est/Pes 1.8 m, 63 kg FDN 10/11<span class=\"ellipsis\"> ... </span> Posiciones Barcelona y Atl&eacute;tico de Madrid descartaron posible trueque entre Griezmann y Joao <em>F&eacute;lix</em> Las<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o F\u00e9lix Noticias | ESPN",
+            "originalURL": "https://www.espn.com.ar/futbol/jugador/noticias/_/id/276350/joao-felix",
+            "snippet": "<em>Jo&atilde;o</em> <em>F&eacute;lix</em> Noticias | ESPN Ir a la navegaci&oacute;n Menu ESPN F&uacute;tbol Rugby Tenis B&aacute;squetbol Deporte Motor Hockey Play TV <em>Jo&atilde;o</em> <em>F&eacute;lix</em> Atl&eacute;tico Madrid #7 Mediocampista Seguir Est/Pes 1.8 m, 63 kg FDN 10/11<span class=\"ellipsis\"> ... </span> Posiciones Barcelona y Atl&eacute;tico de Madrid descartaron posible trueque entre Griezmann y Joao <em>F&eacute;lix</em> Las<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o F\u00e9lix Noticias | ESPN",
+            "originalURL": "https://www.espn.com.ve/futbol/jugador/noticias/_/id/276350/joao-felix",
+            "snippet": "<em>Jo&atilde;o</em> <em>F&eacute;lix</em> Noticias | ESPN Ir a la navegaci&oacute;n Menu ESPN MLB F&uacute;tbol B&aacute;squetbol Boxeo MMA Tenis Video TV <em>Jo&atilde;o</em> <em>F&eacute;lix</em> Atl&eacute;tico Madrid #7 Mediocampista Seguir Est/Pes 1.8 m, 63 kg FDN 10/11/1999 (20<span class=\"ellipsis\"> ... </span> Barcelona y Atl&eacute;tico de Madrid descartaron posible trueque entre Griezmann y Joao <em>F&eacute;lix</em> Las versiones son<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o F\u00e9lix Noticias | ESPN",
+            "originalURL": "https://www.espn.cl/futbol/jugador/noticias/_/id/276350/joao-felix",
+            "snippet": "<em>Jo&atilde;o</em> <em>F&eacute;lix</em> Noticias | ESPN Ir a la navegaci&oacute;n Menu ESPN F&uacute;tbol Tenis B&aacute;squetbol Deporte Motor Golf Rugby Play TV <em>Jo&atilde;o</em> <em>F&eacute;lix</em> Atl&eacute;tico Madrid #7 Mediocampista Seguir Est/Pes 1.8 m, 63 kg FDN 10/11/1999<span class=\"ellipsis\"> ... </span> Posiciones Barcelona y Atl&eacute;tico de Madrid descartaron posible trueque entre Griezmann y Joao <em>F&eacute;lix</em> Las<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o F\u00e9lix Noticias | ESPN",
+            "originalURL": "https://www.espn.com.co/futbol/jugador/noticias/_/id/276350/joao-felix",
+            "snippet": "<em>Jo&atilde;o</em> <em>F&eacute;lix</em> Noticias | ESPN Ir a la navegaci&oacute;n Menu ESPN F&uacute;tbol Ciclismo Tenis MLB B&aacute;squetbol ESPN Run Play TV <em>Jo&atilde;o</em> <em>F&eacute;lix</em> Atl&eacute;tico Madrid #7 Mediocampista Seguir Est/Pes 1.8 m, 63 kg FDN 10/11/1999<span class=\"ellipsis\"> ... </span> Posiciones Barcelona y Atl&eacute;tico de Madrid descartaron posible trueque entre Griezmann y Joao <em>F&eacute;lix</em> Las<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o F\u00e9lix Noticias | ESPNDeportes",
+            "originalURL": "https://espndeportes.espn.com/futbol/jugador/noticias/_/id/276350/joao-felix",
+            "snippet": "<em>Jo&atilde;o</em> <em>F&eacute;lix</em> Noticias | ESPNDeportes Ir a la navegaci&oacute;n Menu ESPN F&uacute;tbol B&aacute;squetbol MMA MLB Boxeo F. Americano Watch Audio Juegos <em>Jo&atilde;o</em> <em>F&eacute;lix</em> Atl&eacute;tico Madrid #7 Mediocampista Seguir Est/Pes 1.8 m, 63 kg<span class=\"ellipsis\"> ... </span> Joao <em>F&eacute;lix</em> Las versiones son encontradas, ya que los clubes aseguran que no aceptaron la oferta del<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o F\u00e9lix Noticias | ESPN",
+            "originalURL": "https://www.espn.com.mx/futbol/jugador/noticias/_/id/276350/joao-felix",
+            "snippet": "<em>Jo&atilde;o</em> <em>F&eacute;lix</em> Noticias | ESPN Ir a la navegaci&oacute;n Presentado por Menu ESPN F&uacute;tbol MLB F. Americano Tenis Boxeo B&aacute;squetbol Play TV Juegos <em>Jo&atilde;o</em> <em>F&eacute;lix</em> Atl&eacute;tico Madrid #7 Mediocampista Seguir Est/Pes 1.8 m<span class=\"ellipsis\"> ... </span> y Joao <em>F&eacute;lix</em> Las versiones son encontradas, ya que los clubes aseguran que no aceptaron la oferta<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o F\u00e9lix Noticias | - ESPN",
+            "originalURL": "https://www.espn.co.cr/futbol/jugador/noticias/_/id/276350/joao-felix",
+            "snippet": "<em>Jo&atilde;o</em> <em>F&eacute;lix</em> Noticias | - ESPN Ir a la navegaci&oacute;n Menu ESPN F&uacute;tbol B&aacute;squetbol Otros Deportes Ciclismo MLB F. Americano TV Play <em>Jo&atilde;o</em> <em>F&eacute;lix</em> Atl&eacute;tico Madrid #7 Mediocampista Seguir Est/Pes 1.8 m, 63 kg<span class=\"ellipsis\"> ... </span> <em>F&eacute;lix</em> Las versiones son encontradas, ya que los clubes aseguran que no aceptaron la oferta del otro<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o F\u00e9lix Noticias | - ESPN",
+            "originalURL": "https://www.espn.com.uy/futbol/jugador/noticias/_/id/276350/joao-felix",
+            "snippet": "<em>Jo&atilde;o</em> <em>F&eacute;lix</em> Noticias | - ESPN Ir a la navegaci&oacute;n Menu ESPN F&uacute;tbol B&aacute;squetbol Rugby Tenis Deporte Motor MMA Play TV <em>Jo&atilde;o</em> <em>F&eacute;lix</em> Atl&eacute;tico Madrid #7 Mediocampista Seguir Est/Pes 1.8 m, 63 kg FDN 10/11<span class=\"ellipsis\"> ... </span> Posiciones Barcelona y Atl&eacute;tico de Madrid descartaron posible trueque entre Griezmann y Joao <em>F&eacute;lix</em> Las<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o F\u00e9lix Noticias | - ESPN",
+            "originalURL": "https://www.espn.com.pa/futbol/jugador/noticias/_/id/276350/joao-felix",
+            "snippet": "<em>Jo&atilde;o</em> <em>F&eacute;lix</em> Noticias | - ESPN Ir a la navegaci&oacute;n Menu ESPN F&uacute;tbol MLB Boxeo B&aacute;squetbol Ciclismo F. Americano Play TV Juegos <em>Jo&atilde;o</em> <em>F&eacute;lix</em> Atl&eacute;tico Madrid #7 Mediocampista Seguir Est/Pes 1.8 m, 63 kg FDN<span class=\"ellipsis\"> ... </span> <em>F&eacute;lix</em> Las versiones son encontradas, ya que los clubes aseguran que no aceptaron la oferta del otro<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o F\u00e9lix Noticias | - ESPN",
+            "originalURL": "https://www.espn.com.ec/futbol/jugador/noticias/_/id/276350/joao-felix",
+            "snippet": "<em>Jo&atilde;o</em> <em>F&eacute;lix</em> Noticias | - ESPN Ir a la navegaci&oacute;n Menu ESPN F&uacute;tbol Tenis Ciclismo B&aacute;squetbol ESPN Run Boxeo TV Play <em>Jo&atilde;o</em> <em>F&eacute;lix</em> Atl&eacute;tico Madrid #7 Mediocampista Seguir Est/Pes 1.8 m, 63 kg FDN 10/11<span class=\"ellipsis\"> ... </span> Posiciones Barcelona y Atl&eacute;tico de Madrid descartaron posible trueque entre Griezmann y Joao <em>F&eacute;lix</em> Las<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o F\u00e9lix Noticias | - ESPN",
+            "originalURL": "https://www.espn.com.gt/futbol/jugador/noticias/_/id/276350/joao-felix",
+            "snippet": "<em>Jo&atilde;o</em> <em>F&eacute;lix</em> Noticias | - ESPN Ir a la navegaci&oacute;n Menu ESPN F&uacute;tbol Otros Deportes MLB F. Americano B&aacute;squetbol Ciclismo Play TV Juegos <em>Jo&atilde;o</em> <em>F&eacute;lix</em> Atl&eacute;tico Madrid #7 Mediocampista Seguir Est/Pes 1.8 m<span class=\"ellipsis\"> ... </span> Joao <em>F&eacute;lix</em> Las versiones son encontradas, ya que los clubes aseguran que no aceptaron la oferta del<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o F\u00e9lix Noticias | - ESPN",
+            "originalURL": "https://www.espn.com.do/futbol/jugador/noticias/_/id/276350/joao-felix",
+            "snippet": "<em>Jo&atilde;o</em> <em>F&eacute;lix</em> Noticias | - ESPN Ir a la navegaci&oacute;n Menu ESPN MLB B&aacute;squetbol F&uacute;tbol Golf Tenis F. Americano Play TV Juegos <em>Jo&atilde;o</em> <em>F&eacute;lix</em> Atl&eacute;tico Madrid #7 Mediocampista Seguir Est/Pes 1.8 m, 63 kg FDN 10<span class=\"ellipsis\"> ... </span> Posiciones Barcelona y Atl&eacute;tico de Madrid descartaron posible trueque entre Griezmann y Joao <em>F&eacute;lix</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o F\u00e9lix Biograf\u00eda | ESPN",
+            "originalURL": "https://www.espn.com.ar/futbol/jugador/bio/_/id/276350/joao-felix",
+            "snippet": "<em>Jo&atilde;o</em> <em>F&eacute;lix</em> Biograf&iacute;a | ESPN Ir a la navegaci&oacute;n Menu ESPN F&uacute;tbol Rugby Tenis B&aacute;squetbol Deporte Motor Hockey Play TV <em>Jo&atilde;o</em> <em>F&eacute;lix</em> Atl&eacute;tico Madrid #7 Mediocampista Seguir Est/Pes 1.8 m, 63 kg FDN 10/11<span class=\"ellipsis\"> ... </span> Portugal 2 Temporadas &Uacute;ltimos Videos 1:05 &iexcl;Tremenda pirueta! Joao <em>F&eacute;lix</em> casi clava un golazo de tijera<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o F\u00e9lix Biograf\u00eda | ESPN",
+            "originalURL": "https://www.espn.com.pe/futbol/jugador/bio/_/id/276350/joao-felix",
+            "snippet": "<em>Jo&atilde;o</em> <em>F&eacute;lix</em> Biograf&iacute;a | ESPN Ir a la navegaci&oacute;n Menu ESPN F&uacute;tbol B&aacute;squetbol Boxeo Tenis Deporte Motor ESPN Run TV Play <em>Jo&atilde;o</em> <em>F&eacute;lix</em> Atl&eacute;tico Madrid #7 Mediocampista Seguir Est/Pes 1.8 m, 63 kg FDN 10/11<span class=\"ellipsis\"> ... </span> Portugal 2 Temporadas &Uacute;ltimos Videos 1:05 &iexcl;Tremenda pirueta! Joao <em>F&eacute;lix</em> casi clava un golazo de<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o F\u00e9lix Biograf\u00eda | ESPN",
+            "originalURL": "https://www.espn.cl/futbol/jugador/bio/_/id/276350/joao-felix",
+            "snippet": "<em>Jo&atilde;o</em> <em>F&eacute;lix</em> Biograf&iacute;a | ESPN Ir a la navegaci&oacute;n Menu ESPN F&uacute;tbol Tenis B&aacute;squetbol Deporte Motor Golf Rugby Play TV <em>Jo&atilde;o</em> <em>F&eacute;lix</em> Atl&eacute;tico Madrid #7 Mediocampista Seguir Est/Pes 1.8 m, 63 kg FDN 10/11<span class=\"ellipsis\"> ... </span> Portugal 2 Temporadas &Uacute;ltimos Videos 1:05 &iexcl;Tremenda pirueta! Joao <em>F&eacute;lix</em> casi clava un golazo de tijera<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o F\u00e9lix Biograf\u00eda | ESPN",
+            "originalURL": "https://www.espn.com.co/futbol/jugador/bio/_/id/276350/joao-felix",
+            "snippet": "<em>Jo&atilde;o</em> <em>F&eacute;lix</em> Biograf&iacute;a | ESPN Ir a la navegaci&oacute;n Menu ESPN F&uacute;tbol Ciclismo Tenis MLB B&aacute;squetbol ESPN Run Play TV <em>Jo&atilde;o</em> <em>F&eacute;lix</em> Atl&eacute;tico Madrid #7 Mediocampista Seguir Est/Pes 1.8 m, 63 kg FDN 10/11/1999<span class=\"ellipsis\"> ... </span> 2 Temporadas &Uacute;ltimos Videos 1:05 &iexcl;Tremenda pirueta! Joao <em>F&eacute;lix</em> casi clava un golazo de tijera<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o F\u00e9lix Estad\u00edsticas | ESPN",
+            "originalURL": "https://www.espn.com.ve/futbol/jugador/estadisticas/_/id/276350/joao-felix",
+            "snippet": "<em>Jo&atilde;o</em> <em>F&eacute;lix</em> Estad&iacute;sticas | ESPN Ir a la navegaci&oacute;n Menu ESPN MLB F&uacute;tbol B&aacute;squetbol Boxeo MMA Tenis Video TV <em>Jo&atilde;o</em> <em>F&eacute;lix</em> Atl&eacute;tico Madrid #7 Mediocampista Seguir Est/Pes 1.8 m, 63 kg FDN 10/11/1999 (20<span class=\"ellipsis\"> ... </span>! Joao <em>F&eacute;lix</em> casi clava un golazo de tijera &iexcl;Tremenda pirueta! Joao <em>F&eacute;lix</em> casi clava un golazo de<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o F\u00e9lix - Estat\u00edsticas | ESPN",
+            "originalURL": "https://www.espn.com.br/futebol/jogador/estatisticas/_/id/276350/joao-felix",
+            "snippet": "<em>Jo&atilde;o</em> <em>F&eacute;lix</em> - Estat&iacute;sticas | ESPN Ir para o Menu Principal Menu ESPN Futebol NFL NBA MMA eSports espnW Blogs Assista <em>Jo&atilde;o</em> <em>F&eacute;lix</em> Atl&eacute;tico de Madrid #7 Meio campista Seguir A/P 1.8 m, 63 kg DOB 10/11<span class=\"ellipsis\"> ... </span> <em>Jo&atilde;o</em> <em>F&eacute;lix</em> deu na temporada com o Benfica 'O novo Cristiano Ronaldo': veja o show que <em>Jo&atilde;o</em> <em>F&eacute;lix</em> deu na<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o F\u00e9lix Estad\u00edsticas | ESPNDeportes",
+            "originalURL": "https://espndeportes.espn.com/futbol/jugador/estadisticas/_/id/276350/joao-felix",
+            "snippet": "<em>Jo&atilde;o</em> <em>F&eacute;lix</em> Estad&iacute;sticas | ESPNDeportes Ir a la navegaci&oacute;n Menu ESPN F&uacute;tbol B&aacute;squetbol MMA MLB Boxeo F. Americano Watch Audio Juegos <em>Jo&atilde;o</em> <em>F&eacute;lix</em> Atl&eacute;tico Madrid #7 Mediocampista Seguir Est/Pes 1.8 m<span class=\"ellipsis\"> ... </span> crack 1:10 &iquest;Necesit&aacute;s alguien para el &uacute;ltimo penal? &iexcl;Llam&aacute; a Joao <em>F&eacute;lix</em>! 0:36 AS&Iacute; CONVIERTEN A LOS<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o F\u00e9lix Biograf\u00eda | ESPN",
+            "originalURL": "https://www.espn.com.mx/futbol/jugador/bio/_/id/276350/joao-felix",
+            "snippet": "<em>Jo&atilde;o</em> <em>F&eacute;lix</em> Biograf&iacute;a | ESPN Ir a la navegaci&oacute;n Presentado por Menu ESPN F&uacute;tbol MLB F. Americano Tenis Boxeo B&aacute;squetbol Play TV Juegos <em>Jo&atilde;o</em> <em>F&eacute;lix</em> Atl&eacute;tico Madrid #7 Mediocampista Seguir Est/Pes 1.8 m<span class=\"ellipsis\"> ... </span> Joao <em>F&eacute;lix</em>! 0:36 AS&Iacute; CONVIERTEN A LOS CRACKS EN ESTRELLAS DE LA PLAY... 0:27 Ver Todo Condiciones<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o F\u00e9lix Biograf\u00eda | - ESPN",
+            "originalURL": "https://www.espn.com.pa/futbol/jugador/bio/_/id/276350/joao-felix",
+            "snippet": "<em>Jo&atilde;o</em> <em>F&eacute;lix</em> Biograf&iacute;a | - ESPN Ir a la navegaci&oacute;n Menu ESPN F&uacute;tbol MLB Boxeo B&aacute;squetbol Ciclismo F. Americano Play TV Juegos <em>Jo&atilde;o</em> <em>F&eacute;lix</em> Atl&eacute;tico Madrid #7 Mediocampista Seguir Est/Pes 1.8 m, 63 kg FDN 10/11/1999 (20) Estad&iacute;sticas de temporada 2019-20 La Liga TIT (SUP) 21 (6) G 6 A 1 TT 64 Perfil de<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o F\u00e9lix News | ESPN",
+            "originalURL": "https://www.espn.co.uk/football/player/news/_/id/276350/joao-felix",
+            "snippet": "<em>Jo&atilde;o</em> <em>F&eacute;lix</em> News | ESPN Skip to navigation Menu ESPN Football NFL NBA MMA F1 Cricket ESPN Player Fantasy <em>Jo&atilde;o</em> <em>F&eacute;lix</em> Atletico Madrid #7 Midfielder Follow HT/WT 1.8 m, 63 kg DOB 10/11/1999 (20) 2019-20 La Liga Stats START (SUB) 21 (6) G 6 A 1 SH 64 Overview Bio News Matches Stats Switch Player Alav&eacute;s<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o F\u00e9lix Biography | ESPN",
+            "originalURL": "https://www.espn.co.uk/football/player/bio/_/id/276350/joao-felix",
+            "snippet": "<em>Jo&atilde;o</em> <em>F&eacute;lix</em> Biography | ESPN Skip to navigation Menu ESPN Football NFL NBA MMA F1 Cricket ESPN Player Fantasy <em>Jo&atilde;o</em> <em>F&eacute;lix</em> Atletico Madrid #7 Midfielder Follow HT/WT 1.8 m, 63 kg DOB 10/11/1999 (20) 2019-20 La Liga Stats START (SUB) 21 (6) G 6 A 1 SH 64 Overview Bio News Matches Stats Biography Team<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o F\u00e9lix Biograf\u00eda | - ESPN",
+            "originalURL": "https://www.espn.co.cr/futbol/jugador/bio/_/id/276350/joao-felix",
+            "snippet": "<em>Jo&atilde;o</em> <em>F&eacute;lix</em> Biograf&iacute;a | - ESPN Ir a la navegaci&oacute;n Menu ESPN F&uacute;tbol B&aacute;squetbol Otros Deportes Ciclismo MLB F. Americano TV Play <em>Jo&atilde;o</em> <em>F&eacute;lix</em> Atl&eacute;tico Madrid #7 Mediocampista Seguir Est/Pes 1.8 m, 63 kg FDN 10/11/1999 (20) Estad&iacute;sticas de temporada 2019-20 La Liga TIT (SUP) 21 (6) G 6 A 1 TT 64 Perfil<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o F\u00e9lix Biograf\u00eda | - ESPN",
+            "originalURL": "https://www.espn.com.uy/futbol/jugador/bio/_/id/276350/joao-felix",
+            "snippet": "<em>Jo&atilde;o</em> <em>F&eacute;lix</em> Biograf&iacute;a | - ESPN Ir a la navegaci&oacute;n Menu ESPN F&uacute;tbol B&aacute;squetbol Rugby Tenis Deporte Motor MMA Play TV <em>Jo&atilde;o</em> <em>F&eacute;lix</em> Atl&eacute;tico Madrid #7 Mediocampista Seguir Est/Pes 1.8 m, 63 kg FDN 10/11/1999 (20) Estad&iacute;sticas de temporada 2019-20 La Liga TIT (SUP) 21 (6) G 6 A 1 TT 64 Perfil de Jugador<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o F\u00e9lix Biograf\u00eda | - ESPN",
+            "originalURL": "https://www.espn.com.do/futbol/jugador/bio/_/id/276350/joao-felix",
+            "snippet": "<em>Jo&atilde;o</em> <em>F&eacute;lix</em> Biograf&iacute;a | - ESPN Ir a la navegaci&oacute;n Menu ESPN MLB B&aacute;squetbol F&uacute;tbol Golf Tenis F. Americano Play TV Juegos <em>Jo&atilde;o</em> <em>F&eacute;lix</em> Atl&eacute;tico Madrid #7 Mediocampista Seguir Est/Pes 1.8 m, 63 kg FDN 10/11/1999 (20) Estad&iacute;sticas de temporada 2019-20 La Liga TIT (SUP) 21 (6) G 6 A 1 TT 64 Perfil de<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o F\u00e9lix Estad\u00edsticas | - ESPN",
+            "originalURL": "https://www.espn.com.ec/futbol/jugador/estadisticas/_/id/276350/joao-felix",
+            "snippet": "<em>Jo&atilde;o</em> <em>F&eacute;lix</em> Estad&iacute;sticas | - ESPN Ir a la navegaci&oacute;n Menu ESPN F&uacute;tbol Tenis Ciclismo B&aacute;squetbol ESPN Run Boxeo TV Play <em>Jo&atilde;o</em> <em>F&eacute;lix</em> Atl&eacute;tico Madrid #7 Mediocampista Seguir Est/Pes 1.8 m, 63 kg FDN 10/11/1999 (20) Estad&iacute;sticas de temporada 2019-20 La Liga TIT (SUP) 21 (6) G 6 A 1 TT 64 Perfil de<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o F\u00e9lix Biograf\u00eda | - ESPN",
+            "originalURL": "https://www.espn.com.gt/futbol/jugador/bio/_/id/276350/joao-felix",
+            "snippet": "<em>Jo&atilde;o</em> <em>F&eacute;lix</em> Biograf&iacute;a | - ESPN Ir a la navegaci&oacute;n Menu ESPN F&uacute;tbol Otros Deportes MLB F. Americano B&aacute;squetbol Ciclismo Play TV Juegos <em>Jo&atilde;o</em> <em>F&eacute;lix</em> Atl&eacute;tico Madrid #7 Mediocampista Seguir Est/Pes 1.8 m, 63 kg FDN 10/11/1999 (20) Estad&iacute;sticas de temporada 2019-20 La Liga TIT (SUP) 21 (6) G 6 A 1 TT 64<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Pesquisa: \"Jo\u00e3o F\u00e9lix\" - Caras",
+            "originalURL": "http://caras.sapo.pt/pesquisa/?q=Jo%C3%A3o+F%C3%A9lix",
+            "snippet": "Pesquisa: &quot;<em>Jo&atilde;o</em> <em>F&eacute;lix</em>&quot; - Caras Caras Nas Bancas loading... Assinar Assinar Loja Newsletter Perfil<span class=\"ellipsis\"> ... </span> de 2019 Apaixonado, <em>Jo&atilde;o</em> <em>F&eacute;lix</em> celebra pr&eacute;mio &quot;Golden Boy&quot; ao lado de Margarida Corceiro O jovem<span class=\"ellipsis\"> ... </span> lado a lado na XXIV edi&ccedil;&atilde;o dos Globos de Ouro. Globos de Ouro 29 de setembro de 2019 <em>Jo&atilde;o</em> <em>F&eacute;lix</em> eleito<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "\u00c9 GOLO DO BENFICA: JO\u00c3O F\u00c9LIX - YouTube",
+            "originalURL": "https://www.youtube.com/embed/tA2i7-Lpgu4",
+            "snippet": "&Eacute; GOLO DO BENFICA: <em>JO&Atilde;O</em> <em>F&Eacute;LIX</em> - YouTube Ocorreu um erro. Experimente ver este v&iacute;deo em www.youtube.com ou ative o JavaScript se estiver desativado no seu navegador.<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Bancada | Jo\u00e3o F\u00e9lix conquista pr\u00e9mio Golden Boy 2019",
+            "originalURL": "https://bancada.pt/futebol/grandefutebol/joao-felix-conquista-premio-golden-boy-2019",
+            "snippet": "Bancada | <em>Jo&atilde;o</em> <em>F&eacute;lix</em> conquista pr&eacute;mio Golden Boy 2019 In&iacute;cio Portugal Grande Futebol Opini&atilde;o Prolongamento Liga Bancada Rumores Modalidades V&iacute;deos Liga 18/19 Regista-te Grande Futebol <em>Jo&atilde;o</em> <em>F&eacute;lix</em><span class=\"ellipsis\"> ... </span> neste galard&atilde;o <em>Jo&atilde;o</em> <em>F&eacute;lix</em> conquistou o pr&eacute;mio Golden Boy 2019. O ex-avan&ccedil;ado do Benfica superou toda<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Herrera \u2033feliz\u2033 no Atl\u00e9tico. \u2033Espero ajudar Jo\u00e3o F\u00e9lix\u2033 - TSF",
+            "originalURL": "https://www.tsf.pt/desporto/herrera-feliz-no-atletico-espero-ajudar-joao-felix-11082580.html",
+            "snippet": "Herrera &#8243;feliz&#8243; no Atl&eacute;tico. &#8243;Espero ajudar <em>Jo&atilde;o</em> <em>F&eacute;lix</em>&#8243; - TSF Saltar para conte&uacute;do da p&aacute;gina Pub<span class=\"ellipsis\"> ... </span> mercado de transfer&ecirc;ncias Herrera &quot;feliz&quot; no Atl&eacute;tico. &quot;Espero ajudar <em>Jo&atilde;o</em> <em>F&eacute;lix</em>&quot; O antigo capit&atilde;o<span class=\"ellipsis\"> ... </span> Subscrever Muito obrigado pelo seu registo. Tive a oportunidade de jogar contra <em>Jo&atilde;o</em> <em>F&eacute;lix</em> e pareceu-me<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o F\u00e9lix apresentado como jogador do Atl\u00e9tico de Madrid - Caras",
+            "originalURL": "http://caras.sapo.pt/famosos/2019-07-08-Joao-Felix-apresentado-como-jogador-do-Atletico-de-Madrid",
+            "snippet": "<em>Jo&atilde;o</em> <em>F&eacute;lix</em> apresentado como jogador do Atl&eacute;tico de Madrid - Caras Caras Nas Bancas loading<span class=\"ellipsis\"> ... </span> Pesquisa <em>Jo&atilde;o</em> <em>F&eacute;lix</em> <em>Jo&atilde;o</em> <em>F&eacute;lix</em> 1 / 6 Getty Images <em>Jo&atilde;o</em> <em>F&eacute;lix</em> <em>Jo&atilde;o</em> <em>F&eacute;lix</em> 2 / 6 <em>Jo&atilde;o</em> <em>F&eacute;lix</em> e Paulo Futre <em>Jo&atilde;o</em> <em>F&eacute;lix</em> e Paulo Futre 3 / 6 <em>Jo&atilde;o</em> <em>F&eacute;lix</em> <em>Jo&atilde;o</em> <em>F&eacute;lix</em> 4 / 6 5 / 6 6 / 6 <em>Jo&atilde;o</em> <em>F&eacute;lix</em> apresentado como<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Craque perdoado? Margarida Corceiro volta \u00e0s fotos com Jo\u00e3o F\u00e9lix",
+            "originalURL": "https://www.n-tv.pt/rosa-choque/craque-perdoado-margarida-corceiro-volta-as-fotos-com-joao-felix/655262/",
+            "snippet": "Craque perdoado? Margarida Corceiro volta &agrave;s fotos com <em>Jo&atilde;o</em> <em>F&eacute;lix</em> Acontece S&eacute;ries e Cinema Rosa<span class=\"ellipsis\"> ... </span> Corceiro volta &agrave;s fotos com <em>Jo&atilde;o</em> <em>F&eacute;lix</em> Rosa Choque Craque perdoado? Margarida Corceiro volta &agrave;s fotos com <em>Jo&atilde;o</em> <em>F&eacute;lix</em> Rui Pedro Pereira 29/02/2020 Menos de 24 horas depois de ter deixado de seguir o jogador<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o F\u00e9lix em destaque na 'World Soccer' - \u00daltima Hora - S\u00c1BADO",
+            "originalURL": "https://www.sabado.pt/ultima-hora/detalhe/joao-felix-em-destaque-na-world-soccer",
+            "snippet": "<em>Jo&atilde;o</em> <em>F&eacute;lix</em> em destaque na 'World Soccer' - &Uacute;ltima Hora - S&Aacute;BADO S&Aacute;BADO assinar Home &Uacute;ltima Hora<span class=\"ellipsis\"> ... </span> Hora <em>Jo&atilde;o</em> <em>F&eacute;lix</em> em destaque na 'World Soccer' 23.02.2019 23:25 por&nbsp; Record 0 Em bom momento no Benfica, <em>Jo&atilde;o</em> <em>F&eacute;lix</em> &eacute; um dos destaques da edi&ccedil;&atilde;o do m&ecirc;s de mar&ccedil;o da conceituada revista norte-americana<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Cristiano Ronaldo, Jo\u00e3o F\u00e9lix, Jorge Mendes e Benfica vencedores - Renascen\u00e7a",
+            "originalURL": "https://rr.sapo.pt/2019/12/30/futebol-internacional/cristiano-ronaldo-joao-felix-jorge-mendes-e-benfica-vencedores/noticia/176759/?utm_source=plista",
+            "snippet": "Cristiano Ronaldo, <em>Jo&atilde;o</em> <em>F&eacute;lix</em>, Jorge Mendes e Benfica vencedores - Renascen&ccedil;a In&iacute;cio Informa&ccedil;&atilde;o<span class=\"ellipsis\"> ... </span> aos ouvintes da Renascen&ccedil;a A+ / A- Globe Soccer Awards Cristiano Ronaldo, <em>Jo&atilde;o</em> <em>F&eacute;lix</em>, Jorge Mendes<span class=\"ellipsis\"> ... </span> CR7. J&aacute; <em>Jo&atilde;o</em> <em>F&eacute;lix</em> conquistou o pr&eacute;mio Revela&ccedil;&atilde;o. &Eacute; mais um pr&eacute;mio para o jogador do Atl&eacute;tico de<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Cristiano Ronaldo, Jo\u00e3o F\u00e9lix, Jorge Mendes e Benfica vencedores - Renascen\u00e7a",
+            "originalURL": "https://rr.sapo.pt/2019/12/30/futebol-internacional/cristiano-ronaldo-joao-felix-jorge-mendes-e-benfica-vencedores/noticia/amp/176759/",
+            "snippet": "Cristiano Ronaldo, <em>Jo&atilde;o</em> <em>F&eacute;lix</em>, Jorge Mendes e Benfica vencedores - Renascen&ccedil;a &Iacute;nicio Informa&ccedil;&atilde;o<span class=\"ellipsis\"> ... </span> Cristiano Ronaldo, <em>Jo&atilde;o</em> <em>F&eacute;lix</em>, Jorge Mendes e Benfica vencedores 29 dez, 2019 - 17:50 V&aacute;rios pr&eacute;mios<span class=\"ellipsis\"> ... </span>, a <em>Jo&atilde;o</em> <em>F&eacute;lix</em> - o melhor jovem jogador do ano - e a Cristiano Ronaldo, o melhor de sempre&quot;, disse<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Goal | Golo Jo\u00e3o F\u00e9lix: Benfica (2)-0 Chaves (Liga 18/19 #23) - YouTube",
+            "originalURL": "https://www.youtube.com/embed/ECSQf7sjr5k",
+            "snippet": "Goal | Golo <em>Jo&atilde;o</em> <em>F&eacute;lix</em>: Benfica (2)-0 Chaves (Liga 18/19 #23) - YouTube Ocorreu um erro. Experimente ver este v&iacute;deo em www.youtube.com ou ative o JavaScript se estiver desativado no seu navegador.<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Ronaldo? \u2033Estou aqui para ser lembrado como o Jo\u00e3o F\u00e9lix\u2033 - TSF",
+            "originalURL": "https://www.tsf.pt/desporto/direto-joao-felix-apresentado-no-altetico-de-madrid-11088734.html",
+            "snippet": "Ronaldo? &#8243;Estou aqui para ser lembrado como o <em>Jo&atilde;o</em> <em>F&eacute;lix</em>&#8243; - TSF Saltar para conte&uacute;do da p&aacute;gina Pub<span class=\"ellipsis\"> ... </span> In&iacute;cio Atl&eacute;tico de Madrid Ronaldo? &quot;Estou aqui para ser lembrado como o <em>Jo&atilde;o</em> <em>F&eacute;lix</em>&quot; O avan&ccedil;ado custou<span class=\"ellipsis\"> ... </span>-se para receber a nova estrela do Atl&eacute;tico de Madrid. O portugu&ecirc;s <em>Jo&atilde;o</em> <em>F&eacute;lix</em> foi apresentado<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o F\u00e9lix vence o pr\u00e9mio Golden Boy de 2019 - R\u00e1dio C\u00e1vado",
+            "originalURL": "http://radiocavado.pt/2019/11/27/joao-felix-vence-o-premio-golden-boy-de-2019/",
+            "snippet": "<em>Jo&atilde;o</em> <em>F&eacute;lix</em> vence o pr&eacute;mio Golden Boy de 2019 - R&aacute;dio C&aacute;vado Skip to content Facebook Instagram<span class=\"ellipsis\"> ... </span>... Futebol Nacional &Uacute;ltimas <em>Jo&atilde;o</em> <em>F&eacute;lix</em> vence o pr&eacute;mio Golden Boy de 2019 R&aacute;dio C&aacute;vado Barcelos Novembro 27, 2019 Golden Boy <em>Jo&atilde;o</em> <em>F&eacute;lix</em> Portugal O internacional portugu&ecirc;s <em>Jo&atilde;o</em> <em>F&eacute;lix</em>, de 20 anos, venceu<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Uma final atravessada por Jo\u00e3o F\u00e9lix e Bruno Fernandes - O Jogo",
+            "originalURL": "https://www.ojogo.pt/opiniao/cronistas/jesualdoferreira/noticias/uma-final-atravessada-por-joao-felix-e-bruno-fernandes-11180257.html?target=conteudo_fechado",
+            "snippet": "Uma final atravessada por <em>Jo&atilde;o</em> <em>F&eacute;lix</em> e Bruno Fernandes - O Jogo Destaques I Liga II Liga Sub 23<span class=\"ellipsis\"> ... </span> Opini&atilde;o Cronistas Jesualdo Ferreira Premium&nbsp; Uma final atravessada por <em>Jo&atilde;o</em> <em>F&eacute;lix</em> e Bruno Fernandes Uma final atravessada por <em>Jo&atilde;o</em> <em>F&eacute;lix</em> e Bruno Fernandes Partilhar no Facebook Twitter WhatsApp Email<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Caro leitor, o que acha do neg\u00f3cio Jo\u00e3o F\u00e9lix? - O Jogo",
+            "originalURL": "https://www.ojogo.pt/opiniao/cronistas/jacintolucaspires/noticias/caro-leitor-o-que-acha-do-negocio-joao-felix-11037457.html?target=conteudo_fechado",
+            "snippet": "Caro leitor, o que acha do neg&oacute;cio <em>Jo&atilde;o</em> <em>F&eacute;lix</em>? - O Jogo Destaques I Liga II Liga Sub 23 Camp<span class=\"ellipsis\"> ... </span> Cronistas Jacinto Lucas Pires Premium&nbsp; Caro leitor, o que acha do neg&oacute;cio <em>Jo&atilde;o</em> <em>F&eacute;lix</em>? Caro leitor, o que acha do neg&oacute;cio <em>Jo&atilde;o</em> <em>F&eacute;lix</em>? Partilhar no Facebook Twitter WhatsApp Email Partilhar Partilhar no<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o F\u00e9lix vence pr\u00e9mio de jogador revela\u00e7\u00e3o Globe Soccer Awards 2019",
+            "originalURL": "https://www.jm-madeira.pt/desporto/ver/80135/pushbots/pushbots-push-manifest.json",
+            "snippet": "<em>Jo&atilde;o</em> <em>F&eacute;lix</em> vence pr&eacute;mio de jogador revela&ccedil;&atilde;o Globe Soccer Awards 2019 JM Madeira Edi&ccedil;&atilde;o Impressa<span class=\"ellipsis\"> ... </span> Religi&atilde;o Desporto Opini&atilde;o &amp; Cr&oacute;nicas Necrologia Desporto <em>Jo&atilde;o</em> <em>F&eacute;lix</em> vence pr&eacute;mio de jogador revela&ccedil;&atilde;o Globe Soccer Awards 2019 Reda&ccedil;&atilde;o Artigo | 29/12/2019 17:43 O jovem internacional portugu&ecirc;s <em>Jo&atilde;o</em> <em>F&eacute;lix</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o F\u00e9lix vence pr\u00e9mio de jogador revela\u00e7\u00e3o Globe Soccer Awards 2019",
+            "originalURL": "https://www.jm-madeira.pt/desporto/ver/80135/Joao_Felix_vence_premio_de_jogador_revelacao_Globe_Soccer_Awards_2019",
+            "snippet": "<em>Jo&atilde;o</em> <em>F&eacute;lix</em> vence pr&eacute;mio de jogador revela&ccedil;&atilde;o Globe Soccer Awards 2019 JM Madeira Edi&ccedil;&atilde;o Impressa<span class=\"ellipsis\"> ... </span> Religi&atilde;o Desporto Opini&atilde;o &amp; Cr&oacute;nicas Necrologia Desporto <em>Jo&atilde;o</em> <em>F&eacute;lix</em> vence pr&eacute;mio de jogador revela&ccedil;&atilde;o Globe Soccer Awards 2019 Reda&ccedil;&atilde;o Artigo | 29/12/2019 17:43 O jovem internacional portugu&ecirc;s <em>Jo&atilde;o</em> <em>F&eacute;lix</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o F\u00e9lix - Apaixonado por Margarida Corceiro nas \u00e1guas do Dubai | VIP.pt",
+            "originalURL": "https://www.vip.pt/joao-felix-apaixonado-por-margarida-corceiro-nas-aguas-do-dubai?utm_referrer=https%3A%2F%2Fzen.yandex.com",
+            "snippet": "<em>Jo&atilde;o</em> <em>F&eacute;lix</em> - Apaixonado por Margarida Corceiro nas &aacute;guas do Dubai | VIP.pt Passar para o conte&uacute;do<span class=\"ellipsis\"> ... </span> <em>Jo&atilde;o</em> <em>F&eacute;lix</em> Apaixonado por Margarida Corceiro nas &aacute;guas do Dubai Nacional <em>Jo&atilde;o</em> <em>F&eacute;lix</em> e Margarida<span class=\"ellipsis\"> ... </span>:10 1/10 <em>Jo&atilde;o</em> <em>F&eacute;lix</em> Apaixonado por Margarida Corceiro nas &aacute;guas do Dubai 2/10 <em>Jo&atilde;o</em> <em>F&eacute;lix</em> e Margarida<span class=\"ellipsis\"> ... </span>"
+        }
+    ]
+}

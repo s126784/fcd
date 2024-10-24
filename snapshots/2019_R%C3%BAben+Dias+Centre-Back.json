@@ -1,0 +1,273 @@
+{
+    "serviceName": "Arquivo.pt - the Portuguese web-archive",
+    "linkToService": "https://arquivo.pt",
+    "next_page": "https://arquivo.pt/textsearch?q=R%C3%BAben+Dias&from=20190101000000&to=20191231235959&fields=title%2Csnippet%2CoriginalURL%2Ctimestamp&offset=50",
+    "estimated_nr_results": 162317,
+    "request_parameters": {
+        "offset": 0,
+        "dedupValue": 2,
+        "from": "20190101000000",
+        "to": "20191231235959",
+        "fields": [
+            "title",
+            "snippet",
+            "originalURL",
+            "timestamp"
+        ],
+        "dedupField": "site",
+        "q": "R\u00faben Dias",
+        "maxItems": 50
+    },
+    "response_items": [
+        {
+            "title": "R\u00faben Dias pode deixar Benfica em janeiro e rumar \u00e0 Inglaterra - O Jogo",
+            "originalURL": "https://www.ojogo.pt/futebol/1a-liga/benfica/noticias/ruben-dias-pode-deixar-benfica-em-janeiro-e-rumar-a-inglaterra-11395332.html",
+            "snippet": "<em>R&uacute;ben</em> <em>Dias</em> pode deixar Benfica em janeiro e rumar &agrave; Inglaterra - O Jogo Destaques I Liga II Liga<span class=\"ellipsis\"> ... </span> Futebol I Liga Benfica <em>R&uacute;ben</em> <em>Dias</em> pode deixar Benfica em janeiro e rumar &agrave; Inglaterra <em>R&uacute;ben</em> <em>Dias</em> pode<span class=\"ellipsis\"> ... </span> de olho em <em>R&uacute;ben</em> <em>Dias</em> como poss&iacute;vel contrata&ccedil;&atilde;o na reabertura do mercado de transfer&ecirc;ncias de<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "R\u00faben Dias - Wikipedia",
+            "originalURL": "https://en.wikipedia.org/wiki/R%C3%BAben_Dias",
+            "snippet": "<em>R&uacute;ben</em> <em>Dias</em> - Wikipedia <em>R&uacute;ben</em> <em>Dias</em> From Wikipedia, the free encyclopedia Jump to navigation Jump to search <em>R&uacute;ben</em> <em>Dias</em> Personal information Full name <em>R&uacute;ben</em> dos Santos Gato Alves <em>Dias</em> [1] Date of birth<span class=\"ellipsis\"> ... </span> team caps and goals correct as of 11 October 2019 <em>R&uacute;ben</em> dos Santos Gato Alves <em>Dias</em> (born 14 May 1997<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "R\u00faben Dias - Spielerprofil 19/20 | Transfermarkt",
+            "originalURL": "https://www.transfermarkt.ch/ruben-dias/profil/spieler/258004",
+            "snippet": "<em>R&uacute;ben</em> <em>Dias</em> - Spielerprofil 19/20 | Transfermarkt Um die Seite nutzen zu k&ouml;nnen, schalten Sie bitte<span class=\"ellipsis\"> ... </span>) Odysseas Vlachodimos (1) Mile Svilar (72) Ivan Zlobin (3) Alejandro Grimaldo (6) <em>R&uacute;ben</em> <em>Dias</em> (97) Ferro<span class=\"ellipsis\"> ... </span> (14) Haris Seferovic (9) Ra&uacute;l de Tom&aacute;s (95) Carlos Vin&iacute;cius (19) Chiquinho #6 <em>R&uacute;ben</em> <em>Dias</em> 1 1 1 Geb<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "R\u00faben Dias - Spielerprofil 19/20 | Transfermarkt",
+            "originalURL": "https://www.transfermarkt.at/ruben-dias/profil/spieler/258004",
+            "snippet": "<em>R&uacute;ben</em> <em>Dias</em> - Spielerprofil 19/20 | Transfermarkt Um die Seite nutzen zu k&ouml;nnen, schalten Sie bitte<span class=\"ellipsis\"> ... </span>) Odysseas Vlachodimos (1) Mile Svilar (72) Ivan Zlobin (3) Alejandro Grimaldo (6) <em>R&uacute;ben</em> <em>Dias</em> (97) Ferro<span class=\"ellipsis\"> ... </span> (14) Haris Seferovic (9) Ra&uacute;l de Tom&aacute;s (95) Carlos Vin&iacute;cius (19) Chiquinho #6 <em>R&uacute;ben</em> <em>Dias</em> 1 1 1 Geb<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "R\u00faben Dias - Spielerprofil 19/20 | Transfermarkt",
+            "originalURL": "https://www.transfermarkt.de/ruben-dias/profil/spieler/258004",
+            "snippet": "<em>R&uacute;ben</em> <em>Dias</em> - Spielerprofil 19/20 | Transfermarkt Um die Seite nutzen zu k&ouml;nnen, schalten Sie bitte<span class=\"ellipsis\"> ... </span>) Odysseas Vlachodimos (1) Mile Svilar (72) Ivan Zlobin (3) Alejandro Grimaldo (6) <em>R&uacute;ben</em> <em>Dias</em> (97<span class=\"ellipsis\"> ... </span>) Caio (14) Haris Seferovic (9) Ra&uacute;l de Tom&aacute;s (95) Carlos Vin&iacute;cius (19) Chiquinho #6 <em>R&uacute;ben</em> <em>Dias</em> 1 1 1 Geb<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "R\u00faben Dias - Spelersprofiel 19/20 | Transfermarkt",
+            "originalURL": "https://www.transfermarkt.nl/ruben-dias/profil/spieler/258004",
+            "snippet": "<em>R&uacute;ben</em> <em>Dias</em> - Spelersprofiel 19/20 | Transfermarkt Om deze pagina te kunnen gebruiken a.u.b.<span class=\"ellipsis\"> ... </span> Svilar (72) Ivan Zlobin (3) Alejandro Grimaldo (6) <em>R&uacute;ben</em> <em>Dias</em> (97) Ferro (34) Andr&eacute; Almeida (84) Tom&aacute;s<span class=\"ellipsis\"> ... </span> Tom&aacute;s (95) Carlos Vin&iacute;cius (19) Chiquinho #6 <em>R&uacute;ben</em> <em>Dias</em> 1 1 1 Geb./leeftijd: 14 mei 1997 (22<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "R\u00faben Dias Stats, News, Bio | ESPN",
+            "originalURL": "https://tv5.espn.com/football/player/_/id/234878/ruben-dias",
+            "snippet": "<em>R&uacute;ben</em> <em>Dias</em> Stats, News, Bio | ESPN Skip to navigation Menu ESPN NBA Basketball US NCAA esports NFL Boxing Football Video Listen Fantasy <em>R&uacute;ben</em> <em>Dias</em> Benfica #6 Defender Follow HT/WT 1.85 m, 76 kg DOB<span class=\"ellipsis\"> ... </span> Vitoria Setubal Forward Midfielder Defender Goalkeeper 6 <em>R&uacute;ben</em> <em>Dias</em> #6 89 Pedro &Aacute;lvaro #89 2 Germ&aacute;n<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "R\u00faben Dias Stats, News, Bio | ESPN",
+            "originalURL": "https://africa.espn.com/football/player/_/id/234878/ruben-dias",
+            "snippet": "<em>R&uacute;ben</em> <em>Dias</em> Stats, News, Bio | ESPN Skip to navigation Menu ESPN Football NBA Rugby NFL Cricket Boxing Fantasy <em>R&uacute;ben</em> <em>Dias</em> Benfica #6 Defender Follow HT/WT 1.85 m, 76 kg DOB 14/5/1997 (22) 2019-20 Liga<span class=\"ellipsis\"> ... </span> Midfielder Defender Goalkeeper 6 <em>R&uacute;ben</em> <em>Dias</em> #6 89 Pedro &Aacute;lvaro #89 2 Germ&aacute;n Conti #2 82 Jo&atilde;o Ferreira<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "R\u00faben Dias Stats, News, Bio | ESPN",
+            "originalURL": "https://www.espn.com/soccer/player/_/id/234878/ruben-dias",
+            "snippet": "<em>R&uacute;ben</em> <em>Dias</em> Stats, News, Bio | ESPN Skip to navigation Menu ESPN NFL NBA NCAAF NCAAM Soccer MMA Watch Listen Fantasy <em>R&uacute;ben</em> <em>Dias</em> Benfica #6 Defender Follow HT/WT 6' 1&quot;, 168 lbs DOB 5/14/1997 (22) 2019<span class=\"ellipsis\"> ... </span> Forward Midfielder Defender Goalkeeper 6 <em>R&uacute;ben</em> <em>Dias</em> #6 89 Pedro &Aacute;lvaro #89 2 Germ&aacute;n Conti #2 82 Jo&atilde;o<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "R\u00faben Dias - \u043f\u0440\u043e\u0444\u0438\u043b\u044c \u0438\u0433\u0440\u043e\u043a\u0430 19/20 | Transfermarkt",
+            "originalURL": "https://www.transfermarkt.ru/ruben-dias/profil/spieler/258004",
+            "snippet": "<em>R&uacute;ben</em> <em>Dias</em> - &#1087;&#1088;&#1086;&#1092;&#1080;&#1083;&#1100; &#1080;&#1075;&#1088;&#1086;&#1082;&#1072; 19/20 | Transfermarkt &#1063;&#1090;&#1086;&#1073;&#1099; &#1086;&#1090;&#1082;&#1088;&#1099;&#1090;&#1100; &#1101;&#1090;&#1091; &#1089;&#1090;&#1088;&#1072;&#1085;&#1080;&#1094;&#1091;, &#1074;&#1082;&#1083;&#1102;&#1095;&#1080;&#1090;&#1077;, &#1087;&#1086;&#1078;&#1072;&#1083;&#1091;&#1081;&#1089;&#1090;&#1072;<span class=\"ellipsis\"> ... </span>) <em>R&uacute;ben</em> <em>Dias</em> (97) Ferro (34) Andr&eacute; Almeida (84) Tom&aacute;s Tavares (2) Germ&aacute;n Conti (71) Nuno Tavares (33<span class=\"ellipsis\"> ... </span> <em>R&uacute;ben</em> <em>Dias</em> 1 1 1 &#1056;&#1086;&#1076;./&#1074;&#1086;&#1079;&#1088;&#1072;&#1089;&#1090;:: 14 &#1084;&#1072;&#1103; 1997 &#1075;. (22) &#1052;&#1077;&#1089;&#1090;&#1086; &#1088;&#1086;&#1078;&#1076;&#1077;&#1085;&#1080;&#1103;: Amadora &#1053;&#1072;&#1094;&#1080;&#1086;&#1085;&#1072;&#1083;&#1100;&#1085;&#1086;&#1089;&#1090;&#1100;<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "R\u00faben Dias - Player profile 19/20 | Transfermarkt",
+            "originalURL": "https://www.transfermarkt.us/ruben-dias/profil/spieler/258004",
+            "snippet": "<em>R&uacute;ben</em> <em>Dias</em> - Player profile 19/20 | Transfermarkt For using this site, please activate JavaScript<span class=\"ellipsis\"> ... </span> Zlobin (3) Alejandro Grimaldo (6) <em>R&uacute;ben</em> <em>Dias</em> (97) Ferro (34) Andr&eacute; Almeida (84) Tom&aacute;s Tavares (2<span class=\"ellipsis\"> ... </span>) Carlos Vin&iacute;cius (19) Chiquinho #6 <em>R&uacute;ben</em> <em>Dias</em> 1 1 1 Date of birth/Age: May 14, 1997 (22) Place of<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "R\u00faben Dias - Profilo giocatore 19/20 | Transfermarkt",
+            "originalURL": "https://www.transfermarkt.it/ruben-dias/profil/spieler/258004",
+            "snippet": "<em>R&uacute;ben</em> <em>Dias</em> - Profilo giocatore 19/20 | Transfermarkt Per usare questa pagina &egrave; necessario attivare<span class=\"ellipsis\"> ... </span> (72) Ivan Zlobin (3) Alejandro Grimaldo (6) <em>R&uacute;ben</em> <em>Dias</em> (97) Ferro (34) Andr&eacute; Almeida (84) Tom&aacute;s<span class=\"ellipsis\"> ... </span> Tom&aacute;s (95) Carlos Vin&iacute;cius (19) Chiquinho #6 <em>R&uacute;ben</em> <em>Dias</em> 1 1 1 Nato il: 14/mag/1997 (22) Luogo di<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "R\u00faben Dias Stats, News, Bio | - ESPN",
+            "originalURL": "https://www.espn.com.sg/football/player/_/id/234878/ruben-dias",
+            "snippet": "<em>R&uacute;ben</em> <em>Dias</em> Stats, News, Bio | - ESPN Skip to navigation Menu ESPN Football NBA F1 MMA Tennis Cricket Fantasy <em>R&uacute;ben</em> <em>Dias</em> Benfica #6 Defender Follow HT/WT 1.85 m, 76 kg DOB 14/5/1997 (22) 2019-20 Liga<span class=\"ellipsis\"> ... </span> Midfielder Defender Goalkeeper 6 <em>R&uacute;ben</em> <em>Dias</em> #6 89 Pedro &Aacute;lvaro #89 2 Germ&aacute;n Conti #2 82 Jo&atilde;o Ferreira #82<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "R\u00faben Dias - Profil zawodnika 19/20 | Transfermarkt",
+            "originalURL": "https://www.transfermarkt.pl/ruben-dias/profil/spieler/258004",
+            "snippet": "<em>R&uacute;ben</em> <em>Dias</em> - Profil zawodnika 19/20 | Transfermarkt Aby skorzysta&#263; z serwisu, prosze uruchomi&#263;<span class=\"ellipsis\"> ... </span> Svilar (72) Ivan Zlobin (3) Alejandro Grimaldo (6) <em>R&uacute;ben</em> <em>Dias</em> (97) Ferro (34) Andr&eacute; Almeida (84) Tom&aacute;s<span class=\"ellipsis\"> ... </span> de Tom&aacute;s (95) Carlos Vin&iacute;cius (19) Chiquinho #6 <em>R&uacute;ben</em> <em>Dias</em> 1 1 1 Urodz./Wiek: 14 maj 1997 (22<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "R\u00faben Dias - Player profile 19/20 | Transfermarkt",
+            "originalURL": "https://www.transfermarkt.co.za/ruben-dias/profil/spieler/258004",
+            "snippet": "<em>R&uacute;ben</em> <em>Dias</em> - Player profile 19/20 | Transfermarkt For using this site, please activate JavaScript<span class=\"ellipsis\"> ... </span> Zlobin (3) Alejandro Grimaldo (6) <em>R&uacute;ben</em> <em>Dias</em> (97) Ferro (34) Andr&eacute; Almeida (84) Tom&aacute;s Tavares (2<span class=\"ellipsis\"> ... </span>) Carlos Vin&iacute;cius (19) Chiquinho #6 <em>R&uacute;ben</em> <em>Dias</em> 1 1 1 Date of birth/Age: May 14, 1997 (22) Place of<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "R\u00faben Dias - Player profile 19/20 | Transfermarkt",
+            "originalURL": "https://www.transfermarkt.co.uk/ruben-dias/profil/spieler/258004",
+            "snippet": "<em>R&uacute;ben</em> <em>Dias</em> - Player profile 19/20 | Transfermarkt For using this site, please activate JavaScript<span class=\"ellipsis\"> ... </span> Zlobin (3) Alejandro Grimaldo (6) <em>R&uacute;ben</em> <em>Dias</em> (97) Ferro (34) Andr&eacute; Almeida (84) Tom&aacute;s Tavares (2<span class=\"ellipsis\"> ... </span>) Carlos Vin&iacute;cius (19) Chiquinho #6 <em>R&uacute;ben</em> <em>Dias</em> 1 1 1 Date of birth/Age: May 14, 1997 (22) Place of<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "R\u00faben Dias - Player profile 19/20 | Transfermarkt",
+            "originalURL": "https://www.transfermarkt.co.in/ruben-dias/profil/spieler/258004",
+            "snippet": "<em>R&uacute;ben</em> <em>Dias</em> - Player profile 19/20 | Transfermarkt For using this site, please activate JavaScript<span class=\"ellipsis\"> ... </span> Zlobin (3) Alejandro Grimaldo (6) <em>R&uacute;ben</em> <em>Dias</em> (97) Ferro (34) Andr&eacute; Almeida (84) Tom&aacute;s Tavares (2<span class=\"ellipsis\"> ... </span>) Carlos Vin&iacute;cius (19) Chiquinho #6 <em>R&uacute;ben</em> <em>Dias</em> 1 1 1 Date of birth/Age: May 14, 1997 (22) Place of<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "R\u00faben Dias - Player profile 19/20 | Transfermarkt",
+            "originalURL": "https://www.transfermarkt.com/ruben-dias/profil/spieler/258004",
+            "snippet": "<em>R&uacute;ben</em> <em>Dias</em> - Player profile 19/20 | Transfermarkt For using this site, please activate JavaScript<span class=\"ellipsis\"> ... </span> (3) Alejandro Grimaldo (6) <em>R&uacute;ben</em> <em>Dias</em> (97) Ferro (34) Andr&eacute; Almeida (84) Tom&aacute;s Tavares (2) Germ&aacute;n<span class=\"ellipsis\"> ... </span> Vin&iacute;cius (19) Chiquinho #6 <em>R&uacute;ben</em> <em>Dias</em> 1 1 1 Date of birth/Age: May 14, 1997 (22) Place of birth<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Juventus acelera R\u00faben Dias - Portugal - Jornal Record",
+            "originalURL": "https://www.record.pt/mercado/portugal/detalhe/juventus-acelera-ruben-dias?ref=Pesquisa_Destaques",
+            "snippet": "Juventus acelera <em>R&uacute;ben</em> <em>Dias</em> - Portugal - Jornal Record Menu Record Login/Registo TV Assinar E-Paper<span class=\"ellipsis\"> ... </span> acelera <em>R&uacute;ben</em> <em>Dias</em> O meu email O meu nome Coment&aacute;rios Destinat&aacute;rios: (para v&aacute;rios endere&ccedil;os usar ; e<span class=\"ellipsis\"> ... </span> site do Record, efectue o seu registo gratuito . 02 maio 2019 - 03:14 Juventus acelera <em>R&uacute;ben</em> <em>Dias</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "R\u00faben Dias - Oyuncu profili 19/20 | Transfermarkt",
+            "originalURL": "https://www.transfermarkt.com.tr/ruben-dias/profil/spieler/258004",
+            "snippet": "<em>R&uacute;ben</em> <em>Dias</em> - Oyuncu profili 19/20 | Transfermarkt Sayfay&#305; kullanmak i&ccedil;in Javascript'i global<span class=\"ellipsis\"> ... </span> Svilar (72) Ivan Zlobin (3) Alejandro Grimaldo (6) <em>R&uacute;ben</em> <em>Dias</em> (97) Ferro (34) Andr&eacute; Almeida (84<span class=\"ellipsis\"> ... </span>) Ra&uacute;l de Tom&aacute;s (95) Carlos Vin&iacute;cius (19) Chiquinho #6 <em>R&uacute;ben</em> <em>Dias</em> 1 1 1 Do&#287;um tarihi/Ya&#351;: 14 May 1997 (22<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Juventus \u2018for\u00e7a\u2019 R\u00faben Dias - Benfica - Jornal Record",
+            "originalURL": "https://www.record.pt/futebol/futebol-nacional/liga-nos/benfica/detalhe/juventus-forca-ruben-dias",
+            "snippet": "Juventus &#8216;for&ccedil;a&#8217; <em>R&uacute;ben</em> <em>Dias</em> - Benfica - Jornal Record Menu Record Login/Registo TV Assinar E-Paper<span class=\"ellipsis\"> ... </span> artigo: Juventus &#8216;for&ccedil;a&#8217; <em>R&uacute;ben</em> <em>Dias</em> O meu email O meu nome Coment&aacute;rios Destinat&aacute;rios: (para v&aacute;rios<span class=\"ellipsis\"> ... </span> &#8216;for&ccedil;a&#8217; <em>R&uacute;ben</em> <em>Dias</em> Vechia Signora pode ainda contratar Matthijs De Ligt &#8226; Foto: Paulo Calado ... A<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "R\u00faben Dias - Perfil de jogador 19/20 | Transfermarkt",
+            "originalURL": "https://www.transfermarkt.pt/ruben-dias/profil/spieler/258004",
+            "snippet": "<em>R&uacute;ben</em> <em>Dias</em> - Perfil de jogador 19/20 | Transfermarkt Um die Seite nutzen zu k&ouml;nnen, schalten Sie<span class=\"ellipsis\"> ... </span>) Ivan Zlobin (3) Alejandro Grimaldo (6) <em>R&uacute;ben</em> <em>Dias</em> (97) Ferro (34) Andr&eacute; Almeida (84) Tom&aacute;s Tavares (2<span class=\"ellipsis\"> ... </span>) Carlos Vin&iacute;cius (19) Chiquinho #6 <em>R&uacute;ben</em> <em>Dias</em> 1 1 1 Nasc./Idade: 14/05/1997 (22) Local de nascimento<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "R\u00faben Dias - Perfil del jugador 19/20 | Transfermarkt",
+            "originalURL": "https://www.transfermarkt.es/ruben-dias/profil/spieler/258004",
+            "snippet": "<em>R&uacute;ben</em> <em>Dias</em> - Perfil del jugador 19/20 | Transfermarkt Para utilizar esta p&aacute;gina, por favor active<span class=\"ellipsis\"> ... </span> Vlachodimos (1) Mile Svilar (72) Ivan Zlobin (3) Alejandro Grimaldo (6) <em>R&uacute;ben</em> <em>Dias</em> (97) Ferro (34<span class=\"ellipsis\"> ... </span>) Haris Seferovic (9) Ra&uacute;l de Tom&aacute;s (95) Carlos Vin&iacute;cius (19) Chiquinho #6 <em>R&uacute;ben</em> <em>Dias</em> 1 1 1 Nacimiento<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "R\u00faben Dias - Profil du joueur 19/20 | Transfermarkt",
+            "originalURL": "https://www.transfermarkt.fr/ruben-dias/profil/spieler/258004",
+            "snippet": "<em>R&uacute;ben</em> <em>Dias</em> - Profil du joueur 19/20 | Transfermarkt Activez JavaScript pour pouvoir utiliser le<span class=\"ellipsis\"> ... </span>) Ivan Zlobin (3) Alejandro Grimaldo (6) <em>R&uacute;ben</em> <em>Dias</em> (97) Ferro (34) Andr&eacute; Almeida (84) Tom&aacute;s Tavares<span class=\"ellipsis\"> ... </span> (95) Carlos Vin&iacute;cius (19) Chiquinho #6 <em>R&uacute;ben</em> <em>Dias</em> 1 1 1 N&eacute;/&acirc;ge: 14 mai 1997 (22) Lieu de naissance<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "R\u00faben Dias - Spielerprofil 18/19 | Transfermarkt",
+            "originalURL": "http://www.transfermarkt.ch/ruben-dias/profil/spieler/258004",
+            "snippet": "<em>R&uacute;ben</em> <em>Dias</em> - Spielerprofil 18/19 | Transfermarkt Um die Seite nutzen zu k&ouml;nnen, schalten Sie bitte<span class=\"ellipsis\"> ... </span>) Ivan Zlobin (3) Alejandro Grimaldo (6) <em>R&uacute;ben</em> <em>Dias</em> (34) Andr&eacute; Almeida (97) Ferro (7) S&eacute;bastien<span class=\"ellipsis\"> ... </span> Seferovic (73) Jota (10) Jonas #6 <em>R&uacute;ben</em> <em>Dias</em> Geb./Alter: 14.05.1997 (21) Geburtsort: Amadora<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "R\u00faben Dias - Spelersprofiel 18/19 | Transfermarkt",
+            "originalURL": "http://www.transfermarkt.nl/ruben-dias/profil/spieler/258004",
+            "snippet": "<em>R&uacute;ben</em> <em>Dias</em> - Spelersprofiel 18/19 | Transfermarkt Om deze pagina te kunnen gebruiken a.u.b.<span class=\"ellipsis\"> ... </span>) Alejandro Grimaldo (6) <em>R&uacute;ben</em> <em>Dias</em> (34) Andr&eacute; Almeida (97) Ferro (7) S&eacute;bastien Corchia (33) Jardel (2) Germ&aacute;n<span class=\"ellipsis\"> ... </span> (73) Jota (10) Jonas #6 <em>R&uacute;ben</em> <em>Dias</em> Geb./leeftijd: 14 mei 1997 (21) Geboorteplaats: Amadora<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "R\u00faben Dias - Spielerprofil 18/19 | Transfermarkt",
+            "originalURL": "http://www.transfermarkt.de/ruben-dias/profil/spieler/258004",
+            "snippet": "<em>R&uacute;ben</em> <em>Dias</em> - Spielerprofil 18/19 | Transfermarkt Um die Seite nutzen zu k&ouml;nnen, schalten Sie bitte<span class=\"ellipsis\"> ... </span> (72) Ivan Zlobin (3) Alejandro Grimaldo (6) <em>R&uacute;ben</em> <em>Dias</em> (34) Andr&eacute; Almeida (97) Ferro (7) S&eacute;bastien<span class=\"ellipsis\"> ... </span> Seferovic (73) Jota (10) Jonas #6 <em>R&uacute;ben</em> <em>Dias</em> Geb./Alter: 14.05.1997 (21) Geburtsort: Amadora<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "R\u00faben Dias | Perfil Oficial - SL Benfica",
+            "originalURL": "https://www.slbenfica.pt/futebol/sl-benfica/dias-ruben",
+            "snippet": "<em>R&uacute;ben</em> <em>Dias</em> | Perfil Oficial - SL Benfica TOP Agora Not&iacute;cias Agenda V&iacute;deos e Imagens Social Hub Ver<span class=\"ellipsis\"> ... </span>) Subscri&ccedil;&atilde;o Jornal (3) PT EN ES SL Benfica Futebol Plantel Principal <em>R&uacute;ben</em> <em>Dias</em> <em>Dias</em>, <em>R&uacute;ben</em> defesa<span class=\"ellipsis\"> ... </span> defesa Corchia, Sebastien defesa <em>Dias</em>, <em>R&uacute;ben</em> defesa Ebuehi defesa Grimaldo defesa Jardel defesa Lema<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "R\u00faben Dias - Perfil de jogador 19/20 | Transfermarkt",
+            "originalURL": "https://www.transfermarkt.com.br/ruben-dias/profil/spieler/258004",
+            "snippet": "<em>R&uacute;ben</em> <em>Dias</em> - Perfil de jogador 19/20 | Transfermarkt Um die Seite nutzen zu k&ouml;nnen, schalten Sie<span class=\"ellipsis\"> ... </span>) Ivan Zlobin (3) Alejandro Grimaldo (6) <em>R&uacute;ben</em> <em>Dias</em> (97) Ferro (34) Andr&eacute; Almeida (84) Tom&aacute;s Tavares (2<span class=\"ellipsis\"> ... </span>) Carlos Vin&iacute;cius (19) Chiquinho #6 <em>R&uacute;ben</em> <em>Dias</em> 1 1 1 Nasc./Idade: 14/05/1997 (22) Local de nascimento<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "\u00daltima Hora: R\u00faben Dias! \u2013 Campe\u00e3o SLB",
+            "originalURL": "http://www.campeaoslb.pt/2018/08/17/ultima-hora-ruben-dias/",
+            "snippet": "&Uacute;ltima Hora: <em>R&uacute;ben</em> <em>Dias</em>! &#8211; Campe&atilde;o SLB Cookie Policy Home Connect with us Campe&atilde;o SLB Connect with<span class=\"ellipsis\"> ... </span> Voleibol Outras Redes Sociais Facebook Instagram Equipa Principal &Uacute;ltima Hora: <em>R&uacute;ben</em> <em>Dias</em>! by admin<span class=\"ellipsis\"> ... </span> qualquer acordo prestes a ser divulgado&#8230; Related Topics <em>R&uacute;ben</em> <em>Dias</em>! Click to comment Leave a Reply<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "R\u00faben Dias | Perfil Oficial - SL Benfica",
+            "originalURL": "https://www.slbenfica.pt/pt-pt/futebol/sl-benfica/Ruben?season=19-20",
+            "snippet": "<em>R&uacute;ben</em> <em>Dias</em> | Perfil Oficial - SL Benfica TOP Agora Not&iacute;cias Agenda V&iacute;deos e Imagens Social Hub Ver<span class=\"ellipsis\"> ... </span> defesa-central <em>R&uacute;ben</em> <em>Dias</em> &eacute; j&aacute; uma certeza no Benfica. Participou no Campeonato do Mundo de Sub-20 e de<span class=\"ellipsis\"> ... </span> Benfica SL Benfica S&oacute;cios Bilhetes Produtos PT EN ES FR SL Benfica Futebol Plantel Principal <em>R&uacute;ben</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "R\u00faben Dias - \u043f\u0440\u043e\u0444\u0438\u043b\u044c \u0438\u0433\u0440\u043e\u043a\u0430 18/19 | Transfermarkt",
+            "originalURL": "http://www.transfermarkt.ru/ruben-dias/profil/spieler/258004",
+            "snippet": "<em>R&uacute;ben</em> <em>Dias</em> - &#1087;&#1088;&#1086;&#1092;&#1080;&#1083;&#1100; &#1080;&#1075;&#1088;&#1086;&#1082;&#1072; 18/19 | Transfermarkt Um die Seite nutzen zu k&ouml;nnen, schalten Sie bitte<span class=\"ellipsis\"> ... </span>) Odysseas Vlachodimos (1) Mile Svilar (72) Ivan Zlobin (3) Alejandro Grimaldo (6) <em>R&uacute;ben</em> <em>Dias</em> (34) Andr&eacute;<span class=\"ellipsis\"> ... </span> (79) Jo&atilde;o F&eacute;lix (18) Eduardo Salvio (14) Haris Seferovic (73) Jota (10) Jonas #6 <em>R&uacute;ben</em> <em>Dias</em> &#1056;&#1086;&#1076;<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "R\u00faben Dias - Profilo giocatore 18/19 | Transfermarkt",
+            "originalURL": "http://www.transfermarkt.it/ruben-dias/profil/spieler/258004",
+            "snippet": "<em>R&uacute;ben</em> <em>Dias</em> - Profilo giocatore 18/19 | Transfermarkt Per usare questa pagina &egrave; necessario attivare<span class=\"ellipsis\"> ... </span>) Alejandro Grimaldo (6) <em>R&uacute;ben</em> <em>Dias</em> (34) Andr&eacute; Almeida (97) Ferro (7) S&eacute;bastien Corchia (33) Jardel (2<span class=\"ellipsis\"> ... </span>) Jonas #6 <em>R&uacute;ben</em> <em>Dias</em> Nato il: 14/mag/1997 (21) Luogo di nascita: Amadora Nazionalit&agrave;: Portogallo Altezza<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "R\u00faben Dias - Player Profile 18/19 | Transfermarkt",
+            "originalURL": "http://www.transfermarkt.us/ruben-dias/profil/spieler/258004",
+            "snippet": "<em>R&uacute;ben</em> <em>Dias</em> - Player Profile 18/19 | Transfermarkt For using this site, please activate JavaScript<span class=\"ellipsis\"> ... </span> Player (99) Odysseas Vlachodimos (1) Mile Svilar (72) Ivan Zlobin (3) Alejandro Grimaldo (6) <em>R&uacute;ben</em> <em>Dias</em><span class=\"ellipsis\"> ... </span> <em>R&uacute;ben</em> <em>Dias</em> Date of Birth (Age): May 14, 1997 (21) Place of Birth: Amadora Citizenship: Portugal Height<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "R\u00faben Dias - Profil zawodnika 18/19 | Transfermarkt",
+            "originalURL": "http://www.transfermarkt.pl/ruben-dias/profil/spieler/258004",
+            "snippet": "<em>R&uacute;ben</em> <em>Dias</em> - Profil zawodnika 18/19 | Transfermarkt Aby skorzysta&#263; z serwisu, prosze uruchomi&#263;<span class=\"ellipsis\"> ... </span>) Alejandro Grimaldo (6) <em>R&uacute;ben</em> <em>Dias</em> (34) Andr&eacute; Almeida (97) Ferro (7) S&eacute;bastien Corchia (33) Jardel (2<span class=\"ellipsis\"> ... </span> (73) Jota (10) Jonas #6 <em>R&uacute;ben</em> <em>Dias</em> Urodz./Wiek: 14 maj 1997 (21) Miejsce urodzenia: Amadora<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "R\u00faben Dias - Player Profile 18/19 | Transfermarkt",
+            "originalURL": "http://www.transfermarkt.co.uk/ruben-dias/profil/spieler/258004",
+            "snippet": "<em>R&uacute;ben</em> <em>Dias</em> - Player Profile 18/19 | Transfermarkt For using this site, please activate JavaScript<span class=\"ellipsis\"> ... </span>) Eduardo Salvio (17) Andrija Zivkovic (14) Haris Seferovic (73) Jota (10) Jonas #6 <em>R&uacute;ben</em> <em>Dias</em> Date<span class=\"ellipsis\"> ... </span> Information and facts Name in Home Country / Full Name: <em>R&uacute;ben</em> Santos Gato Alves <em>Dias</em> Date of Birth<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "R\u00faben Dias - Player Profile 18/19 | Transfermarkt",
+            "originalURL": "http://www.transfermarkt.co.in/ruben-dias/profil/spieler/258004",
+            "snippet": "<em>R&uacute;ben</em> <em>Dias</em> - Player Profile 18/19 | Transfermarkt For using this site, please activate JavaScript<span class=\"ellipsis\"> ... </span> Player (99) Odysseas Vlachodimos (1) Mile Svilar (72) Ivan Zlobin (3) Alejandro Grimaldo (6) <em>R&uacute;ben</em> <em>Dias</em><span class=\"ellipsis\"> ... </span> <em>R&uacute;ben</em> <em>Dias</em> Date of Birth (Age): May 14, 1997 (21) Place of Birth: Amadora Citizenship: Portugal Height<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "R\u00faben Dias - Oyuncu profili 18/19 | Transfermarkt",
+            "originalURL": "http://www.transfermarkt.com.tr/ruben-dias/profil/spieler/258004",
+            "snippet": "<em>R&uacute;ben</em> <em>Dias</em> - Oyuncu profili 18/19 | Transfermarkt Sayfay&#305; kullanmak i&ccedil;in Javascript'i global<span class=\"ellipsis\"> ... </span>) Alejandro Grimaldo (6) <em>R&uacute;ben</em> <em>Dias</em> (34) Andr&eacute; Almeida (97) Ferro (7) S&eacute;bastien Corchia (33) Jardel (2<span class=\"ellipsis\"> ... </span> (10) Jonas #6 <em>R&uacute;ben</em> <em>Dias</em> Do&#287;um tarihi/Ya&#351;: 14 May 1997 (21) Do&#287;du&#287;u il: Amadora Uyru&#287;u: Portekiz Boyu<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "R\u00faben Dias - Perfil del jugador 18/19 | Transfermarkt",
+            "originalURL": "http://www.transfermarkt.es/ruben-dias/profil/spieler/258004",
+            "snippet": "<em>R&uacute;ben</em> <em>Dias</em> - Perfil del jugador 18/19 | Transfermarkt Para utilizar esta p&aacute;gina, por favor active<span class=\"ellipsis\"> ... </span>) Ivan Zlobin (3) Alejandro Grimaldo (6) <em>R&uacute;ben</em> <em>Dias</em> (34) Andr&eacute; Almeida (97) Ferro (7) S&eacute;bastien Corchia<span class=\"ellipsis\"> ... </span> (14) Haris Seferovic (73) Jota (10) Jonas #6 <em>R&uacute;ben</em> <em>Dias</em> Nacimiento / edad: 14/05/1997 (21) Lugar de<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "R\u00faben Dias - Profil du joueur 18/19 | Transfermarkt",
+            "originalURL": "http://www.transfermarkt.fr/ruben-dias/profil/spieler/258004",
+            "snippet": "<em>R&uacute;ben</em> <em>Dias</em> - Profil du joueur 18/19 | Transfermarkt Active JavaScript pour pouvoir utiliser le site<span class=\"ellipsis\"> ... </span> Zlobin (3) Alejandro Grimaldo (6) <em>R&uacute;ben</em> <em>Dias</em> (34) Andr&eacute; Almeida (97) Ferro (7) S&eacute;bastien Corchia (33<span class=\"ellipsis\"> ... </span>) Haris Seferovic (73) Jota (10) Jonas #6 <em>R&uacute;ben</em> <em>Dias</em> N&eacute;/&acirc;ge: 14 mai 1997 (21) Lieu de naissance: Amadora<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "R\u00faben Dias - Perfil de jogador 18/19 | Transfermarkt",
+            "originalURL": "http://www.transfermarkt.pt/ruben-dias/profil/spieler/258004",
+            "snippet": "<em>R&uacute;ben</em> <em>Dias</em> - Perfil de jogador 18/19 | Transfermarkt Um die Seite nutzen zu k&ouml;nnen, schalten Sie<span class=\"ellipsis\"> ... </span> (72) Ivan Zlobin (3) Alejandro Grimaldo (6) <em>R&uacute;ben</em> <em>Dias</em> (34) Andr&eacute; Almeida (97) Ferro (7) S&eacute;bastien<span class=\"ellipsis\"> ... </span> Seferovic (73) Jota (10) Jonas #6 <em>R&uacute;ben</em> <em>Dias</em> Nasc./Idade: 14/05/1997 (21) Local de nascimento<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Ferro e R\u00faben Dias. A viagem na \"Caixa de Campe\u00f5es\" - Renascen\u00e7a",
+            "originalURL": "https://rr.sapo.pt/noticia/154409/ferro-e-ruben-dias-a-viagem-na-caixa-de-campeoes?utm_source=plista",
+            "snippet": "Ferro e <em>R&uacute;ben</em> <em>Dias</em>. A viagem na &quot;Caixa de Campe&otilde;es&quot; - Renascen&ccedil;a In&iacute;cio Informa&ccedil;&atilde;o &Uacute;ltimas Pa&iacute;s<span class=\"ellipsis\"> ... </span> estiv&eacute;ssemos em 2015, voltar&iacute;amos a assinar acordo&quot; A+ / A- Benfica Ferro e <em>R&uacute;ben</em> <em>Dias</em>. A viagem na<span class=\"ellipsis\"> ... </span> dirigentes, com Lu&iacute;s Filipe Vieira em primeiro plano. <em>R&uacute;ben</em> <em>Dias</em> e Ferro, produtos da &quot;Caixa de<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "R\u00faben Dias e Taarabt chamados para Leipzig - JN",
+            "originalURL": "https://www.jn.pt/desporto/ruben-dias-e-taarabt-chamados-para-leipzig-11553854.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+JN-ULTIMAS+%28JN+-+Ultimas%29",
+            "snippet": "<em>R&uacute;ben</em> <em>Dias</em> e Taarabt chamados para Leipzig - JN Jornal de Not&iacute;cias Abrir menu Sec&ccedil;&otilde;es ePaper<span class=\"ellipsis\"> ... </span> Mais Vistas Alertas Facebook Twitter WhatsApp Partilhar O Jogo ao Vivo Benfica <em>R&uacute;ben</em> <em>Dias</em> e Taarabt chamados para Leipzig <em>R&uacute;ben</em> <em>Dias</em> volta &agrave;s op&ccedil;&otilde;es ap&oacute;s ter sido poupado para a Ta&ccedil;a de Portugal Foto<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Marco Pina e a agress\u00e3o de R\u00faben Dias - Streamable",
+            "originalURL": "https://streamable.com/s/jkj3x/cmweqb",
+            "snippet": "Marco Pina e a agress&atilde;o de <em>R&uacute;ben</em> <em>Dias</em> - Streamable Loading... Speed 2 1.5 1 &frac12; &frac14; Download video Copy video URL Copy embed code Report issue Powered by Streamable<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "SL Benfica X Sta. Clara - SL Benfica, Caso, R\u00faben Dias, 73m",
+            "originalURL": "https://noticiasaominuto.vsports.pt/embd/52745/m/449850/notaomin/b9161f21fe538c7631015549791098f9?autostart=false",
+            "snippet": "SL Benfica X Sta. Clara - SL Benfica, Caso, <em>R&uacute;ben</em> <em>Dias</em>, 73m LOADING 0:18<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "SL Benfica X Sta. Clara - SL Benfica, Caso, R\u00faben Dias, 73m",
+            "originalURL": "https://noticiasaominuto.vsports.pt/embd/52745/m/449850/notaomin/b9161f21fe538c7631015549791098f9?autostart=false",
+            "snippet": "SL Benfica X Sta. Clara - SL Benfica, Caso, <em>R&uacute;ben</em> <em>Dias</em>, 73m LOADING 0:18<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "R\u00faben Dias e a sua fonte Oban Estudou em Lisboa e fez uma P\u00f3s-Gradua\u00e7\u00e3o na Bauhaus Dessau; a licenci",
+            "originalURL": "http://tipografos.net/portugal/ruben-dias.html",
+            "snippet": "<em>R&uacute;ben</em> <em>Dias</em> e a sua fonte Oban Estudou em Lisboa e fez uma P&oacute;s-Gradua&ccedil;&atilde;o na Bauhaus Dessau; a<span class=\"ellipsis\"> ... </span> , o e-book sobre a P&eacute;-Historia Romanos na Pen&iacute;nsula Ib&eacute;rica , o e-book sobre a Cultura Romana <em>R&uacute;ben</em> <em>Dias</em> e a sua fonte Oban Estudou em Lisboa e fez uma P&oacute;s-Gradua&ccedil;&atilde;o na Bauhaus Dessau; a licenciatura em<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "R\u00faben Dias renova com o Benfica - Futebol - SAPO Desporto",
+            "originalURL": "https://desporto.sapo.pt/futebol/primeira-liga/artigos/ruben-dias-renova-com-o-benfica-2",
+            "snippet": "<em>R&uacute;ben</em> <em>Dias</em> renova com o Benfica - Futebol - SAPO Desporto In&iacute;cio Nacional I Liga Calend&aacute;rio<span class=\"ellipsis\"> ... </span> Newsletter Notifica&ccedil;&otilde;es <em>R&uacute;ben</em> <em>Dias</em> renova com o Benfica Sportinforma 29 nov 2019 17:55 I Liga benfica<span class=\"ellipsis\"> ... </span> 22 anos leva 22 jogos e dois marcados esta &eacute;poca. <em>R&uacute;ben</em> <em>Dias</em> est&aacute; no Benfica desde os 13 anos. <em>R&uacute;ben</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "SL Benfica X Vit\u00f3ria FC - SL Benfica, Pen\u00e1lti, R\u00faben Dias (VAR), 84m",
+            "originalURL": "https://www.vsports.pt/embd/51692/m/449808/jn/b867b0c2263baf855b1bfd8d787ab44b?autostart=false",
+            "snippet": "SL Benfica X Vit&oacute;ria FC - SL Benfica, Pen&aacute;lti, <em>R&uacute;ben</em> <em>Dias</em> (VAR), 84m LOADING 1:29<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "R\u00faben Dias renova contrato com Benfica - Futebol - Correio da Manh\u00e3",
+            "originalURL": "https://www.cmjornal.pt/desporto/futebol/detalhe/ruben-dias-renova-contrato-com-benfica",
+            "snippet": "<em>R&uacute;ben</em> <em>Dias</em> renova contrato com Benfica - Futebol - Correio da Manh&atilde; Deseja mostrar notifica&ccedil;&otilde;es<span class=\"ellipsis\"> ... </span> retirou a faca ao atacante e fugiu pela Ponte de Londres <em>R&uacute;ben</em> <em>Dias</em> renova contrato com Benfica<span class=\"ellipsis\"> ... </span> por morte de feto em despiste <em>R&uacute;ben</em> <em>Dias</em> renova contrato com Benfica An&uacute;ncio vai ser feito ainda esta<span class=\"ellipsis\"> ... </span>"
+        }
+    ]
+}

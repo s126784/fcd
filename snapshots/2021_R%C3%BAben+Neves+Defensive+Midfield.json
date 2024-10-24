@@ -1,0 +1,112 @@
+{
+    "serviceName": "Arquivo.pt - the Portuguese web-archive",
+    "linkToService": "https://arquivo.pt",
+    "estimated_nr_results": 49,
+    "request_parameters": {
+        "offset": 0,
+        "dedupValue": 2,
+        "from": "20210101000000",
+        "to": "20211231235959",
+        "fields": [
+            "title",
+            "snippet",
+            "originalURL",
+            "timestamp"
+        ],
+        "dedupField": "site",
+        "q": "R\u00faben Neves",
+        "maxItems": 50
+    },
+    "response_items": [
+        {
+            "title": "Universo Porto - Jornal",
+            "originalURL": "http://portocanal.sapo.pt:443/programa/112?ctx=videos&nrP=5&tag=",
+            "snippet": "? - <em>R&uacute;ben</em> <em>Neves</em> Lembras-te disto? - <em>R&uacute;ben</em> <em>Neves</em> Porto Canal | 30-03-2018 N&uacute;meros M&iacute;ticos - <em>R&uacute;ben</em> <em>Neves</em> N&uacute;meros M&iacute;ticos - <em>R&uacute;ben</em> <em>Neves</em> Porto Canal | 30-03-2018 Ricardo Geitoeira afirma que o &aacute;rbitro n&atilde;o foi<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Wolverhampton eliminado na Ta\u00e7a da Liga inglesa por clube do segundo escal\u00e3o - TSF",
+            "originalURL": "https://www.tsf.pt/desporto/amp/wolverhampton-eliminado-na-taca-da-liga-inglesa-por-clube-do-segundo-escalao-12735067.html",
+            "snippet": ", <em>R&uacute;ben</em> Vinagre e <em>R&uacute;ben</em> <em>Neves</em> foram titulares. Por Lusa 17&nbsp;Setembro,&nbsp;2020&nbsp;&#8226;&nbsp;21:47 &copy;&nbsp;AFP O Wolverhampton<span class=\"ellipsis\"> ... </span> Silva, Vitinha, <em>R&uacute;ben</em> Vinagre e <em>R&uacute;ben</em> <em>Neves</em> a titulares, com Pedro Neto e Podence a entrarem no<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Rashford ganhou o palco do Teatro dos Sonhos no terceiro ato (e o United venceu o Wolves nos descont",
+            "originalURL": "https://observador.pt/2020/12/29/rashford-ganhou-o-palco-do-teatro-dos-sonhos-no-terceiro-ato-e-o-united-venceu-o-wolves-nos-descontos/amp/",
+            "snippet": " Podence aos colegas de Sele&ccedil;&atilde;o Nelson Semedo, Jo&atilde;o Moutinho, <em>R&uacute;ben</em> <em>Neves</em> e mais recentemente Pedro Neto<span class=\"ellipsis\"> ... </span> inevit&aacute;vel. De regresso ao sistema de tr&ecirc;s defesas com V&iacute;tor Ferreira a juntar-se a <em>R&uacute;ben</em> <em>Neves</em> e<span class=\"ellipsis\"> ... </span> de V&iacute;tor Ferreira e <em>R&uacute;ben</em> <em>Neves</em>, ambos de fora da &aacute;rea, e de Sa&iuml;ss, na sequ&ecirc;ncia de bola parada, j&aacute;<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "O dia do Wolves valeu pelo golo de F\u00e1bio Silva e pelo v\u00eddeo de Jim\u00e9nez \u2013 o resto em Burnley foi para",
+            "originalURL": "https://observador.pt/2020/12/21/o-dia-do-wolves-valeu-pelo-golo-de-fabio-silva-e-pelo-video-de-jimenez-o-resto-em-burnley-foi-para-esquecer/amp/",
+            "snippet": ", Nelson Semedo a fazer o corredor direito, Jo&atilde;o Moutinho e <em>R&uacute;ben</em> <em>Neves</em> ao meio e a dupla Podence-Pedro<span class=\"ellipsis\"> ... </span> poste de livre no minuto seguinte a um bom remate de <em>R&uacute;ben</em> <em>Neves</em> (39&#8242;). [Clique nas imagens para ver<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Portugal squad for League of Nations - The Portugal News",
+            "originalURL": "https://www.theportugalnews.com/news/portugal-squad-for-league-of-nations/55508",
+            "snippet": "), <em>R&uacute;ben</em> <em>Neves</em> (Wolverhampton Wanderers FC), Andr&eacute; Gomes (Everton FC), Bruno Fernandes (Manchester United<span class=\"ellipsis\"> ... </span>), Domingos Duarte (Granada CF), Jos&eacute; Fonte (LOSC Lille), Pepe (FC Porto), <em>R&uacute;ben</em> Dias (Benfica), M&aacute;rio<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Daniel Podence e Pedro Neto assistem na vit\u00f3ria do Wolverhampton em Sheffield - TSF",
+            "originalURL": "https://www.tsf.pt/desporto/amp/daniel-podence-e-pedro-neto-assistem-na-vitoria-do-wolverhampton-em-sheffield-12722794.html",
+            "snippet": ", enquanto <em>R&uacute;ben</em> <em>Neves</em> e o estreante Vitinha foram suplentes utilizados. <em>R&uacute;ben</em> Vinagre, Diogo Jota e F&aacute;bio<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Vis\u00e3o | FC Porto confirma sa\u00edda de F\u00e1bio Silva para o Wolverhampton por 40 ME",
+            "originalURL": "https://visao.sapo.pt/atualidade/desporto/2020-09-05-fc-porto-confirma-saida-de-fabio-silva-para-o-wolverhampton-por-40-me/",
+            "snippet": " conta no plantel com Rui Patr&iacute;cio, <em>R&uacute;ben</em> Vinagre, <em>R&uacute;ben</em> <em>Neves</em>, Bruno Jord&atilde;o, Jo&atilde;o Moutinho, Pedro<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "untitled",
+            "originalURL": "http://www.destak.pt/docs/5676/dtk-3411.pdf",
+            "snippet": " rema-\ntes de fora da &aacute;rea, face &agrave; incapaci-\ndade de penetrar a defesa contr&aacute;ria. \nCom <em>R&uacute;ben</em> <em>Neves</em> &agrave;<span class=\"ellipsis\"> ... </span> \n<em>R&uacute;ben</em> Dias \nRaphael Guerreiro \n<em>R&uacute;ben</em> <em>Neves</em> \n William Carvalho \nBruno Fernandes &#8249; \nRafa Silva, 56<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "untitled",
+            "originalURL": "http://www.destak.pt/docs/5666/dtk-3406.pdf",
+            "snippet": ". \nApesar dos dois empates nas rondas \ninaugurais, <em>R&uacute;ben</em> <em>Neves</em> lembrou \nque a Sele&ccedil;&atilde;o Nacional s&oacute;<span class=\"ellipsis\"> ... </span> na S&eacute;rvia e depois \nna Litu&acirc;nia na pr&oacute;xima ter&ccedil;a-feira.\n<em>R&uacute;ben</em> <em>Neves</em> \nlembra que nada \nest&aacute; perdido<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "R\u00e1dio Regi\u00e3o de Basto - J\u00e1 arrancou a \u00e9poca do CDC Montalegre",
+            "originalURL": "https://www.radioregiaodebasto.com/index.php/desporto/6601-ja-arrancou-a-epoca-do-cdc-montalegre.html",
+            "snippet": " Pereira Zacharia Ngom M&eacute;dios Jo&atilde;o Fernandes Lio Samate (ex Limianos) <em>R&uacute;ben</em> das <em>Neves</em> (ex Felgueiras<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "J\u00e1 h\u00e1 onzes para o cl\u00e1ssico Benfica-FC Porto! - R\u00e1dio Calheta",
+            "originalURL": "http://www.radiocalheta.pt/ja-ha-onzes-para-o-classico-benfica-fc-porto",
+            "snippet": "-Madeira Zona do Miradouro das <em>Neves</em> j&aacute; est&aacute; apinhada... Dezembro 31, 2020 Ambiente desolador na baixa<span class=\"ellipsis\"> ... </span> Brexit: Boris Johnson perspetiva um Reino Unido... Dezembro 31, 2020 Zona do Miradouro das <em>Neves</em> j&aacute; est&aacute;<span class=\"ellipsis\"> ... </span> alinhar com Vlachodimos; Nuno Tavares, <em>R&uacute;ben</em> Dias, Ferro... Agosto 24, 2019&nbsp;-&nbsp;18:15 Facebook<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "'Nulo' ao intervalo no Mar\u00edtimo-Las Palmas - R\u00e1dio Calheta",
+            "originalURL": "http://www.radiocalheta.pt/nulo-ao-intervalo-no-maritimo-las-palmas",
+            "snippet": "-Madeira Zona do Miradouro das <em>Neves</em> j&aacute; est&aacute; apinhada... Dezembro 31, 2020 Ambiente desolador na baixa do<span class=\"ellipsis\"> ... </span>: Boris Johnson perspetiva um Reino Unido... Dezembro 31, 2020 Zona do Miradouro das <em>Neves</em> j&aacute; est&aacute;<span class=\"ellipsis\"> ... </span>: Charles; Nanu, Zainadine, Kerkez, <em>R&uacute;ben</em> Ferreira; Fabr&iacute;cio, Vukovic, Edgar Costa, Correa, Erivaldo<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Abrantes: Pr\u00e9mios de M\u00e9rito premeiam cinco alunos | Jornal de Abrantes",
+            "originalURL": "https://www.jornaldeabrantes.pt/educacao/abrantes-premios-de-merito-premeiam-cinco-alunos",
+            "snippet": " (ensino profissional); Rui Jorge da Silva <em>Neves</em> &#8211; Escola Dr. Solano de Abreu (curso profissional); Duarte Magalh&atilde;es Silva Esteves &#8211; Escola Dr. Solano de Abreu (ensino secund&aacute;rio); <em>R&uacute;ben</em> Alexandre Dias<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "ARQUIVO CULTURA \u2014 SETEMBRO 2015, R\u00e1dio Cova da Beira",
+            "originalURL": "http://www.rcb-radiocovadabeira.pt/pt/arquivo.php?ano=2015&mes=9&c=2",
+            "snippet": " da artes&atilde; Manuela <em>Neves</em> Martins Ramos Matos, em renda e ponto cruz. comentar Cultura &#147;UMA GRANDE<span class=\"ellipsis\"> ... </span> de atrair mais visitantes comentar Cultura NOVO LIVRO DE MARIA DO CARMO VAZ Chama-se &#147;<em>R&uacute;ben</em> e a<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Edi\u00e7\u00e3o Impressa do LusoJornal",
+            "originalURL": "https://lusojornal.com/edicao-impressa/",
+            "snippet": " Ant&oacute;nio <em>Neves</em> Leal Ant&oacute;nio Oliveira Antonio Oneto Ant&oacute;nio Passos Canavarro Ant&oacute;nio Pedro de Sousa Ant&oacute;nio<span class=\"ellipsis\"> ... </span> Ceia Ceinture Celebra&ccedil;&otilde;es portuguesas Celeste <em>Neves</em> de Almeida Celeste Rodrigues C&eacute;lia Correia<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Atividade deputado",
+            "originalURL": "https://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=6158",
+            "snippet": " Data do debate T&iacute;tulo De congratula&ccedil;&atilde;o pelos resultados desportivos do ciclista <em>R&uacute;ben</em> Almeida<span class=\"ellipsis\"> ... </span> entrada 2020-02-27 Data do debate 2020-02-28 T&iacute;tulo De pesar pela morte de Jo&atilde;o Ata&iacute;de das <em>Neves</em> Tipo<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Atividade deputado",
+            "originalURL": "https://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=6158&lg=XIV",
+            "snippet": " Data do debate T&iacute;tulo De congratula&ccedil;&atilde;o pelos resultados desportivos do ciclista <em>R&uacute;ben</em> Almeida<span class=\"ellipsis\"> ... </span> entrada 2020-02-27 Data do debate 2020-02-28 T&iacute;tulo De pesar pela morte de Jo&atilde;o Ata&iacute;de das <em>Neves</em> Tipo<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Ex-aluno da UMinho cria primeira rede de aluguer de malas de viagem - Noticias",
+            "originalURL": "http://www.radiofundacao.net/noticias_geral.php?a=13&id=2442",
+            "snippet": " Funda&ccedil;&atilde;o Jos&eacute; <em>Neves</em> para potenciar forma&ccedil;&atilde;o 01 de Outubro, 2020 Substitui&ccedil;&atilde;o de ponte pedonal em Silvares<span class=\"ellipsis\"> ... </span>"
+        }
+    ]
+}

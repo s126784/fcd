@@ -1,0 +1,273 @@
+{
+    "serviceName": "Arquivo.pt - the Portuguese web-archive",
+    "linkToService": "https://arquivo.pt",
+    "next_page": "https://arquivo.pt/textsearch?q=Jo%C3%A3o+Pereira&from=20130101000000&to=20131231235959&fields=title%2Csnippet%2CoriginalURL%2Ctimestamp&offset=50",
+    "estimated_nr_results": 2753091,
+    "request_parameters": {
+        "offset": 0,
+        "dedupValue": 2,
+        "from": "20130101000000",
+        "to": "20131231235959",
+        "fields": [
+            "title",
+            "snippet",
+            "originalURL",
+            "timestamp"
+        ],
+        "dedupField": "site",
+        "q": "Jo\u00e3o Pereira",
+        "maxItems": 50
+    },
+    "response_items": [
+        {
+            "title": "",
+            "originalURL": "http://www.jpcoutinho.com/",
+            "snippet": ""
+        },
+        {
+            "title": "",
+            "originalURL": "http://jpcoutinho.com/",
+            "snippet": ""
+        },
+        {
+            "title": "Jo\u00e3o Pereira Coutinho - Correio da Manh\u00e3",
+            "originalURL": "http://www.cmjornal.xl.pt/noticias/opiniao/joao-pereira-coutinho?nPagina=4",
+            "snippet": "<em>Jo&atilde;o</em> <em>Pereira</em> Coutinho - Correio da Manh&atilde; Edi&ccedil;&atilde;o impressa 31 Dezembro 2012 Ver capas anteriores<span class=\"ellipsis\"> ... </span> Ribeiro Eduardo D&acirc;maso Armando E. <em>Pereira</em> Manuel Catarino Miguel A. Ganh&atilde;o <em>Jo&atilde;o</em> Vaz F. Moita Flores<span class=\"ellipsis\"> ... </span> Sousa Homem Joana Amaral Dias Magalh&atilde;es e Silva <em>Jo&atilde;o</em> <em>Pereira</em> Coutinho <em>Jo&atilde;o</em> Miguel Tavares Jos&eacute;<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "AFIRMA PEREIRA \u2013 ANTONIO TABUCCHI",
+            "originalURL": "http://afirma-pereira.blogs.sapo.pt/",
+            "snippet": "AFIRMA <em>PEREIRA</em> &#8211; ANTONIO TABUCCHI Afirma <em>Pereira</em>, de Antonio Tabucchi. Leya BIS &#8211; livros de bolso &nbsp; LEYA BIS &#8211; LIVROS DE BOLSO home 29 Mai 12 Afirma <em>Pereira</em> Afirma <em>Pereira</em> Antonio Tabucchi Tendo por<span class=\"ellipsis\"> ... </span> <em>Pereira</em> &eacute; a hist&oacute;ria atormentada da tomada de consci&ecirc;ncia de um velho jornalista solit&aacute;rio e infeliz. Num<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "De fugir - Jo\u00e3o Pereira Coutinho - Correio da Manh\u00e3",
+            "originalURL": "http://www.cmjornal.xl.pt/detalhe/noticias/opiniao/joao-pereira-coutinho/de-fugir",
+            "snippet": "De fugir - <em>Jo&atilde;o</em> <em>Pereira</em> Coutinho - Correio da Manh&atilde; Edi&ccedil;&atilde;o impressa 31 Dezembro 2012 Ver capas<span class=\"ellipsis\"> ... </span> Opini&atilde;o Oct&aacute;vio Ribeiro Eduardo D&acirc;maso Armando E. <em>Pereira</em> Manuel Catarino Miguel A. Ganh&atilde;o <em>Jo&atilde;o</em> Vaz F<span class=\"ellipsis\"> ... </span> Viegas Ant&oacute;nio Sousa Homem Joana Amaral Dias Magalh&atilde;es e Silva <em>Jo&atilde;o</em> <em>Pereira</em> Coutinho <em>Jo&atilde;o</em> Miguel Tavares<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o Pereira lesiona-se e est\u00e1 em risco para a selec\u00e7\u00e3o - P\u00daBLICO",
+            "originalURL": "http://www.publico.pt/desporto/noticia/joao-pereira-lesionase-e-esta-em-risco-para-a-seleccao-1610959",
+            "snippet": "<em>Jo&atilde;o</em> <em>Pereira</em> lesiona-se e est&aacute; em risco para a selec&ccedil;&atilde;o - P&Uacute;BLICO Saltar para a navega&ccedil;&atilde;o principal<span class=\"ellipsis\"> ... </span> internacional Selec&ccedil;&atilde;o T&eacute;nis Motores Outras Modalidades <em>Jo&atilde;o</em> <em>Pereira</em> lesiona-se e est&aacute; em risco para a<span class=\"ellipsis\"> ... </span> Almer&iacute;a. <em>Jo&atilde;o</em> <em>Pereira</em> pode falhar os dois jogos do play-off para o Mundial 2014 que Portugal vai<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Destak.pt | Mundial2014: Ronaldo e Pepe voltam a falhar treino da sele\u00e7\u00e3o, Jo\u00e3o Pereira j\u00e1 integrado",
+            "originalURL": "http://www.destak.pt/artigo/142089-ronaldo-e-pepe-voltam-a-falhar-treino-da-selecao-joao-pereira-ja-integrado",
+            "snippet": "Destak.pt | Mundial2014: Ronaldo e Pepe voltam a falhar treino da sele&ccedil;&atilde;o, <em>Jo&atilde;o</em> <em>Pereira</em> j&aacute;<span class=\"ellipsis\"> ... </span> treino da sele&ccedil;&atilde;o, <em>Jo&atilde;o</em> <em>Pereira</em> j&aacute; integrado 09 | 10 | 2012 &nbsp; 11.02H Cristiano Ronaldo e Pepe falharam<span class=\"ellipsis\"> ... </span> R&uacute;ssia, em Moscovo, do Grupo F europeu de qualifica&ccedil;&atilde;o para o Mundial2014. <em>Jo&atilde;o</em> <em>Pereira</em>, que, tal como os<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Blogs do SAPO: Perfil P\u00fablico",
+            "originalURL": "http://blogs.sapo.pt/userinfo.bml?user=pepepepe",
+            "snippet": "Blogs do SAPO: Perfil P&uacute;blico SAPO Blogs &nbsp; Os Meus Blogs perfil p&uacute;blico Pedro <em>Pereira</em> Seguir Perfil<span class=\"ellipsis\"> ... </span>: Sarah Saint-Maxent , Steve Gr&aacute;cio , Jorge Sousa , <em>Jo&atilde;o</em> Perfeito , Pedro Salvador , Pedro Santos<span class=\"ellipsis\"> ... </span> , Francisco Gomes , Minuto Zero , <em>Jo&atilde;o</em> Maia N&oacute;doa Offline http://nodoaoffline.blogs.sapo.pt A manchar<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "IN\u00caS DE PORTUGAL \u2013 JO\u00c3O AGUIAR",
+            "originalURL": "http://inesdeportugal.blogs.sapo.pt/",
+            "snippet": "IN&Ecirc;S DE PORTUGAL &#8211; <em>JO&Atilde;O</em> AGUIAR In&ecirc;s de Portugal, de <em>Jo&atilde;o</em> Aguiar. Leya BIS &#8211; livros de bolso &nbsp; &nbsp; 16 Set 08 IN&Ecirc;S DE PORTUGAL I n&ecirc;s de Portugal <em>Jo&atilde;o</em> Aguiar Castelo de Santar&eacute;m, num dia do ano de Cristo<span class=\"ellipsis\"> ... </span> <em>Jo&atilde;o</em> Afonso Tello esperam com sombria ansiedade a chegada de dois prisioneiros, &Aacute;lvaro Gon&ccedil;alves e<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "A VOZ DOS DEUSES \u2013 JO\u00c3O AGUIAR",
+            "originalURL": "http://a-voz-dos-deuses.blogs.sapo.pt/",
+            "snippet": "A VOZ DOS DEUSES &#8211; <em>JO&Atilde;O</em> AGUIAR A Voz dos Deuses, de <em>Jo&atilde;o</em> Aguiar. Leya BIS &#8211; livros de bolso &nbsp; &nbsp; 19 Ago 11 A VOZ DOS DEUSES A Voz dos Deuses <em>Jo&atilde;o</em> Aguiar &nbsp; Uma leitura apaixonante que nos d&aacute; a conhecer<span class=\"ellipsis\"> ... </span>:14 link do post | comentar | | favorito <em>JO&Atilde;O</em> AGUIAR <em>Jo&atilde;o</em> Aguiar (1943-2010). Licenciado em Jornalismo<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o Justo Pereira",
+            "originalURL": "http://www.joaojustopereira.pt/",
+            "snippet": "<em>Jo&atilde;o</em> Justo <em>Pereira</em> // Homepage // Projects + Websites + Programming + Electronics &gt; Vivere Disce &gt; O Livro por Escrever &gt; Terminal &gt; Vacation Home Rental Hi, My name is <em>Jo&atilde;o</em> M. Justo <em>Pereira</em>, I'm 27<span class=\"ellipsis\"> ... </span> operation. Published Work: Jorge Esteves, <em>Jo&atilde;o</em> <em>Pereira</em>, J&uacute;lio Paisana, Marcelino Santos, Ultra low power<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Blogs do SAPO: Perfil P\u00fablico",
+            "originalURL": "http://blogs.sapo.pt/userinfo.bml?user=valdanta",
+            "snippet": "Blogs do SAPO: Perfil P&uacute;blico SAPO Blogs &nbsp; Os Meus Blogs perfil p&uacute;blico J. <em>Pereira</em> <em>pereira</em>.mos@sapo<span class=\"ellipsis\"> ... </span> de Valdanta (Chaves) e das suas gentes. O meu endere&ccedil;o &eacute; &quot;<em>pereira</em>.mos@sapo.pt&quot; Dados Pessoais Nome Jos&eacute; Apelido <em>Pereira</em> Data Nascimento 17-04-1947 Sexo M Localiza&ccedil;&atilde;o Localidade Torre de Moncorvo<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "AS AVENTURAS DE JO\u00c3O SEM MEDO \u2013 JOS\u00c9 GOMES FERREIRA",
+            "originalURL": "http://aventurasdejoaosemmedo.blogs.sapo.pt/",
+            "snippet": "AS AVENTURAS DE <em>JO&Atilde;O</em> SEM MEDO &#8211; JOS&Eacute; GOMES FERREIRA As Aventuras de <em>Jo&atilde;o</em> Sem Medo, de Jos&eacute; Gomes Ferreira. Leya BIS &#8211; livros de bolso &nbsp; &nbsp; 15 Jan 09 AS AVENTURAS DE <em>JO&Atilde;O</em> SEM MEDO As Aventuras de <em>Jo&atilde;o</em><span class=\"ellipsis\"> ... </span> Sociedade Portuguesa de Escritores. Na &aacute;rea da fic&ccedil;&atilde;o escreveu O Mundo Desabitado (1960), Aventuras de <em>Jo&atilde;o</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "AS VISITAS DO DR VALDEZ \u2013 JO\u00c3O PAULO BORGES COELHO",
+            "originalURL": "http://as-visitas-do-dr-valdez.blogs.sapo.pt/",
+            "snippet": "AS VISITAS DO DR VALDEZ &#8211; <em>JO&Atilde;O</em> PAULO BORGES COELHO As Visitas do Dr Valdez, de <em>Jo&atilde;o</em> Paulo Borges Coelho. Leya BIS &#8211; livros de bolso &nbsp; &nbsp; 12 Mar 10 AS VISITAS DO DR VALDEZ As Visitas do Dr Valdez <em>Jo&atilde;o</em><span class=\"ellipsis\"> ... </span> | | favorito <em>JO&Atilde;O</em> PAULO BORGES COELHO &nbsp; <em>Jo&atilde;o</em> Paulo Borges Coelho nasceu no Porto, em 1955, mas<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "JoaoLima.net",
+            "originalURL": "http://joaolimanet.blogspot.pt/",
+            "snippet": " colocar em causa os meus restantes quil&oacute;metros. Segui ent&atilde;o com a Ana <em>Pereira</em> a quem desejo<span class=\"ellipsis\"> ... </span> Atletismo Not&iacute;cias Novembro 2012 H&aacute; um ano maneta <em>pereira</em>, a minha vida de atleta de competi&ccedil;&atilde;o... Corrida<span class=\"ellipsis\"> ... </span> Jovem - Inscreve-te j&aacute; H&aacute; um ano Espraiar 36&ordf; Edi&ccedil;&atilde;o da Meia Maratona de S&atilde;o <em>Jo&atilde;o</em> das Lampas H&aacute; um ano<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o Pedro Pereira - P\u00daBLICO",
+            "originalURL": "http://www.publico.pt/autor/joao-pedro-pereira",
+            "snippet": "<em>Jo&atilde;o</em> Pedro <em>Pereira</em> - P&Uacute;BLICO Saltar para a navega&ccedil;&atilde;o principal Saltar para o conte&uacute;do Sites P&uacute;blico<span class=\"ellipsis\"> ... </span> Tecnologia Tecnologia Opini&atilde;o Opini&atilde;o Multim&eacute;dia Multim&eacute;dia Jornalista <em>Jo&atilde;o</em> Pedro <em>Pereira</em> Estreei-me em 2004<span class=\"ellipsis\"> ... </span> computadores do Governo Por <em>Jo&atilde;o</em> Pedro <em>Pereira</em> 27/02/2013 Software malicioso permite manipular ficheiros e<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "a um metro do ch\u00e3o",
+            "originalURL": "http://aummetrodochao.blogs.sapo.pt/",
+            "snippet": " Salgado <em>Jo&atilde;o</em> <em>Pereira</em> Coutinho Pedro Mexia Manuel Falc&atilde;o Insurgente 31 da Armada Miss Pearls Nuno Miguel<span class=\"ellipsis\"> ... </span> sauda&ccedil;&atilde;o.&quot;&nbsp;&nbsp; &nbsp; V.S&nbsp;&nbsp;Naipaul,&nbsp;em &quot;A Curva do Rio&quot; &nbsp;&nbsp;&nbsp;&nbsp; In&ecirc;s Teot&oacute;nio <em>Pereira</em> &agrave;s 02:00 | link<span class=\"ellipsis\"> ... </span> <em>Pereira</em> &agrave;s 13:39 | link | concordo plenamente A ordem das coisas - O Sim&atilde;o hoje bateu-me e eu depois&nbsp;e<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "\u00cdndice geral de autores",
+            "originalURL": "http://natura.di.uminho.pt/~jj/musica/indice_autores.html",
+            "snippet": " Constante <em>Pereira</em> <em>Jo&atilde;o</em> Magalh&atilde;es <em>Pereira</em> M&aacute;rio Moniz <em>Pereira</em> Paulo <em>Pereira</em> Pedro <em>Pereira</em> Fernando<span class=\"ellipsis\"> ... </span> marinheiro Pires - . = Can&ccedil;&atilde;o dos abra&ccedil;os - . <em>Jo&atilde;o</em> Magalh&atilde;es <em>Pereira</em> O vento mudou - . M&aacute;rio Moniz<span class=\"ellipsis\"> ... </span> popular: romanceiro de Jos&eacute; Leite de Vasconcelos Ant&oacute;nio Quadros (Pintor) ? Pedro Abrunhosa <em>Jo&atilde;o</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "portugal dos pequeninos",
+            "originalURL": "http://portugaldospequeninos.blogs.sapo.pt/",
+            "snippet": " | link do post | comentar S&aacute;bado, 16.11.13 Entre as Berlengas e Marrocos? Como escreve o <em>Jo&atilde;o</em> <em>Pereira</em><span class=\"ellipsis\"> ... </span> maus costumes <em>Jo&atilde;o</em> Maria Condeixa Virg&iacute;lio Gomes Jos&eacute; Te&oacute;filo Duarte Jardim de Micr&oacute;bios <em>Jo&atilde;o</em> <em>Pereira</em><span class=\"ellipsis\"> ... </span> anormalidade punitiva dos cortes.&raquo; &nbsp; Jos&eacute; Pacheco <em>Pereira</em>, Abrupto &nbsp; &nbsp; &laquo;Segundo informa&ccedil;&atilde;o que corre<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jo\u00e3o Miguel Tavares",
+            "originalURL": "http://joaomigueltavares.blogs.sapo.pt/",
+            "snippet": " <em>Pereira</em> - parte I por <em>Jo&atilde;o</em> Miguel Tavares, em 26.11.13 Hoje dedico a minha cr&oacute;nica no P&uacute;blico a analisar a<span class=\"ellipsis\"> ... </span><em>Jo&atilde;o</em> Miguel Tavares Saltar para: Posts [1] , Pesquisa e Arquivos [2] <em>Jo&atilde;o</em> Miguel Tavares In&iacute;cio Pol&iacute;tica Livros M&uacute;sica Filmes Entrevistas Sobre mim Resposta a Hugo Mendes, do Jugular #2 por <em>Jo&atilde;o</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Maria Sem Frio Nem Casa",
+            "originalURL": "http://mariasemfrionemcasa.blogspot.pt/",
+            "snippet": " espera do tiro de partida. Nervosa. Ao meu lado o <em>Jo&atilde;o</em> que com menos treinos que eu, me prometia levar<span class=\"ellipsis\"> ... </span>, ia para a cervejaria comer um prato de carac&oacute;is e beber cerveja com os amigos. Ao lado do <em>Jo&atilde;o</em> est&aacute;<span class=\"ellipsis\"> ... </span>. Fico com o <em>Jo&atilde;o</em>. Estamos j&aacute; na Rotunda da Boavista. O ritmo &eacute; lento mas n&atilde;o para mim. Aviso o <em>Jo&atilde;o</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": ":.: Ironman: Vanessa Pereira quinta no Challenge Vichy - Triatlo - Jornal Record :.:",
+            "originalURL": "http://www.record.xl.pt/Modalidades/Triatlo/interior.aspx?content_id=841823",
+            "snippet": " &nbsp;-&nbsp; Vanessa <em>Pereira</em> no lote das favoritas do Europeu 28-08-2013, &agrave;s&nbsp;19:57 &nbsp;-&nbsp; <em>Jo&atilde;o</em> Silva &eacute; a esperan&ccedil;a portuguesa em Londres 25-08-2013, &agrave;s&nbsp;18:03 &nbsp;-&nbsp; <em>Jo&atilde;o</em> <em>Pereira</em> termina em 18.&ordm; em Estocolmo 20-08-2013, &agrave;s&nbsp;23:05 &nbsp;-&nbsp; <em>Jo&atilde;o</em> <em>Pereira</em> ser&aacute; o &uacute;nico portugu&ecirc;s em Estocolmo 11-08-2013, &agrave;s&nbsp;18:33 &nbsp;-&nbsp; Alexandre<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Era1xeu",
+            "originalURL": "http://era1xeu.blogs.sapo.pt/",
+            "snippet": " Rita Cakuxa &nbsp; Lena, mam&atilde; do Ricardo &nbsp; Susana, mam&atilde; do Gon&ccedil;alo &nbsp; S&oacute;nia, mam&atilde; do Miguel e do <em>Jo&atilde;o</em><span class=\"ellipsis\"> ... </span>+Carolina+Lara . Inca+baby . Maggie+Afonso <em>Jo&atilde;o</em> . Marcia+Sofia+baby . Nokas+Gon&ccedil;alo+Mafalda . Vera<span class=\"ellipsis\"> ... </span> . Flora+Barbara . Happy Days+Matilde . Inha+Laura . Helena+Dinis . Isabel+Jos&eacute; Pedro . Isabel+<em>Jo&atilde;o</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Not\u00edcias de Vila Real | Not\u00edcias | Tradi\u00e7\u00e3o de S\u00e3o Jo\u00e3o volta a animar a aldeia de Nogueira",
+            "originalURL": "http://www.noticiasdevilareal.com/noticias/index.php?action=getDetalhe&id=8366",
+            "snippet": " seu presidente, <em>Jo&atilde;o</em> <em>Pereira</em>, que.... ...contou com a ajuda dos Srs. Jos&eacute; Eduardo <em>Pereira</em> e Eduardo<span class=\"ellipsis\"> ... </span>Not&iacute;cias de Vila Real | Not&iacute;cias | Tradi&ccedil;&atilde;o de S&atilde;o <em>Jo&atilde;o</em> volta a animar a aldeia de Nogueira<span class=\"ellipsis\"> ... </span> Vila Real &nbsp;|&nbsp;30-06-2010 Tradi&ccedil;&atilde;o de S&atilde;o <em>Jo&atilde;o</em> volta a animar a aldeia de Nogueira No passado dia 26 de<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "agualisa6",
+            "originalURL": "http://agualisa6.blogs.sapo.pt/",
+            "snippet": ": Jos&eacute; Pacheco <em>Pereira</em> Publicado por <em>Jo&atilde;o</em> Tunes &agrave;s 19:06 Link do post | Comentar Segunda-feira, 21 de<span class=\"ellipsis\"> ... </span> dos dois textos de J P <em>Pereira</em> publicados no &quot;P&uacute;blico&quot; em 10 e 11 deste m&ecirc;s) &nbsp; 1. Entre 1999 e 2005<span class=\"ellipsis\"> ... </span> esquecimento. Recordo-me a este prop&oacute;sito de um encontro (junto com <em>Jo&atilde;o</em> Ars&eacute;nio Nunes) com Manuel<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "estudantes - Departamento de F\u00edsica da Universidade de Coimbra",
+            "originalURL": "http://fisica.uc.pt/xf/persn/pin.php?formshown=in&u=5&depart=all",
+            "snippet": " Gouveia &nbsp;&nbsp; <em>Jo&atilde;o</em> Andr&eacute; Figueiredo <em>Pereira</em> &nbsp;&nbsp; Joao Antonio de Sousa Machado Mota e Tondela &nbsp;&nbsp; Joao<span class=\"ellipsis\"> ... </span> Henriques Figueiredo &nbsp;&nbsp; <em>Jo&atilde;o</em> Pedro Aleixo e Jesus <em>Pereira</em> &nbsp;&nbsp; <em>Jo&atilde;o</em> Pedro Carvalho Saraiva &nbsp;&nbsp; <em>Jo&atilde;o</em> Pedro<span class=\"ellipsis\"> ... </span> &nbsp;&nbsp; Adriano Almeida Rocha &nbsp;&nbsp; Afonso de Almeida <em>Pereira</em> Bernardino &nbsp;&nbsp; Afonso Maria Teixeira Coxito &nbsp;&nbsp; Afonso<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "students - Department of Physics of the University of Coimbra",
+            "originalURL": "http://fisica.uc.pt/yf/persn/n_ver_aluno_prop.php",
+            "snippet": " Cristiana Filipa <em>Pereira</em> Francisco Daniel Jos&eacute; Soares Matias Davide di Croce David <em>Jo&atilde;o</em> Brandligt de Jesus<span class=\"ellipsis\"> ... </span> <em>Jo&atilde;o</em> Paulo da Costa Nogueira <em>Jo&atilde;o</em> Pedro Aleixo e Jesus <em>Pereira</em> <em>Jo&atilde;o</em> Rafael Diniz Ramos Joaquim Miguel<span class=\"ellipsis\"> ... </span> Cerqueira Tiago <em>Jo&atilde;o</em> Ferreira Gon&ccedil;alves Tiago Miguel <em>Pereira</em> Rebelo Tiago Silva de Menezes Tiago Teles<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "NOVA \u00c1GUIA: REVISTA DE CULTURA PARA O S\u00c9CULO XXI: Fotos do Lan\u00e7amento da NOVA \u00c1GUIA 12 (Pal\u00e1cio da I",
+            "originalURL": "http://novaaguia.blogspot.pt/2013/10/blog-post.html",
+            "snippet": ", Dalila <em>Pereira</em> da Costa, Manuel Laranjeira e <em>Jo&atilde;o</em> de Deus: Raz&atilde;o e Espiritualidade. - 11&ordm; n&uacute;mero (1<span class=\"ellipsis\"> ... </span> NECESSIDADE DE UMA EDUCA&Ccedil;&Atilde;O EST&Eacute;TICA NA FORMA&Ccedil;&Atilde;O DO JOVEM CABO-VERDIANO&#8230;179 <em>Jo&atilde;o</em> <em>Pereira</em> de Matos, ALEGORIA<span class=\"ellipsis\"> ... </span> Correia <em>Jo&atilde;o</em> Ferreira <em>Jo&atilde;o</em> Franco <em>Jo&atilde;o</em> Leit&atilde;o <em>Jo&atilde;o</em> <em>Pereira</em> de Matos <em>Jo&atilde;o</em> Rasteiro <em>Jo&atilde;o</em> Teixeira da<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "igualdade",
+            "originalURL": "http://www.igualdade.net/",
+            "snippet": " tecnologia <em>Jo&atilde;o</em> Pedro Rodrigues, cineasta <em>Jo&atilde;o</em> Pedro Vale, artista pl&aacute;stico <em>Jo&atilde;o</em> <em>Pereira</em>, funcion&aacute;rio<span class=\"ellipsis\"> ... </span>. <em>Pereira</em>, docente universit&aacute;ria Adelino Granja, advogado Adriana Bebiano, docente universit&aacute;ria<span class=\"ellipsis\"> ... </span> Cristina Santos, soci&oacute;loga e investigadora Ana Cruz <em>Pereira</em>, psic&oacute;loga Ana Drago, deputada Ana Feij&atilde;o<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Nascido para Viver - Document\u00e1rio - Funda\u00e7\u00e3o Francisco Manuel dos Santos",
+            "originalURL": "http://www.ffms.pt/evento/243/nascido-para-viver",
+            "snippet": " Lobo Antunes <em>Jo&atilde;o</em> Lopes <em>Jo&atilde;o</em> Marques de Almeida <em>Jo&atilde;o</em> Paiva <em>Jo&atilde;o</em> <em>Pereira</em> Coutinho Joaquim Aguiar<span class=\"ellipsis\"> ... </span> Baptista <em>Pereira</em> Beatriz Calado Henrique Carmona da Mota <em>Jo&atilde;o</em> D&oacute;ria Nobrega <em>Jo&atilde;o</em> Videira Amaral Jos&eacute;<span class=\"ellipsis\"> ... </span> Franco de S&aacute; Alexandre Homem Cristo Alexandre Quintanilha Alfredo Marv&atilde;o <em>Pereira</em> &Aacute;lvaro Nascimento Ana<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Reveja o Presente no Futuro na TVI 24 - Not\u00edcias - Funda\u00e7\u00e3o Francisco Manuel dos Santos",
+            "originalURL": "http://ffms.pt/noticia/629/reveja-o-presente-no-futuro-na-tvi-24",
+            "snippet": " Amaral <em>Jo&atilde;o</em> Lobo Antunes <em>Jo&atilde;o</em> Lopes <em>Jo&atilde;o</em> Marques de Almeida <em>Jo&atilde;o</em> Paiva <em>Jo&atilde;o</em> <em>Pereira</em> Coutinho<span class=\"ellipsis\"> ... </span>: 01/10 PORTUGAL PRECISA DE DEUS? <em>Jo&atilde;o</em> <em>Pereira</em> Coutinho Manuel Braga da Cruz Joana Amaral Dias Maria<span class=\"ellipsis\"> ... </span> Sked Alexandre Franco de S&aacute; Alexandre Homem Cristo Alexandre Quintanilha Alfredo Marv&atilde;o <em>Pereira</em> &Aacute;lvaro<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "F\u00f3runs Portal dos Cl\u00e1ssicos Portugal",
+            "originalURL": "http://portugal.portalclassicos.com/",
+            "snippet": " Pegadas, <em>Jo&atilde;o</em> <em>Pereira</em> Bento , Jo&atilde;oCalado, Jo&atilde;o_Pereira, Joca Coimbra, Joel Ferreira Peixoto, jorge<span class=\"ellipsis\"> ... </span> Classic Girls 03 Nov 2013 Por: Marco <em>Pereira</em> Perdidos e Achados Procura um carro que j&aacute; esteve na<span class=\"ellipsis\"> ... </span> T&oacute;picos 20696 Respostas Os Meus Cl&aacute;ssicos... Pequen... 04 Nov 2013 Por: <em>Jo&atilde;o</em> de G&oacute;is Silva<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "NOVA \u00c1GUIA: REVISTA DE CULTURA PARA O S\u00c9CULO XXI",
+            "originalURL": "http://novaaguia.blogspot.pt/",
+            "snippet": " 2012): Leonardo Coimbra, Dalila <em>Pereira</em> da Costa, Manuel Laranjeira e <em>Jo&atilde;o</em> de Deus: Raz&atilde;o e<span class=\"ellipsis\"> ... </span> <em>Pereira</em> de Matos <em>Jo&atilde;o</em> Rasteiro <em>Jo&atilde;o</em> Teixeira da Motta Joaquim Carvalho Joaquim Domingues Joaquim Miguel<span class=\"ellipsis\"> ... </span> Lu&iacute;s M. <em>Pereira</em> Lopes <em>Jo&atilde;o</em> Lupi (Brasil) <em>Jo&atilde;o</em> Marinheiro <em>Jo&atilde;o</em> Marques de Almeida <em>Jo&atilde;o</em> Martinho <em>Jo&atilde;o</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Funda\u00e7\u00e3o Francisco Manuel dos Santos",
+            "originalURL": "http://www.ffms.pt/",
+            "snippet": " Jeroen van Merrienboer Joana Mateus <em>Jo&atilde;o</em> Ferreira do Amaral <em>Jo&atilde;o</em> Lobo Antunes <em>Jo&atilde;o</em> Lopes <em>Jo&atilde;o</em> Marques de Almeida <em>Jo&atilde;o</em> Paiva <em>Jo&atilde;o</em> <em>Pereira</em> Coutinho Joaquim Aguiar Joaquim Miranda Sarmento John R. Anderson<span class=\"ellipsis\"> ... </span> Alexandre Quintanilha Alfredo Marv&atilde;o <em>Pereira</em> &Aacute;lvaro Nascimento Ana Anacleto Ana Bragan&ccedil;a &#65532;Ana Isabel<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Portugal e a Europa: novas cidadanias - Outras Publica\u00e7\u00f5es - Funda\u00e7\u00e3o Francisco Manuel dos Santos",
+            "originalURL": "http://ffms.pt/publicacao_outra/611/portugal-e-a-europa-novas-cidadanias",
+            "snippet": ". L. Saldanha Sanches Jacinto Lucas Pires Jeffrey Karpicke Jeroen van Merrienboer Joana Mateus <em>Jo&atilde;o</em> Ferreira do Amaral <em>Jo&atilde;o</em> Lobo Antunes <em>Jo&atilde;o</em> Lopes <em>Jo&atilde;o</em> Marques de Almeida <em>Jo&atilde;o</em> Paiva <em>Jo&atilde;o</em> <em>Pereira</em><span class=\"ellipsis\"> ... </span> <em>Pereira</em> &Aacute;lvaro Nascimento Ana Anacleto Ana Bragan&ccedil;a &#65532;Ana Isabel Louren&ccedil;o Ana Pimentel Ana Taborda Andr&eacute;<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Associa\u00e7\u00e3o Bandeira Azul da Europa",
+            "originalURL": "http://www.abae.pt/programa/EE/inscritas/lista.php",
+            "snippet": " Maria da Concei&ccedil;&atilde;o da Silva <em>Pereira</em> Escola Profissional Amar Terra Verde- P&oacute;lo de Amares Rui <em>Jo&atilde;o</em> A<span class=\"ellipsis\"> ... </span> FUND&Atilde;O EB1 Nossa Senhora da Concei&ccedil;&atilde;o Maria Jos&eacute; do Couto Rebord&atilde;o <em>Pereira</em> Batista Escola EB 2,3 <em>Jo&atilde;o</em><span class=\"ellipsis\"> ... </span> <em>Pereira</em>/ Am&eacute;lia Dinis/ Paula Serrano Escola EB1 N&ordm; 2 de Tavira <em>Jo&atilde;o</em> Lu&iacute;s Fernandes Horta/Paula Cristina<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "BTT \"BRANQUINHOS DO PEDAL\"",
+            "originalURL": "http://branquinhosdopedal.blogspot.pt/",
+            "snippet": " Junho 2013) PARTICIPARAM: <em>Jo&atilde;o</em> <em>Pereira</em>, Jos&eacute; Aparicio, Lu&iacute;s Roseiro,&nbsp;Fernando Fernandes, Nuno Segundo, <em>Jo&atilde;o</em> Fonseca, Nuno Alves, Lu&iacute;s Lavrador, F&aacute;bio Cruz, Lu&iacute;s Dias, Hugo Marques,&nbsp;Vera <em>Pereira</em>, Ant&oacute;nio<span class=\"ellipsis\"> ... </span> Micael Barata Miguel Marques Paulo Coimbra Paulo Miguel <em>Jo&atilde;o</em> Rubina Pedro Sousa Ricardo <em>Pereira</em> Rui<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Publications, LabCom",
+            "originalURL": "http://www.labcom.ubi.pt/sub/pag/publications/",
+            "snippet": " Barroso Anabela Gradim Alves Gil Baptista Ferreira Ana Catarina Santos <em>Pereira</em> <em>Jo&atilde;o</em> Carlos Sousa H&eacute;lder<span class=\"ellipsis\"> ... </span> <em>Jo&atilde;o</em> Carlos Correia Francisco PAIVA Madalena Sena In&ecirc;s Aroso Victor Manuel dos Santos Amaral Tito<span class=\"ellipsis\"> ... </span> Moura Maria da Gra&ccedil;a Fraz&atilde;o Castelo Branco Sousa Ana Serrano Telleria Eduardo Camilo <em>Jo&atilde;o</em> Canavilhas<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Jornal do Algarve | A informar a regi\u00e3o algarvia desde 1957",
+            "originalURL": "http://www.jornaldoalgarve.pt/",
+            "snippet": " Ciclismo: Bruno Sancho e <em>Jo&atilde;o</em> <em>Pereira</em> a 43 segundos do l&iacute;der na China Bruno Sancho e <em>Jo&atilde;o</em> <em>Pereira</em>, da<span class=\"ellipsis\"> ... </span>: Bruno Sancho e <em>Jo&atilde;o</em> <em>Pereira</em> a 43 segundos do l&iacute;der na China Bruno Sancho e <em>Jo&atilde;o</em> <em>Pereira</em>, da forma&ccedil;&atilde;o<span class=\"ellipsis\"> ... </span> integrar Rede Europeia &#8230; Ciclismo: Bruno Sancho e <em>Jo&atilde;o</em> <em>Pereira</em> a 43 segundos do &#8230; Previous Next Bloco<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "ESCAVAR EM RU\u00cdNAS",
+            "originalURL": "http://escavar-em-ruinas.blogs.sapo.pt/",
+            "snippet": " Coronel de Infantaria Gon&ccedil;alo Jos&eacute; <em>Pereira</em> de Caldas 1780 Governador Brigadeiro <em>Jo&atilde;o</em> Telles de Menezes<span class=\"ellipsis\"> ... </span> Minho Por: Jofre de Lima Monteiro Alves &nbsp; &nbsp;&nbsp;&nbsp; Padre Bartolomeu <em>Pereira</em> , filho de <em>Jo&atilde;o</em> <em>Pereira</em> de<span class=\"ellipsis\"> ... </span> &nbsp; + Coimbra, 1650 <em>Jo&atilde;o</em> <em>Pereira</em> de Mesquita &nbsp; * Correlh&atilde;, Ponte de Lima, 1545 Dami&atilde;o <em>Pereira</em> do Lago &nbsp; * Ponte<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "40 horas: \"Lei vai ser aplicada exatamente como est\u00e1\" Opini\u00e3o - CMTV",
+            "originalURL": "http://cmtv.sapo.pt/opiniao/detalhe/40-horas-lei-vai-ser-aplicada-exatamente-como-esta.html",
+            "snippet": " finalmente ver os meus filhos&quot; <em>Jo&atilde;o</em> <em>Pereira</em> Coutinho e Joana Amaral Dias debatem aviso de Barroso ao<span class=\"ellipsis\"> ... </span>-DIREITA <em>Jo&atilde;o</em> <em>Pereira</em> Coutinho e Joana Amaral Dias debatem aviso de Barroso ao Constitucional 04:35<span class=\"ellipsis\"> ... </span> Diretor Oct&aacute;vio Ribeiro Dir.-adj. Carlos Rodrigues, Armando Esteves <em>Pereira</em>, Eduardo D&acirc;maso<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Entre as Berlengas e Marrocos? - portugal dos pequeninos",
+            "originalURL": "http://portugaldospequeninos.blogs.sapo.pt/3509533.html",
+            "snippet": " costumes <em>Jo&atilde;o</em> Maria Condeixa Virg&iacute;lio Gomes Jos&eacute; Te&oacute;filo Duarte Jardim de Micr&oacute;bios <em>Jo&atilde;o</em> <em>Pereira</em><span class=\"ellipsis\"> ... </span> anterior homepage post seguinte &raquo; S&aacute;bado, 16.11.13 Entre as Berlengas e Marrocos? Como escreve o <em>Jo&atilde;o</em> <em>Pereira</em> Coutinho no Correio da Manh&atilde; , o an&uacute;ncio pela Irlando de que vai prescindir de &quot;programa<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Digestivo Cultural - A maior refer\u00eancia em cultura na internet brasileira",
+            "originalURL": "http://www.digestivocultural.com/",
+            "snippet": " Marcos Coelh... <em>Jo&atilde;o</em> <em>Pereira</em> Cout... <em>Jo&atilde;o</em> Ubaldo Ribei... Jorge Coelho Soar... Jorio Dauster Jos&eacute;<span class=\"ellipsis\"> ... </span> Pinheiro Sheila Leirner Guilherme Fiuza Antonio Henrique ... <em>Jo&atilde;o</em> <em>Pereira</em> Cout... Claudio Willer Ryoki<span class=\"ellipsis\"> ... </span> Rocha S&eacute;rgio Augusto Cardoso <em>Jo&atilde;o</em> Moreira Sall... Fabr&iacute;cio Carpinej... Daniel Piza Rog&eacute;rio <em>Pereira</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "",
+            "originalURL": "http://www.dgrhe.min-edu.pt/docs/2013-T-MI-RET-DEF/ListaRetiradosMI_MI.pdf",
+            "snippet": " Atribui&ccedil;&atilde;o de componente letiva\n2766583610 ADELINA MARIA <em>PEREIRA</em> CERQUEIRA QZP 100 EDUCA&Ccedil;&Atilde;O PR&Eacute;-ESCOLAR<span class=\"ellipsis\"> ... </span> ESCOBAR QZP 100 EDUCA&Ccedil;&Atilde;O PR&Eacute;-ESCOLAR Mobilidade por Doen&ccedil;a\n6447138877 ANA ALICE <em>PEREIRA</em> DE AMARAL QA/QE<span class=\"ellipsis\"> ... </span>\n6526807399 ANA ISABEL EDUARDA <em>PEREIRA</em> QZP 100 EDUCA&Ccedil;&Atilde;O PR&Eacute;-ESCOLAR Mobilidade Estatut&aacute;ria\n1400068657 ANA<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "av.sports: Seniores 1\u00ba Ano",
+            "originalURL": "http://alhosvedros-sports.blogspot.pt/search/label/Seniores%201%C2%BA%20Ano",
+            "snippet": " <em>Jo&atilde;o</em> Martins, Med &#8211; Arrentela <em>Jo&atilde;o</em> <em>Pereira</em> &#8211; Juv.Melidense Marco Leal &#8211; Faralh&atilde;o Maruilson Lima, GR<span class=\"ellipsis\"> ... </span>, GR &#8211; Sesimbra - 20 (4%) Melhor Defesa: <em>Jo&atilde;o</em> Oliveira, Def &#8211; Pinhalnovense - 38 (9%) Melhor M&eacute;dio<span class=\"ellipsis\"> ... </span> &nbsp; Sem coment&aacute;rios 2&ordf; Divis&atilde;o Nacional Edmilson Veiga, Av &nbsp;&#8211; Pinhalnovense <em>Jo&atilde;o</em> &nbsp;Oliveira, Def<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Associa\u00e7\u00e3o de Ciclismo do Minho",
+            "originalURL": "http://www.acm.pt/",
+            "snippet": ", competi&ccedil;&atilde;o ganha nas restantes categorias por Joana Monteiro (femininos), <em>Jo&atilde;o</em> <em>Pereira</em> (juniores), F&aacute;bio<span class=\"ellipsis\"> ... </span> Felgueiras. Jos&eacute; Dias, Ilda <em>Pereira</em>, Tiago Amorim, H&eacute;lder Braga, Abel Machado, <em>Jo&atilde;o</em> Rocha e Diana Ferreira<span class=\"ellipsis\"> ... </span> <em>Pereira</em>, F&aacute;bio Angiolucci, Rui Lavarinhas, Bruno Machado, Ant&oacute;nio Azevedo, Daniela Ara&uacute;jo, <em>Jo&atilde;o</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Chove: Ant\u00f3nio Guerreiro - \"Ao p\u00e9 da letra\"",
+            "originalURL": "http://chovechove.blogspot.pt/2012/12/antonio-guerreiro-ao-pe-da-letra.html",
+            "snippet": " <em>Pereira</em> Jos&eacute; S&oacute;crates Jos&eacute; Tolentino Mendon&ccedil;a <em>Jo&atilde;o</em> Lopes <em>Jo&atilde;o</em> <em>Pereira</em> Coutinho Lu&iacute;s Filipe Menezes<span class=\"ellipsis\"> ... </span> <em>Jo&atilde;o</em> Jardim Ana Cristina Leonardo Ana C&aacute;ssia Rebelo Andr&eacute; Carrilho Anselmo Borges Ant&oacute;nio Ara&uacute;jo<span class=\"ellipsis\"> ... </span> Pin&iacute;culos PSD Ricardo Ara&uacute;jo <em>Pereira</em> Ricardo S&aacute; Fernandes Rodrigo Le&atilde;o Rog&eacute;rio Casanova Rui Nunes<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Monumentos",
+            "originalURL": "http://www.monumentos.pt/Site/APP_PagesUser/SIPA.aspx?id=6531",
+            "snippet": ", 1688, 1692, 1693, 1696); Francisco dos Santos (1756); Jer&oacute;nimo Dias (1616); <em>Jo&atilde;o</em> <em>Pereira</em> (1719); <em>Jo&atilde;o</em><span class=\"ellipsis\"> ... </span>); Manuel Gon&ccedil;alves (1719, 1721, 1725, 1729, 1730-1733); Manuel <em>Jo&atilde;o</em> (1703, 1704); Manuel <em>Pereira</em> (1605<span class=\"ellipsis\"> ... </span> <em>Jo&atilde;o</em> <em>Pereira</em> e pelos carpinteiros Manuel da Costa e Jos&eacute; de Melo (COUTINHO: 400); 1723, 15 julho<span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "\u00cdndice geral de autores",
+            "originalURL": "http://natura.di.uminho.pt/%7Ejj/musica/indice_autores.html",
+            "snippet": " Constante <em>Pereira</em> <em>Jo&atilde;o</em> Magalh&atilde;es <em>Pereira</em> M&aacute;rio Moniz <em>Pereira</em> Paulo <em>Pereira</em> Pedro <em>Pereira</em> Fernando<span class=\"ellipsis\"> ... </span> marinheiro Pires - . = Can&ccedil;&atilde;o dos abra&ccedil;os - . <em>Jo&atilde;o</em> Magalh&atilde;es <em>Pereira</em> O vento mudou - . M&aacute;rio Moniz<span class=\"ellipsis\"> ... </span> popular: romanceiro de Jos&eacute; Leite de Vasconcelos Ant&oacute;nio Quadros (Pintor) ? Pedro Abrunhosa <em>Jo&atilde;o</em><span class=\"ellipsis\"> ... </span>"
+        },
+        {
+            "title": "Hepato",
+            "originalURL": "http://www.hepato.com/vergonha/port_vergonha.php",
+            "snippet": " anos - Pindamonhangaba - SP &#8224; <em>Jo&atilde;o</em> Paulo Lima Pinto - 55 anos - Imperatriz - MA &#8224; <em>Jo&atilde;o</em> Pedro <em>Pereira</em><span class=\"ellipsis\"> ... </span> Pedrosa - 63 anos - Rio de Janeiro - RJ &#8224; Jos&eacute; <em>Jo&atilde;o</em> <em>Pereira</em> - 50 anos - Curitiba - PR &#8224; Jos&eacute; <em>Pereira</em><span class=\"ellipsis\"> ... </span> - Niter&oacute;i - RJ &#8224; Antonio Rodrigues - 61 anos - Maring&aacute; - PR &#8224; Antonio Rodrigues Gomes - 57 anos - <em>Jo&atilde;o</em><span class=\"ellipsis\"> ... </span>"
+        }
+    ]
+}
