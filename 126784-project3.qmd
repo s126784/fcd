@@ -1,0 +1,222 @@
+---
+title: "Football Player Data Analysis"
+subtitle: "Part 3"
+author:
+  - name: "Oleksandr Solovei"
+    affiliations:
+        - 126784
+        - https://github.com/s126784/fcd/
+format:
+  revealjs:
+    slide-number: true
+    show-slide-number: all
+    chalkboard:
+      buttons: false
+    preview-links: auto
+    logo: static/ua.png
+    css: static/mystyle.css
+    theme: default
+    transition: slide
+    # width: 1280
+    # height: 720
+jupyter: /opt/miniconda3/bin/python
+---
+
+## Project Evolution
+
+#### Previous Parts
+
+ - Part 1: Data Collection & Initial Analysis
+ - Part 2: Text Analysis & Historical Data
+
+::: {.fragment}
+#### Part 3 Goals
+
+ - Advanced text processing & sentiment analysis
+ - Time series prediction for market values
+ - Player clustering and network visualization
+ - Market value trend prediction
+:::
+
+## Dataset
+
+```{python}
+import pandas as pd
+```
+
+```{python}
+#| echo: true
+years = [2014, 2015, 2016, 2017]
+data = list(map(lambda year: pd.read_csv(f'data/portugal_{year}_plus.csv'), years))
+data[0].head()
+```
+
+## Graphical Representation (Matplotlib)
+
+```{python}
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+def create_market_value_timeline(data_list, years):
+    # Create a DataFrame for timeline plotting
+    timeline_data = []
+
+    for year, df in zip(years, data_list):
+        year_data = df[['Name', 'Market value']].copy()
+        year_data['Year'] = year
+        year_data['Market value'] = year_data['Market value'].apply(lambda x: float(str(x).replace(',', '')))
+        year_data['Market value'] = year_data['Market value'] / 1000000
+        timeline_data.append(year_data)
+
+    timeline_df = pd.concat(timeline_data)
+
+    plt.figure(figsize=(16, 7))
+
+    # Create the line plot
+    sns.lineplot(data=timeline_df,
+                x='Year',
+                y='Market value',
+                hue='Name',
+                marker='o',
+                markersize=8)
+
+    # Set integer ticks on x-axis
+    plt.xticks(years)
+
+    plt.title('Player Market Values Over Time (2014-2017)', pad=20)
+    plt.xlabel('Year')
+    plt.ylabel('Market Value (Million €)')
+
+    plt.legend(bbox_to_anchor=(1.05, 1), loc='upper left', borderaxespad=0.)
+    plt.grid(True, linestyle='--', alpha=0.7)
+    plt.ylim(bottom=0)
+
+    plt.tight_layout()
+    return plt
+
+# Create and display the timeline
+plt = create_market_value_timeline(data, years)
+plt.show()
+```
+
+## Graphical Representation (NetworkX)
+
+```{python}
+import networkx as nx
+import matplotlib.pyplot as plt
+
+def create_position_network(df):
+    # Create a new graph
+    G = nx.Graph()
+
+    # Add nodes (players)
+    for _, player in df.iterrows():
+        # Convert market value to float, removing commas
+        market_value = float(str(player['Market value']).replace(',', ''))
+        G.add_node(player['Name'],
+                  position=player['Position'],
+                  market_value=market_value)
+
+    # Connect players with same position
+    players = list(G.nodes(data=True))
+    for i in range(len(players)):
+        for j in range(i + 1, len(players)):
+            player1, data1 = players[i]
+            player2, data2 = players[j]
+            if data1['position'] == data2['position']:
+                G.add_edge(player1, player2)
+
+    # Create the visualization
+    plt.figure(figsize=(10, 6))
+
+    # Calculate node sizes based on market value (scaled for visibility)
+    node_sizes = [G.nodes[player]['market_value']/1000000 * 100 for player in G.nodes()]
+
+    # Create a color map based on positions
+    unique_positions = list(set(nx.get_node_attributes(G, 'position').values()))
+    color_map = {pos: plt.cm.Set3(i/len(unique_positions)) for i, pos in enumerate(unique_positions)}
+    node_colors = [color_map[G.nodes[player]['position']] for player in G.nodes()]
+
+    # Set up the layout
+    pos = nx.spring_layout(G, k=1, iterations=50)
+
+    # Draw the network
+    nx.draw_networkx_nodes(G, pos,
+                          node_size=node_sizes,
+                          node_color=node_colors,
+                          alpha=0.7)
+    nx.draw_networkx_edges(G, pos,
+                          edge_color='gray',
+                          alpha=0.3)
+
+    # Add labels
+    labels = {player: f"{player}\n{G.nodes[player]['position']}\n{int(G.nodes[player]['market_value']/1000000)}M€"
+              for player in G.nodes()}
+
+    nx.draw_networkx_labels(G, pos,
+                           labels=labels,
+                           font_size=8,
+                           font_weight='bold')
+
+    # Add legend for positions
+    legend_elements = [plt.Line2D([0], [0], marker='o', color='w',
+                                 markerfacecolor=color, label=pos,
+                                 markersize=10)
+                      for pos, color in color_map.items()]
+    plt.legend(handles=legend_elements, title='Positions',
+              loc='center left', bbox_to_anchor=(1, 0.5))
+
+    plt.title('Portuguese National Team 2014', pad=20)
+    plt.axis('off')
+    plt.tight_layout()
+
+    return plt
+
+# Create and display the network using 2014 data
+plt = create_position_network(data[0])
+plt.show()
+```
+
+## Text Processing
+
+```{python}
+#| echo: true
+import nltk
+from nltk.tokenize import word_tokenize
+from nltk.corpus import stopwords
+from nltk.stem import WordNetLemmatizer
+from transformers import pipeline
+
+def advanced_tokenization(text):
+    lemmatizer = WordNetLemmatizer()
+    if not isinstance(text, str):
+        return []
+    tokens = word_tokenize(text.lower())
+    stop_words = set(stopwords.words('portuguese'))
+    # Remove non-alphabetic and stopwords
+    tokens = [lemmatizer.lemmatize(t) for t in tokens
+             if t.isalpha() and t not in stop_words]
+    return tokens
+
+def get_sentiment_score(text):
+    sentiment_analyzer = pipeline("sentiment-analysis",
+                                model="neuralmind/bert-base-portuguese-cased")
+    result = sentiment_analyzer(text)
+    return result[0]['score'] if result[0]['label'] == 'POSITIVE' else -result[0]['score']
+```
+
+```{python}
+text_data = pd.read_csv('data/url_content_extracted.csv')
+text_data.head()
+```
+
+
+```{python}
+# Apply advanced tokenization
+text_data['tokens'] = text_data['extracted_text'].apply(advanced_tokenization)
+text_data
+```
