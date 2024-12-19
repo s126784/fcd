@@ -235,7 +235,7 @@ Oleksandr Solovei
 </section>
 <section id="dataset" class="slide level2 scrollable">
 <h2>Dataset</h2>
-<div id="e6435261" class="cell" data-execution_count="2">
+<div id="015ba305" class="cell" data-execution_count="2">
 <div class="sourceCode cell-code" id="cb1"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href=""></a>years <span class="op">=</span> [<span class="dv">2014</span>, <span class="dv">2015</span>, <span class="dv">2016</span>, <span class="dv">2017</span>]</span>
 <span id="cb1-2"><a href=""></a>data <span class="op">=</span> <span class="bu">list</span>(<span class="bu">map</span>(<span class="kw">lambda</span> year: pd.read_csv(<span class="ss">f'data/portugal_</span><span class="sc">{</span>year<span class="sc">}</span><span class="ss">_plus.csv'</span>), years))</span>
 <span id="cb1-3"><a href=""></a>data[<span class="dv">0</span>].head()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
@@ -328,7 +328,7 @@ Oleksandr Solovei
 </section>
 <section id="graphical-representation-matplotlib" class="slide level2">
 <h2>Graphical Representation (Matplotlib)</h2>
-<div id="3868b5ec" class="cell" data-execution_count="3">
+<div id="735500bf" class="cell" data-execution_count="3">
 <div class="cell-output cell-output-display">
 <div>
 <figure>
@@ -340,7 +340,7 @@ Oleksandr Solovei
 </section>
 <section id="graphical-representation-networkx" class="slide level2">
 <h2>Graphical Representation (NetworkX)</h2>
-<div id="fc1cee26" class="cell" data-execution_count="5">
+<div id="7860ec7e" class="cell" data-execution_count="5">
 <div class="cell-output cell-output-display">
 <div>
 <figure>
@@ -352,7 +352,7 @@ Oleksandr Solovei
 </section>
 <section id="text-processing" class="slide level2">
 <h2>Text Processing</h2>
-<div id="6fbf965c" class="cell" data-execution_count="7">
+<div id="a226daff" class="cell" data-execution_count="7">
 <div class="sourceCode cell-code" id="cb2"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb2-1"><a href=""></a><span class="im">from</span> nltk.tokenize <span class="im">import</span> word_tokenize</span>
 <span id="cb2-2"><a href=""></a><span class="im">from</span> nltk.corpus <span class="im">import</span> stopwords</span>
 <span id="cb2-3"><a href=""></a><span class="im">from</span> nltk.stem <span class="im">import</span> WordNetLemmatizer</span>
@@ -374,7 +374,7 @@ Oleksandr Solovei
 </section>
 <section id="word-clouds" class="slide level2">
 <h2>Word Clouds</h2>
-<div id="62d0213a" class="cell" data-execution_count="8">
+<div id="f767ddb6" class="cell" data-execution_count="8">
 <div class="cell-output cell-output-display">
 <div>
 <figure>
@@ -383,59 +383,209 @@ Oleksandr Solovei
 </div>
 </div>
 </div>
+<!-- ## Sport Keywords Classifier -->
 </section>
-<section id="sport-keywords-classifier" class="slide level2">
-<h2>Sport Keywords Classifier</h2>
-<div class="sourceCode" id="cb3"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb3-1"><a href=""></a><span class="op">|</span> echo: true</span>
-<span id="cb3-2"><a href=""></a>KEYWORDS <span class="op">=</span> [</span>
-<span id="cb3-3"><a href=""></a>    <span class="st">'futebol'</span>, <span class="st">'jogo'</span>, <span class="st">'partida'</span>, <span class="st">'pelada'</span>, <span class="st">'clássico'</span>, <span class="st">'gol'</span>, <span class="st">'chute'</span>, <span class="st">'passe'</span>, <span class="st">'driblar'</span>, <span class="st">'cabecear'</span>, <span class="st">'chutar'</span>, <span class="st">'defender'</span>, <span class="st">'atacar'</span>, <span class="st">'marcar'</span>, <span class="st">'finalizar'</span>, <span class="st">'cruzar'</span>, <span class="st">'desarmar'</span>, <span class="st">'interceptar'</span>, <span class="st">'dominar'</span>, <span class="st">'escanteio'</span>, <span class="st">'falta'</span>, <span class="st">'pênalti'</span>, <span class="st">'impedimento'</span>, <span class="st">'cartão'</span>, <span class="st">'expulsão'</span>, <span class="st">'substituição'</span>, <span class="st">'pressão'</span>, <span class="st">'contra-ataque'</span>, <span class="st">'goleiro'</span>, <span class="st">'zagueiro'</span>, <span class="st">'lateral'</span>, <span class="st">'volante'</span>, <span class="st">'meia'</span>, <span class="st">'atacante'</span>, <span class="st">'centroavante'</span>, <span class="st">'ponta'</span>, <span class="st">'ala'</span>, <span class="st">'zaga'</span>, <span class="st">'time'</span>, <span class="st">'equipe'</span>, <span class="st">'seleção'</span>, <span class="st">'clube'</span>, <span class="st">'reserva'</span>, <span class="st">'titular'</span>, <span class="st">'jogador'</span>, <span class="st">'técnico'</span>, <span class="st">'treinador'</span>, <span class="st">'árbitro'</span>, <span class="st">'juiz'</span>, <span class="st">'bandeirinha'</span>, <span class="st">'artilheiro'</span>, <span class="st">'capitão'</span>, <span class="st">'campo'</span>, <span class="st">'estádio'</span>, <span class="st">'arena'</span>, <span class="st">'gramado'</span>, <span class="st">'vestiário'</span>, <span class="st">'campeonato'</span>, <span class="st">'copa'</span>, <span class="st">'liga'</span>, <span class="st">'mundial'</span>, <span class="st">'libertadores'</span>, <span class="st">'champions'</span>, <span class="st">'brasileirão'</span>, <span class="st">'série'</span>, <span class="st">'divisão'</span>, <span class="st">'torneio'</span>, <span class="st">'vitória'</span>, <span class="st">'derrota'</span>, <span class="st">'empate'</span>, <span class="st">'placar'</span>, <span class="st">'resultado'</span>, <span class="st">'classificação'</span>, <span class="st">'eliminação'</span>, <span class="st">'vencer'</span>, <span class="st">'perder'</span>, <span class="st">'empatar'</span></span>
-<span id="cb3-4"><a href=""></a>]</span>
-<span id="cb3-5"><a href=""></a></span>
-<span id="cb3-6"><a href=""></a><span class="kw">class</span> FootballClassifier:</span>
-<span id="cb3-7"><a href=""></a>    <span class="kw">def</span> <span class="fu">__init__</span>(<span class="va">self</span>):</span>
-<span id="cb3-8"><a href=""></a>        <span class="va">self</span>.nlp <span class="op">=</span> spacy.load(<span class="st">'pt_core_news_sm'</span>)</span>
-<span id="cb3-9"><a href=""></a>        <span class="va">self</span>.football_keywords <span class="op">=</span> load_football_keywords()</span>
-<span id="cb3-10"><a href=""></a></span>
-<span id="cb3-11"><a href=""></a>    <span class="kw">def</span> preprocess_text(<span class="va">self</span>, text):</span>
-<span id="cb3-12"><a href=""></a>        <span class="co">"""</span></span>
-<span id="cb3-13"><a href=""></a><span class="co">        Preprocess the text by converting to lowercase and removing special characters</span></span>
-<span id="cb3-14"><a href=""></a><span class="co">        """</span></span>
-<span id="cb3-15"><a href=""></a>        text <span class="op">=</span> text.lower()</span>
-<span id="cb3-16"><a href=""></a>        text <span class="op">=</span> re.sub(<span class="vs">r'[^a-záàâãéèêíïóôõöúçñ\s]'</span>, <span class="st">''</span>, text)</span>
-<span id="cb3-17"><a href=""></a>        <span class="cf">return</span> text</span>
-<span id="cb3-18"><a href=""></a></span>
-<span id="cb3-19"><a href=""></a>    <span class="kw">def</span> analyze_text(<span class="va">self</span>, text, threshold<span class="op">=</span><span class="fl">0.03</span>):</span>
-<span id="cb3-20"><a href=""></a>        <span class="co">"""</span></span>
-<span id="cb3-21"><a href=""></a><span class="co">        Analyze if the text is football-related</span></span>
-<span id="cb3-22"><a href=""></a></span>
-<span id="cb3-23"><a href=""></a><span class="co">        Args:</span></span>
-<span id="cb3-24"><a href=""></a><span class="co">            text (str): Input text in Portuguese</span></span>
-<span id="cb3-25"><a href=""></a><span class="co">            threshold (float): Minimum ratio of football keywords to consider text as football-related</span></span>
-<span id="cb3-26"><a href=""></a></span>
-<span id="cb3-27"><a href=""></a><span class="co">        Returns:</span></span>
-<span id="cb3-28"><a href=""></a><span class="co">            dict: Analysis results including classification and supporting details</span></span>
-<span id="cb3-29"><a href=""></a><span class="co">        """</span></span>
-<span id="cb3-30"><a href=""></a>        processed_text <span class="op">=</span> <span class="va">self</span>.preprocess_text(text)</span>
-<span id="cb3-31"><a href=""></a>        doc <span class="op">=</span> <span class="va">self</span>.nlp(processed_text)</span>
-<span id="cb3-32"><a href=""></a></span>
-<span id="cb3-33"><a href=""></a>        words <span class="op">=</span> [token.lemma_ <span class="cf">for</span> token <span class="kw">in</span> doc <span class="cf">if</span> <span class="kw">not</span> token.is_stop <span class="kw">and</span> <span class="kw">not</span> token.is_punct]</span>
-<span id="cb3-34"><a href=""></a></span>
-<span id="cb3-35"><a href=""></a>        football_words <span class="op">=</span> [word <span class="cf">for</span> word <span class="kw">in</span> words <span class="cf">if</span> word <span class="kw">in</span> <span class="va">self</span>.football_keywords]</span>
-<span id="cb3-36"><a href=""></a>        football_word_count <span class="op">=</span> <span class="bu">len</span>(football_words)</span>
-<span id="cb3-37"><a href=""></a>        total_words <span class="op">=</span> <span class="bu">len</span>(words)</span>
+<section id="connections-between-players-by-shared-keywords" class="slide level2">
+<h2>Connections Between Players by Shared Keywords</h2>
+<div id="ae25a321" class="cell" data-execution_count="10">
+<div class="cell-output cell-output-display">
+<div>
+<figure>
+<p><img data-src="126784-project3_files/figure-revealjs/cell-11-output-1.png" width="1142" height="662"></p>
+</figure>
+</div>
+</div>
+</div>
+</section>
+<section id="neural-network-for-market-value-prediction" class="slide level2">
+<h2>Neural Network for Market Value Prediction</h2>
+<div id="46c40aa2" class="cell" data-execution_count="11">
+<div class="cell-output cell-output-display" data-execution_count="11">
+<div>
+<style scoped="">
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+
+<table class="dataframe caption-top" data-quarto-postprocess="true" data-border="1">
+<thead>
+<tr class="header" style="text-align: right;">
+<th data-quarto-table-cell-role="th"></th>
+<th data-quarto-table-cell-role="th">Player</th>
+<th data-quarto-table-cell-role="th">tokens</th>
+<th data-quarto-table-cell-role="th">Market value</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">0</td>
+<td>Adrien Silva Central Midfield</td>
+<td>[sapo, início, início, atualidade, desporto, e...</td>
+<td>56000000</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">1</td>
+<td>André Gomes Central Midfield</td>
+<td>[sapo, início, início, atualidade, desporto, e...</td>
+<td>77000000</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">2</td>
+<td>Bernardo Silva Attacking Midfield</td>
+<td>[vésperas, estreia, rúben, amorim, treinador, ...</td>
+<td>35000000</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">3</td>
+<td>Cristiano Ronaldo Centre-Forward</td>
+<td>[cristiano, ronaldo, página, apresenta, trecho...</td>
+<td>460000000</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">4</td>
+<td>Cédric Soares Right-Back</td>
+<td>[confimação, saída, nuno, coelho, surge, possi...</td>
+<td>25500000</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+</div>
+</div>
+</section>
+<section id="predictor" class="slide level2">
+<h2>Predictor</h2>
+<div id="cb22f0ea" class="cell" data-execution_count="12">
+<div class="sourceCode cell-code" id="cb3" data-code-line-numbers="|6-10|11|12-19|44-61"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb3-1"><a href=""></a><span class="kw">class</span> PlayerValuePredictor:</span>
+<span id="cb3-2"><a href=""></a>    <span class="kw">def</span> <span class="fu">__init__</span>(<span class="va">self</span>):</span>
+<span id="cb3-3"><a href=""></a></span>
+<span id="cb3-4"><a href=""></a>        <span class="co"># Create pipeline with Portuguese-specific TF-IDF</span></span>
+<span id="cb3-5"><a href=""></a>        <span class="va">self</span>.pipeline <span class="op">=</span> Pipeline([</span>
+<span id="cb3-6"><a href=""></a>            (<span class="st">'tfidf'</span>, TfidfVectorizer(</span>
+<span id="cb3-7"><a href=""></a>                max_features<span class="op">=</span><span class="dv">1000</span>,</span>
+<span id="cb3-8"><a href=""></a>                ngram_range<span class="op">=</span>(<span class="dv">1</span>, <span class="dv">2</span>),</span>
+<span id="cb3-9"><a href=""></a>                min_df<span class="op">=</span><span class="dv">2</span></span>
+<span id="cb3-10"><a href=""></a>            )),</span>
+<span id="cb3-11"><a href=""></a>            (<span class="st">'scaler'</span>, StandardScaler(with_mean<span class="op">=</span><span class="va">False</span>)),</span>
+<span id="cb3-12"><a href=""></a>            (<span class="st">'model'</span>, RandomForestRegressor(</span>
+<span id="cb3-13"><a href=""></a>                n_estimators<span class="op">=</span><span class="dv">500</span>,</span>
+<span id="cb3-14"><a href=""></a>                max_depth<span class="op">=</span><span class="va">None</span>,</span>
+<span id="cb3-15"><a href=""></a>                min_samples_split<span class="op">=</span><span class="dv">3</span>,</span>
+<span id="cb3-16"><a href=""></a>                min_samples_leaf<span class="op">=</span><span class="dv">2</span>,</span>
+<span id="cb3-17"><a href=""></a>                max_features<span class="op">=</span><span class="st">'sqrt'</span>,</span>
+<span id="cb3-18"><a href=""></a>                random_state<span class="op">=</span><span class="dv">126784</span></span>
+<span id="cb3-19"><a href=""></a>            ))</span>
+<span id="cb3-20"><a href=""></a>        ])</span>
+<span id="cb3-21"><a href=""></a></span>
+<span id="cb3-22"><a href=""></a>    <span class="kw">def</span> preprocess_portuguese_text(<span class="va">self</span>, text):</span>
+<span id="cb3-23"><a href=""></a>        <span class="co">"""Preprocess Portuguese text"""</span></span>
+<span id="cb3-24"><a href=""></a>        text <span class="op">=</span> text.lower()</span>
+<span id="cb3-25"><a href=""></a>        text <span class="op">=</span> normalize(<span class="st">'NFKD'</span>, text).encode(<span class="st">'ASCII'</span>, <span class="st">'ignore'</span>).decode(<span class="st">'ASCII'</span>)</span>
+<span id="cb3-26"><a href=""></a>        text <span class="op">=</span> re.sub(<span class="vs">r'[^a-zA-Z0-9\s]'</span>, <span class="st">' '</span>, text)</span>
+<span id="cb3-27"><a href=""></a>        text <span class="op">=</span> <span class="st">' '</span>.join(text.split())</span>
+<span id="cb3-28"><a href=""></a>        <span class="cf">return</span> text</span>
+<span id="cb3-29"><a href=""></a></span>
+<span id="cb3-30"><a href=""></a>    <span class="kw">def</span> train(<span class="va">self</span>, X_keywords, y_values, perform_grid_search<span class="op">=</span><span class="va">True</span>):</span>
+<span id="cb3-31"><a href=""></a>        <span class="co">"""Train the model with optional grid search"""</span></span>
+<span id="cb3-32"><a href=""></a>        <span class="co"># Join list of keywords into space-separated strings if needed</span></span>
+<span id="cb3-33"><a href=""></a>        <span class="cf">if</span> <span class="bu">isinstance</span>(X_keywords.iloc[<span class="dv">0</span>], <span class="bu">list</span>):</span>
+<span id="cb3-34"><a href=""></a>            X_keywords <span class="op">=</span> X_keywords.<span class="bu">apply</span>(<span class="st">' '</span>.join)</span>
+<span id="cb3-35"><a href=""></a></span>
+<span id="cb3-36"><a href=""></a>        <span class="co"># Log transform the target values if they're skewed</span></span>
+<span id="cb3-37"><a href=""></a>        y_log <span class="op">=</span> np.log1p(y_values)</span>
 <span id="cb3-38"><a href=""></a></span>
-<span id="cb3-39"><a href=""></a>        football_ratio <span class="op">=</span> football_word_count <span class="op">/</span> total_words <span class="cf">if</span> total_words <span class="op">&gt;</span> <span class="dv">0</span> <span class="cf">else</span> <span class="dv">0</span></span>
-<span id="cb3-40"><a href=""></a></span>
-<span id="cb3-41"><a href=""></a>        <span class="co"># Get word frequencies for more detailed analysis</span></span>
-<span id="cb3-42"><a href=""></a>        word_frequencies <span class="op">=</span> Counter(football_words)</span>
+<span id="cb3-39"><a href=""></a>        <span class="co"># Split the data</span></span>
+<span id="cb3-40"><a href=""></a>        X_train, X_test, y_train, y_test <span class="op">=</span> train_test_split(</span>
+<span id="cb3-41"><a href=""></a>            X_keywords, y_log, test_size<span class="op">=</span><span class="fl">0.2</span>, random_state<span class="op">=</span><span class="dv">42</span></span>
+<span id="cb3-42"><a href=""></a>        )</span>
 <span id="cb3-43"><a href=""></a></span>
-<span id="cb3-44"><a href=""></a>        <span class="cf">return</span> {</span>
-<span id="cb3-45"><a href=""></a>            <span class="st">'is_football_related'</span>: football_ratio <span class="op">&gt;=</span> threshold,</span>
-<span id="cb3-46"><a href=""></a>            <span class="st">'confidence_score'</span>: football_ratio,</span>
-<span id="cb3-47"><a href=""></a>            <span class="st">'football_terms_found'</span>: <span class="bu">dict</span>(word_frequencies),</span>
-<span id="cb3-48"><a href=""></a>            <span class="st">'total_words'</span>: total_words,</span>
-<span id="cb3-49"><a href=""></a>            <span class="st">'football_words_count'</span>: football_word_count</span>
-<span id="cb3-50"><a href=""></a>        }</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb3-44"><a href=""></a>        <span class="cf">if</span> perform_grid_search:</span>
+<span id="cb3-45"><a href=""></a>            <span class="co"># Define parameter grid</span></span>
+<span id="cb3-46"><a href=""></a>            param_grid <span class="op">=</span> {</span>
+<span id="cb3-47"><a href=""></a>                <span class="st">'tfidf__max_features'</span>: [<span class="dv">500</span>, <span class="dv">1000</span>, <span class="dv">2000</span>],</span>
+<span id="cb3-48"><a href=""></a>                <span class="st">'tfidf__ngram_range'</span>: [(<span class="dv">1</span>, <span class="dv">1</span>), (<span class="dv">1</span>, <span class="dv">2</span>)],</span>
+<span id="cb3-49"><a href=""></a>                <span class="st">'model__n_estimators'</span>: [<span class="dv">100</span>, <span class="dv">200</span>],</span>
+<span id="cb3-50"><a href=""></a>                <span class="st">'model__max_depth'</span>: [<span class="dv">5</span>, <span class="dv">10</span>, <span class="dv">15</span>],</span>
+<span id="cb3-51"><a href=""></a>                <span class="st">'model__min_samples_split'</span>: [<span class="dv">2</span>, <span class="dv">5</span>, <span class="dv">10</span>]</span>
+<span id="cb3-52"><a href=""></a>            }</span>
+<span id="cb3-53"><a href=""></a></span>
+<span id="cb3-54"><a href=""></a>            <span class="co"># Perform grid search</span></span>
+<span id="cb3-55"><a href=""></a>            grid_search <span class="op">=</span> GridSearchCV(</span>
+<span id="cb3-56"><a href=""></a>                <span class="va">self</span>.pipeline,</span>
+<span id="cb3-57"><a href=""></a>                param_grid,</span>
+<span id="cb3-58"><a href=""></a>                cv<span class="op">=</span><span class="dv">5</span>,</span>
+<span id="cb3-59"><a href=""></a>                scoring<span class="op">=</span><span class="st">'neg_mean_squared_error'</span>,</span>
+<span id="cb3-60"><a href=""></a>                n_jobs<span class="op">=-</span><span class="dv">1</span></span>
+<span id="cb3-61"><a href=""></a>            )</span>
+<span id="cb3-62"><a href=""></a>            grid_search.fit(X_train, y_train)</span>
+<span id="cb3-63"><a href=""></a>            <span class="va">self</span>.pipeline <span class="op">=</span> grid_search.best_estimator_</span>
+<span id="cb3-64"><a href=""></a>        <span class="cf">else</span>:</span>
+<span id="cb3-65"><a href=""></a>            <span class="co"># Train with default parameters</span></span>
+<span id="cb3-66"><a href=""></a>            <span class="va">self</span>.pipeline.fit(X_train, y_train)</span>
+<span id="cb3-67"><a href=""></a></span>
+<span id="cb3-68"><a href=""></a>    <span class="kw">def</span> predict(<span class="va">self</span>, keywords):</span>
+<span id="cb3-69"><a href=""></a>        <span class="co">"""Predict market value for new keywords"""</span></span>
+<span id="cb3-70"><a href=""></a>        <span class="co"># Handle both single string and list of keywords</span></span>
+<span id="cb3-71"><a href=""></a>        <span class="cf">if</span> <span class="bu">isinstance</span>(keywords, <span class="bu">list</span>):</span>
+<span id="cb3-72"><a href=""></a>            keywords <span class="op">=</span> <span class="st">' '</span>.join(keywords)</span>
+<span id="cb3-73"><a href=""></a></span>
+<span id="cb3-74"><a href=""></a>        <span class="co"># Convert to DataFrame series to match training format</span></span>
+<span id="cb3-75"><a href=""></a>        keywords_series <span class="op">=</span> pd.Series([keywords])</span>
+<span id="cb3-76"><a href=""></a></span>
+<span id="cb3-77"><a href=""></a>        <span class="co"># Make prediction and transform back from log scale</span></span>
+<span id="cb3-78"><a href=""></a>        predicted_value_log <span class="op">=</span> <span class="va">self</span>.pipeline.predict(keywords_series)</span>
+<span id="cb3-79"><a href=""></a>        predicted_value <span class="op">=</span> np.expm1(predicted_value_log)[<span class="dv">0</span>]</span>
+<span id="cb3-80"><a href=""></a></span>
+<span id="cb3-81"><a href=""></a>        <span class="cf">return</span> predicted_value</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+</section>
+<section id="usage-example" class="slide level2">
+<h2>Usage Example</h2>
+
+<img data-src="tweet.png" class="r-stretch"><div id="0e6fa936" class="cell" data-execution_count="14">
+<div class="sourceCode cell-code" id="cb4"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb4-1"><a href=""></a>text <span class="op">=</span> <span class="st">'Portugal se impuso este sábado por 3-0 a Turquía y se clasificó para los octavos de final de la Eurocopa 2024 como primera del Grupo F, gracias a un gol de Bernardo Silva, otro de Samet Akaydin en propia puerta y un tanto de Bruno Fernández'</span></span>
+<span id="cb4-2"><a href=""></a>new_keywords <span class="op">=</span> predictor.preprocess_portuguese_text(text)</span>
+<span id="cb4-3"><a href=""></a>predicted_value <span class="op">=</span> predictor.predict(new_keywords)</span>
+<span id="cb4-4"><a href=""></a><span class="bu">print</span>(<span class="ss">f"</span><span class="ch">\n</span><span class="ss">Predicted value for new player: $</span><span class="sc">{</span>predicted_value<span class="sc">:,.2f}</span><span class="ss">"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>
+Predicted value for new player: $65,251,703.39</code></pre>
+</div>
+</div>
+</section>
+<section id="conclusions" class="slide level2">
+<h2>Conclusions</h2>
+<ul>
+<li>Advanced text processing &amp; sentiment analysis</li>
+<li>Visualizations of player connections</li>
+<li>Market value trend prediction</li>
+</ul>
+</section>
+<section id="future-research-directions" class="slide level2">
+<h2>Future Research Directions</h2>
+<ul>
+<li>Potential for real-time market value predictions</li>
+<li>Expansion to other football leagues and languages</li>
+<li>Integration with broader sports analytics systems</li>
+</ul>
+</section>
+<section id="references" class="slide level2">
+<h2>References</h2>
+<ul>
+<li>Sozen, Y. (2023). Predicting Football Players Market Value Using Machine Learning</li>
+<li>Transfermarkt Documentation</li>
+<li>Arquivo.pt API Documentation</li>
+</ul>
 
 </section>
     </div>

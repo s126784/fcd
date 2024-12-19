@@ -47,10 +47,23 @@ import os
 import urllib.parse
 import json
 import nltk
-import spacy
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# import spacy
 
 from collections import Counter
 from wordcloud import WordCloud
+
+from sklearn.model_selection import train_test_split, GridSearchCV
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.ensemble import RandomForestRegressor
+from sklearn.metrics import mean_squared_error, r2_score
+from sklearn.pipeline import Pipeline
+from sklearn.preprocessing import StandardScaler
+
+from unicodedata import normalize
 ```
 
 ```{python}
@@ -63,13 +76,6 @@ data[0].head()
 ## Graphical Representation (Matplotlib)
 
 ```{python}
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-
 def create_market_value_timeline(data_list, years):
     # Create a DataFrame for timeline plotting
     timeline_data = []
@@ -116,7 +122,7 @@ plt.show()
 
 ```{python}
 merged_data = pd.concat(data)
-merged_data = merged_data.groupby('Name').agg({'Market value': 'sum', 'Position': 'first'}).reset_index()
+merged_data = merged_data.groupby('Name').agg({'Market value': 'sum', 'Position': 'first', 'Player': 'first'}).reset_index()
 ```
 
 ```{python}
@@ -323,14 +329,9 @@ plt.tight_layout()
 #         }
 ```
 
-## Visalize connection between players based on keywords
+## Connections Between Players by Shared Keywords
 
 ```{python}
-content_df['tokens']
-
-# word is a node, player is a node, if word is in player's tokens, connect them
-# create a graph with players and words as nodes, and edges between them
-
 G = nx.Graph()
 
 # Add nodes for players
@@ -347,11 +348,14 @@ for word in most_common_words:
         for j in range(i + 1, len(players_with_word)):
             G.add_edge(players_with_word[i], players_with_word[j], word=word)
 
-# Create the visualization
-plt.figure(figsize=(10, 6))
+# Create the visualization with wider aspect ratio
+plt.figure(figsize=(12, 7))
 
-# Set up the layout
-pos = nx.spring_layout(G, k=1, iterations=50)
+# Set up the layout with adjusted parameters
+pos = nx.spring_layout(G,
+                      k=15,
+                      iterations=200,
+                      seed=126784)
 
 # Draw the network
 nx.draw_networkx_nodes(G, pos,
@@ -359,28 +363,171 @@ nx.draw_networkx_nodes(G, pos,
                       node_color='lightblue',
                       alpha=0.7)
 
-nx.draw_networkx_edges(G, pos, alpha=0.3)
+nx.draw_networkx_edges(G, pos,
+                      alpha=0.3,
+                      width=1.5)
 
 # Add labels
 labels = {node: node for node in G.nodes()}
 
 nx.draw_networkx_labels(G, pos,
                        labels=labels,
-                       font_size=8,
+                       font_size=9,
                        font_weight='bold')
 
-# Add word labels
+# Add word labels with adjusted position
 for word in most_common_words:
     players_with_word = content_df[content_df['tokens'].apply(lambda tokens: word in tokens)]['Player'].unique()
     if len(players_with_word) > 1:
         x = sum(pos[player][0] for player in players_with_word) / len(players_with_word)
         y = sum(pos[player][1] for player in players_with_word) / len(players_with_word)
-        plt.text(x, y, word, fontsize=8, ha='center', va='center')
+        plt.text(x, y, word,
+                fontsize=8,
+                ha='center',
+                va='center',
+                bbox=dict(facecolor='white',
+                         alpha=0.7,
+                         edgecolor='none',
+                         pad=1))
 
-plt.title('Player Connections Based on Keywords', pad=20)
 plt.axis('off')
 
 plt.tight_layout()
 plt.show()
 
 ```
+
+## Neural Network for Market Value Prediction
+
+```{python}
+# create dataframe of player name, market value and tokens
+player_data = content_df.groupby('Player').agg({'tokens': 'sum'}).reset_index()
+
+# merge with market value data
+player_data = player_data.merge(merged_data[['Player', 'Market value']], on='Player', how='left')
+player_data.head()
+```
+
+## Predictor
+
+```{python}
+#| echo: true
+#| code-line-numbers: "|6-10|11|12-19|44-61"
+class PlayerValuePredictor:
+    def __init__(self):
+
+        # Create pipeline with Portuguese-specific TF-IDF
+        self.pipeline = Pipeline([
+            ('tfidf', TfidfVectorizer(
+                max_features=1000,
+                ngram_range=(1, 2),
+                min_df=2
+            )),
+            ('scaler', StandardScaler(with_mean=False)),
+            ('model', RandomForestRegressor(
+                n_estimators=500,
+                max_depth=None,
+                min_samples_split=3,
+                min_samples_leaf=2,
+                max_features='sqrt',
+                random_state=126784
+            ))
+        ])
+
+    def preprocess_portuguese_text(self, text):
+        """Preprocess Portuguese text"""
+        text = text.lower()
+        text = normalize('NFKD', text).encode('ASCII', 'ignore').decode('ASCII')
+        text = re.sub(r'[^a-zA-Z0-9\s]', ' ', text)
+        text = ' '.join(text.split())
+        return text
+
+    def train(self, X_keywords, y_values, perform_grid_search=True):
+        """Train the model with optional grid search"""
+        # Join list of keywords into space-separated strings if needed
+        if isinstance(X_keywords.iloc[0], list):
+            X_keywords = X_keywords.apply(' '.join)
+
+        # Log transform the target values if they're skewed
+        y_log = np.log1p(y_values)
+
+        # Split the data
+        X_train, X_test, y_train, y_test = train_test_split(
+            X_keywords, y_log, test_size=0.2, random_state=42
+        )
+
+        if perform_grid_search:
+            # Define parameter grid
+            param_grid = {
+                'tfidf__max_features': [500, 1000, 2000],
+                'tfidf__ngram_range': [(1, 1), (1, 2)],
+                'model__n_estimators': [100, 200],
+                'model__max_depth': [5, 10, 15],
+                'model__min_samples_split': [2, 5, 10]
+            }
+
+            # Perform grid search
+            grid_search = GridSearchCV(
+                self.pipeline,
+                param_grid,
+                cv=5,
+                scoring='neg_mean_squared_error',
+                n_jobs=-1
+            )
+            grid_search.fit(X_train, y_train)
+            self.pipeline = grid_search.best_estimator_
+        else:
+            # Train with default parameters
+            self.pipeline.fit(X_train, y_train)
+
+    def predict(self, keywords):
+        """Predict market value for new keywords"""
+        # Handle both single string and list of keywords
+        if isinstance(keywords, list):
+            keywords = ' '.join(keywords)
+
+        # Convert to DataFrame series to match training format
+        keywords_series = pd.Series([keywords])
+
+        # Make prediction and transform back from log scale
+        predicted_value_log = self.pipeline.predict(keywords_series)
+        predicted_value = np.expm1(predicted_value_log)[0]
+
+        return predicted_value
+```
+
+```{python}
+    predictor = PlayerValuePredictor()
+    predictor.train(player_data['tokens'], player_data['Market value'])
+
+```
+
+
+## Usage Example
+
+![](tweet.png)
+```{python}
+# | echo: true
+text = 'Portugal se impuso este sábado por 3-0 a Turquía y se clasificó para los octavos de final de la Eurocopa 2024 como primera del Grupo F, gracias a un gol de Bernardo Silva, otro de Samet Akaydin en propia puerta y un tanto de Bruno Fernández'
+new_keywords = predictor.preprocess_portuguese_text(text)
+predicted_value = predictor.predict(new_keywords)
+print(f"\nPredicted value for new player: ${predicted_value:,.2f}")
+```
+
+## Conclusions
+
+ - Advanced text processing & sentiment analysis
+ - Visualizations of player connections
+ - Market value trend prediction
+
+## Future Research Directions
+
+ - Potential for real-time market value predictions
+ - Expansion to other football leagues and languages
+ - Integration with broader sports analytics systems
+
+## References
+
+ - Sozen, Y. (2023). Predicting Football Players Market Value Using Machine Learning
+ - Transfermarkt Documentation
+ - Arquivo.pt API Documentation

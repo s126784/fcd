@@ -82,6 +82,8 @@ This project builds a data analysis engine that collects, enriches, and analyzes
 - Sentiment analysis reveals relationship between media coverage and market value changes
 - Temporal analysis shows evolution of player valuations
 
+- https://s126784.github.io/fcd/126784-project3.html
+
 ## Future Improvements
 - Player clustering based on text features
 - Advanced time series modeling
