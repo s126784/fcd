@@ -19,7 +19,7 @@ format:
     transition: slide
     # width: 1280
     # height: 720
-jupyter: /opt/miniconda3/bin/python
+jupyter: python3
 ---
 
 ## Project Evolution
@@ -38,10 +38,19 @@ jupyter: /opt/miniconda3/bin/python
  - Market value trend prediction
 :::
 
-## Dataset
+## Dataset{.scrollable}
 
 ```{python}
 import pandas as pd
+import re
+import os
+import urllib.parse
+import json
+import nltk
+import spacy
+
+from collections import Counter
+from wordcloud import WordCloud
 ```
 
 ```{python}
@@ -106,6 +115,11 @@ plt.show()
 ## Graphical Representation (NetworkX)
 
 ```{python}
+merged_data = pd.concat(data)
+merged_data = merged_data.groupby('Name').agg({'Market value': 'sum', 'Position': 'first'}).reset_index()
+```
+
+```{python}
 import networkx as nx
 import matplotlib.pyplot as plt
 
@@ -134,7 +148,7 @@ def create_position_network(df):
     plt.figure(figsize=(10, 6))
 
     # Calculate node sizes based on market value (scaled for visibility)
-    node_sizes = [G.nodes[player]['market_value']/1000000 * 100 for player in G.nodes()]
+    node_sizes = [G.nodes[player]['market_value']/1000000 * 50 for player in G.nodes()]
 
     # Create a color map based on positions
     unique_positions = list(set(nx.get_node_attributes(G, 'position').values()))
@@ -170,26 +184,64 @@ def create_position_network(df):
     plt.legend(handles=legend_elements, title='Positions',
               loc='center left', bbox_to_anchor=(1, 0.5))
 
-    plt.title('Portuguese National Team 2014', pad=20)
+    plt.title('Portuguese Players (2014-2017)', pad=20)
     plt.axis('off')
     plt.tight_layout()
 
     return plt
 
-# Create and display the network using 2014 data
-plt = create_position_network(data[0])
+# Create and display the network using merged data, summing up market values of players with multiple entries
+plt = create_position_network(merged_data)
 plt.show()
+```
+
+```{python}
+
+content_list = []
+
+for year, df in zip(years, data):
+    for i, row in df.iterrows():
+        fname = urllib.parse.quote_plus(row['Player'])
+        if (os.path.isfile(f'snapshots/{year}_{fname}.json')):
+                with open(f'snapshots/{year}_{fname}.json','r') as f:
+                    snapshot = f.read()
+                    arquive_data = json.loads(snapshot)
+
+                    # extract snippets from response_items and add them as a new column
+                    # to the dataframe
+                    for item in arquive_data['response_items']:
+                        snippet_data = {
+                            'Player': row['Player'],
+                            'title': item.get('title', ''),
+                            'url': item.get('originalURL', ''),
+                            'snippet': item.get('snippet', '')
+                        }
+                        content_list.append(snippet_data)
+
+        else:
+            print(f"Snapshot not found for {row['Player']}")
+            continue
+
+content_df = pd.DataFrame(content_list)
+
+# add preloaded HTML content
+
+html_content = pd.read_csv('data/url_content_extracted.csv')
+
+#join the column `extracted_text` to the content_df merging by url
+content_df = content_df.merge(html_content[['url', 'extracted_text']], on='url', how='left')
+
+# clean rows with missing content
+content_df = content_df.dropna(subset=['extracted_text'])
 ```
 
 ## Text Processing
 
 ```{python}
 #| echo: true
-import nltk
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
-from transformers import pipeline
 
 def advanced_tokenization(text):
     lemmatizer = WordNetLemmatizer()
@@ -202,21 +254,133 @@ def advanced_tokenization(text):
              if t.isalpha() and t not in stop_words]
     return tokens
 
-def get_sentiment_score(text):
-    sentiment_analyzer = pipeline("sentiment-analysis",
-                                model="neuralmind/bert-base-portuguese-cased")
-    result = sentiment_analyzer(text)
-    return result[0]['score'] if result[0]['label'] == 'POSITIVE' else -result[0]['score']
+# Apply advanced tokenization to content_df
+content_df['tokens'] = content_df['extracted_text'].apply(advanced_tokenization)
 ```
 
+## Word Clouds
+
 ```{python}
-text_data = pd.read_csv('data/url_content_extracted.csv')
-text_data.head()
+# group tokens by player (merge arrays of strings)
+tokens_by_player = content_df.groupby('Player')['tokens'].sum()
+
+# create a word cloud for each player and show them in 3x4 grid
+plt.figure(figsize=(16, 7))
+for i, (player, tokens) in enumerate(tokens_by_player.items()):
+    wordcloud = WordCloud(width=400, height=175, background_color='white').generate(' '.join(tokens))
+    plt.subplot(3, 4, i+1)
+    plt.imshow(wordcloud, interpolation='bilinear')
+    plt.title(player)
+    plt.axis('off')
+
+#add summary word cloud to the end
+wordcloud = WordCloud(width=400, height=175, background_color='white').generate(' '.join(content_df['tokens'].sum()))
+plt.subplot(3, 4, 12)
+plt.imshow(wordcloud, interpolation='bilinear')
+plt.title('Summary')
+plt.axis('off')
+
+plt.tight_layout()
 ```
 
+<!-- ## Sport Keywords Classifier -->
 
 ```{python}
-# Apply advanced tokenization
-text_data['tokens'] = text_data['extracted_text'].apply(advanced_tokenization)
-text_data
+# FOOTBALL_KEYWORDS = [
+#     'futebol', 'jogo', 'partida', 'pelada', 'clássico', 'gol', 'chute', 'passe', 'driblar', 'cabecear', 'chutar', 'defender', 'atacar', 'marcar', 'finalizar', 'cruzar', 'desarmar', 'interceptar', 'dominar', 'escanteio', 'falta', 'pênalti', 'impedimento', 'cartão', 'expulsão', 'substituição', 'pressão', 'contra-ataque', 'goleiro', 'zagueiro', 'lateral', 'volante', 'meia', 'atacante', 'centroavante', 'ponta', 'ala', 'zaga', 'time', 'equipe', 'seleção', 'clube', 'reserva', 'titular', 'jogador', 'técnico', 'treinador', 'árbitro', 'juiz', 'bandeirinha', 'artilheiro', 'capitão', 'campo', 'estádio', 'arena', 'gramado', 'vestiário', 'campeonato', 'copa', 'liga', 'mundial', 'libertadores', 'champions', 'brasileirão', 'série', 'divisão', 'torneio', 'vitória', 'derrota', 'empate', 'placar', 'resultado', 'classificação', 'eliminação', 'vencer', 'perder', 'empatar'
+# ]
+
+# class FootballClassifier:
+#     def __init__(self):
+#         self.nlp = spacy.load('pt_core_news_sm')
+#         self.football_keywords = FOOTBALL_KEYWORDS
+
+#     def preprocess_text(self, text):
+#         """
+#         Preprocess the text by converting to lowercase and removing special characters
+#         """
+#         text = text.lower()
+#         text = re.sub(r'[^a-záàâãéèêíïóôõöúçñ\s]', '', text)
+#         return text
+
+#     def analyze_text(self, text, threshold=0.03):
+#         processed_text = self.preprocess_text(text)
+#         doc = self.nlp(processed_text)
+
+#         words = [token.lemma_ for token in doc if not token.is_stop and not token.is_punct]
+
+#         football_words = [word for word in words if word in self.football_keywords]
+#         football_word_count = len(football_words)
+#         total_words = len(words)
+
+#         football_ratio = football_word_count / total_words if total_words > 0 else 0
+
+#         return {
+#             'is_football_related': football_ratio >= threshold,
+#             'confidence_score': football_ratio,
+#             'total_words': total_words,
+#             'football_words_count': football_word_count
+#         }
+```
+
+## Visalize connection between players based on keywords
+
+```{python}
+content_df['tokens']
+
+# word is a node, player is a node, if word is in player's tokens, connect them
+# create a graph with players and words as nodes, and edges between them
+
+G = nx.Graph()
+
+# Add nodes for players
+for player in content_df['Player'].unique():
+    G.add_node(player, type='player')
+
+all_words = content_df['tokens'].sum()
+most_common_words = [word for word, count in Counter(all_words).most_common(20)]
+
+# show node between players if they share a word
+for word in most_common_words:
+    players_with_word = content_df[content_df['tokens'].apply(lambda tokens: word in tokens)]['Player'].unique()
+    for i in range(len(players_with_word)):
+        for j in range(i + 1, len(players_with_word)):
+            G.add_edge(players_with_word[i], players_with_word[j], word=word)
+
+# Create the visualization
+plt.figure(figsize=(10, 6))
+
+# Set up the layout
+pos = nx.spring_layout(G, k=1, iterations=50)
+
+# Draw the network
+nx.draw_networkx_nodes(G, pos,
+                      node_size=100,
+                      node_color='lightblue',
+                      alpha=0.7)
+
+nx.draw_networkx_edges(G, pos, alpha=0.3)
+
+# Add labels
+labels = {node: node for node in G.nodes()}
+
+nx.draw_networkx_labels(G, pos,
+                       labels=labels,
+                       font_size=8,
+                       font_weight='bold')
+
+# Add word labels
+for word in most_common_words:
+    players_with_word = content_df[content_df['tokens'].apply(lambda tokens: word in tokens)]['Player'].unique()
+    if len(players_with_word) > 1:
+        x = sum(pos[player][0] for player in players_with_word) / len(players_with_word)
+        y = sum(pos[player][1] for player in players_with_word) / len(players_with_word)
+        plt.text(x, y, word, fontsize=8, ha='center', va='center')
+
+plt.title('Player Connections Based on Keywords', pad=20)
+plt.axis('off')
+
+plt.tight_layout()
+plt.show()
+
 ```

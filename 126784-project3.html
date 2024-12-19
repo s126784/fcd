@@ -233,13 +233,13 @@ Oleksandr Solovei
 </ul>
 </div>
 </section>
-<section id="dataset" class="slide level2">
+<section id="dataset" class="slide level2 scrollable">
 <h2>Dataset</h2>
-<div id="5e230729" class="cell" data-execution_count="2">
+<div id="e6435261" class="cell" data-execution_count="2">
 <div class="sourceCode cell-code" id="cb1"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href=""></a>years <span class="op">=</span> [<span class="dv">2014</span>, <span class="dv">2015</span>, <span class="dv">2016</span>, <span class="dv">2017</span>]</span>
 <span id="cb1-2"><a href=""></a>data <span class="op">=</span> <span class="bu">list</span>(<span class="bu">map</span>(<span class="kw">lambda</span> year: pd.read_csv(<span class="ss">f'data/portugal_</span><span class="sc">{</span>year<span class="sc">}</span><span class="ss">_plus.csv'</span>), years))</span>
 <span id="cb1-3"><a href=""></a>data[<span class="dv">0</span>].head()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output cell-output-display" data-execution_count="89">
+<div class="cell-output cell-output-display" data-execution_count="2">
 <div>
 <style scoped="">
     .dataframe tbody tr th:only-of-type {
@@ -326,9 +326,9 @@ Oleksandr Solovei
 </div>
 </div>
 </section>
-<section id="graphical-representation-plt" class="slide level2">
-<h2>Graphical Representation (PLT)</h2>
-<div id="181db2a2" class="cell" data-execution_count="3">
+<section id="graphical-representation-matplotlib" class="slide level2">
+<h2>Graphical Representation (Matplotlib)</h2>
+<div id="3868b5ec" class="cell" data-execution_count="3">
 <div class="cell-output cell-output-display">
 <div>
 <figure>
@@ -340,15 +340,102 @@ Oleksandr Solovei
 </section>
 <section id="graphical-representation-networkx" class="slide level2">
 <h2>Graphical Representation (NetworkX)</h2>
-<div id="49826e7f" class="cell" data-execution_count="4">
+<div id="fc1cee26" class="cell" data-execution_count="5">
 <div class="cell-output cell-output-display">
 <div>
 <figure>
-<p><img data-src="126784-project3_files/figure-revealjs/cell-5-output-1.png" width="950" height="567"></p>
+<p><img data-src="126784-project3_files/figure-revealjs/cell-6-output-1.png" width="950" height="566"></p>
 </figure>
 </div>
 </div>
 </div>
+</section>
+<section id="text-processing" class="slide level2">
+<h2>Text Processing</h2>
+<div id="6fbf965c" class="cell" data-execution_count="7">
+<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb2-1"><a href=""></a><span class="im">from</span> nltk.tokenize <span class="im">import</span> word_tokenize</span>
+<span id="cb2-2"><a href=""></a><span class="im">from</span> nltk.corpus <span class="im">import</span> stopwords</span>
+<span id="cb2-3"><a href=""></a><span class="im">from</span> nltk.stem <span class="im">import</span> WordNetLemmatizer</span>
+<span id="cb2-4"><a href=""></a></span>
+<span id="cb2-5"><a href=""></a><span class="kw">def</span> advanced_tokenization(text):</span>
+<span id="cb2-6"><a href=""></a>    lemmatizer <span class="op">=</span> WordNetLemmatizer()</span>
+<span id="cb2-7"><a href=""></a>    <span class="cf">if</span> <span class="kw">not</span> <span class="bu">isinstance</span>(text, <span class="bu">str</span>):</span>
+<span id="cb2-8"><a href=""></a>        <span class="cf">return</span> []</span>
+<span id="cb2-9"><a href=""></a>    tokens <span class="op">=</span> word_tokenize(text.lower())</span>
+<span id="cb2-10"><a href=""></a>    stop_words <span class="op">=</span> <span class="bu">set</span>(stopwords.words(<span class="st">'portuguese'</span>))</span>
+<span id="cb2-11"><a href=""></a>    <span class="co"># Remove non-alphabetic and stopwords</span></span>
+<span id="cb2-12"><a href=""></a>    tokens <span class="op">=</span> [lemmatizer.lemmatize(t) <span class="cf">for</span> t <span class="kw">in</span> tokens</span>
+<span id="cb2-13"><a href=""></a>             <span class="cf">if</span> t.isalpha() <span class="kw">and</span> t <span class="kw">not</span> <span class="kw">in</span> stop_words]</span>
+<span id="cb2-14"><a href=""></a>    <span class="cf">return</span> tokens</span>
+<span id="cb2-15"><a href=""></a></span>
+<span id="cb2-16"><a href=""></a><span class="co"># Apply advanced tokenization to content_df</span></span>
+<span id="cb2-17"><a href=""></a>content_df[<span class="st">'tokens'</span>] <span class="op">=</span> content_df[<span class="st">'extracted_text'</span>].<span class="bu">apply</span>(advanced_tokenization)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+</section>
+<section id="word-clouds" class="slide level2">
+<h2>Word Clouds</h2>
+<div id="62d0213a" class="cell" data-execution_count="8">
+<div class="cell-output cell-output-display">
+<div>
+<figure>
+<p><img data-src="126784-project3_files/figure-revealjs/cell-9-output-1.png" width="1526" height="625"></p>
+</figure>
+</div>
+</div>
+</div>
+</section>
+<section id="sport-keywords-classifier" class="slide level2">
+<h2>Sport Keywords Classifier</h2>
+<div class="sourceCode" id="cb3"><pre class="sourceCode numberSource python number-lines code-with-copy"><code class="sourceCode python"><span id="cb3-1"><a href=""></a><span class="op">|</span> echo: true</span>
+<span id="cb3-2"><a href=""></a>KEYWORDS <span class="op">=</span> [</span>
+<span id="cb3-3"><a href=""></a>    <span class="st">'futebol'</span>, <span class="st">'jogo'</span>, <span class="st">'partida'</span>, <span class="st">'pelada'</span>, <span class="st">'clássico'</span>, <span class="st">'gol'</span>, <span class="st">'chute'</span>, <span class="st">'passe'</span>, <span class="st">'driblar'</span>, <span class="st">'cabecear'</span>, <span class="st">'chutar'</span>, <span class="st">'defender'</span>, <span class="st">'atacar'</span>, <span class="st">'marcar'</span>, <span class="st">'finalizar'</span>, <span class="st">'cruzar'</span>, <span class="st">'desarmar'</span>, <span class="st">'interceptar'</span>, <span class="st">'dominar'</span>, <span class="st">'escanteio'</span>, <span class="st">'falta'</span>, <span class="st">'pênalti'</span>, <span class="st">'impedimento'</span>, <span class="st">'cartão'</span>, <span class="st">'expulsão'</span>, <span class="st">'substituição'</span>, <span class="st">'pressão'</span>, <span class="st">'contra-ataque'</span>, <span class="st">'goleiro'</span>, <span class="st">'zagueiro'</span>, <span class="st">'lateral'</span>, <span class="st">'volante'</span>, <span class="st">'meia'</span>, <span class="st">'atacante'</span>, <span class="st">'centroavante'</span>, <span class="st">'ponta'</span>, <span class="st">'ala'</span>, <span class="st">'zaga'</span>, <span class="st">'time'</span>, <span class="st">'equipe'</span>, <span class="st">'seleção'</span>, <span class="st">'clube'</span>, <span class="st">'reserva'</span>, <span class="st">'titular'</span>, <span class="st">'jogador'</span>, <span class="st">'técnico'</span>, <span class="st">'treinador'</span>, <span class="st">'árbitro'</span>, <span class="st">'juiz'</span>, <span class="st">'bandeirinha'</span>, <span class="st">'artilheiro'</span>, <span class="st">'capitão'</span>, <span class="st">'campo'</span>, <span class="st">'estádio'</span>, <span class="st">'arena'</span>, <span class="st">'gramado'</span>, <span class="st">'vestiário'</span>, <span class="st">'campeonato'</span>, <span class="st">'copa'</span>, <span class="st">'liga'</span>, <span class="st">'mundial'</span>, <span class="st">'libertadores'</span>, <span class="st">'champions'</span>, <span class="st">'brasileirão'</span>, <span class="st">'série'</span>, <span class="st">'divisão'</span>, <span class="st">'torneio'</span>, <span class="st">'vitória'</span>, <span class="st">'derrota'</span>, <span class="st">'empate'</span>, <span class="st">'placar'</span>, <span class="st">'resultado'</span>, <span class="st">'classificação'</span>, <span class="st">'eliminação'</span>, <span class="st">'vencer'</span>, <span class="st">'perder'</span>, <span class="st">'empatar'</span></span>
+<span id="cb3-4"><a href=""></a>]</span>
+<span id="cb3-5"><a href=""></a></span>
+<span id="cb3-6"><a href=""></a><span class="kw">class</span> FootballClassifier:</span>
+<span id="cb3-7"><a href=""></a>    <span class="kw">def</span> <span class="fu">__init__</span>(<span class="va">self</span>):</span>
+<span id="cb3-8"><a href=""></a>        <span class="va">self</span>.nlp <span class="op">=</span> spacy.load(<span class="st">'pt_core_news_sm'</span>)</span>
+<span id="cb3-9"><a href=""></a>        <span class="va">self</span>.football_keywords <span class="op">=</span> load_football_keywords()</span>
+<span id="cb3-10"><a href=""></a></span>
+<span id="cb3-11"><a href=""></a>    <span class="kw">def</span> preprocess_text(<span class="va">self</span>, text):</span>
+<span id="cb3-12"><a href=""></a>        <span class="co">"""</span></span>
+<span id="cb3-13"><a href=""></a><span class="co">        Preprocess the text by converting to lowercase and removing special characters</span></span>
+<span id="cb3-14"><a href=""></a><span class="co">        """</span></span>
+<span id="cb3-15"><a href=""></a>        text <span class="op">=</span> text.lower()</span>
+<span id="cb3-16"><a href=""></a>        text <span class="op">=</span> re.sub(<span class="vs">r'[^a-záàâãéèêíïóôõöúçñ\s]'</span>, <span class="st">''</span>, text)</span>
+<span id="cb3-17"><a href=""></a>        <span class="cf">return</span> text</span>
+<span id="cb3-18"><a href=""></a></span>
+<span id="cb3-19"><a href=""></a>    <span class="kw">def</span> analyze_text(<span class="va">self</span>, text, threshold<span class="op">=</span><span class="fl">0.03</span>):</span>
+<span id="cb3-20"><a href=""></a>        <span class="co">"""</span></span>
+<span id="cb3-21"><a href=""></a><span class="co">        Analyze if the text is football-related</span></span>
+<span id="cb3-22"><a href=""></a></span>
+<span id="cb3-23"><a href=""></a><span class="co">        Args:</span></span>
+<span id="cb3-24"><a href=""></a><span class="co">            text (str): Input text in Portuguese</span></span>
+<span id="cb3-25"><a href=""></a><span class="co">            threshold (float): Minimum ratio of football keywords to consider text as football-related</span></span>
+<span id="cb3-26"><a href=""></a></span>
+<span id="cb3-27"><a href=""></a><span class="co">        Returns:</span></span>
+<span id="cb3-28"><a href=""></a><span class="co">            dict: Analysis results including classification and supporting details</span></span>
+<span id="cb3-29"><a href=""></a><span class="co">        """</span></span>
+<span id="cb3-30"><a href=""></a>        processed_text <span class="op">=</span> <span class="va">self</span>.preprocess_text(text)</span>
+<span id="cb3-31"><a href=""></a>        doc <span class="op">=</span> <span class="va">self</span>.nlp(processed_text)</span>
+<span id="cb3-32"><a href=""></a></span>
+<span id="cb3-33"><a href=""></a>        words <span class="op">=</span> [token.lemma_ <span class="cf">for</span> token <span class="kw">in</span> doc <span class="cf">if</span> <span class="kw">not</span> token.is_stop <span class="kw">and</span> <span class="kw">not</span> token.is_punct]</span>
+<span id="cb3-34"><a href=""></a></span>
+<span id="cb3-35"><a href=""></a>        football_words <span class="op">=</span> [word <span class="cf">for</span> word <span class="kw">in</span> words <span class="cf">if</span> word <span class="kw">in</span> <span class="va">self</span>.football_keywords]</span>
+<span id="cb3-36"><a href=""></a>        football_word_count <span class="op">=</span> <span class="bu">len</span>(football_words)</span>
+<span id="cb3-37"><a href=""></a>        total_words <span class="op">=</span> <span class="bu">len</span>(words)</span>
+<span id="cb3-38"><a href=""></a></span>
+<span id="cb3-39"><a href=""></a>        football_ratio <span class="op">=</span> football_word_count <span class="op">/</span> total_words <span class="cf">if</span> total_words <span class="op">&gt;</span> <span class="dv">0</span> <span class="cf">else</span> <span class="dv">0</span></span>
+<span id="cb3-40"><a href=""></a></span>
+<span id="cb3-41"><a href=""></a>        <span class="co"># Get word frequencies for more detailed analysis</span></span>
+<span id="cb3-42"><a href=""></a>        word_frequencies <span class="op">=</span> Counter(football_words)</span>
+<span id="cb3-43"><a href=""></a></span>
+<span id="cb3-44"><a href=""></a>        <span class="cf">return</span> {</span>
+<span id="cb3-45"><a href=""></a>            <span class="st">'is_football_related'</span>: football_ratio <span class="op">&gt;=</span> threshold,</span>
+<span id="cb3-46"><a href=""></a>            <span class="st">'confidence_score'</span>: football_ratio,</span>
+<span id="cb3-47"><a href=""></a>            <span class="st">'football_terms_found'</span>: <span class="bu">dict</span>(word_frequencies),</span>
+<span id="cb3-48"><a href=""></a>            <span class="st">'total_words'</span>: total_words,</span>
+<span id="cb3-49"><a href=""></a>            <span class="st">'football_words_count'</span>: football_word_count</span>
+<span id="cb3-50"><a href=""></a>        }</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 
 </section>
     </div>
